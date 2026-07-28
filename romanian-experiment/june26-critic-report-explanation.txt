@@ -5,7 +5,7 @@ This explains the june26-critic-report.csv's contents, which compares the perfor
 The PDF used for extraction was Pardess 1990 "From Latin to Romanian: Phonological Rules", file "Pardess_From_Latin_to_Romanian_phonol.pdf" 
 
 actor output: "extractor-claude-pardess-Latin_to-Romanian_Cascade.txt"
-critic output: "extrcritic-corected-pardess-Latin-to-Romanian.txt"
+critic output: "extrcritic-corrected-pardess-Latin-to-Romanian.txt"
 critic's report: "extrcritic-Latin-Romanian-Report"
 human annotated gold corrected version: corrected-claude-pardess-Latin-to-Romanian-cascade-annotated.txt
 
