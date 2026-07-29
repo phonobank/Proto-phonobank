@@ -1,2 +1,13 @@
 Attached, as "Pardess_From_Latin_to_Romanian_Phonology", is a work from Pardess in which he describes and enumerates sound changes in the evolution of Latin to Romanian, which exist in a certain historical order that scientists are trying to ascertain.
 
+Your job is to extract these into a file you will make, "july2026-extractor-rules-Latin-Romanian", which will contain the rules transcribed in the format used by Clayton Marr's DiaSim apparatus, as stipulated here  https://github.com/clmarr/DiaSim/wiki/Cascade
+
+The mapping of symbols to features is stipulated in this .csv file (https://github.com/clmarr/DiaSim/blob/gamma/symbolDefs.csv), such that each row's values for each feature in its column constitutes the feature vector that the symbol in the first column indicates. A symbol represents a phone that is understood as distinguishable based on these features. 
+
+Note that '$' marks taht everything afterward is a comment, i.e. not part of the rule itself.
+
+Here is an example of a cascade in the correct format: 
+
+For an example of such a cascade: https://github.com/clmarr/Albanian-CFR/blob/main/DiaCLEA18.txt
+
+Your job is to extract each rule and put them in the file IN THE ORDER THEY OCCUR, as well as the pages they occur on in the Pardess document, flagged by "$$PG:", and any remarks about necessarily ordering relative to other rules, which should be referred to with a unique identifier that makes them retrievable (best to use the identifiers that Pardess himself used). 
