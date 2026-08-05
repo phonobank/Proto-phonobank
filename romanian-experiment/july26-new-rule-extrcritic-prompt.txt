@@ -1,0 +1,9 @@
+Attached, as "EXTRACTION_FILE_NAME", is a file of rule extracted by an agent from the document "Pardess_From_Latin_to_Romanian_Phonology", also attached. 
+
+The goal was to extract these in a way adhering to the format for diachronic phonological cascades by Clayton Marr's DiaSim apparatus, as stipulated here  https://github.com/clmarr/DiaSim/wiki/Cascade. 
+
+The mapping of symbols to features is stipulated in this .csv file (https://github.com/clmarr/DiaSim/blob/gamma/symbolDefs.csv), such that each row's values for each feature in its column constitutes the feature vector that the symbol in the first column indicates. A symbol represents a phone that is understood as distinguishable based on these features. 
+
+The agent marked the pages in Pardess where each rule is described in its comment block, after the flag "$$PG:".
+
+You need to check the RULE FORMALISMS extracted are faithful to what Pardess wrote, and to the target format used by DiaSim. You will  write two files -- one, named "july26-extrcritic-corrected-pardess-Latin-to-Romanian.txt" is a file with corrections made {and no other change except possibly comments added if these may be helpful}, and the other, named "july26-extrcritic-Latin-Romanian-report.txt" is a report of everything that was unfaithful in the original rule extraction cascade file, and how you corrected it. Anything could be wrong, but both documents I attached are searchable.
