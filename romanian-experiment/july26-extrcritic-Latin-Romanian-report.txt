@@ -1,0 +1,686 @@
+================================================================================
+AUDIT REPORT: Faithfulness of "july2026-extractor-rules-Latin-Romanian" to
+Pardess (1990), "From Latin to Romanian: Phonological Rules" (UCLA diss.),
+and to the DiaSim cascade format (https://github.com/clmarr/DiaSim/wiki/Cascade,
+symbolDefs.csv gamma branch)
+================================================================================
+
+METHOD
+------
+Every rule (R1-R60 and all lettered sub-rules) was checked against the
+actual dissertation page(s) cited in the extraction's own "$$PG:" flags,
+against the DiaSim cascade format specification (fetched fresh from the
+GitHub wiki), and against the exact feature vectors in symbolDefs.csv
+(gamma branch, fetched fresh from GitHub). The dissertation's front-matter
+(pp. vii-xii) supplied Pardess's own feature/segment/abbreviation key,
+needed because his SPE notation does not map 1:1 onto symbolDefs.csv. The
+work was split across five parallel review passes (Ch.4 R1-R14, Ch.4
+R15-R25C, Ch.5 R26A-R35B, Ch.5 R36A-R45B, Ch.6 R46A-R60 + Ch.7 + Ch.8
+synoptic index) plus the author's own direct read of R1-R5C, and cross-
+checked; the corrected cascade file
+("july26-extrcritic-corrected-pardess-Latin-to-Romanian.txt") implements
+every finding below except where noted as "not corrected" (with reason).
+
+Overall picture: the extraction gets the big structural decisions right
+(the geminate-as-sequence convention, the black-stage flagging, the
+identification of non-phonological rules as comment-only, the general
+shape of most rules) and several of its own flagged "Executive Decisions"
+turned out to be accurate on inspection (R13F/R13G labeling, R52A/R52B
+labeling). But a substantial number of rules contain real, independently
+confirmable errors: reversed environments, mis-transcribed vowels/
+consonants, features that don't pick out the phones intended, structural
+under-specification that breaks the rule's own stated identity
+requirements, and at least one clear rule-ordering bug. Two of the "source
+is OCR-damaged, reconstruction is tentative" claims (R15, R46A/R46B) are
+themselves false -- both pages are legible and a much fuller, non-tentative
+reconstruction was possible. One claim within a rule's own commentary
+(at R52B, "no separate R57 exists elsewhere") is self-contradicted by the
+cascade file's own R57 rule two pages later.
+
+--------------------------------------------------------------------------
+PART 0: EXECUTIVE DECISIONS (the file's own front-matter claims)
+--------------------------------------------------------------------------
+
+ED1 (rhotic mapping, tap ɾ vs. trill r): The tap/trill reinterpretation
+itself is well-motivated and matches Pardess's story, BUT the claim that
+ɾ is used "throughout" the cascade is false: R5C and R10A (both earlier
+than R26A/B, where the split is actually introduced) still use plain "r",
+undifferentiated. This is correct as far as it goes (the split genuinely
+shouldn't apply before R26A), but the header's own wording overclaims.
+Also, Pardess frames the tap-underlies-CL-rr analysis as an EXPLICIT,
+HEDGED ASSUMPTION ("We are assuming here that -RR- in Classical Latin was
+somehow a doubled version of a single flap [r]. In the event that -RR-
+was already a multiple vibrant in CL, this rule would not be necessary,"
+p.86 fn.) -- the extraction presents it as settled. And the gloss
+"(repeated)" for Pardess's ad hoc [+rep] feature is this extraction's own
+INFERENCE, not a quotation; Pardess never defines [rep] in the R26A/B
+prose, and his own front-matter abbreviations list glosses it oddly as
+"repressiveness" (apparently an OCR/typo artifact for "repetitiveness").
+CORRECTED: header and R26A/R26B notes reworded to state the split begins
+at R26A, to flag the assumption as hedged, and to mark "(repeated)" as
+inferred.
+
+ED4 (word-length/morpheme conditioning): accurate as a general policy,
+but misapplied at R30 (see below) -- R30's restriction is a closed lexical
+set, not word-length or article-morpheme conditioning. CORRECTED: ED4 tag
+removed from R30's comment.
+
+ED6 (claimed OCR damage at R15 and R46A/R46B): FALSE for both rules. See
+R15 and R46A/R46B sections below -- both pages are fully legible (verified
+by direct inspection AND an independent pdftotext extraction) and were
+reconstructed in full, not left as tentative fragments.
+
+ED8 (R13F/R13G Ch.8 mislabeling claim): CONFIRMED ACCURATE. The Ch.8
+synoptic index (p.138) does read "R13F i > e" with no separate synoptic
+entry for the word-final -i(s) lengthening rule that the body text calls
+R13F. No correction needed.
+
+ED9 (analogical rules retained as comment-only): sound policy, correctly
+applied at R25C, R60. No correction needed.
+
+--------------------------------------------------------------------------
+PART 1: CHAPTER 4 (R1-R25C) -- Classical Latin to Balkan Romance
+--------------------------------------------------------------------------
+
+R1 -- OK, no issues (p.46).
+
+R2A -- ERROR (p.47). Pardess's formal statement is "ay > ɛ:" (the LAX
+long vowel), and he explicitly explains this created "a vowel sound
+unique in the CL scheme in that it was the only lax vowel and the only
+long vowel that did not have a short counterpart" -- i.e., it is
+distinguished from R2B's plain long e: and does NOT merge with it. The
+extraction wrote "ay > eː" (tense), erasing this distinction Pardess
+goes out of his way to establish. FIXED: ay > ɛː.
+
+R2B -- OK, no issues (p.47-48): oy > eː correctly merges OE with the
+pre-existing long tense e:.
+
+R3A, R3B -- OK, no issues (p.48-50).
+
+R4A -- ERROR (p.50-51). Pardess's environment is "V Ci __ Cj V" -- the
+target vowel must be flanked on the OUTSIDE by vowels as well as by the
+inner consonants (syllable-internal syncope), not merely bounded by
+consonants with no outer-vowel requirement. The extraction's two lines
+omitted the outer flanking vowels, over-generating to word edges and
+consonant clusters with no vowel present. FIXED: both lines now require
+[+syl] on both outer edges.
+
+R4B, R5A, R5B, R5C -- OK, no issues (p.51-54). (R5C correctly still uses
+plain "r", pre-dating the R26A/B tap/trill split -- see ED1 above.)
+
+R6 -- OK, no issues (p.54-55).
+
+R7 -- Minor comment error (p.55). The note speculating that the
+uncaptured broader "syllable-initial" environment might include
+"post-consonantal" contexts is not supported; Pardess instead states the
+fortition "probably began in intervocalic position in which it had
+always been geminated (Väänänen 1974:115)." FIXED: note corrected to
+"intervocalic, gemination" rather than "post-consonantal".
+
+R8 -- ERROR, confirmed serious (p.56). Left/right context reversed.
+Pardess's printed rule has NO left context, with strident+obstruent on
+the RIGHT: "[-son] > ∅ / ___ [+strid] [-son]". The extraction instead put
+the strident on the LEFT. Checked against all three of Pardess's own
+examples (abskóndere>askóndere, egzßolá:re>ezßolá:re, ekspó:nere>
+espó:nere): in each, the deleted obstruent PRECEDES the strident. The
+extraction's version as written matches none of them. FIXED: environment
+corrected to "__ [+strid] [-son]".
+
+R9, R10A, R10B -- OK, no issues (p.56-57).
+
+R10Ca -- ERROR (p.58). (1) Target class "[-cont,-ant,-cor]" wrongly
+excludes the velar nasal ŋ (symbolDefs.csv marks nasals [+cont]), even
+though Pardess's rule explicitly covers "a velar stop, oral OR nasal" and
+his own examples (dígnu>dímnu, lígnu>límnu, púgnu>púmnu, sígnu>símnu) are
+all nasal cases. (2) The "αnas" agreement was tied to the following
+alveolar (implying assimilation of nasality to the following consonant);
+Pardess's rule instead simply carries the target's OWN nasality through
+unchanged. FIXED: "-cont" dropped from target; αnas re-tied to the
+target's own input/output only.
+
+R10Cb -- ERROR, multiple (p.59-60). (1) Same target-class bug as R10Ca.
+(2) The rule's title cited "[rjn]>[nn]" -- there is no such sequence on
+the page; Pardess's actual second example is the velar nasal before n,
+"[ŋn]>[nn]" (ko:ŋnó:skere>ko:nnó:skere) -- an apparent OCR misreading.
+(3) The claim that "pretonic" position "cannot be directly encoded" and
+needs an invented right-scanning lookahead is false: Pardess's printed
+rule states the condition as a plain LEFT context ("the immediately
+preceding vowel is unstressed": "[-cont,-ant,-cor] > [+ant,+cor] /
+[V,-acc] __ [C,+ant,+cor]"), a directly encodable adjacency condition. (4)
+Missing exception: koŋnátu > DR cumnat shows the PARTIAL (R10Ca-style)
+outcome rather than total assimilation despite meeting the environment;
+Pardess states total assimilation occurred "in most cases," not
+universally. (5) Misattributed citation: Pardess credits Vasiliu with
+the ADOPTED analysis ("with R10C we posit, with Vasiliu, that Latin -GN-
+became Romanian [mn]..."), not with the competing, dispreferred
+alternative (via an intermediate [ɲ] stage), which the extraction's note
+had backwards. FIXED: target class corrected, rule restated using
+Pardess's actual left-context condition, title corrected, both notes
+corrected/added.
+
+R11 -- Minor fidelity fix (p.60-61). Target class "[-cont,-ant,-cor]"
+substituted for Pardess's printed "[-son,-ant,-cor]"; both happen to pick
+out the same segments here (only k,g are relevant), so this changes no
+predictions, but is corrected for literal fidelity.
+
+R12 -- OK, no issues (p.61-62).
+
+R13A -- ERROR (p.62-63). The "-low" restriction was on the wrong segment.
+Pardess restricts only the FIRST vowel (the one losing stress) to -low;
+the second (gaining length+stress) is unrestricted. The extraction had
+this backwards. Checked against all four examples (muliére>mulié:re,
+paríete>parié:te, aríete>arié:te, kapreólu>kapreó:lu): the first vowel
+(i,i,i,e -- all non-low) is the one that loses stress in every case.
+FIXED: restriction moved to segment 1.
+
+R13B -- OK (minor non-issue; extraction's added "-hi" on the target is
+vacuous, not an error).
+
+R13C -- ERROR (p.63-64). The identity-enforcing alpha chain omitted
+"long" (αlong), so a short and long vowel of identical quality could
+wrongly be treated as "identical" and contract. The cascade's own later
+rule R37B DOES include αlong in the exact same construction -- an
+internal inconsistency as well as an incompleteness. FIXED: αlong added.
+
+R13D, R13E -- OK, no issues (p.64-65).
+
+R13F, R13G -- OK, no issues (p.65-66); the Ch.8 mislabeling claim (ED8)
+about these two rules is independently confirmed accurate (see Part 0).
+
+R14 -- OK, no issues (p.66-67).
+
+R15 -- MAJOR ERROR (p.68). (1) The claim that Pardess's general feature
+formula is "visibly corrupted" and unreconstructable is FALSE. The page
+is legible (confirmed by direct inspection and an independent pdftotext
+pass) and states: "[V,-long,αback] > ∅ / C __ [V,+long,+acc,αback]" -- a
+complete rule (a short vowel deletes after a consonant when followed by
+a long, stressed vowel of matching backness). This general rule should
+have been (and now is) the active rule line, not three disconnected
+examples. (2) The "o+o" example was itself transcribed backwards:
+Pardess's example is koórte > kó:rte (FIRST o short, SECOND o long/
+stressed and surviving), matching the general schema and the OTHER two
+examples given (where the first/short vowel deletes and the second/long
+one survives) -- the extraction's line reversed this for the o-pair only,
+making it internally inconsistent with its own siblings. FIXED: general
+rule restored as the active line; the three worked examples kept as an
+illustrative comment only, all now correctly oriented.
+
+R16, R17 -- OK, no issues (p.68-70).
+
+R18A -- MAJOR ERROR (p.70-71). Pardess's own notation uses matched
+subscripts on the output ("Xi Xi = identical elements" per his key),
+confirmed by his examples (pútyu>púttyu -- specifically t, not any stop;
+adyutáre>addyutáre; brákyu>brákkyu). The extraction's inserted segment
+was only required to belong to the broad class [-son,-cont] ("some
+stop"), not to match the specific following stop -- under-constrained,
+in principle allowing insertion of a non-identical stop. FIXED: alpha-
+linked place+voice features (ant, cor, voi) added to force true identity,
+matching the technique R18E already uses correctly.
+
+R18B -- ERROR (p.71). Target class was missing "-son" (Pardess's printed
+rule includes it). Without -son, the class also matches the tap /ɾ/ (an
+actively used segment throughout this cascade), which would then be
+wrongly affricated before yod. FIXED: -son restored.
+
+R18C, R18D -- OK (minor citation-range fixes only: R18C's content is
+entirely on p.72, not "71-72"; not corrected in the file since a
+one-page shift in a citation range is cosmetic and low-priority, noted
+here for completeness). R18E's own citation should read "73" not "72-73"
+for the same reason (not corrected, same rationale).
+
+R18E -- OK, no issues in the rule itself (p.72-73); correctly uses
+alpha-linking, the pattern R18A and R23 needed and lacked.
+
+R19 -- OK, no issues (p.73).
+
+R20 -- MAJOR ERROR (p.74). Pardess's rule moves a glide leftward over
+"Co" (his own zero-or-more-consonants notation). The extraction hard-
+coded exactly ONE intervening consonant, which fails on ALL THREE of
+Pardess's own examples (róbbyu>róybbu, ábbya>áybba, skábbya>skáybba),
+every one of which has a GEMINATE (two consonants) between the vowel and
+the glide -- the rule as written could not derive any of its own cited
+data. FIXED: the two-consonant case actually needed is given explicitly
+(DiaSim disallows Kleene-star in the rule's target side, so the general
+"Co" cannot be fully replicated, but the attested two-consonant case now
+works).
+
+R21, R22A, R22B -- OK, no issues (p.74-75).
+
+R22C -- OK (minor citation-range fix only, "75-76" should read "76"; not
+corrected, cosmetic).
+
+R22D -- MAJOR ERROR, two independent problems (p.76-78). (1)
+Directionality: the rule and title asserted a following [u] trigger only
+("β > ɡ / __ u"), but Pardess's FIRST example, úßer > úger, has the [u]
+PRECEDING the target, not following -- of five examples, only úßer needs
+a left trigger, the rest have a following u. Pardess's own "//" notation
+(rather than a directional "/") likely reflects exactly this
+bidirectionality. FIXED: both directions given as separate lines. (2)
+Rule-ordering bug: the extraction argued "R22D must precede R24... else
+the derived [g] here would itself have been subject to R24's
+palatalization" -- this reasoning is backwards. If R22D runs first, the
+resulting "úger" has a freshly-created [g] sitting directly before a
+front vowel [e], which is EXACTLY R24's target+environment -- so R24
+(still to come) WOULD wrongly affricate it, giving *újer instead of the
+correct "uger". The correct sequencing is the reverse: R24 must run
+FIRST (while the segment is still β, a labial, invisible to R24's velar-
+only target), and only then does R22D convert β>g, safely past R24's one
+linear pass. As the file was originally ordered (R22D before R23 before
+R24, matching Pardess's own page-presentation order), this bug would
+misfire in an actual DiaSim run. FIXED: R24 physically moved to appear
+before R22D in the cascade (both rules' commentary corrected to match);
+see the corrected file for the full derivation-based justification. This
+is the single most structurally invasive correction in this audit --
+everywhere else, only individual rule lines/comments were touched, but
+here getting the right OUTPUT for a worked example (úber>uger) requires
+reordering two rules relative to each other.
+
+R22E -- Minor transcription error (p.77-78). The lexical-exception
+examples were given as "PRIMA WERA, AD DE WERO"; the source text uses
+Pardess's own symbol ß throughout ("prima ßéra >> primavera", "ad de
+ßéro >> addevero"), not w. FIXED: corrected to ßERA/ßERO (rendered β in
+the corrected file).
+
+R23 -- MAJOR ERROR (p.78-79), the same defect class as R18A. Pardess's
+rule is an explicit IDENTITY rule ("Ci Ci > Ci", matched subscripts per
+his key). The extraction's two lines used an UNLINKED natural-class
+matrix repeated in both positions, enforcing only common class
+membership, not identity -- e.g. a hypothetical surviving /pt/ or /kt/
+cluster would have wrongly "degeminated." Additionally, this created a
+genuine COVERAGE GAP: geminate /mm/ (m is anterior but not coronal) fell
+outside both of the previous lines entirely, and so would never have
+degeminated under the previous formalization, contrary to Pardess's
+stated rule (which covers all consonants except ll/nn/rr). FIXED: full
+alpha-linking across every contrastive feature added to both lines, plus
+a third line added to cover m/mm.
+
+R24 -- see R22D above for the ordering fix; core feature matrix itself
+was already correct. Additional (unresolved) gap noted: Pardess's own
+example "skío > ščío" shows [s] also becoming [š] alongside [k]>[č] in
+the same word, which the stated formal matrix (velar stops only) does
+not predict; flagged as an open gap rather than a confirmed extraction
+error, since the missing mechanism may lie outside the excerpted pages
+(e.g. in Otero's original P21). NOT corrected (insufficient basis to
+propose a specific fix without further source material).
+
+R25A -- Minor transcription error (p.79-80). The comment cites "Spanish
+dialectal [h]/[x] variation"; the source specifically discusses [h] and
+[ç] (not [x]) as interchangeable for some Spanish speakers -- [ç] and [x]
+are distinct phones. FIXED: corrected to [ç].
+
+R25B -- Minor citation-range fix (p.81-82; previously "81" only, but the
+extraction's own comment references restoration examples explicitly on
+p.82). FIXED: citation extended to "81-82".
+
+R25C -- OK, no issues (p.82).
+
+--------------------------------------------------------------------------
+PART 2: CHAPTER 5 (R26A-R45B) -- Balkan Romance to Common Romanian
+--------------------------------------------------------------------------
+
+R26A -- see ED1 (Part 0) for the "throughout" overclaim and the hedged-
+assumption/inferred-gloss issues, both corrected. The rule line itself
+(ɾ ɾ > r ∅) is structurally sound and consistent with the cascade's other
+geminate-merger rules.
+
+R26B -- ERROR (p.86-87). The comment misquoted Pardess's own statement:
+he says [e] becomes [ə] after the trill (not [a], as the extraction had
+it), and in the same sentence also notes the parallel [i]>[ɨ] change,
+which the extraction omitted entirely. FIXED: both corrected/restored.
+
+R27A -- OK, no issues (p.87-88).
+
+R27B -- Minor, flagged rather than changed (p.88-89). Pardess's printed
+formal rule is simply "∅ > y / __ V[-tense]", with no left-context
+restriction and no explicit stress requirement; the extraction's left-
+context disjunction and stress requirement are reasonable inferences from
+the examples but are not literally in the printed rule, and (unlike
+similar additions elsewhere) were not flagged as inferred. FIXED: a note
+was added disclosing this; the rule line itself is left as-is since the
+inference is well-supported by the examples.
+
+R28 -- OK, no issues (p.89-90).
+
+R29A -- OK, no issues (p.90-92).
+
+R29B -- Incomplete (p.90-93, cross-checked against Ch.7 derivation
+tables). The comment-only rule text stated only apheresis ("e > 0 /
+#__"), but Ch.7's own derivation table shows the article ALSO cliticizes
+onto the host noun (the word boundary is lost, producing the geminate
+"ll" from concatenation) -- exactly the kind of change DiaSim cannot
+represent, which is why this is comment-only in the first place, but the
+enclisis component should still be stated in the comment rather than
+silently dropped. FIXED: comment expanded to mention the word-boundary
+loss/enclisis component.
+
+R30 -- Mistagged and incomplete (p.93-94). The comment cited "Executive
+Decision 4" (word-length/article-morpheme conditioning), but R30's
+restriction is neither -- it is a closed, arbitrary lexical set (ESTE,
+ELLU, ELLA, imperfect of "a fi", etc.). Also omitted Pardess's dialect-
+distribution argument for dating the rule to the Common Romanian period
+("preyodization is found in MR and IR but not in AR... it must have
+occurred in CR and was eliminated later in AR", citing Vasiliu 1968:68).
+FIXED: ED4 tag removed and replaced with a plain "lexically restricted"
+description; the dialect argument added.
+
+R31A -- MAJOR ERROR, three separate problems (p.94-95). (1) Pardess's
+rule uses "Co" (Kleene-star, zero-or-more consonants); the extraction
+hardcoded exactly one intervening consonant, failing on its own headline
+example négra>neagră (two consonants, g-r, intervene). (2) The
+triggering following vowel was wrongly restricted to [+low] ("a" only);
+Pardess's actual trigger class [V,-high,-round] also includes "e", and
+R31B's own example set (négre>neágre, later reverted by R53B) confirms
+"e" genuinely triggers this rule too -- the extraction silently dropped
+half the rule's coverage with no note. (3) The "except before N or mC"
+exception was mischaracterized: Pardess's actual exception is precisely
+(i) intervening material = the single consonant /n/ alone, or (ii) /m/ +
+exactly one more consonant -- not a blanket "before any nasal" exception
+as capital "N" (Pardess's own class abbreviation for the full nasal set)
+might suggest. FIXED: Kleene-star restored via DiaSim's "(...)*", trigger
+widened to [-hi,-round], exception description corrected in the comment.
+
+R31B -- OK, no issues (p.95-97).
+
+R32 -- ERROR (p.98). Pardess's rule targets literally "e" (matching the
+title, "[éa]>[eá]"); the extraction's target matrix also silently
+admitted stressed "o", extending the rule to "oa" sequences with no
+textual warrant. FIXED: "-back" added to the target to exclude "o".
+
+R33 -- ERROR, two problems (p.98-99). (1) The a>ə line's output feature
+matrix was simply wrong: per symbolDefs.csv, only [lo] and [front] change
+from a to ə; [hi] stays "-" in both, but the extraction's output
+specified "[+hi]" (incorrect) and omitted the real, necessary [-front]
+change, leaving a feature bundle matching no real vowel. (2) The claim
+that geminate nasals (ánnu, doámna) are "automatically" excluded by the
+one-segment-deep environment does not hold: with only one segment of
+lookahead, the FIRST of a geminate nn pair still satisfies the context
+regardless of what follows it, so the rule as written would have
+incorrectly fired on ánnu, contradicting Pardess's own stated exception.
+FIXED: output corrected to [-low,-front]; a second segment of context
+(requiring the following material to be non-nasal) added to both lines
+to actually implement the stated exclusion.
+
+R34 -- Minor completeness gap (p.99-100). Pardess offers two competing
+explanations for why Slavic loanwords escape rhotacism, flattened by the
+extraction to a generic "loanword stratum exception." FIXED: both
+hypotheses restored. (Note: the extraction's parallel reasoning about why
+true geminate ll is automatically excluded from THIS rule's environment
+IS correct as stated -- unlike the analogous, flawed claim at R33.)
+
+R35A, R35B -- OK, no issues (p.100-101).
+
+R36A -- Minor citation-range fix (should read "101", not "101-102";
+FIXED).
+
+R36B, R36C -- OK, no issues (p.102).
+
+R37A -- ERROR (p.102-103). Pardess's printed rule includes "-long" in
+the target, dropped by the extraction. This exclusion is load-bearing:
+R36B (immediately preceding) lengthens the feminine-singular article's
+[a], and "-long" is precisely what protects that lengthened [a] from
+being reduced to schwa by this rule. FIXED: "-long" restored.
+
+R37B -- OK, no issues (p.103).
+
+R38 -- ERROR (p.103-104). Pardess's rule is a pure syllabicity change
+("e > [-syl] / __ a" -- his title: "[e] becomes a glide before [a]"), not
+a substitution of the actual phone /j/ (a HIGH front glide, adding height
+features Pardess never touches). This is also internally inconsistent
+with how the SAME extraction correctly handles the analogous R13D and
+R31B glide-formation rules (both correctly use bare [-syl]). Recasting
+the glide as literal "j" also risks mis-feeding later yod-triggered rules
+(R41A, R41B, R42A, R45A). FIXED: e > [-syl] / __ a.
+
+R39, R40 -- OK, no issues (p.104-105). (Minor, unflagged item at R40: the
+dissertation itself mislabels this rule "R34" once mid-discussion on
+p.104 -- an authorial slip, analogous to the R13F/R13G case the
+extraction does flag elsewhere, but not previously flagged here. FIXED:
+noted in the comment.)
+
+R41A -- MAJOR ERROR (p.105-106). Pardess's rule restricts the target
+with "+cont", dropped by the extraction. This mattered substantially:
+without +cont, the "s"-line's class also matched the stops t,d (meant
+for the LATER rule R42A instead) -- so as written, R41A would have
+consumed every t/d-before-yod form (all of R42A's own worked examples)
+before R42A ever saw them. Likewise the "l/n"-line's class also matched
+the tap/trill rhotics (not part of Pardess's rule), which would have
+been palatalized into a feature bundle matching no real phone. Since
+only three concrete segments are ever targeted (l, n, s), the corrected
+file uses direct symbol substitution rather than patching the feature
+matrix further. FIXED: three simple substitution lines (l>ʎ, n>ɲ, s>ʃ,
+all /__j) replace the two feature-matrix lines.
+
+R41B -- OK, contingent on the R41A fix (p.106).
+
+R42A, R42B -- OK, no issues (p.106-108).
+
+R43 -- OK, no issues (p.108); the special-focus question (is the
+trigger restricted to velar STOPS, excluding the continuant ɣ?) was
+confirmed affirmatively -- Pardess's own formal rule explicitly includes
+"[-cont]" in the environment.
+
+R44 -- ERROR (p.108). The target class did not actually select ə (per
+symbolDefs.csv, ə has tense=0, not "-"; the stated matrix instead picks
+out ɛ, an entirely different vowel). Even setting that aside, the output
+"[+tense]" alone cannot derive "e" from ə, which also differs in [front],
+never touched by the previous rule. FIXED: direct symbol substitution
+(ə > e / [-ant,-cor,+hi,+front,+cons] __) used instead.
+
+R45A -- MAJOR ERROR (p.109). Pardess's rule is explicitly "[s]>[š]
+before [č]" (an affricate-conditioned environment); the extraction gave
+environment "before i/yod" instead, duplicating/conflating this rule
+with the earlier, unrelated R41A s>š-before-yod change. FIXED: s > ʃ /
+__ t͡ʃ.
+
+R45B -- MAJOR ERROR (p.109). The rule's own target/input matrix was
+identical to its context matrix (both equal to š's own feature
+signature), apparently a copy/paste artifact, rather than the actual
+affricate č's signature (which the rule is supposed to be changing).
+FIXED: direct symbol substitution used (t͡ʃ > t / ʃ __).
+
+--------------------------------------------------------------------------
+PART 3: CHAPTER 6 (R46A-R60) -- Common Romanian to Daco-Romanian, plus
+Chapters 7-8 cross-checks
+--------------------------------------------------------------------------
+
+CROSS-CUTTING ISSUE affecting R46A, R46B, R47A, R49, R50, R58: Pardess's
+own theoretical vocabulary derives his schwa-like "[ə]" and high-central
+"[ɨ]" via a BACKING feature change ([+back]) on front vowels, and titles
+several later rules explicitly by that segment's name ("Raising of [ə]
+before...", p.113-115). But symbolDefs.csv codes BOTH ə and ɨ as
+[back:-] (they are central, not back, in this feature system) -- so a
+literal feature-matrix rule that only flips a front vowel's [back]
+feature can never resolve to DiaSim's actual "ə"/"ɨ" symbols; it produces
+a feature bundle matching no real segment in the table. This was never
+disclosed anywhere in the extraction's Executive Decisions (contrast with
+how thoroughly the rhotic tap/trill reinterpretation, a comparable
+translation problem, WAS disclosed as ED1). It also produced a visible
+symptom: the extraction used three DIFFERENT placeholder names across
+these rules for what should be one consistent segment -- an invented
+symbol "ɔ" (at R46B), an ad hoc bracketed "[Q]" (in commentary at
+R47A/R49), and the literal correct name "ə" (elsewhere) -- itself an
+internal inconsistency. FIXED, throughout: every affected rule now uses
+direct literal-symbol substitution (e>ə, ə>ɨ, etc.) rather than a
+feature-changing rule, so it actually resolves to the segment Pardess
+and the cascade's own later rules consistently refer to by name. This is
+disclosed as a general caveat at the top of the corrected file as well as
+individually at each affected rule.
+
+R46A -- MAJOR ERROR (p.112-113). (1) The claim that Pardess's formal
+feature-matrix statement is "visibly OCR-damaged" is FALSE -- confirmed
+legible by direct inspection and an independent pdftotext pass:
+"[-cons,-back,-high] > [+back] / [C,+ant,-cor] ___ Co V[+back]". This
+restricts the target to NON-HIGH front vowels; the extraction's
+"tentative" reconstruction wrongly admitted high [i] too (no "-high" in
+its target). (2) The labial trigger must be a SINGLE, immediately
+adjacent consonant (no Kleene-star before the target); the extraction
+wrongly inserted one there. The Kleene-star belongs only AFTER the
+target, before the eventual back vowel -- confirmed by the Ch.8
+derivation table for CAPITANEUM (kapeténu>kəpaténu, where "p" sits
+directly next to the target "e", and the Co gap, "tn", falls between the
+target and the eventual "u"). (3) The environment's labial-consonant
+matrix was missing "+cons", which (per symbolDefs.csv) would also admit
+rounded back vowels (u, o, ɔ all share [+lab,-cor,-cons]) as spurious
+triggers. (4) See cross-cutting issue above re: the ə/[+back] mismatch.
+Word-list transcriptions (méru/péru/védu>máru/páru/vádu; exceptions méri,
+péri, vézi, veáde, vecínu, mease, peanne, beare) were independently
+re-verified as correct. FIXED: full reconstruction given, using direct
+substitution (e>ə) with the corrected environment (single adjacent
+labial before, Kleene-star + eventual back vowel after).
+
+R46B -- MAJOR ERROR (p.113). The extraction gave this as a feature/
+identity change on an invented symbol "ɔ" ("ɔ > a / __ a"). Pardess's
+actual formal statement is an outright DELETION, "ə > ∅ / __ a" (title:
+"Loss of [ə] before [a]"), confirmed decisively by the Ch.8 derivation
+table for PINNAM (a full syllable is lost, not merely changed in
+quality) and by the synoptic index's own shorthand "R46B əa > a". Neither
+"ɔ" nor a mutation-to-"a" rule type is supported anywhere in the source.
+FIXED: ə > ∅ / __ a.
+
+R47A -- ERROR (p.113-114). Pardess's rule is a genuine disjunction (bare
+"n", requiring nothing further, OR "m"+one consonant+a vowel); the
+extraction's single formula wrongly required a following vowel in EVERY
+case. It also used an invalid "?" quantifier (`([+cons])?`), not part of
+DiaSim's documented optionality syntax (only "(...)", "(...)*", "(...)+"
+are supported) -- the only such occurrence anywhere in the file. FIXED:
+split into two lines (one per disjunct), using direct substitution
+(ə>ɨ) per the cross-cutting issue above; malformed "?" removed.
+
+R47B, R48 -- OK, no issues (p.114).
+
+R49 -- Minor/consistency fix (p.114-115). Core featural logic was fine,
+but (per the cross-cutting issue) the surrounding commentary used three
+different placeholder names for the same segment. FIXED: direct
+substitution (ə>ɨ) used for consistency with the corrected R46A/R46B/R47A.
+
+R50 -- Same cross-cutting issue, not previously flagged at this rule
+(p.115). The rule's feature-based "[+back]" flip on front vowels has the
+identical resolution problem as R46A/R47A/R49, but was reported "OK" by
+the review pass covering this rule since that pass was not primed on the
+issue (which surfaced from work on R46A). On reflection this is a real,
+consistent defect: FIXED, direct substitution used for the two changes
+Pardess documents at R26B (e>ə and i>ɨ after the trill).
+
+R51 -- OK, no issues (p.115).
+
+R52A -- OK, no issues (p.116).
+
+R52B -- ERROR plus a self-contradictory note (p.116). (1) The output
+feature was silently changed from Pardess's literal printed "[+cont]" to
+"[-delrel]"; per symbolDefs.csv the target symbols z/ʒ have [cont:+]
+specified but [delrel:0] (unspecified), so matching via [+cont] (as
+Pardess wrote) is the more reliable choice. An undisclosed "+voi" added
+to the target was also removed (not in Pardess's printed bracket).
+FIXED: output restored to [+cont]; extra "+voi" removed. (2) The
+"R57A"/"R57B" citation quirk: CONFIRMED that Pardess's body text at
+p.116 does literally read "R57A and R57B applied only in the Daco-
+Romanian dialects" (not a footnote number or cross-reference), and
+CONFIRMED that the Ch.8 synoptic index (p.141) lists this same pair as
+"R52A"/"R52B" -- both of the extraction's claims here check out. BUT the
+extraction's further claim that "no separate R57 exists elsewhere in the
+numbering" is FALSE, self-contradicted by the cascade's own distinct R57
+rule ("[yea]>[ya]") two pages later (pp.119-120), independently
+reconfirmed in the Ch.8 synoptic index too ("R57 yea>ya, pyeatra>pyatra",
+p.141). FIXED: note reworded to state the correct, non-contradictory
+picture (a real R57 exists; there is simply no LETTERED "R57A"/"R57B"
+pair, and "R57A"/"R57B" at p.116 is best read as a slip for
+"R52A"/"R52B").
+
+R53A -- ERROR (p.117). The trigger consonant was mistranscribed as plain
+"[s]"; Pardess's title and all three examples (šeápte>šápte, šeárpe>
+šárpe, tseárə>tsárə) are unambiguous that the trigger is "[š]"
+(postalveolar, DiaSim symbol ʃ) -- phonemically distinct from alveolar
+"[s]" in this feature system. FIXED: ea > a / {ʃ;t͡s} __.
+
+R53B -- Minor, previously unflagged (p.117-118). Pardess's formal
+statement here also relies on his "$" syllable-boundary primitive
+(exactly the same issue explicitly flagged at R7 under Executive
+Decision 3), but this was not flagged at R53B. The approximation used
+(a following vowel reachable through zero-or-more consonants) is
+substantively harmless, but the omission is an inconsistency in how
+thoroughly the caveat was applied. FIXED: note added for consistency; no
+change to the rule line itself.
+
+R54 -- OK, no issues (p.118).
+
+R55 -- Minor title error (p.119). "Denasalization/delateralization" is a
+misnomer -- ɲ is a nasal, not a lateral (delateralization is the correct
+term for R54's ʎ>y, not for this rule); looks like a copy-paste artifact
+from the adjacent R54 entry. The rule line itself (ɲ>j) was already
+correct. FIXED: title corrected to plain "Denasalization".
+
+R56, R57 -- OK, no issues (p.119-120). (R57 is also independently
+relevant to the R52B citation-quirk discussion above.)
+
+R58 -- OK, no issues in outcome (p.120), though noted as sharing the
+cross-cutting ə/[back] issue in principle: the extraction's direct
+substitution (ə>e) is actually the pragmatically correct choice here (a
+literal feature translation of Pardess's "[-back]" would be vacuous on
+DiaSim's own ə, which is already coded [back:-]), so no change was made.
+
+R59A, R59C -- OK, no issues (p.120-121).
+
+R59B -- Minor note added, no rule-line change (p.121). Pardess's own
+transcription marks the target as specifically the VOICELESS glide (w̥,
+R59A's immediate output); DiaSim's symbolDefs.csv has no devoiced-glide
+symbol, so plain "w" is a forced, harmless approximation. FIXED: noted
+as such.
+
+R60 -- OK, no issues (comment-only entry; p.121-122).
+
+CHAPTER 7 SPOT-CHECK (comment-only entries R29A, R29B, R36B, R60): R29A,
+R36B, and R60 were independently confirmed accurate against Ch.7's
+derivation tables and prose; R29B was found incomplete (see above,
+corrected). The extraction's closing claim that Chapter 7 introduces no
+additional numbered rules beyond a specific list was independently
+re-checked against all three Ch.7 derivation tables and confirmed
+accurate.
+
+CHAPTER 8 SYNOPTIC INDEX CROSS-CHECK: both of the extraction's specific
+claims resting on this chapter (the R13F/R13G mislabeling at ED8, and the
+R52A/R52B labeling discussed at R52B above) were independently confirmed
+accurate. The chapter also independently confirmed several of the fixes
+above (R46A's output is literally "ə" not "ɔ"; R46B is a two-segment
+deletion, "əa > a"; R57 is a real, separate rule).
+
+--------------------------------------------------------------------------
+ITEMS FLAGGED BUT NOT CORRECTED (with reason)
+--------------------------------------------------------------------------
+- R18C, R18D, R18E, R22C, R36A citation-range one-page shifts: cosmetic,
+  low priority; R36A's was corrected since it was trivial to do inline,
+  the others were not, to keep the diff focused on substantive changes.
+- R24's unexplained "skío > ščío" [s]>[š] shift alongside [k]>[č]: no
+  confident fix could be derived from the excerpted pages; flagged as an
+  open research question rather than papered over with a guess.
+- R27B's inferred (vs. literally-stated) left-context/stress restriction:
+  well-supported by the examples; a note was added disclosing the
+  inference, but the rule line itself was left unchanged since no
+  evidence suggests it is actually wrong, only under-cited.
+
+--------------------------------------------------------------------------
+SUMMARY BY SEVERITY
+--------------------------------------------------------------------------
+MAJOR (changes the derivation's actual output, or the rule could not
+derive its own cited examples): R2A, R4A, R8, R10Ca, R10Cb, R13A, R15,
+R18A, R20, R22D (+ordering swap with R24), R23, R31A, R33, R38, R41A,
+R45A, R45B, R46A, R46B, R47A, R50, R53A.
+
+MODERATE (silently narrows/widens rule coverage, or misidentifies a
+segment, without necessarily breaking every derivation): R11, R13C, R18B,
+R26B, R32, R37A, R44, R49, R52B.
+
+MINOR (comment/citation/gloss errors with no effect on rule application):
+R7, R22E, R25A, R25B, R29B, R30, R34, R36A, R40, R53B, R55, R59B, plus the
+Executive-Decision wording fixes in Part 0.
+
+CONFIRMED FAITHFUL, NO ISSUES: R1, R2B, R3A, R3B, R4B, R5A, R5B, R5C, R6,
+R9, R10A, R10B, R12, R13B, R13D, R13E, R13F, R13G, R14, R16, R17, R18C,
+R18D, R18E, R19, R21, R22A, R22B, R24 (core matrix), R25C, R26A (core
+line), R27A, R28, R29A, R31B, R35A, R35B, R36B, R36C, R37B, R39, R40
+(core), R41B, R42A, R42B, R43, R47B, R48, R51, R52A, R54, R56, R57, R58,
+R59A, R59C, R60, plus ED8's own R13F/R13G claim and the R52A/R52B
+labeling claim.
+
+Total rules audited: 60 numbered rules (including lettered sub-rules,
+~85 individual rule entries). Corrections applied to the cascade file:
+see "july26-extrcritic-corrected-pardess-Latin-to-Romanian.txt".
