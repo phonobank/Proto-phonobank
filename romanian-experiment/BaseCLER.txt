@@ -29,8 +29,8 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
         [+stres,-prim] > [-stres]
 
 $ CHAPTER 4
-$ THE EARLY CHANɡES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
-$ (FIRST THROUɡH SIXTH CENTURIES A.D.)
+$ THE EARLY CHANGES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
+$ (FIRST THROUGH SIXTH CENTURIES A.D.)
 $
 
     $ R1 Loss of [h]
@@ -81,18 +81,20 @@ $
 
         $ R5C Metathesis of word-final [r]
             $ Pardess: V r # > r V #
-            ∅ > r / __ [+syl] r #
-            r > ∅ / [+syl] __ #
-            $ DONE Reformulate this in the future
-
+            	$∅ > r / __ [+syl] r #
+            	$r > ∅ / [+syl] __ #
+	$ CM note : formulated to more faithful variety: 
+		∅ [+syl] r > r [+syl] ∅ / __ #
 
     $ R6 Frontinɡ of [w] to [β]
         w > β
 
     $ R7 Fortition of syllable initial [y]: [y] > [dy]
-        j > d j / __ [+syl]
+        $j > d j / __ [+syl]
         $ TODO Possible that if there are 2+ cons beforehand, there may be issues.
         $ Becomes ǰ in 18
+	$ CM fix for faithfulness: for Cj, j is actually not the onset. This is thus intervocalic and word-initial. Formulated now as follows.
+	∅ > d / # ((@)* [+syl]) __ j [+syl]
 
     $ R8 Simplification of K[s]K,K[z]K cluster
         [-son] > ∅ / __ [+strid] [-son]
