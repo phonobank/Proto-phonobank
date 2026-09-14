@@ -7,8 +7,28 @@ The rules table will store all the sound changes.
 We are aiming to have an automated extraction method, assisted by AI, to speed up the task of putting in sound laws from different sources. 
 We are using an [actor-critic] dynamic to, as this method is built, ensure in can scale without errors -- and catch early sorts of errors so they may be avoided.
 
-Status: As of late summer 2026, current work is being done for a relatively easy task of extracting a Romanian cascade from Pardess' diachronic phonology of Romanian. 
+## Present horizons
 
+Present priorities: 
+
+A. Scalable extraction method, building for security with actor-critic dynamic (Clayton)
+
+B. Schema for internal representational structure (Isaac)
+
+        See file: "phonobank_blueprint" (Clayton); "proto_schema" (Isaac)
+
+C. Standardization of annotation (Clayton and Mattis -- see "Misl DiaSim interpolation" file to start)
+
+D. Means to check functional equivalence between different cascades (i.e. that they produce the same results on same data) -- for use on real or synthetic data. One rule cascades or multirule cascades.
+
+E. Integration with CLDF
+
+Status: As of late summer 2026, for (A) current work is being done for a relatively easy task of extracting a Romanian cascade from Pardess' diachronic phonology of Romanian. Work paused due to multiple members involved having to finish dissertation work; resumed in September 2026. 
+
+
+Side objectives: 
+
+- data input from: Kummel's book, Index diachronica; Mielke's data
 
 ## Rules table
 
