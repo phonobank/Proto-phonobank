@@ -21,11 +21,13 @@ C. Standardization of annotation (Clayton and Mattis -- see "Misl DiaSim interpo
 
 D. Means to check functional equivalence between different cascades (i.e. that they produce the same results on same data). One rule cascades or multirule cascades.
 
+    D.i -- done July 25, 2026 -- DiaSim.UTILS python script (in DiaSim repo) now provides this ability, with the function "cascMatch". Here: https://github.com/clmarr/DiaSim/blob/gamma/UTILS.py; external usage of this via DiaSim-test-run.py file. 
+
     D.ii -- synthetic data may be necessary for coverage. Means to generate it? 
 
 E. Integration with CLDF
 
-Status: As of late summer 2026, for (A) current work is being done for a relatively easy task of extracting a Romanian cascade from Pardess' diachronic phonology of Romanian. Work paused due to multiple members involved having to finish dissertation work; resumed in September 2026. 
+Status: As of late summer 2026, for (A) current work is being done for a relatively easy task of extracting a Romanian cascade from Pardess' diachronic phonology of Romanian. Work paused due to multiple members involved having to finish dissertation work; resumed in September 2026. Analysis ongoing; unfortunately, it seems that the critic catches errors, but fixes them in ways that break the rules in unexpected ways...
 
 
 Side objectives: 
