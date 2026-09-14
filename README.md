@@ -19,7 +19,9 @@ B. Schema for internal representational structure (Isaac)
 
 C. Standardization of annotation (Clayton and Mattis -- see "Misl DiaSim interpolation" file to start)
 
-D. Means to check functional equivalence between different cascades (i.e. that they produce the same results on same data) -- for use on real or synthetic data. One rule cascades or multirule cascades.
+D. Means to check functional equivalence between different cascades (i.e. that they produce the same results on same data). One rule cascades or multirule cascades.
+
+    D.ii -- synthetic data may be necessary for coverage. Means to generate it? 
 
 E. Integration with CLDF
 
