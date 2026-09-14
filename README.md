@@ -1,6 +1,19 @@
 # Proto-phonobank
 
+This directory contains ongoing work for the construction of Phonobank, which aims to be a repository for sound changes in the histories of any language in the world, integrated with CLDF. It aims to maximize notational consistency. 
+
+The rules table will store all the sound changes. 
+
+We are aiming to have an automated extraction method, assisted by AI, to speed up the task of putting in sound laws from different sources. 
+We are using an [actor-critic] dynamic to, as this method is built, ensure in can scale without errors -- and catch early sorts of errors so they may be avoided.
+
+Status: As of late summer 2026, current work is being done for a relatively easy task of extracting a Romanian cascade from Pardess' diachronic phonology of Romanian. 
+
+
+## Rules table
+
 In the [rules-table] we'll be storing a row for each rule in the relative chronology of sound change [cascade] between an [ancestor] language and a [descendant] language
+
 
 ## Coding decisions
 
@@ -14,6 +27,7 @@ each of these lexeme IDs points its semantic concept in concepticon as well
 COGNACY between two etyma can be extracted as the truth value for whether they point to the same lexeme as their source in this tuple. 
 
 ## Notation
+
 
 For better cohesion and comparability of sound changes stored in Phonobank, it is ideal to minimize differences in representation and retrieval that arise from sources referring to the same phenomena in different ways. 
 E.g. each of the following refers to a sound change that is functionally identical to the others: 
@@ -69,4 +83,6 @@ The [critic] notes these "good" [infidelities] by listing them in a separate out
 
 ### Signals to critics
 
-For training the critic at this early stage, the following flags are used: "$$!!" signals something should be corrected. "$$:)" signals that the actor made no mistake for the associated rule block. 
+For training the critic at this early stage, the following flags are used: 
+    "$$!!" signals something should be corrected. 
+    "$$:)" signals that the actor made no mistake for the associated rule block. 
