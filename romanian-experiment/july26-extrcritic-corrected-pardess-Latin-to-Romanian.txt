@@ -1,0 +1,1170 @@
+$ ============================================================================
+$ july2026-extractor-rules-Latin-Romanian
+$ [CORRECTED per july26 faithfulness/format audit -- see accompanying report
+$  "july26-extrcritic-Latin-Romanian-report.txt" for full justification of
+$  every change below. Lines/comments touched by a correction are marked
+$  "$FIXED:" immediately above or beside them. Nothing else was altered.]
+$
+$ A DiaSim cascade (see https://github.com/clmarr/DiaSim/wiki/Cascade)
+$ extracted from:
+$   Pardess, David Forbes. 1990. "From Latin to Romanian: Phonological
+$   Rules." Ph.D. dissertation, UCLA. (UMI Order No. 9028357.)
+$
+$ Rules are given IN THE ORDER Pardess presents them (Chapters 4-6), which
+$ is his claimed diachronic ordering from Classical Latin -> Balkan Romance
+$ (BR) -> Common Romanian (CR) -> Daco-Romanian (DR, = Modern Standard
+$ Romanian). Page numbers of the ORIGINAL DISSERTATION (not PDF page
+$ numbers) are flagged with "$$PG:". Pardess's own rule identifiers
+$ (R1, R2A, R2B, ... R60) are preserved and used as the unique retrieval
+$ keys for ordering remarks, both his own and any editorial ones added here.
+$ Feature names follow the header row of symbolDefs.csv (gamma branch):
+$ syl,son,cons,cont,delrel,lat,nas,strid,voi,sg,cg,ant,cor,distr,lab,hi,lo,
+$ back,front,round,tense,rtr,long,splng,stres,prim -- these correspond
+$ closely, though not perfectly, to Pardess's own SPE-style feature
+$ notation, which is why re-derivation from his prose was needed rather
+$ than a mechanical one-to-one symbol swap.
+$
+$FIXED: One systemic translation problem surfaced by the audit and NOT
+$ fully resolved rule-by-rule below deserves flagging up front: Pardess's
+$ own theoretical vocabulary treats the schwa-like vowel that arises in
+$ Chapter 6 (his "[ə]") and the high central vowel "[ɨ]" as derived via a
+$ BACKING feature change from front vowels. But DiaSim's symbolDefs.csv
+$ codes both ə and ɨ as [back:-] (they are phonologically CENTRAL, not
+$ back, in this feature system), while [front] is also "-" for schwa. A
+$ literal feature-matrix rule that only flips [-back]->[+back] on a front
+$ vowel (as several of the rules below originally did) therefore cannot
+$ resolve to DiaSim's actual "ə"/"ɨ" symbols -- it produces a feature
+$ bundle matching no real segment in the table. Wherever this arose
+$ (R46A, R47A, R49, R50), the correction below switches to direct
+$ literal-symbol substitution (e.g. "e > ə", "i > ɨ") rather than a
+$ feature-changing rule, to guarantee the rule actually resolves to the
+$ segment Pardess and the cascade's own later rules (R47A, R49, R58)
+$ subsequently refer to by name. See the report for full discussion.
+$
+$ ============================================================================
+$ EXECUTIVE DECISIONS (format-translation matters worth flagging explicitly)
+$ ============================================================================
+$
+$ (1) RHOTIC MAPPING. Pardess formalizes CL geminate -rr- becoming a
+$   "true trill" and later simplifying using an ad hoc feature [+rep]/
+$   [-rep] ("repeated") that does not exist in symbolDefs.csv. Since
+$   symbolDefs.csv independently distinguishes a tap /ɾ/ ([-cont]) from a
+$   trill /r/ ([+cont]), and this happens to align with Pardess's own
+$   story (single intervocalic CL r = tap; geminate/initial-strengthened
+$   r = trill; the trill later reduces back to a tap in Daco-Romanian,
+$   matching modern Romanian's tapped rhotic), rr/trill is mapped onto
+$   DiaSim symbol "r" and plain/tapped CL r onto DiaSim symbol "ɾ"
+$FIXED: -- but ONLY FROM R26A/R26B ONWARD, not "throughout" the cascade as
+$   originally claimed here. Rules R5C and R10A, which precede R26A/B and
+$   still involve plain CL "r", correctly use bare "r" (undifferentiated,
+$   pre-split) and are UNCHANGED below; only R26A onward introduces and
+$   then uses the ɾ/r distinction. This is a substantive reinterpretation,
+$   not a notational nicety, and is flagged at each rule (R26A, R26B, R50,
+$   R51) it touches.
+$FIXED: Also, Pardess himself presents the tap-underlying-CL-rr analysis
+$   as an explicit ASSUMPTION, not settled fact: "We are assuming here
+$   that -RR- in Classical Latin was somehow a doubled version of a
+$   single flap [r]. In the event that -RR- was already a multiple
+$   vibrant in CL, this rule would not be necessary" (p.86, fn.). And the
+$   gloss "(repeated)" for his ad hoc [+rep]/[-rep] feature is an
+$   INFERENCE from the rule titles/effect, not a quotation -- Pardess
+$   never defines [rep] in prose on pp.86-87, and his own front-matter
+$   abbreviations list glosses it oddly as "repressiveness" (apparently a
+$   typo/OCR artifact for "repetitiveness"). See R26A/R26B below.
+$
+$ (2) GEMINATES AS SEGMENT SEQUENCES. Except for the rhotic (see (1)),
+$   all Latin geminate consonants (nn, ll, ss, pp, etc.) are represented
+$   as two adjacent identical segments (e.g. "n n"), not as a single
+$   segment with a [+long] feature. This matches Pardess's own C_iC_j
+$   notation for geminates/clusters in rules such as R18A, R23, R35B,
+$   R48, and is how DiaSim's own example cascades treat gemination.
+$FIXED: Where a rule of this shape used an UNLINKED natural-class feature
+$   matrix repeated twice (e.g. "[-son] [-son] > [-son] ∅") rather than
+$   alpha-linking every contrastive feature between the two positions,
+$   the two positions do NOT actually enforce segment identity -- they
+$   only enforce common class membership, so e.g. a hypothetical
+$   surviving /pt/ or /kt/ cluster would wrongly "degeminate" too. This
+$   bug recurred at R18A and R23 and is fixed at both (see below and the
+$   report).
+$
+$ (3) SYLLABLE BOUNDARY. Pardess's formalism uses "$" to mark a syllable
+$   boundary (e.g. in R7, y > dy / $__). DiaSim reserves "$" exclusively
+$   for comments and has no syllable-boundary primitive (only "#" word
+$   boundary and "+" morpheme boundary). Where this matters (R7), the
+$   concrete examples given are all word-initial, so "$" is approximated
+$   with "#", and the loss of generality is flagged in that rule's remark.
+$FIXED: R53B has the identical issue (Pardess's formal statement there is
+$   also "$"-based: "ea > e / __ $ Co e") but this was not flagged at
+$   R53B originally, unlike at R7. Flagged now for consistency; the
+$   approximation used (a following vowel reachable through zero or more
+$   consonants) is retained as harmless in practice.
+$
+$ (4) WORD-SHAPE / MORPHOLOGICAL CONDITIONING. Several of Pardess's rules
+$   are conditioned on word length (monosyllabic vs. polysyllabic: R3A,
+$   R25A/B) or apply only within a specific morpheme (the definite
+$   article: R29A, R29B, R36B, R60). DiaSim's phonological rule format has
+$   no primitive for word-length or morpheme-specific conditioning beyond
+$   the "+" morpheme boundary (whose diachronic legitimacy is itself
+$   flagged as contentious in DiaSim's own documentation). These rules are
+$   included with the closest phonological approximation possible, and
+$   the un-encodable lexical/morphological restriction is noted as a
+$   comment immediately above the rule line(s) in each case.
+$FIXED: R30's restriction (a closed, arbitrary LEXICAL set: ESTE, ELLU,
+$   ELLA, imperfect of "a fi", etc.) is NOT a word-length or def.-article
+$   case and was mistagged as "Executive Decision 4" below; corrected to
+$   describe it plainly as lexical restriction, not word-shape/morpheme
+$   conditioning.
+$
+$ (5) NATURAL-CLASS "REPAIR CHAINS" GIVEN AS COMMENTARY, NOT RULES. In a
+$   few places (notably R25A) Pardess offers a plausible phonetically
+$   gradual pathway (s > h > ç > y) purely as motivation for naturalness,
+$   while the actual INPUT/OUTPUT sound change he is proposing is the
+$   single mapping s > y. Only the single net rule is formalized; the
+$   intermediate steps are preserved as commentary, per Pardess's own
+$   framing of them as motivation rather than as independently-ordered
+$   sound changes.
+$
+$ (6) R15 (vowel contraction, p.68) and R46A/R46B (labial-conditioned
+$   vowel backing, p.112-113) were originally claimed by this extraction
+$   to be given by Pardess in feature notation "visibly corrupted in the
+$   source scan" and only reconstructable as tentative best-guesses.
+$FIXED: THIS CLAIM WAS FALSE FOR BOTH RULES. On close re-inspection
+$   (including an independent pdftotext pass), Pardess's formal statements
+$   at both p.68 and pp.112-113 are fully legible generative-phonology
+$   rules, not damaged diagrams. Both have been reconstructed in full
+$   below (R15 as a general rule rather than three isolated examples;
+$   R46A/R46B corrected for a missing [-high] restriction, a wrongly
+$   placed Kleene-star, a missing [+cons] restriction, and -- for R46B --
+$   a wrong input symbol and wrong rule type entirely). See the report.
+$
+$ (7) STAGE FLAGS. "=Balkan Romance" and "=Common Romanian" are inserted
+$   as BLACK stages (not gold), because Pardess explicitly states BR and
+$   CR are unattested, comparatively-reconstructed stages (no texts
+$   survive), so no gold comparanda exist for a lexicon column. Only
+$   Classical Latin (input) and Modern Daco-Romanian (output) are
+$   attested. A user with an appropriately populated lexicon could
+$   reflag these "~" if intermediate gold comparanda become available.
+$
+$ (8) DISCREPANCY BETWEEN CHAPTER 4 AND CHAPTER 8. Pardess's own
+$   "Synoptic Index" (Ch. 8.1, pp.137-141) does not always match his
+$   Chapter 4-6 rule labels one-for-one -- most notably, the rule "i > e"
+$   (lowering) is labeled R13G in the body text (p.65-66, where it is
+$   formally stated) but is referred to as "R13F" both in the Ch.8
+$   synoptic list and in at least one derivation table in Chapter 5
+$   (p.97). The body-text numbering (R13G) is used as authoritative here
+$   since that is where the rule is actually formalized, and the
+$   discrepancy is flagged at R13F/R13G below so both citation forms are
+$   retrievable. [Independently re-verified during this audit: the Ch.8
+$   synoptic index at p.138 does read "R13F i > e" with no separate entry
+$   at all for the word-final-lengthening rule -- confirmed accurate.]
+$
+$ (9) R25C (generalization of word-final -i as a grammatical/analogical
+$   marker) and R60 (loss of def.-article final -l, attributed by
+$   Pardess to morphological reanalysis) are, by Pardess's own
+$   description, analogical/morphological changes rather than regular
+$   sound changes. They are retained as comment-only entries (no rule
+$   line) so the full numbered inventory remains intact and traceable,
+$   consistent with Pardess situating them among his numbered rules
+$   despite their non-phonological character.
+$
+$ ============================================================================
+
+
+$ ############################################################################
+$ CHAPTER 4: CLASSICAL LATIN -> BALKAN ROMANCE (1st-6th c. AD)
+$ Otero 1971/1976 "procesos fonologicos" (P##) cross-references preserved
+$ where Pardess gives them.
+$ ############################################################################
+
+$$PG:46 R1 -- Loss of [h] (intervocalic and elsewhere)
+h > ∅
+
+$$PG:47 R2A -- Monophthongization of AE [ay] > [ɛ:] (Otero P3A)
+$ORDER: R2A must precede R2B (Vaananen 1974:95): AE monophthongized before OE.
+$FIXED: Pardess's formal statement (p.47) is "ay > ɛ:" (the LAX long vowel),
+$ not "ay > e:" (tense). He explicitly states this created "a vowel sound
+$ unique in the CL scheme in that it was the only lax vowel and the only
+$ long vowel that did not have a short counterpart" -- i.e. AE and OE
+$ (R2B) do NOT merge at this point, contra the previous mis-transcription,
+$ which used the tense symbol "eː" for both and erased this distinction.
+ay > ɛː
+
+$$PG:47-48 R2B -- Monophthongization of OE [oy] > [e:]
+$NOTE: Pardess also reports a sporadic, lexically-restricted partial change
+$ of AW ([aw]) to [o:] or, before a following [u], to [a]; he does not
+$ formalize this as a general rule (few words affected, most AW unchanged),
+$ so it is not given a rule line here (see p.48).
+oy > eː
+
+$$PG:48-49 R3A -- Reduction of final [m] (Otero P6A)
+$NOTE: restricted to word-final position; the CL-monosyllable-only vs.
+$ polysyllable-elsewhere split (see Executive Decision 4) cannot be encoded
+$ phonologically. The monosyllabic-only output "n" is given as a comment;
+$ only the general (polysyllabic) deletion is given as an active rule line,
+$ since it is the productive/default outcome.
+$ [monosyllables only, not general:]  m > n / __ #
+m > ∅ / __ #
+
+$$PG:49-50 R3B -- Reduction of [n] before a fricative, w/ compensatory lengthening (Otero P6B)
+$NOTE: past-participle forms (e.g. PRENSU, RESPONSU) are lexical exceptions.
+[+syl] n > [+long] ∅ / __ [-son,+cont]
+
+$$PG:50-51 R4A -- Syncope of a high vowel flanked by (at least) one resonant (Otero P4)
+$NOTE: highly sporadic/lexically variable; many exceptions given (LEPORE,
+$ MASCULU, etc.); eastern Romance is comparatively conservative relative to
+$ syncopes that post-date this rule.
+$FIXED: Pardess's formal environment is "V Ci __ Cj V" -- the target vowel
+$ must ALSO be flanked on the OUTSIDE by vowels (i.e. syncope happens
+$ syllable-internally, V-Ci-V(hi)-Cj-V, not merely "consonant, target,
+$ consonant" with no outer vowel requirement). The original two lines
+$ omitted the outer flanking [+syl] on each side, over-generating to any
+$ adjacent-consonant environment including word edges/clusters. Both lines
+$ below add the required outer vowel.
+[+syl] [+son,+cons] __ [+cons] [+syl]
+[+syl,+hi,-long] > ∅ / [+syl] [+son,+cons] __ [+cons] [+syl]
+[+syl,+hi,-long] > ∅ / [+syl] [+cons] __ [+son,+cons] [+syl]
+
+$$PG:51-52 R4B -- Dissimilation of [tl] > [kl]
+$ORDER: must apply concurrently with, or immediately after, R4A (syncope
+$ creates the offending [tl] cluster in the first place).
+t > k / __ l
+
+$$PG:52-53 R5A -- Deletion of word-final oral/nasal stop (Otero P7)
+[+cons,-cont] > ∅ / __ #
+
+$$PG:53 R5B -- Paragogic [e] added after word-final [l]
+∅ > e / l __ #
+
+$$PG:53-54 R5C -- Metathesis of word-final [r]
+$NOTE (Executive Decision 1): this rule precedes the tap/trill split
+$ introduced at R26A/R26B, so "r" here correctly denotes CL's single,
+$ undifferentiated rhotic phoneme -- it is NOT changed to "ɾ".
+∅ [+syl] r > r [+syl] ∅ / __ #
+
+$$PG:54-55 R6 -- Fronting of [w] to bilabial fricative [B] (Otero P10)
+$ORDER: For Balkan Romance, R6 must apply before R8 (see R8 remark). Also,
+$ R6 creates surface [B], and R21 ([b]>[B] intervocalically) would appear
+$ to belong right alongside it, but several rules that must for independent
+$ reasons be ordered LATER show that R21 did not apply universally until
+$ after they applied; see the commentary at R21 below.
+w > β
+
+$$PG:55-56 R7 -- Fortition of syllable-initial [y]: [y] > [dy]
+$NOTE (Executive Decision 3): Pardess's formal statement is "y > dy / $__"
+$ (syllable-initial), but DiaSim has no syllable-boundary primitive. All
+$ concrete examples given (YURARE, YOCARE, IOVIS) are word-initial, so the
+$ rule is approximated with "#__"; broader syllable-initial triggering
+$ environments described in the prose are not captured by this
+$ approximation.
+$FIXED: the prior version of this note speculated the uncaptured broader
+$ environment might be "e.g. post-consonantal" -- Pardess does not say
+$ this. He states (p.55) the fortition "probably began in intervocalic
+$ position in which it had always been geminated (Väänänen 1974:115)" --
+$ i.e. the missed generalization is INTERVOCALIC gemination, not a
+$ post-consonantal context.
+∅ > d / # __ j
+
+$$PG:56 R8 -- Simplification of K[s/z]K cluster: obstruent deletes between strident and obstruent (Otero P8)
+$ORDER: requires R6 (P10) to have already applied, to catch cases like
+$ EGZBOLA:RE > EZBOLA:RE.
+$FIXED: the left/right context was reversed. Pardess's formal rule (p.56)
+$ has NO left context and puts the strident+obstruent sequence on the
+$ RIGHT: "[-son] > ∅ / ___ [+strid] [-son]". Checked against all three of
+$ his examples (abskóndere>askóndere, egzßolá:re>ezßolá:re, ekspó:nere>
+$ espó:nere), the deleted obstruent always PRECEDES the strident -- the
+$ previous version (strident on the left) matches none of them.
+[-son] > ∅ / __ [+strid] [-son]
+
+$$PG:56-57 R9 -- Deletion of [k] in [nkt] > [nt]
+$NOTE: Otero's P12 ([kt]>[xt]) explicitly does NOT apply in Balkan Romance
+$ (Otero 1976:40); only this narrower nkt>nt change is posited.
+k > ∅ / n __ t
+
+$$PG:57 R10A -- Sporadic assimilation of [r] to [s]: [rs]>[ss] (Otero P13A)
+$NOTE: sporadic -- URSU, PERSIKA are unaffected exceptions.
+$NOTE (Executive Decision 1): precedes the R26A/B tap/trill split; "r"
+$ here is CL's single undifferentiated rhotic.
+r > s / __ s
+
+$$PG:57 R10B -- Assimilation of [p] to [s]: [ps]>[ss] (Otero P13)
+$NOTE: Romanian conserves CL [pt] generally (SEPTE, SEPTIMANA unaffected);
+$ contrast with R10Ca below, which specifically targets a post-stress
+$ environment.
+p > s / __ s
+
+$$PG:58-59 R10Ca -- Partial (place-only) assimilation of velars to a following alveolar, after a stressed vowel: [ks]>[ps], [kt]>[pt], [gn]>[mn] (Otero P12, P13)
+$FIXED: the target class "[-cont,-ant,-cor]" wrongly excludes the velar
+$ NASAL [ŋ] (which symbolDefs.csv marks [+cont], unlike oral k/g), even
+$ though Pardess's own rule explicitly covers "a velar stop, ORAL OR
+$ NASAL" and his own worked examples (dígnu>dímnu, lígnu>límnu, púgnu>
+$ púmnu, sígnu>símnu) are all nasal cases. "-cont" is dropped from the
+$ target below so ŋ is included.
+$FIXED: the "αnas" agreement was previously tied to the RIGHT CONTEXT
+$ (the following alveolar), implying the rule assimilates the target's
+$ nasality to what follows. Pardess's rule does not do this: the target's
+$ OWN nasality (oral k/g stay oral; nasal ŋ stays nasal) simply carries
+$ through unchanged. αnas below links the target's own input and output,
+$ not the right context.
+[-ant,-cor,αnas] > [+ant,+lab,-cor,αnas] / [+syl,+stres] __ [+ant,+cor]
+
+$$PG:59-60 R10Cb -- Total (place+manner) assimilation of velars to a following alveolar, in PRETONIC position: [ks]>[ss], [ŋn]>[nn]
+$FIXED (title): the previous title read "[rjn]>[nn]" -- there is no
+$ "rjn" sequence anywhere on p.59-60; this looks like an OCR misreading of
+$ the velar-nasal digraph. Pardess's actual second example set is the
+$ velar nasal before n: [ŋn]>[nn] (as in ko:ŋnó:skere > ko:nnó:skere).
+$FIXED: same target-class bug as R10Ca (dropped "-cont" so ŋ is included).
+$FIXED: the previous version claimed "pretonic" could not be directly
+$ encoded and substituted an invented right-scanning lookahead to an
+$ eventual stressed vowel. This is unnecessary -- Pardess's own printed
+$ formal rule states the condition as a plain LEFT context, "the
+$ immediately preceding vowel is unstressed": "[-cont,-ant,-cor] >
+$ [+ant,+cor] / [V,-acc] __ [C,+ant,+cor]" (p.59-60). That is a directly
+$ encodable adjacency condition and is used below instead.
+$NOTE: not fully general -- koŋnátu > DR cumnat shows the PARTIAL
+$ (R10Ca-style, labial) outcome rather than total assimilation despite
+$ meeting the environment; Pardess states total assimilation occurred
+$ "in most cases," not all.
+$FIXED (citation): Pardess credits Vasiliu with the ANALYSIS ADOPTED HERE
+$ (direct assimilation to [mn]: "with R10C we posit, with Vasiliu, that
+$ Latin -GN- became Romanian [mn]..."), not with the competing/dispreferred
+$ alternative via an intermediate [ɲ]/[ñ] stage, which the previous note
+$ misattributed to Vasiliu.
+[-ant,-cor,αnas] > [+ant,+cor,αnas] / [+syl,-stres] __ [+ant,+cor]
+
+$$PG:60-61 R11 -- Labialization of velar stop before [wa]: [kwa]>[pwa], [gwa]>[bwa]
+$NOTE: QUALIS, QUAM, QUANDO, QUANTUS, SQUAMA etc. lost their [w] before
+$ this rule (and before R17, w>0/__V) could apply, and are thus exceptions.
+$FIXED: target class corrected from "[-cont,-ant,-cor]" to Pardess's own
+$ printed "[-son,-ant,-cor]" (both happen to pick out only k,g in this
+$ inventory, so this is a literal-fidelity fix rather than a change in
+$ predictions).
+[-son,-ant,-cor] > [+ant,+lab,-cor] / __ w a
+
+$$PG:61-62 R12 -- Prothesis: [s]C word-initial clusters gain [i] (Otero P14)
+∅ > i / # __ s [-son]
+
+$$PG:62-63 R13A -- Lengthening of second vowel in a vowel-hiatus sequence, with concomitant stress shift onto it (Otero P15A)
+$FIXED: the "-low" restriction was misplaced. Pardess's rule restricts
+$ only the FIRST vowel (the one losing stress) to [-low]; the second
+$ vowel (which gains length+stress) carries no such restriction. Checked
+$ against all four examples (muliére>mulié:re, paríete>parié:te, aríete>
+$ arié:te, kapreólu>kapreó:lu): in each case it is the first vowel (i,i,i,
+$ e -- all non-low) that loses stress, not the second.
+[+syl,-low,+stres,+prim] [+syl] > [-low,-stres,-prim] [+long,+stres,+prim] / __
+
+$$PG:63 R13B -- Raising of unstressed [o],[e] adjacent to another vowel: > [u],[i] (Otero P15B)
+[+syl,-low,-long,-stres,-hi] > [+hi] / __ [+syl]
+
+$$PG:63-64 R13C -- Contraction of two identical adjacent vowels to one (Otero P18B)
+$FIXED: the identity-enforcing alpha chain omitted "long" (αlong),
+$ meaning e.g. a short and a long vowel of the same quality could
+$ wrongly count as "identical" and trigger contraction. The cascade's own
+$ later analogous rule, R37B, DOES include αlong in the exact same
+$ construction; αlong is added here for both correctness and internal
+$ consistency.
+[+syl,αhi,αlo,αback,αround,αtense,αlong] [+syl,αhi,αlo,αback,αround,αtense,αlong] > [+syl,αhi,αlo,αback,αround,αtense,αlong] ∅
+
+$$PG:64 R13D -- Loss of syllabicity of unstressed high vowels adjacent to another vowel: [i],[u] > [y],[w] (Otero P15)
+$NOTE: Pardess states this rule is RECURRENT, i.e. it continues to re-apply
+$ whenever its structural description is subsequently met by later rules,
+$ not just once at this point in the cascade. This recurrence cannot be
+$ notated as a single cascade line under DiaSim's linear rule-ordering
+$ model; a cascade author wishing to honor this would need to re-insert
+$ an identical copy of this rule line at each later point where Pardess's
+$ text implies it must reapply.
+[+syl,+hi,-long,-stres] > [-syl] / __ [+syl]
+
+$$PG:64-65 R13E -- Laxing of stressed [e] to [E] (Otero P15Da; cf. Otero 1976:19)
+[+syl,-long,-hi,-back,+stres] > [-tense]
+
+$$PG:65 R13F -- Lengthening of word-final [-i(s)]
+$ORDER: R13F must precede/bleed R13G (see R13G) so that 2pl verb forms do
+$ not end up patterning like Italian -te; Pardess notes (citing Kiparsky
+$ via Bynon 1977:137) that grammatical-category-marking segments can
+$ survive in defiance of an otherwise general phonetically-motivated rule.
+[+syl,+hi,-back] > [+long] / __ (C) #
+
+$$PG:65-66 R13G -- Lowering of [i] (stressed or unstressed) to [e] (Otero P15Db)
+$NOTE (Executive Decision 8): this rule is cited as "R13F" in Chapter 8's
+$ Synoptic Index (p.138) and in at least one derivation table in Chapter 5
+$ (p.97, NIGRA derivation). The label used here, R13G, is the one under
+$ which the rule is actually formally stated in the body text (p.65-66).
+$ [Independently re-verified: p.138 reads "R13F i > e" with no separate
+$ synoptic entry for the word-final-lengthening rule -- confirmed.]
+[+syl,-long,+hi,-back] > [-hi]
+
+$$PG:66-67 R14 -- Apheresis: loss of unstressed word-initial [e] before [s]/[z]+C
+e > ∅ / # __ {s;z} [+cons]
+
+$$PG:68 R15 -- Contraction of vowels in hiatus of similar height to a single long vowel (Otero P18Aab)
+$FIXED (Executive Decision 6): the previous claim that Pardess's general
+$ feature formula here is "visibly corrupted" and unreconstructable was
+$ mistaken. p.68 is legible (both on direct inspection and an independent
+$ pdftotext pass) and states a complete, general rule: a short vowel
+$ deletes after a consonant when followed by a long, stressed vowel of
+$ matching backness -- "[V,-long,αback] > ∅ / C __ [V,+long,+acc,αback]".
+$ The general rule is given below as the active line; Pardess's three
+$ worked examples are retained as an illustrative comment only.
+$FIXED: the "o o" example was also transcribed backwards. Pardess's
+$ example is koórte > kó:rte (FIRST o short/unstressed, SECOND o long/
+$ stressed -- the survivor), matching the general rule and the other two
+$ examples (preé:ndere>pré:ndere; kwié:tu>kwé:tu), where the first,
+$ short vowel deletes and the second, long one survives. The previous
+$ version instead had the first o surviving/lengthening and the second
+$ deleting -- backwards, and inconsistent with its own sibling lines.
+$ Examples (illustrative only, all now consistent: first/short vowel
+$ deletes, second/long+stressed vowel survives):
+$   o oː > ∅ oː   (koórte > kóːrte)
+$   e eː > ∅ eː   (preéːndere > préːndere)
+$   i eː > ∅ eː   (kwiéːtu > kwéːtu)
+[+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
+
+$$PG:68-69 R16 -- Loss of vowel length (Otero P15F)
+[+syl] > [-long]
+
+$$PG:69-70 R17 -- Deletion of [w] before a vowel (Otero P22, T22)
+w > ∅ / __ [+syl]
+
+$$PG:70-71 R18A -- Gemination of a stop after a vowel and before yod (Otero P19)
+$FIXED: Pardess's own notation for this rule uses IDENTICAL subscripting
+$ on both output copies (his key: "Xi Xi = identical elements"), and his
+$ examples confirm true segment identity (pútyu>púttyu, not any stop;
+$ adyutáre>addyutáre; brákyu>brákkyu). The previous version's inserted
+$ segment was only required to belong to the broad class [-son,-cont]
+$ ("some stop"), not to match the specific following stop -- under-
+$ constrained. Alpha-linked place+voice features (ant, cor, voi -- which
+$ alone already distinguish p/t/k in this feature system, matching the
+$ same device used correctly at R18E below) are added to force true
+$ identity.
+[+syl] ∅ [-son,-cont,αant,αcor,αvoi] j > [+syl] [-son,-cont,αant,αcor,αvoi] [-son,-cont,αant,αcor,αvoi] j
+
+$$PG:71 R18B -- Affrication of alveolar stops before yod: [t]>[ts]-ish, [d]>[dz]-ish (Otero P20Aa)
+$ORDER: Vaananen (1974:118) -- affrication of dentals before yod (R18B)
+$ preceded that of velars before yod (R18C).
+$FIXED: target class was missing "-son" (Pardess's printed rule: "[-son,
+$ -cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ y"). Without -son, the
+$ class [-cont,+ant,+cor] also matches the tap /ɾ/ (cont=-,ant=+,cor=+,
+$ son=+ in symbolDefs.csv) -- an actively used segment throughout this
+$ cascade -- which would then be wrongly affricated before yod. -son
+$ restored below.
+[-son,-cont,+ant,+cor] > [-ant,+delrel] / __ j
+
+$$PG:71-72 R18C -- Affrication of velars before yod: [k]>[c], [g]>[J] (Otero P20Ab)
+[-cont,-ant,-cor] > [+cor,+delrel] / __ j
+
+$$PG:72 R18D -- Absorption of yod after the newly-created affricate (Otero P20B)
+j > ∅ / [-son,-cont,+cor,+delrel] __
+
+$$PG:72-73 R18E -- Total assimilation of a stop to a following affricate (Otero P20C)
+[-son] [-cont,αant,αcor,αvoi,+delrel] > [-cont,αant,αcor,αvoi,+delrel] [-cont,αant,αcor,αvoi,+delrel]
+
+$$PG:73 R19 -- Depalatalization of affricates to alveolar, after a stressed vowel (Otero P32)
+[-ant,+cor,+delrel] > [+ant] / [+syl,+stres] __
+
+$$PG:74 R20 -- Attraction (metathesis) of a glide leftward over an intervening geminate consonant (Otero P23)
+$FIXED (title + rule): Pardess's rule moves the glide leftward over "Co"
+$ (his own notation for a Kleene-star, zero-or-more, run of consonants).
+$ The previous version hard-coded exactly ONE intervening consonant,
+$ which fails on all three of Pardess's own examples (róbbyu>róybbu,
+$ ábbya>áybba, skábbya>skáybba), every one of which has a GEMINATE (two
+$ consonants, "bb") between the vowel and the glide -- the rule as
+$ previously written cannot match any of its own cited data. Since
+$ DiaSim disallows Kleene-star in the rule's target (pre-arrow) side, the
+$ two-consonant case actually attested is given explicitly below.
+∅ [+cons] [+cons] [+son,-cons,-syl] > [+son,-cons,-syl] [+cons] [+cons] ∅ / [+syl,+stres] __
+
+$$PG:74 R21 -- Spirantization of [b] to [B] intervocalically (Otero P25)
+$ORDER: see remark at R6 above -- although R21 might appear to belong
+$ alongside R6, several later-ordered rules (see their commentaries) show
+$ R21 did not apply everywhere until after those rules had applied.
+$NOTE: word-initial [b] is unaffected -- this follows automatically from
+$ the [+syl]__ context requiring a preceding vowel.
+b > β / [+syl] __
+
+$$PG:74-75 R22A -- Word-initial [B] > [v]
+$NOTE: a handful of DR words (BERBEC, BATRIN) show unexpected [b] rather
+$ than [v] word-initially; sporadic, unaccounted for by regular rule.
+β > v / # __
+
+$$PG:75 R22B -- Occlusivization of [B] to [b] after a consonant
+β > b / [+cons] __
+
+$FIXED: rules R23 and R24 have been swapped relative to the previous
+$ file's ordering (which followed R22C, R22D, R22E, R23, R24). See the
+$ note at (former) R22D and R24 below for why: as originally sequenced,
+$ R22D's derived [g] in "úger" would incorrectly be exposed to R24's
+$ velar-affrication-before-front-vowel environment, wrongly producing
+$ *újer. R24 must have its one linear pass BEFORE R22D creates that [g].
+$ This reordering is a genuine correction to rule sequencing, not merely
+$ a comment -- see the report for full derivation-by-derivation
+$ justification.
+$$PG:79 R24 -- Affrication of velars before a front vowel: [k]>[c], [g]>[J] (Otero P21)
+$FIXED (ordering): the rule this must be sequenced relative to is R22D
+$ (labial spirant [B] > [g] near [u]), immediately below. As originally
+$ argued (both by this extraction and, it appears, by Pardess's own
+$ page-presentation order), R22D was said to need to precede R24 "for
+$ UBER>UGER to be correctly unaffected by R24 despite the following [e]
+$ in UGER." Working through the derivation shows this reasoning runs
+$ backwards: if R22D (β>g) applies FIRST, the resulting "úger" now has a
+$ [g] sitting directly before a front vowel [e] -- exactly R24's target
+$ and environment -- so R24 (still to come) WOULD wrongly affricate it,
+$ giving *újer. The correct sequencing is the reverse: R24 must have its
+$ one linear pass first (while the segment is still β, a labial, so R24's
+$ velar-only target class does not touch it); only once R24 is safely
+$ past does R22D convert β>g, and the resulting g is never exposed to
+$ R24. R24 is therefore moved here, before R22D, and the R22D commentary
+$ corrected to match.
+$NOTE: Otero's P12 is explicitly excluded from Balkan Romance (cf. R9).
+$NOTE: Pardess's own example "skío > ščío" ('ştiu') shows [s] also
+$ becoming [š] alongside [k]>[č] in the same word; the stated formal
+$ matrix (velar stops only) does not predict or explain this additional
+$ change, and neither Pardess's excerpted text nor this cascade currently
+$ accounts for it -- flagged as an open gap, not a confirmed extraction
+$ error, since it may be addressed by material outside the audited
+$ excerpt (e.g. Otero's original P21).
+[-cont,-ant,-cor] > [+cor,+delrel] / __ [+syl,-back]
+
+$$PG:75-76 R22C -- [B] > [w] before a resonant
+β > w / __ [+son,+cons]
+
+$$PG:76-77 R22D -- Sporadic [B] > [g] in the presence of a [u]
+$FIXED: the rule and title previously stated the trigger [u] must
+$ FOLLOW. But the very first example, úßer > úger, has the [u]
+$ PRECEDING the target (ú-ß-e-r), not following (the following segment
+$ there is [e]). Of the five examples, only úßer needs a left-side
+$ trigger; the rest (néßula, rúßu, fáßul-, néßu) have [u] following
+$ (rúßu on both sides). Pardess's own "//" notation for this rule (rather
+$ than a directional "/") likely reflects exactly this bidirectionality.
+$ Both directions are given as separate lines below.
+$FIXED (ordering): see the note at R24 above -- R24 now correctly
+$ precedes this rule, so the derived [g] in úger is never exposed to
+$ R24's affrication environment.
+β > ɡ / u __
+β > ɡ / __ u
+
+$$PG:77-78 R22E -- [B] > 0 elsewhere
+$ORDER: applies elsewhere / after R22A-D, being elsewhere/default. As
+$ Pardess notes explicitly (p.77): by R6, CL [w] merges with new [B] from
+$ R21's spirantization of [b]; R22 (A-E) then splits non-initial [B]
+$ (regardless of its CL source) into 0, [w], [v], or [g] according to
+$ context.
+$FIXED: the lexical-exception examples were mistranscribed with "W"
+$ instead of Pardess's own "ß": the source reads "prima ßéra >>
+$ primavera" and "ad de ßéro >> addevero", not "PRIMA WERA, AD DE WERO".
+$NOTE: root of DR "a avea" ('to have') and some compounds (PRIMA βERA,
+$ AD DE βERO) are lexical exceptions.
+β > ∅
+
+$$PG:78-79 R23 -- Degemination of all consonants except [ll],[nn],[rr] (Otero P28)
+$FIXED: Pardess's rule is an explicit IDENTITY rule (his own notation
+$ uses matched subscripts, "Ci Ci > Ci", per his key "Xi Xi = identical
+$ elements"). The previous two lines used an UNLINKED natural-class
+$ matrix repeated in both positions, which enforces only common class
+$ membership, not true segment identity -- e.g. a hypothetical surviving
+$ /pt/ or /kt/ cluster would have wrongly "degeminated" to a single
+$ consonant. This is the same defect found and fixed at R18A above.
+$ Full alpha-linking across every contrastive feature is added below to
+$ force genuine identity. This also fixes a coverage gap in the previous
+$ version: geminate /mm/ (m is [+ant,-cor,+son,+cons], i.e. anterior but
+$ NOT coronal) fell outside BOTH of the previous two lines (excluded by
+$ "-son" from line 1, by "-ant" from line 2) and so would never have
+$ degeminated, contrary to Pardess's stated rule; a third line covering
+$ labial sonorants (m/mm) is added.
+[-son,αcont,αdelrel,αvoi,αant,αcor,αdistr,αlab,αhi,αback] [-son,αcont,αdelrel,αvoi,αant,αcor,αdistr,αlab,αhi,αback] > [-son,αcont,αdelrel,αvoi,αant,αcor,αdistr,αlab,αhi,αback] ∅
+[+son,+cons,-ant,αcor,αdistr,αlab,αhi,αback,αlat,αnas] [+son,+cons,-ant,αcor,αdistr,αlab,αhi,αback,αlat,αnas] > [+son,+cons,-ant,αcor,αdistr,αlab,αhi,αback,αlat,αnas] ∅
+[+son,+cons,+ant,-cor] [+son,+cons,+ant,-cor] > [+son,+cons,+ant,-cor] ∅
+
+$$PG:79-80 R25A -- Development of final [-s] in monosyllabic words > [y] (T23)
+$NOTE (Executive Decision 5): Pardess motivates this with a plausible
+$ phonetically-gradual chain [s]>[h]>[ç]>[y] for naturalness (citing
+$FIXED: parallels in Cuban Spanish, French, and Spanish dialectal [h]/[ç]
+$ (not "[x]" as previously transcribed -- Pardess's text specifically
+$ says "[h] and [ç] are interchangeable for some speakers in Spanish
+$ words such as 'jinete'"; [ç] and [x] are distinct phones)
+$ variation), but the actual sound change being posited is the single
+$ mapping s>y; the intermediate steps are not separately-ordered rules.
+$NOTE (Executive Decision 4): restricted to monosyllabic words; this
+$ word-shape condition is not encodable phonologically (see R3A above for
+$ the same caveat) and must be enforced lexically if implemented.
+s > j / __ #
+
+$$PG:81-82 R25B -- Loss of final [s] in polysyllabic words
+$NOTE (Executive Decision 4): as with R25A, "polysyllabic" cannot be
+$ phonologically encoded and must be enforced lexically.
+$NOTE: Pardess discusses at length how the resulting singular/plural
+$ syncretism was subsequently repaired by restoring CL nominative plural
+$ endings -i/-e (see examples, p.82) -- an analogical/morphological
+$ repair, not itself a further phonological rule.
+s > ∅ / __ #
+
+$$PG:82 R25C -- Generalization of word-final [i] as a grammatical (2sg) marker
+$NOTE (Executive Decision 9): Pardess frames this explicitly as an
+$ analogical/morphological restructuring (generalizing the old 4th-
+$ conjugation 2sg ending -i, post-loss-of-s, to other conjugations), not a
+$ regular sound change. No phonological rule line is given; retained here
+$ as a comment only so the numbered inventory (R1-R25C) remains complete.
+
+=Balkan Romance
+$ End of Chapter 4 (p.82). This is a BLACK stage (see Executive Decision 7):
+$ Balkan Romance is Pardess's own reconstructed term/stage, not directly
+$ attested in texts.
+
+
+$ ############################################################################
+$ CHAPTER 5: BALKAN ROMANCE -> COMMON ROMANIAN (6th-11th c. AD)
+$ ############################################################################
+
+$$PG:86 R26A -- CL geminate [rr] (sequence of two taps) merges to a genuine trill
+$NOTE (Executive Decision 1): see file header. Pardess's own formalism is
+$ "rr > [+rep]", a feature not present in symbolDefs.csv. Mapped instead
+$ onto DiaSim's independently-attested tap/trill opposition (ɾ vs. r).
+$FIXED: this is the FIRST point in the cascade where the ɾ/r distinction
+$ is introduced -- all preceding rules (R5C, R10A) correctly still use
+$ plain, undifferentiated "r" and are unchanged.
+$FIXED: Pardess frames the underlying assumption explicitly as such, not
+$ as settled fact: "We are assuming here that -RR- in Classical Latin was
+$ somehow a doubled version of a single flap [r]. In the event that -RR-
+$ was already a multiple vibrant in CL, this rule would not be necessary"
+$ (p.86).
+$FIXED: the gloss "(repeated)" for Pardess's ad hoc [+rep] is this
+$ extraction's own inference from the rule's effect, not a definition
+$ Pardess actually states on p.86-87 (his front-matter abbreviations list
+$ instead glosses the feature, oddly, as "repressiveness").
+ɾ ɾ > r ∅
+
+$$PG:86-87 R26B -- Word-initial CL tap [r] strengthens to a trill
+$ORDER/IMPORTANCE: this rule matters crucially for R50 below, where only
+$ the derived trill (from R26A/B), not the plain tap, triggers a following
+$ vowel-backing effect.
+$FIXED: the previous note said "Pardess notes explicitly that [e]>[a]
+$ after 'rr'" -- this misquotes the vowel. Pardess's actual statement
+$ (p.87) is: "in Daco-Romance, [e] became [ə] after [rr] (R50) but not
+$ after [r]. [i] also became [ɨ] (R50) in the same environment." Both the
+$ correct target vowel (ə, not a) and the parallel i>ɨ fact (omitted
+$ previously) are restored below.
+$NOTE: Pardess notes explicitly that [e]>[ə] after "rr" (i.e. after the
+$ trill) but NOT after plain (tap) [r]; he also notes [i]>[ɨ] in the same
+$ environment (both effected by R50 below).
+ɾ > r / # __
+
+$$PG:87-88 R27A -- Tensing of [E] before a nasal + oral-consonant cluster
+$ORDER: necessary to bleed R27B (diphthongization of [E]); if [E] had
+$ diphthongized here instead, the resulting yod would have wrongly
+$ triggered consonant palatalization, as shown in Pardess's own derivation
+$ table (p.87) tracing a counterfactual *tyempu/*dyente/*lyemba path.
+[+syl,-tense,-back,-hi] > [+tense] / __ [+nas,+cons] [-nas,+cons]
+
+$$PG:88-89 R27B -- Diphthongization of [E]: [E] > [ye] (Otero P36A)
+$NOTE: Pardess discusses at length whether this diphthongization is a
+$ Balkan-Romance-period (pre-split) change or a parallel, independent
+$ post-split innovation shared coincidentally with French/Spanish/Italian;
+$ he treats the actual diphthong-formation as CR-period even though the
+$ conditioning tendency (opening/lengthening of E:) may be older.
+$NOTE: Pardess's printed formal statement is simply "∅ > y / __ V[-tense]"
+$ with no left-context restriction and no explicit stress requirement;
+$ the left-context disjunction and the "+stres" requirement below are
+$ inferred from the fact that all his worked examples are stressed,
+$ word/consonant-initial forms, not stated explicitly in the formal rule.
+∅ > j / {#;[+cons]} __ [+syl,-tense,-hi,-back,+stres]
+
+$$PG:89-90 R28 -- Unstressed [o] > [u]
+[+syl,+back,-hi,-low,-stres] > [+hi]
+
+$$PG:90-92 R29A/R29B -- Definite article formation: stress loss (R29A) and apheresis+enclisis (R29B) of postposed ILLE/ELLU
+$NOTE (Executive Decision 4/9): both R29A and R29B are, by Pardess's own
+$ framing, restricted entirely to the grammaticalizing postposed definite
+$ article morpheme (not a general phonological environment), part of the
+$ broader process discussed fully in Chapter 7. No general phonological
+$ rule line is given; retained as comment-only entries.
+$ R29A: e > [-stress] / #__ (in the postposed article only)
+$FIXED: R29B is not only apheresis. Ch.7's derivation table (BR "lúpu
+$ éllu" > R29A "lúpu ellu" > R29B "lúpullu") shows the ARTICLE ALSO
+$ CLITICIZES ONTO THE HOST NOUN (the word boundary between them is lost,
+$ producing the geminate "ll" from concatenation) -- exactly the kind of
+$ change DiaSim's phonological-rule format cannot represent, which is
+$ precisely why this is comment-only, but the enclisis component should
+$ still be stated, not silently dropped.
+$ R29B: e > 0 / #__ (apheresis), together with loss of the word boundary
+$ before the host noun (enclisis/cliticization -- not encodable as a
+$ phonological rule) -- in the postposed article only, after stress loss
+$ (R29A).
+
+$$PG:93-94 R30 -- Preyodization of initial [e]: [e]>[ye] in some words
+$FIXED: this was previously tagged "(Executive Decision 4)", but ED4 is
+$ specifically about word-length or definite-article-morpheme
+$ conditioning. R30's restriction is neither -- it is a closed, arbitrary
+$ LEXICAL set (ESTE, ELLU, ELLA, imperfect of "a fi", etc.), unrelated to
+$ word shape or the article morpheme. The ED4 tag is removed below.
+$NOTE: lexically restricted (ESTE, ELLU, ELLA, imperfect of "a fi", etc.),
+$ likely due to Slavic contact influence (Pardess compares Serbo-Croatian
+$ je/e); not a blanket phonological environment. Given here as the closest
+$ general approximation, but a faithful implementation would need to
+$ restrict this to a specific lexical/morphological class.
+$FIXED: added Pardess's dialect-distribution argument for dating this to
+$ CR, previously omitted: "In the Romanian dialects, preyodization is
+$ found in MR and IR but not in AR. It seems therefore that preyodization
+$ must have occurred in CR and that it was eliminated at a later date in
+$ AR (Vasiliu 1968:68)."
+∅ > j / # __ e
+
+$$PG:94-95 R31A -- Metaphony: stressed mid vowels laxen before [a]/[e] in the next syllable, except before /n/ or /m/+C
+$FIXED (multiple): Pardess's formal rule is "[V,-high,-low,+acc] >
+$ [-tense] / __ Co [V,-high,-round]", where "Co" = zero-or-more
+$ consonants. The previous version (a) hardcoded exactly ONE intervening
+$ consonant, failing on its own headline example négra>neagră (which has
+$ TWO intervening consonants, g-r); (b) restricted the triggering
+$ following vowel to [+low] ("a" only), but Pardess's own trigger class
+$ [V,-high,-round] also covers "e", and his own R31B example set (négre>
+$ neágre, later reverted by R53B) confirms "e" genuinely triggers this
+$ rule too -- the previous version silently dropped half the rule's
+$ coverage. Both are fixed below (Kleene-star via DiaSim's "(...)*", and
+$ the right context widened to [-hi,-round]).
+$FIXED: the "except before N or mC" exception was mischaracterized. The
+$ source (p.95) states the exception precisely as: (i) the intervening
+$ material is exactly the single consonant /n/ ALONE (not the general
+$ nasal class -- Pardess's own key uses capital "N" for the nasal class,
+$ but he writes lowercase "n" here), or (ii) it is /m/ followed by
+$ exactly one more consonant ("mC", e.g. mp/mb, matching R27A's tempu/
+$ dente/limba set). Bare "m" without a following consonant is NOT
+$ exempted. This asymmetric, phoneme-specific exception is not encodable
+$ in DiaSim's format (no negative environments) and must be enforced
+$ lexically if implemented.
+$NOTE: Pardess's own text inconsistently alternates between "R31A" and
+$ "R31B" within two adjacent sentences discussing this rule's ordering
+$ relative to R27B (p.95) -- apparently an authorial slip in the source
+$ itself, noted here for completeness.
+[+syl,-hi,-low,+stres] > [-tense] / __ ([+cons])* [+syl,-hi,-round]
+
+$$PG:95-97 R31B -- Diphthongization of the newly-laxed mid vowels: [E]>[ea], [O]>[oa]
+$NOTE: Istro-Romanian shows [E]/[O] where the other dialects show [ea]/
+$ [oa]; per Vasiliu/Puscariu, R31B DID apply in IR too, followed by a
+$ subsequent (IR-specific) reversion, rather than R31B simply failing to
+$ apply there.
+∅ > a / [+syl,-tense] __
+[+syl,-tense] > [-syl]
+
+$$PG:98 R32 -- Displacement of accent + loss of syllabicity: [ea]-stressed-on-e > [ea]-stressed-on-a
+$FIXED: Pardess's rule targets literally "[e]" (matching the title "[éa]
+$ > [eá]"), not the broader class that also includes stressed "o" (which
+$ would extend the rule to "oa" sequences with no textual warrant). "-back"
+$ is added to the target below to exclude "o" and restrict to "e", as
+$ Pardess states.
+[+syl,-low,-back,+stres,+prim] [+syl,+low] > [-syl,-stres,-prim] [+syl,+low,+stres,+prim]
+
+$$PG:98-99 R33 -- Raising of [a],[o] before a non-geminate nasal
+$NOTE (Executive Decision 2/4): "non-geminate" is approximated by simple
+$ adjacency to a single following nasal consonant; true geminate nasals
+$ (ANNU, etc.) are represented as doubled segments (n n) under Executive
+$ Decision 2.
+$FIXED: two bugs. (1) The a>ə line's output feature matrix was wrong:
+$ per symbolDefs.csv, a is [hi:-,lo:+,back:-,front:+,tense:+] and ə is
+$ [hi:-,lo:-,back:-,front:-,tense:0] -- the only features that actually
+$ change are [lo] and [front]; [hi] STAYS "-" in both, so the previous
+$ output "[+hi,-low,-back]" was simply incorrect (ə is not high) and
+$ omitted the real, necessary [-front] change. Corrected to [-low,-front].
+$ (2) The claim that geminate nasals are "automatically" excluded by the
+$ single-segment context "__[+nas,+cons]" does not actually hold: that
+$ environment only checks ONE segment of lookahead, so for "ánnu" the
+$ FIRST of the two geminate n's still satisfies "__[+nas,+cons]"
+$ regardless of what follows it, and the rule as previously written would
+$ incorrectly fire on ánnu (giving *ənnu), contradicting Pardess's own
+$ stated exception ("ánnu remains ánnu", "doámna remains doámna"). A
+$ second segment of context is added below (requiring the material AFTER
+$ the nasal to be non-nasal) to actually implement the exclusion; this is
+$ applied to both lines for consistency, since both are subject to the
+$ same geminate-nasal exception under Executive Decision 2's
+$ representation.
+[+syl,+low] > [-low,-front] / __ [+nas,+cons] [-nas]
+[+syl,+back,-hi,-low] > [+hi] / __ [+nas,+cons] [-nas]
+
+$$PG:99-100 R34 -- Rhotacism: non-geminate intervocalic [l] > [r(tap: ɾ)]
+$NOTE: does not apply to Slavic-origin words (loanword stratum exception).
+$FIXED: Pardess actually offers TWO competing explanations for why Slavic
+$ loanwords escape this rule (p.100), previously flattened to a generic
+$ "loanword stratum exception": "1) the rule had already applied and was
+$ no longer in effect when OS words penetrated into CR, or 2) the
+$ intervocalic OS [l] was somehow phonetically different from the BL
+$ [l]..." Both are given here.
+$NOTE: because CL/BR geminate [ll] is represented as two adjacent /l/
+$ segments (Executive Decision 2), a genuine [V l l V] sequence never
+$ matches this rule's "[+syl] __ [+syl]" context on either of its two [l]
+$ occurrences (neither has a vowel on both sides) -- so true geminates are
+$ automatically excluded without any extra machinery. (Unlike R33 above,
+$ this reasoning is correct as stated: a genuine V-l-l-V sequence indeed
+$ fails to satisfy the two-sided vowel context on either l.)
+l > ɾ / [+syl] __ [+syl]
+
+$$PG:100-101 R35A -- [ll] > [w] before unstressed [a]
+$NOTE: does not apply when the following [a] is stressed (e.g. CR
+$ MEDULLA:RE remains unaffected, giving DR "madular").
+l l > w ∅ / __ [+syl,+low,-stres]
+
+$$PG:101 R35B -- Degemination of remaining [ll] > [l]
+l l > l ∅
+
+$$PG:101-102 R36A -- Loss of secondary [w] between two unstressed vowels: [Vwa]>[Va]
+$FIXED (citation): entire rule (title, formula, examples) fits on p.101
+$ alone; previous citation "101-102" is corrected to "101".
+w > ∅ / [+syl,-stres] __ [+syl,+low,-stres]
+
+$$PG:102 R36B -- Lengthening of feminine-singular def.-article [a] in all articulated fem. sg. nouns (nom./acc.)
+$NOTE (Executive Decision 4/9): Pardess explicitly calls this "in reality
+$ a morpho-phonologic rule, since the conditions are morphologic" (p.102);
+$ retained as comment-only, no general phonological rule line given.
+$ a > [+long] / __ # (in all articulated fem. sg. nom./acc. nouns only)
+
+$$PG:102 R36C -- [uwa] > [uva]
+w > v / u __ a
+
+$$PG:102-103 R37A -- Raising of non-initial, non-geminate, unstressed [a] to schwa
+$NOTE: applied to Slavic-origin words as well (PLATITI > PLETITI).
+$FIXED: Pardess's printed rule restricts the target with "-long"
+$ ("[V,+low,-acc,-long] > [ə] / C __"), dropped in the previous version.
+$ This exclusion is load-bearing: R36B (immediately preceding) lengthens
+$ the feminine-singular article's [a], and "-long" is precisely what
+$ protects that lengthened [a] from being reduced to schwa here.
+[+syl,+low,-stres,-long] > ə / [+cons] __
+
+$$PG:103 R37B -- Degemination of identical adjacent vowels: [VV]>[V]
+[+syl,αhi,αlo,αback,αround,αtense,αlong] [+syl,αhi,αlo,αback,αround,αtense,αlong] > [+syl,αhi,αlo,αback,αround,αtense,αlong] ∅
+
+$$PG:103-104 R38 -- Glide formation: [e] becomes non-syllabic before [a]
+$FIXED: Pardess's rule is a pure syllabicity change ("e > [-syl] / __ a"
+$ -- title: "[e] becomes a glide before [a]"), NOT a substitution of the
+$ actual phone /j/ (a HIGH front glide; symbolDefs.csv: hi=+,front=+),
+$ which wrongly adds height features Pardess never touches and is
+$ internally inconsistent with how this same extraction correctly
+$ handles the analogous R13D and R31B glide-formation rules (both use
+$ bare "[-syl]" rather than substituting a different phone). Recasting
+$ this glide as literal "j" also risks mis-feeding later yod-triggered
+$ rules (R41A, R41B, R42A, R45A) for any word with l/n/s immediately
+$ before an "ea" sequence this rule produces.
+e > [-syl] / __ a
+
+$$PG:104 R39 -- Lowering of unstressed internal [i] to [e], flanked by consonants
+$ORDER: necessary at this point to bleed R40 (i.e. so this [i] does not
+$ also undergo the following diphthongization rule).
+[+syl,+hi,-back,-stres] > e / [+cons] __ [+cons]
+
+$$PG:104-105 R40 -- Diphthongization of [i]: [i] > [yi]
+$NOTE: proposed by Puscariu (1927), reintroduced by Sala (1976); Vasiliu
+$ (1968, 1969) considers this rule unnecessary, preferring direct
+$ palatalization/affrication of alveolars before [i] without an
+$ intermediate glide stage. Pardess sides with Puscariu/Sala, citing
+$ extraordinary dialectal palatalizations as evidence. (Pardess's own
+$ text mislabels this rule "R34" once in the discussion on p.104 --
+$ context makes clear "R40" is meant; an authorial slip, noted here for
+$ completeness, analogous to the R13F/R13G mislabeling flagged elsewhere.)
+∅ > j / __ i
+
+$$PG:105-106 R41A -- Palatalization of non-occlusive alveolars before yod: [l]>[ʎ], [n]>[ɲ], [s]>[ʃ]
+$FIXED: Pardess's rule restricts the target with "+cont" ("[+cont,+ant,
+$ +cor] > [+high,-ant] / __ y"), dropped in the previous version. This
+$ mattered a great deal: without +cont, the "s"-line's class ([+ant,+cor,
+$ -son]) ALSO matches the stops t,d (meant for R42A instead, which is
+$ ordered after this rule) -- so as previously written, this rule would
+$ have consumed every t/d-before-yod form (tyésu, tyéne, kutyítu, dyeáče,
+$ dyíku, awdyíre -- all of R42A's own worked examples) before R42A ever
+$ saw them. Likewise the "l/n"-line's class ([+ant,+cor,+son]) also
+$ matched the tap/trill rhotics (not part of Pardess's rule at all),
+$ which would have been palatalized into a feature bundle matching no
+$ real phone. Since only three concrete segments are ever targeted here,
+$ the safest and clearest fix is direct symbol substitution rather than
+$ patching the feature matrix further:
+l > ʎ / __ j
+n > ɲ / __ j
+s > ʃ / __ j
+
+$$PG:106 R41B -- Absorption of yod after the newly-palatalized segment
+j > ∅ / [-ant,-cor,+hi,+front,-back,+cons] __
+j > ∅ / [-ant,+cor,+distr] __
+
+$$PG:106-107 R42A -- Affrication of alveolar stops before yod: [t]>[ts], [d]>[dz]
+$NOTE: [ts]/[dz] as phonetic outputs had already arisen once before, in
+$ Balkan Romance (R18-R19, before R27B/R40 existed); Pardess is explicit
+$ that R42A depends on the yod created by R27B ([E]>[ye]) and R40
+$ ([i]>[yi]), both later CR-period developments, to feed a fresh round of
+$ this same affrication pattern.
+[+ant,+cor,-cont] > [+delrel] / __ j
+
+$$PG:107-108 R42B -- Absorption of yod after the newly-created affricate
+j > ∅ / [+delrel] __
+
+$$PG:108 R43 -- Palatalization of [l] after a velar STOP (excludes velar fricative [ɣ])
+l > ʎ / [-cont,-ant,-cor] __
+
+$$PG:108 R44 -- Fronting of [ə] after the newly-palatalized dorsal consonants
+$FIXED: the previous target class "[+syl,-tense,-hi,-back]" does not
+$ actually select ə -- per symbolDefs.csv, ə has tense=0 (not "-"); the
+$ matrix as written instead picks out ɛ, an entirely different vowel.
+$ Even setting that aside, output "[+tense]" alone cannot derive "e" from
+$ ə, since ə also differs from e in [front] (- vs. +), which the previous
+$ version never touched, leaving a feature bundle matching no real
+$ vowel. Direct symbol substitution avoids both problems.
+ə > e / [-ant,-cor,+hi,+front,+cons] __
+
+$$PG:109 R45A -- Assimilation: [s] > [ʃ] before the affricate [t͡ʃ]
+$FIXED: Pardess's title and formal rule are explicit: "[s] > [š] before
+$ [č]" (formal context = the affricate č's own feature signature). The
+$ previous version instead gave environment "__{i;j}" ("before i/yod"),
+$ which duplicates/conflates this rule with R41A's earlier, unrelated
+$ s>š-before-yod change rather than reflecting Pardess's actual
+$ before-affricate dissimilatory-assimilation environment. Corrected to
+$ a direct, unambiguous statement of the actual environment.
+s > ʃ / __ t͡ʃ
+
+$$PG:109 R45B -- Dissimilation: [t͡ʃ] > [t] after [ʃ]
+$FIXED: the previous version's target/input matrix was identical to its
+$ own context matrix (both equal to š's feature signature), apparently a
+$ copy/paste artifact from the context slot into the target slot, rather
+$ than the actual affricate č's signature (which differs crucially in
+$ [cont] and [delrel]). As previously written the rule described "š (or
+$ anything sharing exactly š's features) becomes a stop after another
+$ such segment" -- not Pardess's actual "č becomes t after š." Direct
+$ symbol substitution is used below since a literal feature-matrix
+$ rendering of Pardess's own printed output ([-delrel,+ant]) would still
+$ leave a [+distr] specification that does not exactly match plain "t"
+$ either -- an imprecision original to Pardess's own SPE statement, best
+$ sidestepped with concrete phones.
+t͡ʃ > t / ʃ __
+
+=Common Romanian
+$ End of Chapter 5 (p.109-110). BLACK stage (see Executive Decision 7):
+$ Common Romanian is likewise unattested/comparatively reconstructed --
+$ Pardess derives its rule set by comparing the four modern dialects
+$ (DR, Aromanian, Megleno-Romanian, Istro-Romanian), not from any text.
+
+
+$ ############################################################################
+$ CHAPTER 6: COMMON ROMANIAN -> DACO-ROMANIAN (11th c. onward)
+$ Vasiliu's 'schimbari fonetice' (V##) cross-references preserved where given.
+$ ############################################################################
+
+$$PG:112-113 R46A -- Fronted vowel [e] backs to [ə] after a labial consonant when a later syllable contains a back vowel (V10)
+$FIXED (Executive Decision 6): the previous claim that Pardess's formal
+$ feature-matrix statement here is "visibly OCR-damaged" and unreconstruct-
+$ able was mistaken -- both direct inspection and an independent
+$ pdftotext pass show it is fully legible: "[-cons,-back,-high] > [+back]
+$ / [C,+ant,-cor] ___ Co V[+back]" (p.112), i.e. restricted to NON-HIGH
+$ front vowels (the previous "tentative" reconstruction wrongly admitted
+$ high [i] too), with the labial required to be a SINGLE, IMMEDIATELY
+$ ADJACENT consonant (no Kleene-star on that side -- the previous version
+$ wrongly inserted one), and the "Co" (Kleene-star) belonging only
+$ AFTER the target, before the eventual back vowel (confirmed by the
+$ Ch.8 derivation table for CAPITANEUM: kapeténu > kəpaténu, where "p" is
+$ directly adjacent to the target "e" and the Co gap, "tn", falls between
+$ the target and the eventual back vowel "u").
+$FIXED: as flagged in the file header, Pardess's own [+back] feature
+$ change does not correspond to DiaSim's symbolDefs.csv coding of the
+$ resulting vowel: Pardess calls the output "[ə]" by name throughout the
+$ rules that follow (R47A, R49) and the Ch.8 synoptic index confirms it
+$ ("R46A e > ə"), but symbolDefs.csv codes ə as [back:-], so a literal
+$ [+back] feature-flip on "e" cannot resolve to DiaSim's own "ə" symbol.
+$ Direct symbol substitution (e>ə) is used below instead, sidestepping
+$ the mismatch; ə itself is trivially unaffected (already the target
+$ output) so no separate ə>ə line is needed.
+$ Word list (confirmed correctly transcribed): méru>máru, péru>páru,
+$ védu>vádu undergo backing; méri, péri, vézi, veáde, vecínu, mease,
+$ peanne, beare are lexical exceptions per Pardess (his own text notes
+$ the true conditioning is more specific than this reconstruction fully
+$ captures; consult p.112-113 directly for a careful implementation).
+e > ə / [+cons,+ant,-cor] __ ([+cons])* [+syl,+back]
+
+$$PG:113 R46B -- Loss of [ə] before [a]: [əa] > [a]
+$FIXED: this was previously given as a feature/identity change on an
+$ invented symbol "ɔ" ("ɔ > a / __ a"). Pardess's actual formal statement
+$ (p.113) is an outright DELETION: "ə > ∅ / __ a" -- confirmed both by
+$ his title ("Loss of [ə] before [a]") and, decisively, by the Ch.8
+$ derivation table for PINNAM (pəánnə > R46A(no-op here) > R46B pánnə,
+$ a full syllable lost, not merely a vowel-quality change) and by the
+$ synoptic index's own shorthand "R46B əa > a". Neither "ɔ" nor any
+$ mutation-to-a is supported anywhere in the source for this rule --
+$ Pardess's actual input symbol throughout this stretch is "ə" (see
+$ R46A above), never "ɔ".
+ə > ∅ / __ a
+
+$$PG:113-114 R47A -- Raising of [ə] before [n], or before [m]+C+V (V59)
+$FIXED: Pardess's rule is a genuine disjunction ("ə > [+high] / __ {n;
+$ mCV}") -- the bare-"n" disjunct requires NOTHING beyond the "n" itself
+$ (no following vowel needed), which the previous single-formula version
+$ (requiring a trailing [+syl] in every case) did not allow for. The
+$ previous version also used a malformed "?" quantifier (`([+cons])?`),
+$ which is not part of DiaSim's documented optionality syntax (only
+$ "(...)", "(...)*", "(...)+" are supported) -- the only such occurrence
+$ in the file. Both disjuncts are given as separate lines below, using
+$ direct symbol substitution (ə>ɨ) for the same reason given at R46A/R46B
+$ (Pardess's own [+back]-based feature statement does not resolve to
+$ DiaSim's actual "ə"/"ɨ" symbols, both coded [back:-] in symbolDefs.csv).
+ə > ɨ / __ n
+ə > ɨ / __ m [+cons] [+syl]
+
+$$PG:114 R47B -- Raising of [e] before a nasal consonant (V63)
+$NOTE: possibly some forms had already inherited [i] in this environment
+$ from Late Latin, per Pardess.
+[+syl,-back,-low,-hi] > [+hi] / __ [+nas,+cons]
+
+$$PG:114 R48 -- Degemination of [nn] > [n]
+n n > n ∅
+
+$$PG:114-115 R49 -- Raising of [ə] before [r] or [s] plus a consonant
+$FIXED: for the same reason given at R46A/R47A above (Pardess's [+back]-
+$ based feature statement doesn't resolve to DiaSim's actual "ə"/"ɨ"
+$ symbols), and to fix an internal inconsistency where the surrounding
+$ commentary at R46B/R47A/R49 previously used three DIFFERENT ad hoc
+$ placeholder names ("ɔ", "[Q]", and literal "ə") for what should be one
+$ consistent segment, direct symbol substitution is used below.
+ə > ɨ / __ {r;s} [+cons]
+
+$$PG:115 R50 -- Backing of front vowels [e],[i] after the trill [r] (V13)
+$ORDER/DEPENDENCY: this crucially depends on R26A/R26B having already
+$ created the distinct trill segment "r" -- see Executive Decision 1 and
+$ the remark at R26B; the change explicitly does NOT occur after the tap.
+$FIXED: for the same reason given at R46A/R47A/R49 above, a literal
+$ [+back] feature-flip on a front vowel does not resolve to DiaSim's
+$ actual "ə"/"ɨ" symbols (both coded [back:-]). Direct symbol
+$ substitution is used below for the two changes Pardess explicitly
+$ documents at R26B (e>ə and i>ɨ after the trill).
+e > ə / r __
+i > ɨ / r __
+
+$$PG:115 R51 -- Simplification of the trill [r] back to the tap [ɾ]
+$NOTE (Executive Decision 1): this is where Pardess's ad hoc "[+rep]" =>
+$ "[-rep]" formal statement is realized, in our mapping, as the trill/tap
+$ merger that gives Modern Standard Romanian's characteristically tapped
+$ rhotic.
+r > ɾ
+
+$$PG:116 R52A -- Deaffrication of the voiced alveolar affricate: [dz] > [z]
+[+delrel,+ant,+voi] > [-delrel]
+
+$$PG:116 R52B -- Deaffrication of the voiced palatal affricate before a round vowel: [dZ] > [Z]
+$FIXED: the output feature was silently changed from Pardess's literal
+$ printed "[+cont]" to "[-delrel]". This matters: symbolDefs.csv shows
+$ the target symbols z/ʒ have [cont:+] explicitly specified but
+$ [delrel:0] (unspecified), so matching via [+cont] (as Pardess wrote) is
+$ the safer, more literal choice for correctly resolving to ʒ in this
+$ feature table. Restored to Pardess's literal output feature below; the
+$ previously-added (undisclosed) "+voi" on the target is also removed
+$ since it is not in Pardess's printed bracket (the rule's title already
+$ specifies "voiced").
+$NOTE (Executive Decision 4/dialect; citation clarified): Pardess states
+$ this pair (his R52A/R52B) is cited once in the body text -- p.116 -- as
+$ "R57A"/"R57B", apparently an authorial numbering slip (likely meaning
+$ "R52A"/"R52B", the very rules whose scope is being restricted in that
+$ paragraph) -- confirmed present verbatim on p.116, and confirmed NOT an
+$ Otero/Vasiliu-style cross-reference (those are always parenthetical,
+$ e.g. "(V47)"). Independently confirmed via the Ch.8 synoptic index
+$ (p.141), which lists this pair as "R52A"/"R52B", matching the labels
+$ used throughout this cascade.
+$FIXED: the previous note additionally claimed "no separate R57 exists
+$ elsewhere in the numbering" -- this is simply WRONG: this very cascade
+$ contains its own distinct, unlettered "R57" rule ("[yea]>[ya]") at
+$ pp.119-120 below, independently confirmed as a genuine rule in the
+$ Ch.8 synoptic index too (p.141: "R57 yea>ya, pyeatra>pyatra"). The
+$ correct statement is: there is a real R57 in the numbering, just no
+$ LETTERED "R57A"/"R57B" pair -- "R57A"/"R57B" at p.116 is best explained
+$ as a slip for "R52A"/"R52B".
+$ applied ONLY in the Daco-Romanian dialects; the southern dialects (AR,
+$ MR, IR) retained [dz]/[dZ]. This dialect restriction is not encoded in
+$ the feature-based rule itself.
+[-son,+delrel,-ant] > [+cont] / __ [+syl,+round]
+
+$$PG:117 R53A -- Monophthongization of [ea] after [ʃ] or [ts] (sporadic)
+$FIXED: the trigger consonant was mistranscribed as plain "[s]"; Pardess's
+$ title and examples are unambiguous that the trigger is "[š]"
+$ (postalveolar, DiaSim symbol ʃ), not alveolar "[s]" -- šeápte>šápte
+$ (DR șapte), šeárpe>šárpe (DR șarpe), tseárə>tsárə (DR țară). These are
+$ phonemically distinct segments in this feature system (symbolDefs.csv
+$ gives s and ʃ separate rows differing in ant/cor/distr).
+$ORDER: necessary at this point to bleed R53B (else SEPTE, SERPENTE-type
+$ forms would wrongly further monophthongize to *[e] rather than surface
+$ [a]).
+ea > a / {ʃ;t͡s} __
+
+$$PG:117-118 R53B -- Monophthongization of [ea] before a syllable containing [e] (V65)
+$ORDER/DEPENDENCY: Pardess notes (p.118) that word-final infinitive -RE
+$ must ALREADY have been deleted before R53B applies -- otherwise verbs
+$ like "a bea", "a putea" would wrongly monophthongize their root [ea] as
+$ well, giving *bere > *a be instead of the correct "a bea". Pardess does
+$ NOT give this final-syllable -RE deletion its own rule number anywhere
+$ in the numbered inventory; it is an unstated prerequisite change, flagged
+$ here as a gap in Pardess's own explicit rule ordering.
+$NOTE (Executive Decision 3): Pardess's formal statement here is also
+$ "$"-based ("ea > e / __ $ Co e"), the same syllable-boundary primitive
+$ issue flagged at R7 but not previously flagged here for consistency.
+$ The approximation below (a following [e] reachable through zero or
+$ more consonants) is retained as harmless in practice.
+ea > e / __ ([+cons])* e
+
+$$PG:118 R54 -- Delateralization of the palatal lateral: [ʎ] > [y] (V61, V64)
+$NOTE: Aromanian and Megleno-Romanian retain the palatal lateral
+$ (dialect-specific exception; not encoded in the rule).
+ʎ > j
+
+$$PG:119 R55 -- Denasalization of the palatal nasal: [ɲ] > [y] (V60)
+$FIXED (title): previously read "Denasalization/delateralization" --
+$ "delateralization" is a misnomer for a NASAL segment (ɲ is not a
+$ lateral; delateralization is the correct term for R54's ʎ>y, not for
+$ this rule) and looks like a copy-paste artifact from the adjacent R54
+$ entry. The rule line itself (ɲ>j) is correct and unchanged.
+$NOTE: DR forms like BUNI, BANI, CLINI are back-formations on the
+$ singular, not regular outputs of this rule.
+ɲ > j
+
+$$PG:119-120 R56 -- Loss of yod before [i]
+$ORDER/DEPENDENCY: see the remark at R53B above -- the deletion of
+$ infinitival final -RE must have occurred before this rule too, for the
+$ same reason (else "a bea"/"a putea" type roots would be miscomputed).
+j > ∅ / __ i
+
+$$PG:119-120 R57 -- [yea] > [ya]
+e > ∅ / j __ a
+
+$$PG:120 R58 -- Word-final schwa fronts to [e] after [i]
+ə > e / i __ #
+
+$$PG:120-121 R59A -- Devoicing of word-final high vowels [u],[i], except after a consonant+liquid cluster (V27a,b)
+$NOTE (Executive Decision 4): the "except after C+liquid" condition is a
+$ negative/exception condition (LUKRU, PENTRU, AMPLU, AFLU are unaffected)
+$ that cannot be cleanly expressed as a positive phonological context in
+$ this format; it is flagged here rather than encoded, and would need to
+$ be enforced via an explicit lexical exception list in an actual DiaSim
+$ run.
+[+syl,+hi] > [-voi] / @ __ #
+
+$$PG:121 R59B -- Loss of word-final (devoiced) [w]
+$ORDER/DEPENDENCY: feeds directly from R59A's devoicing of final [u].
+$NOTE: Pardess notes this also applied variably in MR/IR but, per Vasiliu,
+$ independently after the dialect split (parallel/tendential change), not
+$ as a shared CR-period innovation.
+$NOTE: Pardess's own transcription marks the target as the specifically
+$ VOICELESS glide (w̥, the immediate output of R59A); DiaSim's symbolDefs.csv
+$ has no devoiced-glide symbol, so plain "w" is used below as a forced
+$ approximation (harmless in practice, since this rule's only input in
+$ any of Pardess's examples is R59A's own output).
+w > ∅ / __ #
+
+$$PG:121 R59C -- Word-final [ii] > [i]
+i i > i ∅ / __ #
+
+$$PG:121-122 R60 -- Loss of final [l] of the masculine-singular definite article
+$NOTE (Executive Decision 4/9): Pardess attributes this to morphological
+$ reanalysis (CALULUI reanalyzed as CALU + LUI, with LUI having become an
+$ independent preposition 'of'), occurring identically across all
+$ dialects -- not a regular phonological sound change conditioned by
+$ phonological environment alone. Retained as comment-only, no general
+$ phonological rule line given.
+$ l > 0 / __ # (in the masculine singular definite article only)
+
+$ ############################################################################
+$ END OF CASCADE. Output = Modern Standard Daco-Romanian.
+$ Chapter 7 (pp.123-136) revisits the enclitic definite article in more
+$ detail but, per inspection of its derivation tables, introduces no
+$ additional numbered rules beyond R27B, R29A, R29B, R31A, R31B, R35B,
+$ R40, R41A, R41B, R53B, R54, R56, R59, R59C, R60 (all already given
+$ above in their place); it is a discussion/defense chapter, not a source
+$ of new sound changes. [Re-verified during this audit against all three
+$ Ch.7 derivation tables (masculine, feminine Type I, feminine Type II,
+$ pp.130-132): no rule numbers outside this list were found -- confirmed
+$ accurate.]
+$ ############################################################################

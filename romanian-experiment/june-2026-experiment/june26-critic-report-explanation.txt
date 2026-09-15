@@ -1,0 +1,39 @@
+This explains the june26-critic-report.csv's contents, which compares the performance of the critic LLM in catching error's in the actor's ound change extraction from a PDF 
+
+#Background
+
+The PDF used for extraction was Pardess 1990 "From Latin to Romanian: Phonological Rules", file "Pardess_From_Latin_to_Romanian_phonol.pdf" 
+
+actor output: "extractor-claude-pardess-Latin_to-Romanian_Cascade.txt"
+critic output: "extrcritic-corrected-pardess-Latin-to-Romanian.txt"
+critic's report: "extrcritic-Latin-Romanian-Report"
+human annotated gold corrected version: corrected-claude-pardess-Latin-to-Romanian-cascade-annotated.txt
+
+#Structure of the report file. 
+
+
+One row for each sound change. Columns include first a column for the name of the sound change in Pardess, and then, in order, by title (in the header first row) -- "Input": the sound change input. "Output": sound change output. "Context": sound change context. "Pages": page attribution (other than the block starting on 137, see below). "Etyma": etyma attribution. "Order": ordering of rules. Order also is marked if another rule was necessary to cover the described sound change, but it was missed --or if one was erroneously added. As is the case with R4A, where syncope between a resonant and obstruent on each side was covered, but there was no coverage for the case where syncopated vowels were between two resonant consonants, which Pardess did also include in the description of R4A -- "either or both Ci and Cj = R".
+
+
+These two can overlap with other errors./
+TargetFidelity -- fidelity to the target format (DiaSim, Phonobank etc.). This also includes errors that produce defects with respect to the notational/formulational scheme of the target, e.g. SPE for example. 
+SourceFidelity -- fidelity to source (Pardess) in terms of rule formulation. Not general fidelity which would be redundant. E.g. for R2A, extracting ae̯ rather than aj. This is fine to do but it should have been noted in a systematic way that is consistent with other such cases.
+
+
+currently not included, but present as a GLOBAL problem to fix 
+
+1. the critic never catches that, for the page report, the actor does not report the secondary mention of sound changes in the list starting on page 137. Other page number error misses are noted however. 
+
+2. Although Pardess says that [acc] is specifically PRIMARY stress, the actor and critic basically always use +stres instead, which could be primary or secondary. 
+
+Not counting -- usage of "j" for Pardess' "y", which is what Pardess intends anyways and a clear Americanist/IPA issue.
+
+In each cell for columns other than the first -- "0" (ab initio): means actor's output was good, and critic rightly did not (falsely) 'correct' it. 
+	"1": actor's output had an error, critic corrected it. 
+	"-1": actor's output had an error, critic missed it. 
+	"-1.5": actor's output had no error, critic erroneously changed something. 
+	sum of absolute values of a column will be how prone actor is to errors in that aspect
+	sum of values (not absolute) of a column how well the critic performed at fixing errors that showed up 
+
+	"0.5": actor's output had error, critic made a fix that either introduced problems or did not quite fix it.
+	"-0.5": actor's output changed the source in a relatively benign way, but this should have been noted, and it wasn't.  
