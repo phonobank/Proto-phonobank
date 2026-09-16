@@ -13,11 +13,39 @@ Present priorities:
 
 A. Scalable extraction method, building for security with actor-critic dynamic (Clayton)
 
+    At present, it is not clear whether using LLMs will actually be more efficient
+        For the relatively easy case of extracting sound changes in the development of Latin to Romanian from Pardess 1990's dissertation, containing less than 100 rules...
+            - a manual extraction (into DiaSim format) of these took under 3 hours
+            - attempts to extract it by the actor alone could take 10-20 minutes or so. While the actor did impressively learn to handle certain issues of notation and precision in rule formalism, there were enough errors in this area, as well as certain document-reading difficulties, that manually going through and detecting and then fixing these took longer than extracting it by hand would.
+                - having the critic do it did not produce an accurate cascade in a timely fashion either. The critic took even longer than the actor -- upwards of 30 minutes. Its output variously missed errors, caught them but failed to completely fix them, caught them but introduced new errors in a 'fix', and actually fixed errors. Comparing the two files and the source file to an accurate cascade is quite a large amount of work and takes around three days of work rather than three hours. 
+
+            - it may be possible to reach better and faster performance with the actor and critic, however, there are reasons for scepticism...
+                - the sorts of difficulties the LLMs will encounter with other documents will not necessarily be the same as those seen with Pardess. Pardess explicitly made SPE-style rule formalisms. Many authors do not even do that. Without formalisms to start with, it will be much harder for the actor to write, and for the critic to assess, rule formalisms made for sound changes described by prose. Pardess, unlike most diachronic phonological grammars, also explicilty chronologized his rules -- others tend to just say A comes before B, so the chronologization would have to involve a lot of reasoning; it is naive to assume the LLM would do this, and do so in a correct, let alone transparent, way. 
+                - Pardess 1990 is remarkably short compared to other phonological grammars that would be used. 
+                - Pardess explicated what his shorthands, phoneme symbols, and features were. Many sources don't. 
+                - Latin to Romanian is a much easier cascade than the average scenario
+
+            -thus, it may be better to focus on the schema, infrastructure and annotational concord -- and leave the task of extraction from cascades to humans?
+
 B. Schema for internal representational structure (Isaac)
 
         See file: "phonobank_blueprint" (Clayton); "proto_schema" (Isaac)
 
 C. Standardization of annotation (Clayton and Mattis -- see "Misl DiaSim interpolation" file to start)
+
+    See file : "Misl DiaSim interpolation notational differences" , made by Clayton earlier 
+    
+    C.i -- handling of features
+        One of the biggest differences between DiaSim and Mis*l is that Mis*l does not support feature computation. Mis*l does support inline definitions of active phonological classes that will be valid afterward in a script; functionally, these are equivalent to using a bracketed disjunction (e.g. {ʃ;p;b;f;m}) in DiaSim, where it is used for so-called "unnatural classes" which cannot be defined by feature values. 
+
+        Therefore, conversion from a phonological class in Mis*l to a disjunction in DiaSim is trivially easy: it comprises merely changing material in the format [X Y Z] to {X;Y;Z}
+
+        However, converting DiaSim's feature matrices into Mis*l's phonological classes is not so easy. 
+            On 9/16/26, Clayton made code in DiaSim's Lexicon object that will allow *online* conversion from a feature matrix to a phonological class --- i.e. operable at the time the rule operates.
+                Specifically, it samples all phonemes present in the lexicon AT THE TIME THE RULE OPERATES, and returns a list of all and only those that the feature matrix selects for. 
+                    However, there is a key limitation here -- this cannot work if the feature matrix has unset alpha values. 
+                    This is because alpha-valued features have their valence dependent on material outside that segment -- so the phonological class at play would potentially change depending on the word. 
+                There does not seem to be a way around this obstacle, because of the very nature of alpha features -- their inherent context dependency. 
 
 D. Means to check functional equivalence between different cascades (i.e. that they produce the same results on same data). One rule cascades or multirule cascades.
 
