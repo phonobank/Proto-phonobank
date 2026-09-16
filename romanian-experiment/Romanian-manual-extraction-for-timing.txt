@@ -2,6 +2,10 @@ $=Classical Latin
 
 $Baseline Romanian cascade done by hand for reference on time taken to do so, for comparison to time taken cleaning work of extraction via LLM
 $ 9/15/2026 4:41 PM - 4ː46, 4ː47-4:51, 4:53-5:12, 5:15-6:02; stopped at R25A -- 75 min total thus far 
+$ 9/16/2026 1:48 PM - 2:03, 2:07-2:16, 2:21-2:34, 5:48-6:37 -- 86 min total for this day
+
+$ overall total -- 161 min.
+
 
 $ systemic exec decision: 
     $ // meaning "on either side" --> separate rules 
@@ -9,7 +13,20 @@ $ systemic exec decision:
         $ ŋ imposes that continuity matches nasality -- only nasal continuants and oral stops are targeted, producing functional equivalence. 
     $ alpha values used to capture vowel identicality 
     $ "y" as j when glide counterpart of /i/ is meant (as is basically always the case)
-    $ change vowel rules to handle all levels of stress feat matrices or disjuncts if those won't work, since tonic e is ˈe like all other vowels are marked with ˈ -- they won't be hit by rules written with bare vowels with ˈ 
+    $ DiaSim distinguishes symbols for stressed versus unstressed vowels.
+        $ Therefore, the policy is to change vowel rules to handle all levels of stress feat matrices or disjuncts if those won't work, since tonic e is ˈe like all other vowels are marked with ˈ -- they won't be hit by rules written with bare vowels with ˈ 
+    $ monosyllabicity detected using number of times a [+syl] segment occurs -- e.g. ([-syl])* [+syl] ([-syl])* between the word bound # and the locus __ indicates only one syllable after the sequence in the locus. 
+            $If there is no syllable on the other side of the locus and no syllabic at the locus, it's a monosyllable, therefore. 
+            $ for example, see R25A 
+        $ other syllable counting relative to a point done in the same way
+    $ changes of a morphological nature included only as comments -- e.g. R25C 
+    $ features not in DiaSim handled as they correspond functionally. 
+        $ [rep], used for /r/ as opposed to /ɾ/, is [cont]  
+        $ [low] is [lo]
+        $ [acc] is [prim], assuming he means tonic, rather than also countertonic, stress. In some cases a judgment call is made. 
+        $ [back] as applies to vowels is [-front] -- since he includes /ə/ and /ɨ/. The evidence of a disstinct feature [front] in Malayalam hadn't yet come out at the time he wrote his dissertation ~ Pardess 1990. 
+    $ prior vocalism includes [-cons] to include diphthongs; after formation of rising sonority diphthongs e̯a and o̯a this applies to posterior V too.  
+    $ treating ə and ɨ as ɤ as ɯ till modern Romanian so they can be +back as he treats them. 
 
 $R1 loss of h 
 h > ∅ 
@@ -120,7 +137,6 @@ $R13E Laxing of stressed [e] to [ɛ]
 $R13F Lengthening of word-final [ —i( s ) ],
 [+syl,+hi,-back] > [+long] / __ ([+cons]) #
 
-
 $R13G Lowering of (short) [i]: Stressed or unstressed [i] > [e]; appears to apply to u too but unclear, may have been reversed, Pardess muses
 [-back,-long,+syl] > [-hi]
 
@@ -154,7 +170,7 @@ j > ∅ / [+cor,+delrel] __
 $R18E Assimilation of stops to affricates
 [-cont,-son] > [+delrel,-ant,+distr,+cor,-back,-hi] / __ [+cor,-ant,+delrel]
 
-$R19 Depalatalization: []], [^] > [dz], [ts] after a stressed vowel (P32)
+$R19 Depalatalization of affricates after a stressed vowel (P32)
 [-ant,+cor,+delrel] > [+ant,-distr] / [+prim] __ 
 
 $R20 Attraction of glides
@@ -165,23 +181,23 @@ $R20 Attraction of glides
 $R21 Spirantization of [b]
 b > β / [-cons] __ 
 
-$R22A Word-initial [B] > [v]
+$R22A Word-initial [β] > [v]
 β > v / # __ 
 
-$R22B Occlusivization of [B]
+$R22B Occlusivization of [β]
 β > b / [+cons] __
 
-$ R22C [B] becomes the velar glide [w] before a resonant
-β > W / __ [+son,+cons]
+$ R22C [β] becomes the velar glide [w] before a resonant
+β > w / __ [+son,+cons]
 
-$R22D Intervocalic [B] > [g] in the presence of [u] - sporadic
+$R22D Intervocalic [β] > [g] in the presence of [u] - sporadic
 β > ɡ / [+back,+hi,+syl] __ 
 β > ɡ / __ [+back,+hi,+syl]
 
 $R22E β  > 0 / elsewhere
 β > ∅
 
-$R23 Degemination of consonants except the alveolar resonants [11], [nn] and [rr]
+$R23 Degemination of consonants except the alveolar resonants [ll], [nn] and [rr]
     $exec decision to use alpha features to capture homorganicity 
         $agreement unnecessary for delrel ant distr -- tt͡ʃ > t͡ʃ 
     $exec decision: separate rule for coronals since mm is degemm'ed ? 
@@ -192,17 +208,200 @@ $R24 Affrication of velars before a front vowel
 [+back,-cont] > [-back,-hi,+cor,+distr,+delrel,+front] / __ [+syl,-lo,+front]
 
 
-$
+$R25A Development of final -s into -y in monosyllablic Words
+    $ Pardess thinks it is likely via s > h > ç > j 
+s > j / # ([-syl])* [+syl] ([-syl])* __ s #
 
-$
-$
+$R25B Loss of final [s] in polysyllabic words 
+    $ bled by R25A for monosyllables, so polysyllabicity does not need to be formalized in the context.
+s > ∅ / __ #
 
-$
+$ here -- R25C Generalization of word-final [i] as grammatical marker -- no rule, morphological in nature. 
 
-$
+$PRE-R26 TAP exec decision -- he treates /r/ as having been a tap, at least as such by this point. Not explicit when this happened before. Exec decision to have r pass to tap here to handle it. 
+    $ note -- equivalent to Albanian developments
+r > ɾ
 
-$
+$ Exec decision -- loss of countertonic stress here since it's never relevant later
+[-prim] > [-stres]
 
-$
+~Balkan Romance 
 
-$
+$R26A rr (both taps now, see "PRE-R26 TAP exec decision")> trill 
+    $ note -- equivalent to Albanian developments
+ɾ ɾ > r
+
+$R26B initial r > trill 
+    $ note -- equivalent to Albanian developments
+ɾ > r / # __ 
+
+$R27A Tensing of [ɛ] before nasal + oral consonant. Bleeds 27b diphthongization of ɛ
+[+syl] > [+tense] / __ [+nas] [+cons,-nas]
+
+$R27B Diphthongization of [ɛ]. Likely via ɛː. Beware that all examples are stressed, though this is not explicated in the rule formalism.
+∅ [+front,-tense,+syl] > j [+tense]
+
+$R28 Unstressed [o] > [u]. Former countertonics are affected -- ruga, urâsc etc. Using +round rather than +back,-lo for efficiency. 
+[-prim,+round] > [+hi]
+
+
+$morphological change -- R29A Loss of stress in the postposed forms of éllu -- here. 
+    $likewise, R29B Apheresis and enclisis of the forms of [ellu]
+
+$R30 Preyodization of initial [e]: [e] > [ye] "in some words". TODO finer grained conditioning? 
+∅ > j / # __ [+front,+syl,-hi,-lo,+tense]
+
+$R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the following syllable except before (singleton) [n] or before [m] plus a consonant
+    $ exception only applies to single n -- see penna > pană; does not apply to single m -- similem > seamăn, pōma > poamă etec.
+    $ no cases of this happening in hiatus in examples.
+    $ first disjunct posterior context -- combines cases where mutandum is followed by consonantalism not starting in a nasal, combined with -- due to same outputs -- cases where a nasal other than /m/ precedes such oral consonantism 
+        $ (ŋ always occurs before a consonant)
+    $ second disjunct posterior context -- covers singleton m as intermediary
+[+prim,-hi,-lo] > [-tense] / __ ({m;([+nas,-lab]) ([+cons])+}) [+syl,-hi,-round]
+
+
+$R31B Diphthongization of lax vowels
+∅ > a / [+syl,-tense] __
+    $ exec decision - make transfer of stress explicit, even though it wasn't in Pardess; and make following low vowel explicitly necessary --it's implicit in Pardess. ALSO make tensing of the now glided formerly lax vowel explicit; this also was implicit in Pardess.
+        $ this nearly totally ropes in R32 "which concommitantly shifts the stress to the low vowel"
+            $ exec decision for no separate R32, and include cases this wouldn't hit -- mea, avea -- by removing laxness as a stipulation for the first input segment. Need to have -hi then, however. 
+[-hi,+syl,αstres,βprim] a > [-syl,+tense] [αstres,βprim]
+
+$R33 Raising of [a] and [o] before a non-geminate nasal
+    $ exec decision to not simply have __ N V as posterior context, given examples in munte and cumpăr cand cînd
+    $ exec decision to treat exception as N1 N2 -- two consecutive nasals, rather than specifically a geminate (homoorganic) nasal -- note that he lists doamnă as an example exception
+    $ TODO NOTE that this may actually only apply to unstressed a ? amar, etc. 
+        $ a posteriori from DiaCLER -- most of these are explained by it not happening before mV -- cf also aramă, foame, homo > om etc. 
+    $ using ɤ and ɯ per policy at this point. 
+[+syl,-hi,alo,-around] > [-lo,-ahi,-front,+back] / __ [+nas] ([-syl,-nas])* [+syl]
+
+
+$R34 Rhotacism: non-geminate [l] > [r] between vowels
+    $ exec decision to treat the r outcome as Pardess implicitly meaning the tap 
+l > ɾ / [+syl] ([-cons]) __ ([-cons]) [+syl]
+
+$R35A [ll] > [w] before unstressed [a]
+l l > w / __ a 
+
+$R35B Degemination of [ll]. Bled by R35A
+l > ∅ / __ l 
+
+$R36A Loss of secondary wau: [Vwa] > [Va] when neither vowel is stressed. Exec that he means neither is tonic.
+w > ∅ / [-prim] __ [+lo,-prim]
+
+$here, morphological change R36B F sg n/a def art [a] > [+long] in all f sg nouns
+
+$R36C [ùwa] > [ûva]
+w > v / [+hi,+round,+syl] __ [+lo]
+
+$R37A Raising of non-initial, non-geminate, unstressed [a]. Using ɤ per policy. Includes former countertonics based on examples. 
+[+lo] > [-lo,-front,+back] / [+cons] __
+
+$ R37B Degemination of geminate vowels. Treated as deletion of hiatus identical vowels. Need multiple rules to preserve stress.
+[+syl,alo,efront,ihi,uround] > ∅ / __ [+syl,alo,efront,ihi,uround,+prim]
+[+syl,alo,efront,ihi,uround] > ∅ / [+syl,alo,efront,ihi,uround,+stres] __
+
+$R38 ea to e̯a -- already handled in R31B though? 
+[-hi,+syl,αstres,βprim] a > [-syl,+tense] [αstres,βprim]
+
+$R39 Lowering of unstressed internal [i]; internal as in not at bounds. Bleeds R40 
+[+front,-prim] > [-hi] / [+cons] __ [+cons]
+
+$R40 Diphthongization of [i]: [i] > [yi]. Bled gby R39, feeds R41A
+∅ > j / __ [+syl,+hi,+front]
+
+$R41A Palatalization of non-occlusive alveolars before yod. Fed by R40. Does not include r -- best handled with disjuncts.
+{l;n;s;z} > {ʎ;ɲ;ʃ;ʒ} / __ j
+
+$R41B Absorption of yod after a palatal segment. Exec decis: Pardess has Chi as prior context, but that would apply after k and g, which is not intended, and also might not hit ʃ d͡ʒ t͡ʃ. Therefore using +front instead.
+j > ∅ / [+hi,+front] __
+
+$R42A Affrication of alveolar stops before yod. Exec decision using -son to not hit ɾ
+[+cor,-cont,-son] > [+delrel] / __ j
+
+$R42B Absorption of yod after an affricate
+j > ∅ / [+delrel] __ 
+
+$R43 Palatalization of [l] after a velar consonant
+l > ʎ / [+back,+cons] __ 
+
+$R44 Fronting of [ə] (treated as ɤ) after [ʎ] and [ɲ]. Exec decision to replace his feat matrix [-cont,+hi,-str] (these are +cont, +str doesn't exist...)
+[-lo,+syl,-hi,-round] > [+front,-back] / [+son,+cons,+front] __ 
+
+$R45A Assimilation: [s] > [ʃ] before [t͡ʃ]
+s > ʃ / __ t͡ʃ
+
+$R45B Dissimilation: t͡ʃ > t after ʃ 
+t͡ʃ > t / ʃ __ 
+
+~Common Romanian
+
+$R46A e and e̯ to ə and ə̯ after a labial and before a syllable containing a back vowel
+    $ using ɤ not ə for now. 
+[-cons,+front,-hi,-lo] > [-front,+back] / [+lab,+cons] __ ([-syl])* [+syl,-front]
+
+$R46B schwa glide -- actually ɤ glide -- lost before a 
+ɤ̯ > ∅ / __ [+lo]
+
+$R47A schwa raised before [n] or [m]CV
+[+syl,-back,-front] > [+hi] / __ {n; m [+cons] [-cons]}
+
+$R47B Raising of [e] before [n]. He says "[n]" but his rule correctly is written to apply before any nasal. This is used.
+[+syl,-lo,+front] > [+hi] / __ [+nas]
+
+$R48 Degemination of [nn]: [nn] > [n]
+n > ∅ / n __
+
+$R49 Raising of [ə] (actually ɤ) before [r,s] plus consonant. r means the tap for him here. 
+[+syl,-back,-front] > [+hi] / __ [+ant,sstrid,scont,-sson] [+cons]
+
+$R50 Backing of front vowels after [rr]. He means defronting, centralization actually; and it doesn't apply to /a/. 
+[+syl,-lo] > [-front,+back] / r __
+
+$R51 Simplification of [rr] to [r] -- exec decision that this is actually the tap merging in. 
+ɾ > r 
+
+$R52 Deaffrication of voiced alveolar affricates.
+d͡z > z
+
+$R52B Deaffrication of voiced palatal affricate before o , u 
+d͡ʒ > ʒ / __ [-cons,+round]
+
+$R53A Monophthongization of [ea] after [ʃ] or [ts]
+e̯ > ∅ / [-voi,+strid,ʃcont,-ʃant] __ [+lo]
+
+$R53B Monophthongization of [ea] before a syllable containing [e]
+e̯ [+lo,αprim] > [+syl,αprim] ∅ / __ ([-syl])* e
+
+$R54 Delateralization of ʎ 
+$R55 Denasalization of ɲ 
+    $ Exec decision to combine the above. 
+[+cons,+son,+front] > j 
+
+$R56 Loss of yod before [i] 
+j > ∅ / __ [+hi,+front,+syl]
+
+$R57 [yea] > [ya]
+e̯ > ∅ / j __ [+lo]
+
+$Exec decision to have centralization of ɤ and ɯ here
+{ɯ;ˈɯ;ɤ;ˈɤ} > {ɨ;ˈɨ;ə;ˈə}
+
+$R58 Assimilation: word-final [ə] > [e] after [i].
+ə > e / [+hi,+front]
+
+$R59A Devoicing of word-final [u] and [i] except after a consonant plus a liquid.
+    $ exec decis - not to tonic vowels
+    $ exec decis - His notation implies a loss of syllabicity too. Implemented this. 
+[-stres,+hi] > [-syl,-voi] / __ #
+
+    $ doesn't occur before C+ liquid __
+[-syl,-voi] > [+syl,+voi] / [+cons] [+cor,-nas,+son] __
+
+$R59B Loss of word-final voiceless [w̥]
+w̥ > ∅ 
+
+$R59C Word-final [ii] > [i]; he means ij̥
+[-cons,-voi] > ∅ / [+hi,+front,+syl] __
+
+$morphlogical - R60 Loss of final [1] of m sg definite article
