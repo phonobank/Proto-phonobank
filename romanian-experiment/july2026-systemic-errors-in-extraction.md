@@ -19,7 +19,11 @@ Actor rightly detected teh possible error here since DiaSim doesn't represent sy
 
 ### 1Aiii Failure to understand that spaces delimit phones
 
-R2A and R2B have "ay" and "oy" as inputs; these are two segments but they would be treated as one phone, a phone that is undefined and undefinable. 
+And that glides are separate phones: 
+
+- R2A and R2B have "ay" and "oy" as inputs; these are two segments but they would be treated as one phone, a phone that is undefined and undefinable. 
+
+- R53B: "ea" treated as a non-delimited,single phone input-- correct treatment is e̯ as a glide phoneme
 
 ### 1Aiv Pardess' "//" 
 
@@ -32,6 +36,7 @@ E.g. for a putative rule "X > Y // A", it should be two rules: "X > Y / A __" an
 
 Pardess uses both "y" and "j" for "j"; this was not picked up and "y" was written like /y/ (front high round vowel), not /j/ (unround front high glide). Seen inː R2A, R2B
 
+
 ### 1C accuracy in symbol usage
 
 #### 1Ci spurious null context "/ __"
@@ -42,6 +47,9 @@ Without any reason in the Pardess text, actor makes a void context stipulation "
 
 Actor got this in a number of cases, that (...)* means "any number of repeats of the segmental material parenthesized", with appropriate usage, and that Pardess' "Co" is ([+cons])*. 
 
+#### null symbol
+
+R60 -- extractor uses '0' rather than the correct '∅'. Missed by critic. On R59B and R59C above, '∅' is correctly used, curiously.
 
 ### 1D alpha feature handling 
 
@@ -107,8 +115,15 @@ However, this is not ideal as it actually only applies to non-stressed variants 
 #### 2Ai Wrong parsing of symbol in Pardess by actor
 
 - ɛː mistaken for eː in R2A (not caught by critic)
-- ŋ mistaken for rj in R10Cb, "partial assimilation of velars" (caught by critic, but fixed in an idiosyncratic and erroneous way)
+
+- ŋ mistaken for rj in R10Cb, "partial assimilation of velars" (caught by critic, but fixed in an 
+idiosyncratic and erroneous way)
+
 - also for R10Cb, m mistaken for nn (not caught by critic)
+
+- R53A -- /ʃ/ written as š mistaken for s by actor, caught by critic.
+
+- R57: examples make clear Pardess really means e̯ -- the glide -- not e the vowel. Both actor and critic miss this.
 
 Doesn't affect rules, but schwa "ə" is clearly misread as "Q" in some places. 
 
@@ -117,7 +132,14 @@ Doesn't affect rules, but schwa "ə" is clearly misread as "Q" in some places.
 Critic rightly corrected actor's omissions for...
 
 -R4A, vowels on other side of prior and posterior consonants. 
+
 -R13A, -lo (erroneously as -low tho) in first input position. 
+
+The following bloopers of the actor were missed by the critic: 
+
+- R59A -- Pardess explicitly states the rule does NOT apply after a consonant followed by a liquid. Both actor and critic ignore this.
+
+- R59B -- the source has w̥, with the voiceless diacritic underneath; the actor missed this, the critic didn't notice.
 
 ### 2C spurious material inserted 
 
@@ -146,6 +168,8 @@ Correct: [βcont,βnas,-ant,-cor] > [+ant,+lab,-back,-hi,αnas,αson] / [+syl,+s
 Actor: [-cont,-ant,-cor] > [+ant,+cor,αnas] / __ [+ant,+cor,-cont,αnas] (@)* [+syl,+stres]
 Critic: [-ant,-cor,αnas] > [+ant,+cor,αnas] / [+syl,-stres] __ [+ant,+cor]
 Correct: [βcont,βnas,-ant,-cor] > [+ant,+cor,+distr,αnas,αson] / [+syl,-stres] __ [+ant,+cor,αnas] (@)* [+prim] 
+
+- R52B -- TODO here
 
 # 4 specific policies for Pardess
 
