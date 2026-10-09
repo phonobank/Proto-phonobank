@@ -307,7 +307,7 @@ $R38 ea to e̯a -- already handled in R31B though?
 $R39 Lowering of unstressed internal [i]; internal as in not at bounds. Bleeds R40 
 [+front,-prim] > [-hi] / [+cons] __ [+cons]
 
-$R40 Diphthongization of [i]: [i] > [yi]. Bled gby R39, feeds R41A
+$R40 Diphthongization of [i]: [i] > [yi]. Bled by R39, feeds R41A
 ∅ > j / __ [+syl,+hi,+front]
 
 $R41A Palatalization of non-occlusive alveolars before yod. Fed by R40. Does not include r -- best handled with disjuncts.
@@ -359,7 +359,7 @@ $R50 Backing of front vowels after [rr]. He means defronting, centralization act
 [+syl,-lo] > [-front,+back] / r __
 
 $R51 Simplification of [rr] to [r] -- exec decision that this is actually the tap merging in. 
-ɾ > r 
+ɾ > r
 
 $R52 Deaffrication of voiced alveolar affricates.
 d͡z > z
