@@ -1,0 +1,262 @@
+================================================================================
+CRITIC REPORT: faithfulness of "oct26-romanian-extractor-cfr.txt" to
+Pardess (1990), "From Latin to Romanian: Phonological Rules" (UCLA diss.),
+and to the DiaSim cascade format
+Corrected cascade: "oct26-extrcritic-corrected-pardess-Latin-to-Romanian.txt"
+(every change there is marked "$FIXED:")
+================================================================================
+
+NOTE ON FILE NAMES: the task text named the outputs "july26-extrcritic-...". Files
+with those names already exist: they are the July critic deliverables the user
+graded. To avoid overwriting them, this round's outputs are named "oct26-extrcritic-...".
+
+--------------------------------------------------------------------------------
+METHOD
+--------------------------------------------------------------------------------
+- Source: Pardess_From_Latin_to_Romanian_Phonology.pdf. Every rule's prose,
+  formula and examples were read in the OCR text layer. Where the OCR was
+  ambiguous, the page scan itself was viewed (R2A, R13A, R33, R10Ca examples).
+  The OCR garbles IPA badly (ɛ, ə, ŋ, ʎ), so no symbol claim rests on OCR alone.
+- Format: DiaSim (Research/DiaSim, gamma; symbolDefs.csv; -diacrit with the
+  default diacritics file).
+  (a) The extraction was run as a whole on RoLLex: it parses and simulates with
+      no errors.
+  (b) Every suspected defect, and every proposed fix, was run as a single-rule
+      cascade against a small test lexicon of input/expected-output pairs.
+  (c) The corrected cascade was re-run as a whole. That run caught one error in
+      my own first draft of the R14 fix ("{e;ˌe} > ∅" is malformed; it must be
+      "{e;ˌe} > {∅;∅}"), which was corrected before delivery.
+- Output resolution: feature-changing outputs were checked against the
+  symbolDefs.csv rows (e.g. R2A a > ɛː, R2B o > eː, R10Ca k > p and ŋ > m,
+  R19 t͡ʃ > t͡s, R44 ə > e all resolve to defined symbols).
+- Page citations: each rule's printed page span was computed from the page
+  numbers in the OCR, and the irregular cases were checked by hand.
+
+--------------------------------------------------------------------------------
+OVERALL ASSESSMENT
+--------------------------------------------------------------------------------
+This extraction is much better than the July one. It handles correctly nearly
+every error class from the user's July/June gradings:
+- glides as separate segments (a j, e̯ a)
+- Pardess's y = j
+- "//" split into two rules
+- alpha features with one variable per feature
+- no feature matrices aligned to ∅ (phone lists in R18A, insertion + deletion
+  for metatheses)
+- [lo], not [low]
+- ∅, not 0
+- no "C" shorthand and no empty contexts
+- outputs completed to reach defined phones (D9)
+- central ə/ɨ written as symbols (D6)
+- nasals-as-stops written as [αcont,αnas] (D7)
+- Pardess's [rep] rendered as the ɾ/r contrast
+- negative contexts written as positive disjunctions (R31A, R59A)
+- R52B kept to the voiced affricate; R46A covering the glide e̯
+- every justified departure from Pardess carried in a NOTE
+
+No rule had a reversed environment, a wrong trigger segment, or a hallucinated
+change.
+
+What remains: one systemic mistranslation (stress, Part A1), the missing
+synoptic-index page citations (Part A2), five rule-level formalism defects
+(Part B), and three places that needed a note (Part C).
+
+--------------------------------------------------------------------------------
+PART A. SYSTEMIC ISSUES
+--------------------------------------------------------------------------------
+A1. [-acc] rendered as [-stres] instead of [-prim]  (Executive Decision D4)
+    -- SOURCE FIDELITY, output-changing.
+    D4 rightly sets Pardess's [+acc] = [+prim]. Pardess's own abbreviation key
+    defines [acc] as primary stress, and his system has no secondary stress.
+    But D4 then sets [-acc] = [-stres], and treats the plain vowel symbols
+    (a, e, i, o, u) as "unstressed". In DiaSim a secondary-stressed vowel (ˌV)
+    is [+stres,-prim], so every rule for Pardess's "unstressed" vowels silently
+    exempted ˌV. Pardess would class such a vowel as [-acc]. RoLLex marks
+    secondary stress often (Latin column: ˌa x186, ˌi x82, ˌe x76, ˌo x42,
+    ˌu x33).
+    DiaSim evidence, using the extraction's own lines:
+      R13D  ˌi ˈa  stays ˌi ˈa                     (expected j ˈa)
+      R28   ˌoɾɾésko  keeps ˌo                     (expected ˌu)
+      R37B  ˌa ˈa  stays ˌa ˈa                     (expected ˈa)
+      R39   t͡ʃˌitáte  keeps ˌi                     (expected ˌe)
+    CORRECTED in D4 and in 11 rules: R4A, R13B, R13D, R14, R28, R35A, R36A,
+    R37A, R37B, R38, R39.
+    - Feature rules: [-stres] -> [-prim].
+    - Symbol rules: the ˌ-variant added to the disjunction.
+    Every corrected line was DiaSim-tested.
+
+A2. Synoptic-index pages missing from every $$PG: citation  -- PAGES.
+    Pardess lists every rule again in the Ch.8 synoptic index (pp.137-141).
+    The extraction cites only the body pages. (This is the "global" page
+    problem in the user's June 2026 annotation.)
+    CORRECTED for all rules, comment-only entries included:
+      R1-R5A    p.137
+      R5B-R18A  p.138   (p.138 also lists the body's R13G as "R13F", as the
+                         extraction itself notes)
+      R18B-R29A p.139
+      R29B-R45B p.140
+      R46A-R60  p.141
+    Two body-page ranges were also short:
+      R22E  "77"  -> "77-78"   (its derivation table is on p.78)
+      R25B  "81"  -> "81-82"   (the examples, incl. the plural restorations,
+                                are on p.82)
+    All other body-page citations were checked and are correct.
+
+--------------------------------------------------------------------------------
+PART B. RULE-LEVEL FORMALISM ERRORS (corrected)
+--------------------------------------------------------------------------------
+R5C (p.53) -- CONTEXT / SOURCE FIDELITY.
+    The extraction added a prior context "[+cons] __" with no note. Pardess's
+    rule is just "V r # > r V #".
+    FIX: context removed  ->  ∅ [+syl] ɾ > ɾ [+syl] ∅ / __ #
+    (tested: supeɾ > supɾe, inteɾ > intɾe).
+
+R13C (p.63) -- INPUT / TARGET FORMAT, output-changing. Two defects.
+    (1) The identity matrix (αhi,βlo,γback,δfront,εround,ζlong) omits [tense],
+        the only feature separating e from ɛ in symbolDefs.
+        Tested: ɛː eː (ɛː from R2A) wrongly contracted.
+    (2) The line always deletes the second vowel, so where the second member is
+        stressed the stress is lost.
+        Tested: u ˈu > u.
+    FIX: ηtense added. The non-primary-stressed member is deleted instead, in
+    two lines (second member, then first), as the extraction already does for
+    R37B. Tested: mórtuu > mórtu, u ˈu > ˈu, ɛː eː kept.
+
+R37B (p.103) -- INPUT / TARGET FORMAT, output-changing. Two defects.
+    (1) [-stres] (see A1): ˌa ˈa was not degeminated.
+    (2) [tense] missing from the identity matrix, as in R13C.
+        Tested: ɛ e wrongly contracted.
+    FIX: [-prim]; ζtense added. Tested: kásaa > kása, kaálu > kálu,
+    beére > bére, ˌa ˈa > ˈa, ɛ e kept, and ə ə > ə (DiaSim handles ə's
+    tense value 0 correctly in alpha matching).
+
+R43 (p.108) -- CONTEXT / SOURCE FIDELITY.
+    Pardess's context is [-cont,-ant,-cor]. The extraction replaced it, with no
+    note, by [+cons,-son,-ant,-cor]. That class also admits the velar and
+    palatal fricatives x, ɣ, ç, which Pardess's [-cont] excludes.
+    FIX: Pardess's matrix restored  ->  l > ʎ / [-cont,-ant,-cor] __
+    (In DiaSim this picks out k, ɡ, c, ɟ. A note records that Pardess's [-cont]
+    would also include ŋ, which DiaSim codes [+cont]; no ŋl case is attested.)
+
+R53B (pp.117-118) -- CONTEXT / SOURCE FIDELITY.
+    Pardess: "ea > e / __ $ Co e". The extraction rendered Co as ([+cons])*,
+    which lets a hiatus e̯a e (no consonant) monophthongize too. Every one of
+    Pardess's seven examples has at least one consonant after the syllable
+    boundary.
+    FIX: ([+cons])+, as in the user's own June 2026 gold annotation for this
+    rule. Tested: me̯áse > mése, ve̯áde > véde, e̯ˈa e left alone.
+    D8 is annotated with this exception.
+
+R4A, R13B, R13D, R14, R28, R35A, R36A, R37A, R38, R39
+    -- the stress mistranslation of A1; corrected as described there.
+
+--------------------------------------------------------------------------------
+PART C. NOTES ADDED (no change to the rule line)
+--------------------------------------------------------------------------------
+R4A  Pardess's example weteráːnu > wetráːnu deletes a NON-high, PRETONIC e.
+     His formula ([+high], "usually post-tonic") does not cover it, and neither
+     do these lines. Recorded so a user is not surprised.
+     (Also checked: line (i) does cover the both-resonants case, e.g.
+     dómina > dómna.)
+R31A The extraction notes that the formula fails to except dénte. The
+     opposite conflict is unnoted: Pardess's own R31B example dómna > doámna
+     (p.96), and his p.97 derivation running domna through R31A, require an
+     "mC" form (mn) to undergo R31A, which his exception forbids. The lines
+     follow the formula, so domna will not reach doamnă. Now noted.
+R44  The extraction's note says Pardess's context "consists of just ʎ and ɲ".
+     In fact his matrix [-cont,+high,-str] also covers the velar stops k, ɡ.
+     The restriction to ʎ, ɲ follows his title and examples (justifiable:
+     mikə stays). The note is qualified to say this is a departure.
+Header: a lexicon caveat (see Part E), and the D4/D8 corrections.
+
+--------------------------------------------------------------------------------
+PART D. CHECKED AND CONFIRMED (no change)
+--------------------------------------------------------------------------------
+Rules whose formalism was checked against Pardess, the symbolDefs vectors and,
+where non-trivial, DiaSim:
+R1, R2A, R2B, R3A, R3B, R4B, R5A, R5B, R6, R7, R8, R9, R10A, R10B, R10Ca,
+R10Cb, R11, R12, R13A, R13E, R13F, R13G, R15, R16, R17, R18A, R18B, R18C, R18D,
+R18E, R19, R20, R21, R22A, R22B, R22C, R22D, R22E, R23, R24, R25A, R25B, R25C,
+R26A, R26B, R27A, R27B, R29A, R29B, R30, R31A (lines), R31B, R32, R33, R34,
+R35B, R36B, R36C, R40, R41A, R41B, R42A, R42B, R44 (line), R45A, R45B, R46A,
+R46B, R47A, R47B, R48, R49, R50, R51, R52A, R52B, R53A, R54, R55, R56, R57, R58,
+R59A, R59B, R59C, R60.
+
+Points worth recording:
+- R10Ca: Pardess writes the nasal examples with eng (díŋnu > dímnu, verified on
+  the scan), so carrying the velar's OWN nasality ([αcont,αnas]) is faithful.
+- R22D before R24 is correct: Pardess (pp.76-77) uses úβer > úger > údʒer
+  (DR uger [ˈudʒer]) precisely to order R22D before R24. The July critic's
+  "correction", which swapped these two rules, was itself an error; this
+  extraction's order should stand.
+- R24's skio > ščio: the s > ʃ is supplied later by R45A, so there is no gap.
+- R46A line (ii): the extraction's reading of the glide's "following syllable"
+  as the one after its a nucleus is what makes Pardess's listed exceptions
+  (ve̯áde, me̯áse, pe̯ánne, be̯áre) come out right.
+- R59A: the four positive contexts exhaust "X is not C + liquid" (a preceding
+  vowel is excluded, as the Ch.7 derivation requires). The j̥ symbol the
+  extraction asked to have verified resolves under -diacrit (DiaSim defines
+  "j̥" from j + ̥ = [-voi]).
+- Departures that are disclosed in notes and that I accept as justified from
+  Pardess's own derivations or examples:
+    R4B-ii (∅ > k / s __ l, from prose); R6 (restricted to prevocalic, non-velar
+    w); R11-ii (nasal assimilation, from lingua > limbwa); R13A (front first V,
+    mid second V); R15 (no pairs with a); R19 (([+cons])* before the affricate);
+    R20 (labial Co, yod only); R27B (yod insertion + tensing in one line);
+    R31B (both steps in one line); R40 ([+cons] before i); R52B (voiced only).
+
+--------------------------------------------------------------------------------
+PART E. DIASIM RUN RESULTS AND THE LEXICON INTERFACE
+--------------------------------------------------------------------------------
+Both the extraction and the corrected file parse and run on RoLLex.
+Exact-match accuracy against the RoLLex gold:
+                                          extraction   corrected
+  RoLLex as is                              19.27%       19.41%
+  avg. feature edit distance                 0.356        0.344
+  Latin column converted to D1/D2 (*)        19.84%       19.99%
+  ... and ɾ read as r, secondary stress
+      ignored, on both sides                   --         43.4%
+  (*) r -> ɾ, AE/OE glide e̯ -> j, ɡ n -> ŋ n; scratch copy only.
+
+The low raw score is not mainly a fidelity problem:
+- Input side: RoLLex's Latin column does not follow D1/D2. So R2A/B, R5C,
+  R10A, R10Ca (gn), R26A/B and the ɾ-dependent rules cannot fire as Pardess
+  intends.
+- Output side: the RoLLex Romanian column writes the rhotic as r and has no
+  secondary stress, while the cascade (faithfully: R51 trill > flap) ends in ɾ
+  and never removes ˌV. Every result containing ɾ or ˌV misses.
+- The rest: sporadic or lexical rules encoded as general ones (D10; e.g. R10A
+  turns ursu > us), and rules Pardess's text does not supply.
+These are cascade/lexicon conventions for the user to decide on. They were not
+changed in the corrected file, since they are not unfaithful to Pardess. A
+comment in the header records them.
+
+--------------------------------------------------------------------------------
+PART F. FLAGGED, NOT CORRECTED (with reasons)
+--------------------------------------------------------------------------------
+- "Co" in general (D8 = ([+cons])*): only R53B was changed, because there the
+  examples and the user's June annotation are explicit. Whether Pardess's Co
+  should otherwise be * or + is an open question for the user (the June gold
+  uses + in R20, R31A, R46A, R53B; the July notes say *). In this extraction,
+  R31A and R20 already require at least one consonant by construction, and
+  R46A uses *.
+- R31A domna and dénte: the formula is followed, and both conflicts are noted.
+  Fixing them would mean choosing between Pardess's formula and his examples.
+- R59A restricts devoicing to unstressed u, i; Pardess's formula has no stress
+  condition. Disclosed by the extractor; harmless (no stressed final high
+  vowels in his data).
+- Sporadic and lexical rules (R4A, R10A, R22D, R30, R53A) are encoded as
+  general rules, per D10.
+
+--------------------------------------------------------------------------------
+SUMMARY BY CATEGORY (counts of rules affected)
+--------------------------------------------------------------------------------
+Input/identity defects (output-changing):   R13C, R37B
+Context defects:                            R5C, R43, R53B
+Stress mistranslation (systemic, A1):       R4A, R13B, R13D, R14, R28, R35A,
+                                            R36A, R37A, R37B, R38, R39
+Page citations:                             all rules (synoptic index); R22E,
+                                            R25B (body range)
+Notes needed:                               R4A, R31A, R44
+No reversed contexts, wrong triggers, hallucinated rules, ordering errors,
+DiaSim parse errors or undefined output symbols were found.
