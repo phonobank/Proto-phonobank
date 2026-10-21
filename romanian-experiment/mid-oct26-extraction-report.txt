@@ -1,0 +1,72 @@
+This new extraction run was done in Claude Code after the critic had been taught how to use DiaSim.
+Overall performance appears better, with many notable improvements, but some errors remamin...
+
+Reviewed up to R13G currently (TODO update)
+
+## 1 Feature representation and phonemic inventory issues
+### 1A Incorrect rule formatting for DiaSim. 
+
+### 1Aiv Pardess' "//" 
+
+Handling is now fixed, good job. 
+
+### 1D alpha feature handling 
+
+R10Ca, R10Cb: Alpha features used correctly in rule R10Ca, unlike last time, including distinction of within phone coordination rather than using the same alpha value for features of different phones when this wasn't intended by Pardess. Good work for the actor.
+
+R13C: actor did it right with respect to alpha features this time, unlike last time.
+
+### 1E redundancy
+
+- R6: actor rightly identifies this isn't supposed to target kw/gw. The fix involves using the prior disjunction {#;[-cons];[+ant];[+cor]}. But all [+cor] segments at this time are [+ant] (relatively minor, not a critical error)
+
+### 1F  feature inventory errors
+
+Critic caught the non-inclusion of (variously primary or secondary) stress variants in R13B, R13D, R14 -- good job.
+
+R13C -- good intuition on part of critic to use multiple rules to preserve stress on either side, just as I would.
+
+R13E -- actor rightly accounted for the possible errant inclusion of /a/ as an input-- good job.
+
+
+#### 1Fvi feature matrices that do not capture intended phone(s)
+
+R5A: Unlike last time, the actor detected that nasals could not be treated as stops, would not be hit by [+cons,-cont], and that a separate rule with input [+nas,+cons] as necessary. (Another solution would be to use alpha features to match nasality and continuance, in a single rule: [+cons,nnas,ncont])
+
+R13A: In a new error not seen in the previous run, a rule lengthening the second vowel in a two-vowel sequence errantly has [-back] as a feature for the first, even though mortuus is a listed word. Missed by critic, made by actor.
+
+#### 1Fviii Phonemes not established yet
+
+Phonemes should not be used as inputs or contexts before they have been produced by other rules. If they don't yet exist, the rule has no effect.
+
+-R5C: in a new error, the actor uses ɾ rather than r for this rule. The actor fails to catch it.
+
+## 2 fidelity issues
+
+### 2A Document reading issues
+
+These largely seem fixed after OCR now works well?
+
+### 2C spurious material inserted 
+For the labialization of kw/gw to p/b before a, actor mysteriously adds the following rule, after an otherwise well-formed formalism for this rule: 
+
+` [+nas,+cons,-ant,-cor] > [+ant,+lab,-hi,-back] / __ [-son,+lab] w [+syl,+lo]
+
+It is unclear why this happened. What this formalism describes, the assimilation of n to m before labials, will happen later anyways.
+
+### 2D interpretation
+
+#### 2Di implied target domain 
+- R4A: critic correctly inferred that Pardess did not intend to exclude countertonics/secondarily-stressed vowels from early syncope, and accordingly changed [-stres] to [-prim]
+
+### 2F
+
+#### 2Fi rules in prose
+
+Some rules are just described and not given actual rule formalisms, often as an aside to a 'main' aspect of a development of interest that is given a rule.
+These need to have rules too if the source understands them to be regular sound changes (not: analogy, 'irregular', etc.).
+
+- R4B: Actor correctly inferred that a sl > skl rule is necessary. This is an improvement from last time.
+
+
+## 3 changes by critic that produce errors

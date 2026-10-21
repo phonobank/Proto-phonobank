@@ -7,14 +7,14 @@ Although in some cases either the actor or the critic detected issues with treat
 
 Rules are referred to with their unique identifier as labeled by Pardess -- e.g. R2A, etc.
 
-### 1A Incorrect rule formatting or DiaSim. 
+### 1A Incorrect rule formatting for DiaSim. 
 
 Different usage of the same symbol in the syntax of DiaSim's cascades vs. the source can causes errors and must be caught. 
 
 
 ### 1Aii Rightly handled by actor:  $ used by Pardess as syllable boundary vs. $ as comment symbol in DiaSim
 
-Actor rightly detected teh possible error here since DiaSim doesn't represent syllable boundaries and also uses '$' to flag comments. Made appropriate decisions based on available data, e.g. word bound '#' instead of '$' for R7 because all examples were word initial. 
+Actor rightly detected the possible error here since DiaSim doesn't represent syllable boundaries and also uses '$' to flag comments. Made appropriate decisions based on available data, e.g. word bound '#' instead of '$' for R7 because all examples were word initial. 
 
 ### 1Aiii Failure to understand that spaces delimit phones
 
@@ -200,7 +200,7 @@ Feature matrices in the output can only transform -- be aligned to -- a phone or
 Actor error in R20 did this, not caught by critic: 
 ∅ [+cons] [+son,-cons,-syl] > [+son,-cons,-syl] [+cons] ∅ / [+syl,+stres] __
 
-Critic caught that something was wrong... but nothtis. 
+Critic caught that something was wrong... but not this. 
 
 Best wayis with three rules, given the description of the rule in Pardess: 
 
@@ -305,7 +305,7 @@ Critic handles this correctly, using alpha features correctly too:
 
 
 
-## 3 changes that produce errors
+## 3 changes by critic that produce errors
 
 Critic sometimes makes changes that break the rule and lose its intent. 
 

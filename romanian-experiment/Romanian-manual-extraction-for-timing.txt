@@ -44,7 +44,7 @@ $R3 reductional of final m to n in monosyllables, ∅ elsewhere
 m > n / # ([-syl])* [+syl] ([-syl])* __ #
 
 $ R3B loss of pre-fricative n, with compensatory lengthening of prior vowel. Rule in source only covers cases immediately after vowels; that is preserved here.
-[+syl] n > [+long] ∅ / __ n [-son,+cont]
+[+syl] n > [+long] ∅ / __ [-son,+cont]
 
 $ R4A first syncope -- loss of medial short high vowels between singleton consonants of which at least one is a resonant. 
     $ NOTE: Pardess remarks it didn't apply "universally" -- highly recommended to check for finer graining of the context.
@@ -68,7 +68,6 @@ $ R5C metathesis of word-final [r].
     $ exec decision: handled with null symbols aligned by position to do this in a single rule, with the r hopping over the vowel, not the reverse.
 ∅ [+syl] r > r [+syl] ∅ / __ #
 
-
 $ R6 w > β 
 w > β 
 
@@ -78,7 +77,7 @@ $ R7 "Fortition of syllable initial [y]; [y] > [dy]".
 ∅ > d / # ((@)* [-cons]) __ j [+syl]
 
 $ R8 Simplification of K[s]K,K[z]K cluster
-[-son] > ∅ / [+strid] [-son]
+[-son] > ∅ / __ [+strid] [-son]
 
 $ R9 Deletion of [k] in [nkt] > [nt].
     $ exec decision: using [+nas] in case the n is ŋ 
@@ -122,10 +121,10 @@ $R13B Raising of unstressed [o] and [e] in hiatus
 
 $ R13C Contraction of Vowel Combinations
     $exec decision -- multiple rules to preserve stress
-[+syl,ɛfront,etense,ɩhi,αlo,-stres] / [+syl,ɛfront,etense,ɩhi,αlo] __ 
-[+syl,ɛfront,etense,ɩhi,αlo,-stres] / __ [+syl,ɛfront,etense,ɩhi,αlo]
-[+syl,ɛfront,etense,ɩhi,αlo,-prim] / [+syl,ɛfront,etense,ɩhi,αlo] __ 
-[+syl,ɛfront,etense,ɩhi,αlo,-prim] / __ [+syl,ɛfront,etense,ɩhi,αlo]
+[+syl,ɛfront,etense,ɩhi,αlo,-stres] > ∅ / [+syl,ɛfront,etense,ɩhi,αlo] __ 
+[+syl,ɛfront,etense,ɩhi,αlo,-stres] > ∅ / __ [+syl,ɛfront,etense,ɩhi,αlo]
+[+syl,ɛfront,etense,ɩhi,αlo,-prim] > ∅ / [+syl,ɛfront,etense,ɩhi,αlo] __ 
+[+syl,ɛfront,etense,ɩhi,αlo,-prim] > ∅ / __ [+syl,ɛfront,etense,ɩhi,αlo]
 
 $R13D Loss of syllabicity of high vowels in hiatus
 [-prim,+hi,-long] > [-syl] / [+syl] __
