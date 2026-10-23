@@ -16,6 +16,8 @@ R10Ca, R10Cb: Alpha features used correctly in rule R10Ca, unlike last time, inc
 
 R13C: actor did it right with respect to alpha features this time, unlike last time.
 
+R18E: alpha features dodged this time. Rule produced seems to work. 
+
 ### 1E redundancy
 
 - R6: actor rightly identifies this isn't supposed to target kw/gw. The fix involves using the prior disjunction {#;[-cons];[+ant];[+cor]}. But all [+cor] segments at this time are [+ant] (relatively minor, not a critical error)
@@ -34,6 +36,12 @@ R13E -- actor rightly accounted for the possible errant inclusion of /a/ as an i
 R5A: Unlike last time, the actor detected that nasals could not be treated as stops, would not be hit by [+cons,-cont], and that a separate rule with input [+nas,+cons] as necessary. (Another solution would be to use alpha features to match nasality and continuance, in a single rule: [+cons,nnas,ncont])
 
 R13A: In a new error not seen in the previous run, a rule lengthening the second vowel in a two-vowel sequence errantly has [-back] as a feature for the first, even though mortuus is a listed word. Missed by critic, made by actor.
+
+R19: good work this time around. 
+
+#### 1Fvii Feature matrices that transform null symbols
+
+R18A -- Error is fixed this time around, good work.
 
 #### 1Fviii Phonemes not established yet
 
@@ -58,6 +66,8 @@ It is unclear why this happened. What this formalism describes, the assimilation
 
 #### 2Di implied target domain 
 - R4A: critic correctly inferred that Pardess did not intend to exclude countertonics/secondarily-stressed vowels from early syncope, and accordingly changed [-stres] to [-prim]
+
+- R14: actor correctly understood what Pardess' intended rule was, not the error he made in writing it.
 
 ### 2F
 

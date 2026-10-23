@@ -140,7 +140,7 @@ $R13G Lowering of (short) [i]: Stressed or unstressed [i] > [e]; appears to appl
 [-back,-long,+syl] > [-hi]
 
 $R14 Apheresis: Loss of unstressed initial [e] before [s] or [z] before a consonant
-    $ exec decis.: feat matrix after the posterior s ins not what he intends. Fixed.
+    $ exec decis.: feat matrix after the posterior s is not what he intends (it instead designates as s , z ; but this position indicates the consonant afterwards). Fixed.
 e > ∅ / __ s {[+cor,-cont];[-cor,-son]} 
 
 $R15 Contraction of vowels
@@ -170,7 +170,7 @@ $R18E Assimilation of stops to affricates
 [-cont,-son] > [+delrel,-ant,+distr,+cor,-back,-hi] / __ [+cor,-ant,+delrel]
 
 $R19 Depalatalization of affricates after a stressed vowel (P32)
-[-ant,+cor,+delrel] > [+ant,-distr] / [+prim] __ 
+[-ant,+cor,+delrel] > [+ant,-distr,-front] / [+prim] ([-syl])*  __ 
 
 $R20 Attraction of glides
 ∅ > j / [+prim] __ ([+cons])* j 
