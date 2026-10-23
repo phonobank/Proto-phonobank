@@ -314,7 +314,7 @@ $R41A Palatalization of non-occlusive alveolars before yod. Fed by R40. Does not
 {l;n;s;z} > {ʎ;ɲ;ʃ;ʒ} / __ j
 
 $R41B Absorption of yod after a palatal segment. Exec decis: Pardess has Chi as prior context, but that would apply after k and g, which is not intended, and also might not hit ʃ d͡ʒ t͡ʃ. Therefore using +front instead.
-j > ∅ / [+hi,+front] __
+j > ∅ / [+hi,+front,+cons] __
 
 $R42A Affrication of alveolar stops before yod. Exec decision using -son to not hit ɾ
 [+cor,-cont,-son] > [+delrel] / __ j

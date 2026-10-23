@@ -36,6 +36,10 @@ R13C -- good intuition on part of critic to use multiple rules to preserve stres
 
 R13E -- actor rightly accounted for the possible errant inclusion of /a/ as an input-- good job.
 
+#### 1Fv 
+
+46A and 46B good now.
+
 
 #### 1Fvi feature matrices that do not capture intended phone(s)
 
@@ -68,6 +72,8 @@ Neither actor nor critic ever makes a rule introducing ɾ before it is used as i
 ### 2A Document reading issues
 
 These largely seem fixed after OCR now works well?
+
+Good that issue wasn't repeated for 46B
 
 ### 2B omission of relevant info in source.
 
