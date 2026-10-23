@@ -173,9 +173,9 @@ $R19 Depalatalization of affricates after a stressed vowel (P32)
 [-ant,+cor,+delrel] > [+ant,-distr,-front] / [+prim] ([-syl])*  __ 
 
 $R20 Attraction of glides
-∅ > j / [+prim] __ ([+cons])* j 
-∅ > w / [+prim] __ ([+cons])* w
-[-syl,-cons,ifront] > ∅ / [+prim] [-syl,-cons,ifront] ([+cons])* __
+∅ > j / [+prim] __ ([+cons])+ j 
+∅ > w / [+prim] __ ([+cons])+ w
+[-syl,-cons,ifront] > ∅ / [+prim] [-syl,-cons,ifront] ([+cons])+ __
 
 $R21 Spirantization of [b]
 b > β / [-cons] __ 
@@ -209,7 +209,7 @@ $R24 Affrication of velars before a front vowel
 
 $R25A Development of final -s into -y in monosyllablic Words
     $ Pardess thinks it is likely via s > h > ç > j 
-s > j / # ([-syl])* [+syl] ([-syl])* __ s #
+s > j / # ([-syl])* [+syl] ([-syl])* __ #
 
 $R25B Loss of final [s] in polysyllabic words 
     $ bled by R25A for monosyllables, so polysyllabicity does not need to be formalized in the context.

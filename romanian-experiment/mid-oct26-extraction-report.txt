@@ -8,7 +8,7 @@ Reviewed up to R13G currently (TODO update)
 
 ### 1Aiv Pardess' "//" 
 
-Handling is now fixed, good job. 
+Handling is now fixed wherever pertinent, good job. 
 
 ### 1D alpha feature handling 
 
@@ -41,13 +41,19 @@ R19: good work this time around.
 
 #### 1Fvii Feature matrices that transform null symbols
 
-R18A -- Error is fixed this time around, good work.
+R18A, R20 -- Error is fixed this time around, good work.
 
 #### 1Fviii Phonemes not established yet
 
 Phonemes should not be used as inputs or contexts before they have been produced by other rules. If they don't yet exist, the rule has no effect.
 
 -R5C: in a new error, the actor uses ɾ rather than r for this rule. The actor fails to catch it.
+
+Neither actor nor critic ever makes a rule introducing ɾ before it is used as input in R26A and later either. 
+
+### 1G misc
+
+27B: good handling of ɛ-breaking rule so that ɛ both detenses and ejects prior j
 
 ## 2 fidelity issues
 
