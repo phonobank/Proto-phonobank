@@ -24,7 +24,13 @@ R18E: alpha features dodged this time. Rule produced seems to work.
 
 ### 1F  feature inventory errors
 
-Critic caught the non-inclusion of (variously primary or secondary) stress variants in R13B, R13D, R14 -- good job.
+Critic caught the non-inclusion of (variously primary or secondary) stress variants in R13B, R13D, R14, R36C -- good job.
+
+also good handling of stress by critic (good catch) in R37B
+
+However stress was not preserved in R38 by actor or critic. This formulation would do so: 
+
+    [-hi,+syl,αstres,βprim] a > [-syl,+tense] [αstres,βprim]
 
 R13C -- good intuition on part of critic to use multiple rules to preserve stress on either side, just as I would.
 
@@ -55,11 +61,19 @@ Neither actor nor critic ever makes a rule introducing ɾ before it is used as i
 
 27B: good handling of ɛ-breaking rule so that ɛ both detenses and ejects prior j
 
+31A: good handling of a difficult rule.
+
 ## 2 fidelity issues
 
 ### 2A Document reading issues
 
 These largely seem fixed after OCR now works well?
+
+### 2B omission of relevant info in source.
+
+31B -- error not replicated, rule is good.
+
+33 -- that a vowel must come after the N or NC* cluster is lost in the rule formalism
 
 ### 2C spurious material inserted 
 For the labialization of kw/gw to p/b before a, actor mysteriously adds the following rule, after an otherwise well-formed formalism for this rule: 

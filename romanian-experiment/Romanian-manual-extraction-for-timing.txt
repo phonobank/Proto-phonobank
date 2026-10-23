@@ -256,7 +256,8 @@ $R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in t
     $ first disjunct posterior context -- combines cases where mutandum is followed by consonantalism not starting in a nasal, combined with -- due to same outputs -- cases where a nasal other than /m/ precedes such oral consonantism 
         $ (ŋ always occurs before a consonant)
     $ second disjunct posterior context -- covers singleton m as intermediary
-[+prim,-hi,-lo] > [-tense] / __ ({m;([+nas,-lab]) ([+cons])+}) [+syl,-hi,-round]
+	$had to post facto fix the disjunction -- took a couple min.
+[+prim,-hi,-lo] > [-tense] / __  {n ([+cons])+;m;m [+cons] ([+cons])+;[+cons,-nas] ([+cons])*} [+syl,-hi,-round]
 
 
 $R31B Diphthongization of lax vowels
