@@ -1,0 +1,239 @@
+$= Proto-Northwest-Semitic
+
+$ test Hebrew cascade from Benjamin D Suchard's handout on Proto-Canaanite to Hebrew diachronic phonology, for a class at Leiden university
+$ manual extraction
+$ 8:17 PM-8:24, resume 8:28 - 9ː06 , 9ː39- 10:45, 11:01-11:08
+    $ initial construction took total of 103 min.
+
+$ rule numbering is based on Suchard's own system, prefixed with Such
+
+$ Proto-Northwest-Semitic [PNWS] phonogical decisions 
+    $1. ejectives are treated as [+cg]
+    $ 2. geminates are treated as single long consonants
+[-syl,dvoi,ʔcg,blab,ʎlat,cdelrel,mnas,ɣback,uhi] [-syl,dvoi,ʔcg,blab,ʎlat,cdelrel,mnas,ɣback,uhi] > [+long] ∅
+
+    $ as per Suchard, phonetic PNWS values are as stipulated on p4 -- e.g. *ś is treated as [ɬ]; *ś̩ as [t͡ɬˀ]
+    $ vowels -- *a, *ā, *i, *ī, *u, and *ū. While *aw, *ay, *iw, *iy, *uw, and *uy are often referred to as diphthongs (as in this syllabus), they do not seem to have had a different status as such, rather being a normal sequence of a short vowel and a glide.
+        $ a is treated as BACK [ɑ]
+[+lo,+syl] > [+back,-front]
+
+$ consonantal changes are treated as "areal", listed after Proto-Canaanite, as per Suchard's remarks on page 13
+
+$ Such2.5 -- The stress falls on the penultimate syllable of every prosodic word.
+[+syl] > [+prim] / __ ([-syl])* [+syl] ([-syl])* #
+    $ remove stress from finals in non-monosyllables
+[+prim] > [-stres] / [+prim] ([-syl])* __ ([-syl])* #
+    $ remove stress from anything before the penult
+[+prim] > [-stres] / __ (@)* [+prim]
+
+$ Such2.4 -- "may have predated Proto-Canaanite", must predate triphthong development"  -- *i and *u undergo a phonetic shift to *e and *o, respectively. Word-finally, *u (or *o) seems to have yielded *e.
+[+syl,-long] > [-hi] 
+
+$ Such2.4b -- o > e finally. FED by 2.4a, as currently written
+o > e / __ #
+
+$ "the Canaanite shift"
+
+$ Such2.6 "Syllable-final *ˀ had been lost, lengthening the preceding vowel". FEEDS Such2.8
+[+syl] ʔ > [+long] ∅
+
+$ Such2.7 Unstressed *o > *e when adjacent to a bilabial consonant. FEEDS Such2.8. Per page 4, *w is bilabial too.
+o > e / [+lab,-syl] __
+o > e / __ [+lab,-syl]
+
+$ Such2.8 "*ā > *ō, except in syllables after *w and *o.". FED BY 2.6 and 2.7
+    $EXEC DECISION: handling this with an intermediate ɒː phase that is reverted to ɑː in the exception cases
+[+lo,+syl,+long] > [+round,+lab]
+[+lo,+round] > [-round,-lab] / [+round,-long] ([-syl])* __ 
+[+lo,+round] > [-round,-lab] / w ([+syl]) ([-syl])* __ 
+[+round] > [-lo]
+
+$ Such2.9 "Unstressed *ō > *ū in non-initial syllables.". FED by 2.8
+oː > uː / [+syl] (@)* __
+
+$ === TRIPHTHONG CONTRACTION -- actually "sequences of a short vowel, glide, and another vowel"
+
+$ Such2.10 *V̆1wV2 and *V̆1yV2 > *V̄2
+[+syl,-long] [-cons,-syl,+son] [+syl] > ∅ ∅ [+long]
+
+$ Such2.11 "In closed syllables, the resulting long vowel was shortened, as were other long vowels in closed syllables."
+    $ footnote 8 -- "except those closed by a geminate consonant, as in *bāttī́ma ‘houses (obl.)’.
+        $ geminates treated as long consonants, explaining why they do not close syllables
+[+syl] > [-long] / __ ([+cons] (@)*) #
+
+
+= Proto-Canaanite
+
+$ Such2.1 The interdentals *θ *ð *θ̣ shift to alveolars, *s *z *tṣ; the emphatic lateral *ṣ́ also shifted to *tṣ
+    $ so basically all coronal obstruents except -delrel
+    $ FEEDS Such2.2
+[+cor,-son,+cont] > [+strid,-distr]
+[+cor,-son,+delrel] > [+strid,-distr,-lat]
+
+$ Such2.2 *s, both original and from *θ, shifts to *š.
+    $ FED BZ Such2.1
+{s;sː} > {ʃ;ʃː}
+
+$ Such2.3 The affricates *ts and *dz (but not *tṣ) become fricatives, *s and *z. COUNTERFEEDS Such2.2
+[+cor,+delrel,-cg] > [+cont]
+
+$==== proper PCan > PHeb starts here =========
+
+$Such5.1 "Already at the Proto-Hebrew stage," stressed *e was slightly lowered to *ε when occurring before two different consonants
+    $ except in first syllable of polysyllabic words
+        $ COUNTERBLED by nC > C:! Such3.1
+        $Such5.1a for monosyllables 
+ˈe > ˈɛ / # ([-syl])* __ [+cons] [+cons] ([-syl])* #
+        $Such5.1a for polysyllables
+ˈe > ˈɛ / [+syl] ([-syl])* __ [+cons] [+cons]
+
+$ Such3.1 *n before another consonant assimilates to that consonant
+    $ forms gemiantes -- exec decis. to treat output as long cons 
+n [+cons] > ∅ [+long]
+
+$ Such3.2 first apocope , Unstressed, word-final *a and *e are deleted.
+[-prim,-round,-hi,-long] > ∅ / __ #
+
+$ Such3.3 Word-final *m is lost after unstressed vowels. Counterfeeds first apocope
+m > ∅ / [-prim] __ #
+
+$ Such3.4 Stressed, short vowels in open syllables become long, except when fol-lowed by a long vowel.
+    $ geminates don't count as open -- PROVISIONAL DECISION
+        $ no cases before glides -- treat intermediary as consonantal
+[+prim] > [+long] / __ [+cons] [+syl,-long]
+
+$ Such3.5 Second apocope " New cases of unstressed, word-final *a and *e are deleted." 
+    $ COUNTERFEEDS 3.4, FED by 3.3
+[-prim,-round,-hi,-long] > ∅ / __ #
+
+
+$ Such3.6b -- not numbered, but stated in prose under 3.6 : "*e and *o had previously been reduced or deleted in pretonic syllables, except when preceding *a (but were later analogically restored before morpheme boundaries). Thus, words like *zerṓˁ- > *zərṓˁ ‘arm’ did not undergo pretonic lengthening"
+    $ BLEEDS 3.7
+[+syl,-long,-lo] > ə / __ {[+prim,-lo]; [+prim,+lo,+long]}
+    $ case of *śeˁā́r > *śēˁā́r ‘hair’ seems to show this is counterfed by 3.6
+
+$ Such3.6 *a > *ā in open syllables directly preceding the stress.
+[+lo,+syl] > [+long] / __ ([-syl])* [+prim]
+
+
+$ Such3.7 *e > *ē in open syllables directly preceding the stress, except when directly preceded by a heavy syllable.
+e > eː / # ((@)* [+syl] [-syl,-long]) __ ([+cons]) [+prim]
+
+$ Such3.8 *oC > *oCC in open syllables directly preceding the stress, except when di-rectly preceded by a heavy syllable.  
+    $ per EXEC DECISION, treating CC geminate as lengthened consonant
+[+cons] > [+long] / # ((@)* [+syl] [-syl,-long]) o __ ([+cons]) [+prim] 
+
+$ Such3.9 Proto-Hebrew diphthong contraction "Except in a few very specific environments, both stressed and unstressed *aw > *ō, except when followed by *w."
+[+lo,+syl] w > [+round,+lab,-lo,+long] ∅ / __ {[+cons];j;h;[+syl]}
+
+$ Such 3.10 *ay > *ē, except when followed by *y or in word-final syllables.
+[+lo,+syl] j > [+front,-back,-lo,+long] ∅ / __ {([-cons,-front]) [+syl]; ([+cons])* [+syl]}
+
+
+
+
+= Proto-Hebrew
+
+$ Such4.1 Loss of the lateral fricative(s)
+{ɬ;ɬː} > {s;sː}
+
+$ Such4.2 Pausal lengthening "In utterance-final words, stressed short vowels are lengthened." 
+    $ exec decision-- left out, syntactic conditioned change, non-regular
+
+$ Such4.3 Short stress shift and reduction --
+    $ first part 4.3a "The stress shifts from a short vowel in an open syllable to a directly follow-ing vowel."
+        $fed and blocked by pausal lengthening
+[+prim,-long] [-syl,-long] [+syl] > [-stres] [-syl] [+prim]
+
+    $ "After the short stress shift, unstressed short vowels in open syllables were reduced to schwa"
+        $ however, o in initial syllables is preserved - -*qodāšī́m ‘holies’, *ṣorī́ ‘mastic’.
+            $4.3b for o alone: 
+o > ə / [+syl] (@)* __ [-syl,-long] [+prim]
+
+            $4.3c for a, e (there is no short i , u )
+[-prim,-round,-long] > ə / __ [-syl,-long] [+prim]
+
+
+= Proto-Jewish-Hebrew
+
+$ BANDAID -- etymological velar fricatives are treated as gutturals-- retracting to uvular at this point 
+[+back,-son,+cont] > [-hi,+strid]
+ 
+$5.0 "Unstressed *e and *o developed into either high or mid-low vowels"
+    $Such5.0a *e was normally raised to *i in pretonic syllables, except when adjacent to a guttural (and even then sometimes, especially before geminates)
+        $ gutterals are +back consonantals
+e > i / {# ((@)* [-back]);[+hi];[-cons]} __ {([-back] (@)*) #;[+hi];[-cons]}
+
+        $ Such5.0b in other positions, *e was lowered to *ε
+e > ɛ
+
+    $Such5.0c *o was raised to *u before most geminates
+o > u / __ [+cons,+long]
+
+    $Such5.0d *o was lowered to *ɔ elsewhere
+o > ɔ
+
+    $Such5.0 (unstressed) ā > å in Babylonian and Tiberian reading traditions
+        $ he never specifies it's unstressed though
+ɑː > ɔː
+
+    $Such5.2 ɛ́ -- PHILIPPI'S LAW in closed syllables to á. Includes before geminates!
+ˈɛ > ˈɑ / __ {[+cons,+long];[+cons] ([+cons] (@)*) #}
+
+    $Such5.3 word final degemination, with compensatory lengthening of a prior vowel if present
+[+syl] > [+long] / __ [+cons,+long] #
+[+cons] > [-long] / __ #
+
+    $geminated gutterals and R degeminated. Handled by making r uvular. 
+        $Such5.4a uvularization of R (exec decision)
+{r;rː} > {ʀ;ʀː}
+
+        $Such5.4b compensatory lengthening before degemination of gutturals, including *rr, not including velars
+[+syl] > [+long] / __ [+cons,-ant,-hi,+long] 
+
+    $Such5.4c degemination of gutturals, including R ʔ and h , not including velar stops, 
+[+cons,-ant,-hi] > [-long]
+
+    $ Such5.5 "Where a cluster of two different consonants occurred in word-final position, an epenthetic vowel was inserted"
+                    $Such5.5a compensatory lengthening of prior vowel if present
+[+syl] > [+long] __ [-syl] [+cons] #
+
+        $ Such5.5b *a inserted if the first cons was guttural (including *r? not including *r? unclear. Guess not -- cf 'eretz < ʔarṣ́-.)
+∅ > a / [-son,-ant,-hi] __ [+cons] #
+
+        $ Such5.5c *i inserted in *yC# 
+                    $with compensatory lengthening of prior vowel if present
+∅ > i / j __ [+cons] #
+
+    $Such5.5d *ɛ inserted in other C1C2# cases
+∅ > ɛ / [+cons] __ [+cons] #
+
+    $Such5.6 velar (uvular) fricatives merge into pharyngeals
+[+cont,+back,-son] > [+lo,-strid]
+
+    $Such5.7 begadkefat spirantization. COUNTERFEEDS 5.6
+$[-delrel,-cg] > [+cont] / [-cons] __ 
+    $above is what rule should be. But he doesn't mention that begadkefat actually had a necessary vocoid prior context so as he wrote it, it is as below:
+[-delrel,-cg] > [+cont]
+
+    $Such5.8 Schwa is deleted when directly preceded by an open syllable.
+ə > ∅ / [+syl] [-syl,-long] __ 
+
+    $Such5.9a Schwa in a closed syllable shifts to *a when adjacent to a guttural or before *r, *l, or *n
+        $5.9a.i -- after guttural , closed syll 
+ə > ɑ / [-ant,-hi,-son] __ {[+cons,+long];[+cons] ([-syl] (@)*) #}
+        $5.9a.ii -- before guttural or r/l/n -- which happen to be non-nasal sonorants
+ə > ɑ / __ {[-ant,-hi,-son];[+cons,+son,-nas]} [+cons] ([-syl] (@)*) #
+        $5.9b elsewhere in closed syllables schwa to i 
+ə > i / __ {[+cons,+long];[+cons] ([-syl] (@)*) #}
+ 
+    $Such5.10 Schwa is inserted between two word-initial consonants.
+∅ > ə / # [+cons] __ [-syl] 
+
+    $Such5.11 All stressed short vowels are lengthened.
+[+prim] > [+long]
+
+    $ "A uniquely Tiberian sound change that is usually grouped under the Law of Atten-uation is the dissimilation of *a to *i in the first syllable of *maqṭal- nouns and phonet-ically similar forms." 
+        $ ^ EXEC DECISION: above is too unclear. Excluding. 
+
+$= Masoretic Hebrew
