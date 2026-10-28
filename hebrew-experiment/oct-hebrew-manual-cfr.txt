@@ -4,10 +4,11 @@ $ test Hebrew cascade from Benjamin D Suchard's handout on Proto-Canaanite to He
 $ manual extraction
 $ 8:17 PM-8:24, resume 8:28 - 9ː06 , 9ː39- 10:45, 11:01-11:08
     $ initial construction took total of 103 min.
+	$ had to be fixed for various rules : 2.10, 3.4, 3.9, 4.3, 4.4, 5.1 
 
 $ rule numbering is based on Suchard's own system, prefixed with Such
 
-$ Proto-Northwest-Semitic [PNWS] phonogical decisions 
+$ Proto-Northwest-Semitic [PNWS] phonological decisions 
     $1. ejectives are treated as [+cg]
     $ 2. geminates are treated as single long consonants
 [-syl,dvoi,ʔcg,blab,ʎlat,cdelrel,mnas,ɣback,uhi] [-syl,dvoi,ʔcg,blab,ʎlat,cdelrel,mnas,ɣback,uhi] > [+long] ∅
@@ -21,8 +22,10 @@ $ consonantal changes are treated as "areal", listed after Proto-Canaanite, as p
 
 $ Such2.5 -- The stress falls on the penultimate syllable of every prosodic word.
 [+syl] > [+prim] / __ ([-syl])* [+syl] ([-syl])* #
+	$monosyllable stress
+[+syl] > [+prim] / # ([-syl])* __ ([-syl])* #
     $ remove stress from finals in non-monosyllables
-[+prim] > [-stres] / [+prim] ([-syl])* __ ([-syl])* #
+[+prim] > [-stres] / [+syl] (@)* __ ([-syl])* #
     $ remove stress from anything before the penult
 [+prim] > [-stres] / __ (@)* [+prim]
 
@@ -35,7 +38,7 @@ o > e / __ #
 $ "the Canaanite shift"
 
 $ Such2.6 "Syllable-final *ˀ had been lost, lengthening the preceding vowel". FEEDS Such2.8
-[+syl] ʔ > [+long] ∅
+[+syl] ʔ > [+long] ∅ / __ ([-syl] (@)*) #
 
 $ Such2.7 Unstressed *o > *e when adjacent to a bilabial consonant. FEEDS Such2.8. Per page 4, *w is bilabial too.
 o > e / [+lab,-syl] __
@@ -54,6 +57,7 @@ oː > uː / [+syl] (@)* __
 $ === TRIPHTHONG CONTRACTION -- actually "sequences of a short vowel, glide, and another vowel"
 
 $ Such2.10 *V̆1wV2 and *V̆1yV2 > *V̄2
+[,-long,+prim] [-syl,-cons,+hi] [+syl] > ∅ ∅ [+long,+prim]
 [+syl,-long] [-cons,-syl,+son] [+syl] > ∅ ∅ [+long]
 
 $ Such2.11 "In closed syllables, the resulting long vowel was shortened, as were other long vowels in closed syllables."
@@ -79,7 +83,27 @@ $ Such2.3 The affricates *ts and *dz (but not *tṣ) become fricatives, *s and *
 
 $==== proper PCan > PHeb starts here =========
 
-$Such5.1 "Already at the Proto-Hebrew stage," stressed *e was slightly lowered to *ε when occurring before two different consonants
+
+$ Such3.2 first apocope , Unstressed, word-final *a and *e are deleted.
+[-prim,-round,-hi,-long] > ∅ / __ #
+
+$ Such3.3 Word-final *m is lost after unstressed vowels. Counterfeeds first apocope
+m > ∅ / [-prim] __ #
+
+
+$ Such3.9 Proto-Hebrew diphthong contraction "Except in a few very specific environments, both stressed and unstressed *aw > *ō, except when followed by *w.". Per Suchard p18, PRECEDES tonic lengthening. 
+[+lo,+syl] w > [+round,+lab,-lo,+long] ∅ / __ {#;[+cons];[-cons,-lab];[+syl]}
+
+$ Such3.4 Tonic lengthening -- Stressed, short vowels in open syllables become long, except when fol-lowed by a long vowel.
+    $ geminates don't count as open -- PROVISIONAL DECISION
+        $ no cases before glides -- treat intermediary as consonantal
+[+prim] > [+long] / __ ([+cons] [+syl,-long] (@)*) #
+
+$ Such3.5 Second apocope " New cases of unstressed, word-final *a and *e are deleted." 
+    $ COUNTERFEEDS 3.4, FED by 3.3
+[-prim,-round,-hi,-long] > ∅ / __ #
+
+$Such5.1 "Already at the Proto-Hebrew stage," stressed *e was slightly lowered to *ε when occurring before two different consonants. FED by 3.5: binta > ... > bɛtt
     $ except in first syllable of polysyllabic words
         $ COUNTERBLED by nC > C:! Such3.1
         $Such5.1a for monosyllables 
@@ -91,22 +115,6 @@ $ Such3.1 *n before another consonant assimilates to that consonant
     $ forms gemiantes -- exec decis. to treat output as long cons 
 n [+cons] > ∅ [+long]
 
-$ Such3.2 first apocope , Unstressed, word-final *a and *e are deleted.
-[-prim,-round,-hi,-long] > ∅ / __ #
-
-$ Such3.3 Word-final *m is lost after unstressed vowels. Counterfeeds first apocope
-m > ∅ / [-prim] __ #
-
-$ Such3.4 Stressed, short vowels in open syllables become long, except when fol-lowed by a long vowel.
-    $ geminates don't count as open -- PROVISIONAL DECISION
-        $ no cases before glides -- treat intermediary as consonantal
-[+prim] > [+long] / __ [+cons] [+syl,-long]
-
-$ Such3.5 Second apocope " New cases of unstressed, word-final *a and *e are deleted." 
-    $ COUNTERFEEDS 3.4, FED by 3.3
-[-prim,-round,-hi,-long] > ∅ / __ #
-
-
 $ Such3.6b -- not numbered, but stated in prose under 3.6 : "*e and *o had previously been reduced or deleted in pretonic syllables, except when preceding *a (but were later analogically restored before morpheme boundaries). Thus, words like *zerṓˁ- > *zərṓˁ ‘arm’ did not undergo pretonic lengthening"
     $ BLEEDS 3.7
 [+syl,-long,-lo] > ə / __ {[+prim,-lo]; [+prim,+lo,+long]}
@@ -117,19 +125,15 @@ $ Such3.6 *a > *ā in open syllables directly preceding the stress.
 
 
 $ Such3.7 *e > *ē in open syllables directly preceding the stress, except when directly preceded by a heavy syllable.
-e > eː / # ((@)* [+syl] [-syl,-long]) __ ([+cons]) [+prim]
+e > eː / # ((@)* [+syl,-long] [-syl,-long]) __ ([+cons]) [+prim]
 
 $ Such3.8 *oC > *oCC in open syllables directly preceding the stress, except when di-rectly preceded by a heavy syllable.  
     $ per EXEC DECISION, treating CC geminate as lengthened consonant
 [+cons] > [+long] / # ((@)* [+syl] [-syl,-long]) o __ ([+cons]) [+prim] 
 
-$ Such3.9 Proto-Hebrew diphthong contraction "Except in a few very specific environments, both stressed and unstressed *aw > *ō, except when followed by *w."
-[+lo,+syl] w > [+round,+lab,-lo,+long] ∅ / __ {[+cons];j;h;[+syl]}
-
 $ Such 3.10 *ay > *ē, except when followed by *y or in word-final syllables.
-[+lo,+syl] j > [+front,-back,-lo,+long] ∅ / __ {([-cons,-front]) [+syl]; ([+cons])* [+syl]}
-
-
+[+lo,+syl] j > [+front,-back,-lo,+long] ∅ / __ [-cons,-front] ([-syl])* [+syl]
+[+lo,+syl] j > [+front,-back,-lo,+long] ∅ / __ ([+cons] ([-syl])*) [+syl]
 
 
 = Proto-Hebrew
@@ -143,14 +147,20 @@ $ Such4.2 Pausal lengthening "In utterance-final words, stressed short vowels ar
 $ Such4.3 Short stress shift and reduction --
     $ first part 4.3a "The stress shifts from a short vowel in an open syllable to a directly follow-ing vowel."
         $fed and blocked by pausal lengthening
-[+prim,-long] [-syl,-long] [+syl] > [-stres] [-syl] [+prim]
+[+syl] > [+prim] / [-long,+prim] ([-syl]) __
+[-long,+prim] > [-stres] / __ ([-syl]) [+prim]
 
-    $ "After the short stress shift, unstressed short vowels in open syllables were reduced to schwa"
+
+    $ Such4.4 "After the short stress shift, unstressed short vowels in open syllables were reduced to schwa"
+
+	$ 4.4a after gutturals, reduced to shortened but non-schwa ḥåṭep̄ vowels instead. EXEC decision to treat these as glottalized.
+[-prim,-long] > [+cg] / [-ant,-hi,-son] __ 
+
         $ however, o in initial syllables is preserved - -*qodāšī́m ‘holies’, *ṣorī́ ‘mastic’.
-            $4.3b for o alone: 
+            $4.4b for o alone: 
 o > ə / [+syl] (@)* __ [-syl,-long] [+prim]
 
-            $4.3c for a, e (there is no short i , u )
+            $4.4c for a, e (there is no short i , u )
 [-prim,-round,-long] > ə / __ [-syl,-long] [+prim]
 
 
@@ -196,7 +206,7 @@ o > ɔ
 
     $ Such5.5 "Where a cluster of two different consonants occurred in word-final position, an epenthetic vowel was inserted"
                     $Such5.5a compensatory lengthening of prior vowel if present
-[+syl] > [+long] __ [-syl] [+cons] #
+[+syl] > [+long] / __ [-syl] [+cons] #
 
         $ Such5.5b *a inserted if the first cons was guttural (including *r? not including *r? unclear. Guess not -- cf 'eretz < ʔarṣ́-.)
 ∅ > a / [-son,-ant,-hi] __ [+cons] #
@@ -211,10 +221,8 @@ o > ɔ
     $Such5.6 velar (uvular) fricatives merge into pharyngeals
 [+cont,+back,-son] > [+lo,-strid]
 
-    $Such5.7 begadkefat spirantization. COUNTERFEEDS 5.6
-$[-delrel,-cg] > [+cont] / [-cons] __ 
-    $above is what rule should be. But he doesn't mention that begadkefat actually had a necessary vocoid prior context so as he wrote it, it is as below:
-[-delrel,-cg] > [+cont]
+    $Such5.7 begadkefat postvocalic spirantization. COUNTERFEEDS 5.6
+[-delrel,-cg] > [+cont] / [-cons] __ 
 
     $Such5.8 Schwa is deleted when directly preceded by an open syllable.
 ə > ∅ / [+syl] [-syl,-long] __ 
