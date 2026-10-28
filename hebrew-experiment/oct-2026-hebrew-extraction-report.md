@@ -44,6 +44,8 @@ In 2.10, the actor -- and not the manual extraction, originally! -- made sure to
 
 ### 2B accounting for idiosyncratic exceptions
 
+Good catch by critic for 4.4 
+
 #### 2Bi 
 
 In rule 2.8, the "Canaanite shift", long *ā becomes *ō except in syllables after w and o.
