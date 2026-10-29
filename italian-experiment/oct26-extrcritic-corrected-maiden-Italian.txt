@@ -1,0 +1,533 @@
+$ oct26-extrcritic-corrected-maiden-Italian.txt
+$ = oct26-italian-extractor-cfr.txt as corrected by the extraction critic. Every change is marked
+$   "$FIXED:"; nothing else was altered. See oct26-extrcritic-Italian-report.txt for the reasons, and
+$   tests/italian/ for the DiaSim test on Maiden's own examples.
+$
+$ DiaSim cascade: Classical Latin > Proto-Romance > (standard, Florentine-based) Italian
+$ Source: Maiden, Martin. 1995 [Routledge reissue 2013]. A Linguistic History of Italian. Longman
+$   Linguistics Library. Chapter 2, "History of the sound system" (pp. 24-91).
+$   (file: "(Longman linguistics library) Maiden, Martin - A linguistic history of Italian-Routledge (2013).pdf";
+$   printed page = PDF page - 19). Uses the standard gamma symbolDefs.csv (no extensions needed).
+$
+$ CONVENTIONS OF THIS FILE
+$ - Identifiers are Maiden's section numbers (e.g. M4.2 = section 4.2). Where one section yields several
+$   changes, they are labelled M5.2a, M5.2b, ...
+$ - $$PG: = printed page(s) in Maiden.
+$ - ORDER: Maiden's chapter is organized by TOPIC, not by date, so the rules cannot simply follow the
+$   page order. They are ordered by his dating statements (e.g. yod palatalization "in, or before, the
+$   second century"; velar palatalization "in about the fifth century") and by the intermediate forms in
+$   his tables (e.g. the "P-R lengthening" column of (36), the Proto-Romance forms of (5), (6), (21)).
+$   The basis for each placement is given under "ORDER:".
+$ - Changes Maiden describes as sporadic tendencies, lexically/morphologically conditioned, analogical,
+$   hypercorrect in only some words, or confined to non-standard Tuscan (gorgia, intervocalic
+$   deaffrication, etc.) are COMMENT-ONLY entries, listed at the end with their pages so nothing he
+$   describes is lost.
+$
+$ GENERAL EXECUTIVE DECISIONS
+$ E1. Input = Classical Latin in IPA, with CL vowel length (ː) and CL stress (ˈ) MARKED in the lexicon.
+$     Maiden describes the CL stress rule (1.2, p. 25) but it is a property of the input, not a change.
+$     Latin AE, OE, AU = a j, o j, a w; consonantal I, U = j, w; X = k s; QU = k w; GU = ɡ w; r = r (trill).
+$ E2. Output = standard Italian. Where Maiden distinguishes the standard from other Tuscan outcomes, the
+$     standard one is encoded (e.g. intervocalic sj > t͡ʃ, M5.2).
+$ E3. Geminates (Maiden's long consonants) = two identical segments (t t); a geminate affricate = two
+$     identical affricates (t͡s t͡s for Maiden's [tts]).
+$ E4. DiaSim has no syllables. "Open syllable" = the vowel is followed by a vowel, by #, by one
+$     non-syllabic + vowel, or by an obstruent + liquid + vowel (muta cum liquida forms an onset, p. 25).
+$     "Closed" = followed by two consonants not forming such an onset, or by a consonant + #.
+$ E5. Plain vowel symbols are UNSTRESSED; stress-neutral changes list the grades ({e;ˈe}). Secondary
+$     stress is not used.
+$ E6. When a source statement has more than one reading, the reading supported by Maiden's examples is
+$     encoded and the alternative noted. Where he gives two outcomes (doublets), the first-listed/main
+$     one is encoded and the other noted.
+$ E7. Front vowels (i e ɛ) = [+syl,+front,-lo], since DiaSim's a is also [+front].
+
+$ ===================================================================================================
+$ I. CLASSICAL LATIN > PROTO-ROMANCE
+$ ===================================================================================================
+
+$ M3.1 Loss of [h]  $$PG: 30
+$ ORDER: "already subject to deletion in the classical period".
+h > ∅
+
+$ M10a Word-final [m]: lost, but surviving as n in some monosyllables  $$PG: 77-78
+$ "already in CL, final [m] tended to not be pronounced"; "The word-final nasal has survived only in some
+$ monosyllables (e.g., con < CUM; non < NON; son(o) < SUM, but also già < IAM)".
+$ NOTE: line (i) = monosyllables (m > n, as in con, son); line (ii) = everything else. già < IAM is an
+$ exception to (i) - LEXICAL.
+$ $FIXED (note only): Maiden says the nasal survived "only in SOME monosyllables", so line (i) is a
+$ generalization from con, non, son. Any other Latin monosyllable in -m will keep an n.
+m > n / # ([-syl])* [+syl] __ #
+m > ∅ / __ #
+
+$ M9 Deletion of syllable-final nasal before a sibilant  $$PG: 76
+$ "A pan-Romance development": MENSE(M) > mese, CONSTARE > costare, PENSARE > pesare.
+$ NOTE: learnèd forms (denso, pensare) are exceptions - LEXICAL.
+[+nas,+cons] > ∅ / [+syl] __ s
+
+$ $FIXED: rule added (missing from the extraction). Proto-Romance stress shift in stressed I/E + vowel  $$PG: 85 (n. 5 to p. 25)
+$ "In CL sequences of stressed I or E + unstressed vowel, the accent shifted in Proto-Romance to the
+$ second vowel FILIOLU(M) > Proto-Romance *fi'ljɔlu". Line (i) moves the stress; line (ii) makes the old
+$ nucleus a glide (as M5 does for unstressed i, e).
+$ NOTE: restricted to a second vowel that is not word-final: Maiden's own Proto-Romance *ˈmjɛa < MEA
+$ (p. 40) keeps the stress on E. Tested: FILIOLU(M) > fiʎˈʎwɔːlo.
+$ ORDER: before M5 and M2.1a (the newly stressed short o of *fiˈljɔlu must lower to ɔ).
+[+syl,-prim] > [+prim,+stres] / {ˈi;ˈiː;ˈe;ˈeː} __ ([-syl])+ [+syl]
+{ˈi;ˈiː;ˈe;ˈeː} > {j;j;j;j} / __ [+syl,+prim]
+
+$ M5 Glide formation: unstressed I and E before a vowel > [j]; U before a vowel > [w]  $$PG: 47-48
+$ (IANUARIUS = *janwarju; yod "arose from Latin unstressed E or I immediately followed by a vowel")
+$ ORDER: before M2.1 (which would otherwise lower these i/u to e/o).
+{i;iː;e;eː} > {j;j;j;j} / __ [+syl]
+{u;uː} > {w;w} / __ [+syl]
+
+$ M2.1a Short stressed E, O > low mid [ɛ], [ɔ]  $$PG: 28-29
+$ ORDER: before M2.1b (else short i, u would merge into ɛ, ɔ too).
+{ˈe;ˈo} > {ˈɛ;ˈɔ}
+
+$ M2.1b Short I, U > [e], [o] (merging with long E:, O:)  $$PG: 28-29
+$ Long ī, ū keep their quality.
+{i;ˈi;u;ˈu} > {e;ˈe;o;ˈo}
+
+$ M2.2 Loss of Latin diphthongs: AE [ai] > reflex of short E, OE [oi] > reflex of long E:  $$PG: 29
+$ (CAELU(M) > ˈtʃɛːlo; POENA(M) > ˈpeːna); AU survives (see M4.4).
+$ NOTE: stressed AE > ɛ (= stressed short E); unstressed > e (M2.3). Restricted to a j / o j before a
+$ consonant or #, so that intervocalic Latin -jj- (MAIUS ma j j u s) is not taken for AE.
+$ ORDER: after M2.1a (OE must not become ɛ).
+$ $FIXED: "ˈo j" -> "ˈɔ j". M2.1a has already lowered the stressed short O of OE to ɔ, so "ˈo j" never
+$ matched and POENA(M) came out *ˈpɔjna instead of Maiden's ˈpeːna (p. 29).
+{ˈa j;a j;ˈɔ j;o j} > {ˈɛ;e;ˈe;e} / __ {[+cons];#}
+
+$ M2.1c Loss of Latin vowel length (A/A: merge; other lengths now carried by quality)  $$PG: 28-29
+[+syl,+long] > [-long]
+
+$ M2.3 Stress and vowel quality  $$PG: 29-30
+$ "In unstressed syllables, [ɛ] and [ɔ] do not appear ... short O and E merge with their long counterparts".
+$ NOTE: this follows from M2.1a applying only to stressed vowels; no separate rule is needed.
+
+$ M4.6.4.1a Proto-Romance syncope before [l] (posttonic -ULU-, -ULA-)  $$PG: 31, 44-46, 70
+$ Maiden: "The incidence of original consonant + [l] sequences is augmented by syncope of unstressed
+$ vowels ... notably in the originally diminutive suffix -ULUS" (FIBULA > *fibla, OCULU > *oklu,
+$ UNGULA > *ungla, UETULU > *veklu, NEBULA > *nebla; "virtually all instances of word-internal
+$ intervocalic [C + l] arose from syncope").
+$ NOTE: TENTATIVE. Proto-Romance syncope in general (DOMINA > donna, COLLIGO > colgo) is lexically
+$ irregular and is not encoded; only this case, where Maiden generalizes, is. It is limited to the
+$ penultimate (posttonic) vowel between a consonant and l.
+$ NOTE: here u is already o (M2.1b), so the vowel deleted is short unstressed o.
+$ $FIXED: "([+cons])" added before "#". Final -t/-s are still present at this stage, so the rule missed
+$ verb forms like MISCULAT > mischia, which Maiden cites (p. 42). The vowel is still the penultimate.
+o > ∅ / [+syl,+prim] ([+cons]) [+cons] __ l [+syl] ([+cons]) #
+
+$ M3.3a *[tl] > [kl]  $$PG: 31
+$ ORDER: after the syncope that creates tl (UETULU > *vetlu > *veklu).
+t > k / __ l
+
+$ M8.1a Intervocalic [j] is lengthened  $$PG: 70-71
+$ "In intervocalic position, Latin I (> Proto-Romance [j]) was already subject to lengthening (attested in
+$ inscriptions such as MAIIUS 'May', PEIIUS 'worse')".
+j > j j / [+syl] __ [+syl]
+
+$ M8.1b Syllable-initial strengthening: consonants lengthened before [j], [w] and [l]  $$PG: 68-71
+$ (36): SAPIAT *sapja > *sappja; FUTUO *fotwo > *fottwo; IANUARIU *janwarju > *jannwarju; FOLIA *folja >
+$ *follja; AQUA *akwa > *akkwa; OCULU *oklu > *okklu; FIBULA *fibla > *fibbla; TEGULA *tegla > *teggla.
+$ NOTE: only after a vowel (lengthening "is not an available option where no consonant precedes", e.g.
+$ initially; the consonant extends into the following onset). [r] does not lengthen (p. 71: "yod has no
+$ lengthening effect on preceding [r]"; *rw > rv). [s] before [j] is excluded: the regular Tuscan
+$ outcome of intervocalic sj is SHORT [ʃ] (p. 50). Line (ii) excludes l itself (an existing ll is not a
+$ C + l cluster).
+{p;b;t;d;k;ɡ;f;m;n;l} > {p p;b b;t t;d d;k k;ɡ ɡ;f f;m m;n n;l l} / [+syl] __ {j;w}
+$ $FIXED: m and n removed from line (ii). Maiden's examples of lengthening before l are all obstruents
+$ (oklu, fibla, tegla, nebla, veklu), and his PLAN(U)LA > pialla, SPIN(U)LA > spilla (p. 72) need a
+$ SHORT n before l to assimilate (M8.2b). With n lengthened they came out *pjanlla, *spinlla.
+{p;b;t;d;k;ɡ;f} > {p p;b b;t t;d d;k k;ɡ ɡ;f f} / [+syl] __ l
+
+$ $FIXED: M3.2 and M8.1d moved here from after =Proto-Romance (rule lines unchanged). Maiden dates both
+$ to Proto-Romance: b "gave [v] in common Proto-Romance" (p. 30); intervocalic and initial [w] were
+$ strengthened "already in common Proto-Romance" (p. 70). His Proto-Romance forms have the v (*ˈvinja,
+$ *ˈvɛnjo, *ˈvedjo, *ˈvolwi, *laˈvare, *ˈbev(e)re). No output changes.
+$ M8.1d Strengthening of [w] > [v] word-initially and intervocalically  $$PG: 30, 70
+$ (UADIT > *wade > va; UIUO > *wiwo > vivo; LAUARE > *laware > lavare)
+w > v / {#;[+syl]} __ [+syl]
+
+$ M3.2 Intervocalic [b] > [v] (via [β])  $$PG: 30
+$ ($FIXED: page was "30-31"; section 3.2 ends on p. 30.)
+$ (FABA > fava; HABEBAT > aveva; DEBET > deve). Word-initial b is unaffected; geminate bb is unaffected
+$ (abbia).
+b > v / [+syl] __ [+syl]
+
+=Proto-Romance
+
+$ ===================================================================================================
+$ II. PROTO-ROMANCE > ITALIAN
+$ ===================================================================================================
+
+$ M5.1a / M8.1c *[rw] > [rv]  $$PG: 71
+$ "The sequence *[rw] is therefore resolved as [rv]: parvi 'I seemed' < *ˈparwi; serve < *ˈserwe".
+$ ORDER: before M5.1b, which would delete the w.
+w > v / r __
+
+$ M5.1b Deletion of [w] after a consonant  $$PG: 47-48
+$ (FUTUO *fottwo > fotto, HABUI *abbwi > ebbi, UOLUI *vollwi > volli)
+$ "[gw] is maintained in Tuscan; [kw] loses its labial glide before the front vowels [e] and [i], but not
+$ before [a]" - see M5.1c, after velar palatalization.
+$ NOTE: written as "after a non-velar consonant" ([+ant] or [+cor]), which keeps kw and gw.
+w > ∅ / {[+cons,+ant];[+cons,+cor]} __
+
+$ $FIXED: M8.1d and M3.2 moved to before =Proto-Romance (see there).
+
+$ M5.2 Palatalization and affrication by yod  $$PG: 48-56
+$ ORDER: "Palatalization by yod occurred at an early date (in, or before, the second century)"; after the
+$ Proto-Romance lengthening (M8.1b), which made the intervocalic results long; before M3.3b (postconsonantal
+$ l > j), whose new Cj sequences are NOT palatalized (okkjo).
+$ "All consonants were modified by yod, except for the labials (abbja, vendemmja, sappja) and for [r]".
+$
+$ M5.2a [rj] > [j]  $$PG: 55-56
+$ (*ˈmɔrjo > ˈmwɔːjo, *ˈparjo > ˈpaːjo, *-ˈarju > -ˈaːjo) - "a distinctive characteristic of Tuscan".
+r j > j
+$
+$ M5.2b [nj] > [ɲ], [lj] > [ʎ]  $$PG: 49-50
+$ NOTE: geminate (intervocalic, after M8.1b) and single (post-consonantal/initial) cases.
+{n n j;l l j} > {ɲ ɲ;ʎ ʎ}
+{n j;l j} > {ɲ;ʎ}
+$
+$ M5.2c [sj] > [ʃ]  $$PG: 50-51
+$ "The regular development in Tuscan is a short [ʃ] ... Where originally preceded by a consonant, this [ʃ]
+$ is maintained, with assimilation of the preceding consonant: *reversjare > roveʃˈʃare". For the
+$ standard intervocalic t͡ʃ (bacio) see M5.2i.
+$ NOTE: Maiden also reports a voiced outcome ʒ > standard d͡ʒ (fagiano, cagione, pigione) - not encoded
+$ (E6).
+$ $FIXED: "[+cons] s j > ʃ ʃ ∅" made DiaSim abort the whole cascade at parse time ("illegitimate phone
+$ symbol" in the destination). Same effect, written as a context: the preceding consonant becomes ʃ, and
+$ the next line turns s j into the second ʃ.
+[+cons] > ʃ / __ s j
+s j > ʃ
+$
+$ M5.2d [stj] > [ʃʃ]  $$PG: 53
+$ "[t͡ʃ] for [ts] occurs principally where a consonant immediately precedes, especially after original [s],
+$ where it is the sole outcome: *anˈgostja > *anˈgost͡ʃa > anˈgoʃʃa; *ˈostju > *ˈust͡ʃo > ˈuʃʃo".
+$ ORDER: before M5.2e.
+s t j > ʃ ʃ
+$
+$ M5.2e [tj] > [t͡s] (occasionally [t͡ʃ])  $$PG: 52-53
+$ (*ˈtertju > ˈtɛrtso; *ˈplatja > ˈpjattsa; *ˈvetju > ˈvettso; *-ˈantja > -ˈantsa)
+$ NOTE: the t͡ʃ outcome (*kapˈtjare > katˈt͡ʃare) is noted as an alternative (E6).
+t t j > t͡s t͡s
+t j > t͡s
+$
+$ M5.2f [kj] > [t͡ʃ] (occasionally [t͡s])  $$PG: 52
+$ (*ˈfakjo > ˈfatt͡ʃo; *ˈlankja > ˈlant͡ʃa); t͡s in *ˈkalkja > ˈkaltsa, *faˈkjolu > fatˈtswɔlo (doublets).
+k k j > t͡ʃ t͡ʃ
+k j > t͡ʃ
+$
+$ M5.2g [gj] > [d͡ʒ]  $$PG: 52
+$ (*ˈfagju > ˈfadd͡ʒo; *ˈregja > ˈredd͡ʒa; *ˈfugja > ˈfudd͡ʒa)
+ɡ ɡ j > d͡ʒ d͡ʒ
+ɡ j > d͡ʒ
+$
+$ M5.2h [dj] > [d͡ʒ] intervocalically and initially, [d͡z] after a consonant; intervocalic [j] > [d͡ʒ]  $$PG: 53-54
+$ (*ˈvedjo > ˈvedd͡ʒo; *ˈodje > ˈɔdd͡ʒi; *ˈdjornu > ˈd͡ʒorno; *ˈordju > ˈɔrdzo; *ˈpeju > ˈpedd͡ʒo;
+$ *ˈmaju > ˈmadd͡ʒo; *ja > d͡ʒa; *janˈwarju > d͡ʒenˈnaːjo)
+$ "the phonetically regular Tuscan development of intervocalic and initial [dj] is not [d͡z] but rather
+$ [d͡ʒ]. This [d͡ʒ] is identical not only to the outcome of [gj], but also to that of the word-initial and
+$ intervocalic glide [j]".
+$ NOTE: the intervocalic [d͡z] doublets (ˈmɛddzo, ˈroddzo) are noted as an alternative (E6).
+$ $FIXED: the geminate line now comes first. With "d j > d͡z / [+cons] __" first, the first d of an
+$ intervocalic geminate d d j counted as the "preceding consonant", so SEDEO came out *ˈsɛdd͡zo
+$ instead of ˈsɛdd͡ʒo. This hit every intervocalic dj, the case Maiden calls "usually [dd͡ʒ]" (p. 53:
+$ vedd͡ʒo, sɛdd͡ʒo, ɔdd͡ʒi).
+d d j > d͡ʒ d͡ʒ
+d j > d͡z / [+cons] __
+d j > d͡ʒ
+j j > d͡ʒ d͡ʒ
+j > d͡ʒ / # __ [+syl]
+
+$ $FIXED: M5.3 moved to after M4.5 (see there).
+
+$ M3.3b *[sl] > [skl]  $$PG: 31
+$ (*ˈslavu > *ˈsklavu > ˈskjaːvo)
+∅ > k / s __ l
+
+$ M3.3c Postconsonantal [l] > [j]  $$PG: 31-32
+$ "the liquid consonant [l] has become [j] when preceded by a tautosyllabic consonant": *ˈplenu > ˈpjɛːno,
+$ *ˈklave > ˈkjaːve, *ˈglanda > ˈgjanda; *ˈfibbla > ˈfibbja, *ˈokklu > ˈɔkkjo, *ˈteggla > ˈteggja.
+$ NOTE: tautosyllabic = an obstruent before l ([-son]); r l, n l, l l are heterosyllabic.
+$ NOTE: Maiden reports intervocalic gl sometimes > ʎʎ in Tuscan (striglia, vegliare, triglia) - doublets,
+$ not encoded (E6).
+$ ORDER: after M5.2 (the new pj, kj ... are not palatalized); after M8.1b (fibbla).
+l > j / [-son] __
+
+$ $FIXED: M4.3b and M4.5 moved here from after M4.2/M4.3a, and M5.3 moved after them (rule lines
+$ unchanged). Reasons:
+$ (1) Anaphonesis must precede velar palatalization (M6.1b). Maiden's table (12), p. 34, has stressed i
+$     before the PALATALIZED stem: ˈstriŋgo, ˈstrind͡ʒi, ˈstrind͡ʒe; his n. 27 (p. 86, citing Castellani)
+$     dates anaphonesis before the velar nasal to "around the late fourth century", before the
+$     fifth-century velar palatalization (p. 57). Placed after M6.1b, the n + velar context was already
+$     gone, so STRINGIT, UINCIT came out *ˈstrend͡ʒe, *ˈvent͡ʃe (tested).
+$ (2) M4.3b must precede M4.5, so that LONGU(M) > *ˈlongu > ˈlungo (Maiden n. 25, p. 86).
+$ (3) Front anaphonesis before [ɲ] is limited to ɲ "derived from Proto-Romance [nj]" (p. 42). The ɲɲ
+$     from gn does not trigger it: LIGNU(M) > ˈleɲɲo (p. 56). With M5.3 first, legno came out *ˈliɲɲo
+$     (tested). So M5.3 now follows M4.5.
+$ M4.3b also no longer sees the ɔ from aw (M4.4); Maiden restricts the raising to "[ɔ] from Latin
+$ short O" (p. 40).
+
+$ M4.3b [ɔ] > [o] before a nasal in the same syllable (except before [nn])  $$PG: 40
+$ ($FIXED: page was "40-41"; section 4.3 ends on p. 40.)
+$ ("ˈponte < PONTE; ˈkontro < CONTRA; ˈsoɲɲo < SOMNIU; ˈoɲɲi < OMNE; ˈkompra < COMPARAT ... The only
+$ instances of [ɔ] before a syllable-final nasal appear before [nn]: ˈdɔnna, ˈgɔnna")
+ˈɔ > ˈo / __ {[+nas,+cons] [+cons,-nas];ɲ ɲ}
+
+$ M4.5 Anaphonesis (Florentine)  $$PG: 41-42
+$ Stressed [e] (< Latin E:, I) > [i] and [o] (< O:, U) > [u] before nasal + velar ("very consistently");
+$ front [e] > [i] also before [ɲ] and [ʎ] (from nj, lj) and before [skj]. "There is, however, no
+$ anaphonesis of back vowels in these [palatal] environments".
+$ (lingua, unghia, vinco, tinca, fungo, giunco; gramigna, famiglia, consiglio; mischia, fischia)
+$ NOTE: exceptions grongo, tronco, carbonchio (back vowel before nasal + velar) - LEXICAL.
+ˈe > ˈi / __ {[+nas,+cons] [-son,-ant,-cor];ɲ;ʎ;s k j}
+ˈo > ˈu / __ [+nas,+cons] [-son,-ant,-cor]
+
+$ M5.3 [gn] > [ɲɲ] (via *[jn])  $$PG: 56-57
+$ (LIGNU > *lejnu > ˈleɲɲo; COGNATU > koɲˈɲaːto; AGNELLU > aɲˈɲɛllo)
+$ NOTE: written for g n and ŋ n (the Latin cluster may be transcribed either way).
+$ ORDER: after M4.5 (see the $FIXED note above); before M8.2a, which would otherwise make g n > n n.
+{ɡ n;ŋ n} > {ɲ ɲ;ɲ ɲ}
+
+$ M6.1.2a [lg] + front vowel > [ʎʎ]  $$PG: 59
+$ "The relatively rare cluster [lg] + front vowel evolves in the same manner as [lj] (see above), to give
+$ [ʎ]: ˈkɔʎʎe < *ˈkɔlge; ˈʃeʎʎe < *ekˈselge".
+$ ORDER: before M6.1b.
+l ɡ > ʎ ʎ / __ [+syl,+front,-lo]
+
+$ M6.1.2b [sk] + front vowel > [ʃʃ] intervocalically, [ʃ] elsewhere (via *[st͡ʃ], *[ʃt͡ʃ])  $$PG: 59
+$ (*ˈkreski > ˈkreʃʃi)
+$ ORDER: before M6.1b.
+s k > ʃ ʃ / [+syl] __ [+syl,+front,-lo]
+s k > ʃ / __ [+syl,+front,-lo]
+
+$ M6.1a Intervocalic [g] before a front vowel is lengthened  $$PG: 57-58
+$ "[d͡ʒ] intervocalically: ˈd͡ʒɛnte < *ˈgente; ˈd͡ʒiːro < *ˈgiru; ˈledd͡ʒe < *ˈlege; ˈruddʒine < *ˈrugine".
+$ NOTE: Maiden also notes sporadic deletion of this g before a stressed front vowel (reina, saetta,
+$ paese, maestro) - not encoded (SPORADIC).
+ɡ > ɡ ɡ / [+syl] __ [+syl,+front,-lo]
+
+$ M6.1b Palatalization of velars before front vowels: [k] > [t͡ʃ], [g] > [d͡ʒ]  $$PG: 57-58
+$ "In about the fifth century ... affecting velar consonants ([k] and [g]) when immediately followed by a
+$ front vowel ([i], [e] or [ɛ])". (*ˈkena > ˈt͡ʃeːna; *ˈkiŋkwe > ˈt͡ʃiŋkwe; *ˈpake > ˈpaːt͡ʃe)
+$ ORDER: after M5.2; before M5.1c (kw + front vowel > k, "not palatalized") and before M12 (amike).
+$ NOTE: geminates first, so both halves palatalize.
+{k k;ɡ ɡ} > {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ} / __ [+syl,+front,-lo]
+{k;ɡ} > {t͡ʃ;d͡ʒ} / __ [+syl,+front,-lo]
+
+$ M6.1.2c [ŋg] + front vowel > [nd͡ʒ] (Florentine; "generally prevailed in Italian")  $$PG: 58
+$ (piange, spengere / spegnere; the eastern Tuscan ɲɲ outcome is not encoded)
+[+nas,+cons] > n / __ d͡ʒ
+
+$ M5.1c Delabialization of [kw] before front vowels  $$PG: 48
+$ "[kw] loses its labial glide before the front vowels [e] and [i], but not before [a] ... it apparently
+$ postdates the palatalization of velar consonants": QUAERIT *ˈkwere > ˈkjɛːde; QUI *kwi > ki.
+$ ORDER: after M6.1b (the resulting ki, ke are not palatalized).
+w > ∅ / k __ [+syl,+front,-lo]
+
+$ M8.2a Regressive assimilation: a syllable-final stop becomes identical to the following consonant  $$PG: 71-72
+$ (DIXIT > ˈdisse; DICTU > ˈdetto; RUPTU > ˈrotto; AD+BATTUO > abˈbatto; FRIG(I)DU > ˈfreddo;
+$ FRAGMENTU > framˈmento; AUT+UERU > ovˈveːro; NEC+MINUS > nemˈmeːno)
+$ NOTE: one line per possible following consonant (identity of output). Stops before l, r, j, w are
+$ onset clusters and do not assimilate.
+$ NOTE: Maiden: ks sometimes > ʃʃ (lasciare type, (29)-(30)) - not encoded (E6).
+[-son,-cont] > p / __ p
+[-son,-cont] > b / __ b
+[-son,-cont] > t / __ t
+[-son,-cont] > d / __ d
+[-son,-cont] > k / __ k
+[-son,-cont] > ɡ / __ ɡ
+[-son,-cont] > f / __ f
+[-son,-cont] > v / __ v
+[-son,-cont] > s / __ s
+[-son,-cont] > m / __ m
+[-son,-cont] > n / __ n
+
+$ M8.2b Assimilation of sonorants: [l] only before [r]; nasals only before [r] and [l]  $$PG: 72
+$ "[r] does not assimilate ... [l] assimilates only before [r]; the nasals assimilate only before [r] and
+$ [l]" (*ˈvenra > verˈra; *ˈvolra > vorˈra; possiamlo > possiallo; PLAN(U)LA > pialla).
+{n;m;l} > {r;r;r} / __ r
+{n;m} > {l;l} / __ l
+
+$ M8.1e In the clusters [gr] and [vr] the first segment is deleted  $$PG: 70
+$ "The derivation of the Italian forms ˈneːro < *ˈnegru < NIGRU(M); inˈteːro < *inˈtegru < INTEGRU(M);
+$ periˈtare < *pegriˈtare < PIGRITARE; ˈbeːre < *ˈbev(e)re < BIBERE, suggests that in the consonant clusters
+$ [gr] and [vr] the first segment was deleted."
+$ NOTE: TENTATIVE - inferred by Maiden from four derivations; contrast magro, which keeps g.
+{ɡ;v} > {∅;∅} / [+syl] __ r
+
+$ M4.2 Stressed open syllable diphthongization (SOSD) of low mid vowels  $$PG: 35-40
+$ "In open syllables, these vowels were subject to a process of diphthongization, involving the production
+$ of a palatal glide [j] before [ɛ] and a labial glide [w] before [ɔ]": *ˈpede > ˈpjɛːde, *ˈfele > ˈfjɛːle,
+$ *ˈvɔle > ˈvwɔːle, *ˈbɔna > ˈbwɔːna, *ˈpetra > ˈpjɛːtra.
+$ NOTE: open syllable per E4. Exceptions with no diphthong (bene, nove, era, mele, fele ...) - LEXICAL.
+$ Maiden notes [wɔ] may have entered Florentine from outside Tuscany, but it is established in Italian.
+$ NOTE: after a palatal(ized) consonant the standard has no audible glide (cielo = ˈt͡ʃɛːlo, p. 29, from
+$ CAELU > t͡ʃɛlo > t͡ʃjɛlo here). Maiden does not state an absorption rule, so none is encoded; such words
+$ come out with t͡ʃj, d͡ʒj (GAP).
+$ ORDER: after M8.1b/M5.2/M3.3c (which close syllables: vɛkkjo, vɛɲɲo have no diphthong); before M4.4
+$ ("[ɔ] derived from [aw] is not subject to ... diphthongization").
+$ $FIXED: (a) "{r;l}" nested inside the context disjunction made DiaSim abort at parse time
+$ ("disjunction closer not found"); flattened into two disjuncts, same meaning.
+$ (b) "#" removed. Maiden says diphthongization is blocked in oxytones (p. 74-75: "no 'no'; però;
+$ ciò"), so a stressed word-final ɛ, ɔ is not an open-syllable environment for SOSD.
+{ˈɛ;ˈɔ} > {j ˈɛ;w ˈɔ} / __ {[+syl];[-syl] [+syl];[-son] r [+syl];[-son] l [+syl]}
+
+$ M4.3a [jɛ], [wɔ] > [i], [u] before a vowel other than [i]  $$PG: 40
+$ (mia, mie < *ˈmjɛa; bue < *ˈbwɔe; io < *ˈjɛo)
+{j ˈɛ;w ˈɔ} > {ˈi;ˈu} / __ {[+syl,-hi];[+syl,+back]}
+
+$ $FIXED: M4.3b moved to before velar palatalization (see after M3.3c).
+
+$ M4.4 Monophthongization of [aw]: stressed > [ɔ], unstressed > [o]  $$PG: 40-41
+$ (AURU > ˈɔːro; CAUSA > ˈkɔːsa; PAUCU > ˈpɔːko; unstressed: AURICULA > orecchia, AUDITE > udite)
+$ ORDER: "of relatively late date": after M4.2 (ɔ from aw does not diphthongize).
+$ NOTE: unstressed aw also sometimes > u, and > a before a following u (ascoltare, agosto) - SPORADIC.
+{ˈa w;a w} > {ˈɔ;o} / __ {[+cons];#}
+
+$ $FIXED: rule added (missing from the extraction). Loss of the onglide after a complex onset ending in
+$ [r]  $$PG: 86 (n. 14 to p. 39)
+$ "elimination of the onglide after a complex syllable onset ending in [r]: OTuscan brieve 'brief';
+$ truova 'he finds' > breve; trova". Maiden calls it "relatively recent" and gives no exceptions.
+$ ORDER: after M4.2, which creates the glides. Tested: BREUE(M) > ˈbrɛːve, PROBAT > ˈprɔːva.
+{j;w} > {∅;∅} / [-son] r __ {ˈɛ;ˈɔ}
+
+$ $FIXED: M4.5 moved to before velar palatalization (see after M3.3c).
+
+$ M4.6.1 Posttonic [u] merges with [o]  $$PG: 42-43
+$ "in posttonic syllables only four ([i e a o])". Short posttonic u already became o (M2.1b); this line
+$ covers the remaining (originally long) posttonic u.
+u > o / [+syl,+prim] (@)* __
+
+$ M4.6.3 Raising of unstressed [a] to [e] before [r] (Florentine)  $$PG: 44
+$ (parlerò vs parlare; sellaio / selleria; macellaio / macelleria; margherita < MARGARITA)
+$ NOTE: TENTATIVE environment: Maiden's examples all have the a in a non-initial unstressed syllable
+$ (parlare keeps its initial a), so a preceding vowel is required.
+a > e / [+syl] (@)* __ r
+
+$ M4.6.5 Loss of word-initial [i] before [s] + consonant  $$PG: 47
+$ Prosthetic i (13th-century Tuscan ispediti, iscudi) has disappeared from the modern language except
+$ after certain prepositions (in Isvizzera); "The disappearance of prosthetic [i] carried with it some
+$ instances of word-initial [i] which are not the result of prosthesis: HISTORIA > istoria > storia;
+$ INSTRUMENTU > istrumento > strumento".
+$ NOTE: the prosthesis itself is not encoded (it was later undone); only its net effect, the loss of
+$ initial unstressed i before sC, is.
+$ $FIXED (note only): in this cascade the rule never fires on Maiden's own examples. HISTORIA and
+$ INSTRUMENTU(M) have short I, which M2.1b has already turned into e (*estoria, *estrumento). His
+$ intermediate forms istoria, istrumento have i, so they are learned forms with Latin i restored. It is
+$ NOT widened to e: that would wrongly delete the e of native estate < AESTATE(M), esso < IPSU(M), and
+$ essere. So the rule only affects words that enter with i (learned forms).
+i > ∅ / # __ s [+cons]
+
+$ M3.5 [s] > [z] before a voiced consonant  $$PG: 33
+$ "[z] arises in all Italo-Romance varieties as an assimilated, contextually conditioned, phonetic variant
+$ of [s] occurring in the environment of a following voiced consonant": ˈzbatto, zdenˈtaːto.
+s > z / __ [+cons,+voi]
+
+$ M10b Loss of other word-final consonants  $$PG: 77-78
+$ "no native word capable of occurring at the end of a phrase terminates in a consonant"; the
+$ exceptions are [s] (M12) and final [l], [r] (M10c and the COMMENT-ONLY e-addition). "Also crucial ...
+$ is loss of final [t]" (UENIT > viene, DAT > dà, AUT > o, ET > e, CAPUT > capo).
+$ NOTE: (i) stops; (ii) n in polysyllables (NOMEN > nome; con, non keep n).
+[-son,-cont] > ∅ / __ #
+n > ∅ / [+syl] (@)* [+syl] ([-syl])* __ #
+
+$ M10c Metathesis of word-final [r]  $$PG: 77
+$ "word-final [l] and [r] which acquired a following vowel, either by metathesis (SEMPER > sempre;
+$ QUATTUOR > quattro), or ... by addition of [e]" (the latter COMMENT-ONLY: analogical).
+$ NOTE: limited to an UNSTRESSED vowel before final r (sempre, quattro); stressed COR, AMOR take the
+$ analogical e (cuore) instead.
+∅ [+syl,-stres] r > r [+syl] ∅ / [+cons] __ #
+
+$ M12 Final [s]: > [i] after a stressed vowel; unstressed [as], [es] > [e], [i] via *[ai], *[ei]  $$PG: 79-83
+$ "After a stressed vowel, [s] has generally become [i] in Italo-Romance: noi < NOS; voi < UOS; poi <
+$ POS(T); stai < STAS ... unstressed final [as] and [es] yielded *[ai] and *[ei] ... which subsequently
+$ monophthongized to [e] and [i]: TERRAS > *ˈterrai > ˈterre; CANTAS > *ˈkantai > ˈkante; UIDES > *ˈvedei
+$ > ˈveːdi; CANES > *ˈkanei > ˈkaːni".
+$ NOTE: (i) s > glide after a stressed vowel or unstressed a, e (the environments Maiden states);
+$ (ii) unstressed aj, ej monophthongize word-finally.
+$ $FIXED: extended to final s after unstressed o, i (the extraction left it as a GAP, so LATUS, TEMPUS,
+$ MINUS came out *ˈlaːtos, *ˈtɛmpos, *nemˈmeːnos). Maiden does cover this. Final s is the only Latin
+$ final obstruent kept, and it "subsequently yielded [i]" (p. 77); "no native word ... terminates in a
+$ consonant" (p. 77). He applies the same process to the second declension: ASINOS "should have yielded
+$ *?ˈasinui, then *?ˈasinu", and gives MANU:S > OTuscan mano 'hands' (p. 81). The -i of masculine
+$ plurals then replaces this -o by analogy (COMMENT-ONLY, p. 82). His own outputs LATUS > ˈlaːto (p. 74)
+$ and NEC+MINUS > nemˈmeːno (p. 71) require it. ("u j" is not listed: posttonic u is already o, M4.6.1.)
+$ NOTE: Maiden's n. 74 (p. 90): 2pl -TIS lost its s early ("functionally unimportant"), so AMATIS >
+$ amate, not *amati. This is morphologically conditioned and is not encoded, so -TIS forms come out in
+$ -i.
+$ ORDER: after M6.1b - "There is no palatalization whatsoever of velar consonants before the feminine
+$ plural inflection" (aˈmiːke, ˈgreːke, ˈbjaŋke).
+s > j / [+syl] __ #
+{a j;e j;i j;o j} > {e;i;i;o} / __ #
+
+$ M5.2i Standard Italian intervocalic [t͡ʃ] for Tuscan short [ʃ] from [sj]  $$PG: 50-51
+$ "the result of original intervocalic [sj] is [t͡ʃ] in the modern standard language: ˈbaːt͡ʃo;
+$ kaˈmiːt͡ʃa; ˈkaːt͡ʃo" - attributed to hypercorrection in 14th-century Florence.
+$ NOTE: only single intervocalic ʃ (from M5.2c) exists at this point; ʃʃ (from sk, stj) is geminate and
+$ unaffected.
+ʃ > t͡ʃ / [+syl] __ [+syl]
+
+$ M1.3 Modern vowel length: vowels are long in stressed open syllables, short elsewhere  $$PG: 26-28
+$ "all vowels are short, unless they occur in a stressed and open syllable, in which case they are long";
+$ "open stressed syllables in oxytones are light before a pause or a vowel" (so not word-finally).
+$ NOTE: open syllable per E4, excluding word-final position.
+$ $FIXED: nested "{r;l}" flattened (it made DiaSim abort at parse time, as in M4.2). Same meaning.
+[+syl,+stres] > [+long] / __ {[+syl];[-syl] [+syl];[-son] r [+syl];[-son] l [+syl]}
+
+$ ===================================================================================================
+$ COMMENT-ONLY: changes Maiden describes that are sporadic, lexical, analogical, non-standard or
+$ cross-word (with pages)
+$ ===================================================================================================
+$ - 4.6.1 (p. 43): pretonic o > u, e > i (ubbidire, mulino, udire; misura, finestra, cipolla; di, mi,
+$   ti, si) - "a tendency".
+$ - 4.6.2 (p. 44): "occasional" rounding/backing of unstressed front vowels before labials (domandare,
+$   ubriaco, dopo, rovesciare).
+$ - 4.6.4 (pp. 44-45): sporadic deletion of unstressed i, e after l, r (regular only before -mente:
+$   naturalmente); apheresis by reanalysis of the article (l'omicidio > lo micidio).
+$ - 4.6.4.1 (pp. 45-46): Tuscan syncope of the penultimate vowel of proparoxytones, later RESTORED, often
+$   with a counter-etymological vowel (sedano, cronaca, sembola ...); a always preserved.
+$ - 4.6 (p. 46): counter-etymological final vowels in non-inflectional words (oggi, lungi, fuori, contro,
+$   oltre, -menti).
+$ - 5.1 (p. 30): intervocalic w deleted in the perfect (AMAUI > amai, AMAUISTI > amasti) - morphological.
+$ - 5.1 (p. 48): Germanic w > gw (guerra, guida, guadagnare) - loanwords.
+$ - 5.2 (pp. 50-54): doublets: sj > ʒ/d͡ʒ (fagiano, cagione); tj > t͡ʃ; kj > t͡s; intervocalic dj > d͡z
+$   (mezzo, rozzo).
+$ - 5.3 (pp. 56-57): ks > ʃʃ in some words (lasciare, coscia) beside ss.
+$ - $FIXED (entry added) 8.1 n. 60 (p. 89): lengthening before r is "confined to the labial [b]":
+$   labbro < LABRU(M), febbre < FEBRE(M), possibly part of a general central-southern tendency to
+$   lengthen b. Not encoded, since Maiden presents it only through these examples; unencoded, b r stays
+$   short (*ˈlabro).
+$ - $FIXED (entry added) 4.2 n. 14 (p. 86): see the added onglide rule after M4.4 (encoded).
+$ - $FIXED (entry added) 1.2 n. 5 (p. 85): stress shift in INTEGRU(M) > inˈteːro (muta cum liquida),
+$   which Maiden only cross-references to Tekavčić. Not encoded.
+$ - 6.1 (p. 58): Tuscan (non-literary) deaffrication of intervocalic t͡ʃ, d͡ʒ > ʃ, ʒ, also across words
+$   (la ʃena).
+$ - 6.1 (p. 58) / 8.1 (p. 71): sporadic loss of intervocalic g/j before a stressed front vowel (reina,
+$   saetta, paese, maestro).
+$ - 6.2 (p. 59): sporadic palatalization of s (scimmia, vescica); of l before final i, then deleted
+$   (capegli, cavagli, egli/ei, quei, bei, vuoi).
+$ - 7.1-7.2 (pp. 59-63): intervocalic voicing of k, t, p, s in a minority of words (ago, lago, strada,
+$   riva; chiesa, paradiso) - partly northern borrowings, partly indigenous; voiceless consonants are
+$   "usually maintained".
+$ - 7.3-7.4 (pp. 63-67): Tuscan spirantization (gorgia) of intervocalic k, t, p, also across words - not
+$   in the standard.
+$ - 8.1 (p. 71): OTuscan insertion of j before stressed e in hiatus (Andreja); v before o + vowel in
+$   semi-learnèd forms (rovina, Genova).
+$ - 8.2 (pp. 74-75): sporadic lengthening of consonants after the stressed syllable of proparoxytones
+$   (legittimo, attimo, femmina) and in some paroxytones (tutto, succo, brutto, coppa).
+$ - 8.2.1 (pp. 72-76): raddoppiamento sintattico - cross-word lengthening after stressed final vowels and
+$   certain lexical triggers.
+$ - 9 (pp. 76-77): sporadic vocalization of syllable-final l (> w, > i in modern Tuscan voita).
+$ - 10 (p. 77): addition of final e after final l, r in third-declension neuters (SAL > sale, COR >
+$   cuore) - "probably on the analogy" of third declension forms; final d in ad, ched before vowels
+$   (sandhi).
+$ - 11.1 (pp. 78-79): sporadic dissimilation of identical sonorants (conocchia, mercoledì, veleno,
+$   armadio); chiedere/fedire as morphological analogy.
+$ - 11.2 (p. 79): sporadic metathesis of l into the stressed syllable (fiaba, chioma, fionda, pioppo)
+$   and of j (balia, pania, sedia).
+$ - 12 (pp. 79-83): plural -i of masculines (-OS) and 2sg -i of 1st/2nd/3rd conjugations - analogical.
+$   $FIXED: the old "GAP: the loss of final s after unstressed o/u is not described" was wrong (p. 77,
+$   81); it is now encoded in M12.
+$ - 13 (p. 84): learnèd vocabulary escapes regular development (vizio vs vezzo, aureo vs oro ...).
