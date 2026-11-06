@@ -1,0 +1,70 @@
+$annotation -- roman numeral page + letter
+
+$ LIIa oe merges to e: "very early"
+[+round,-hi] e̯ > [+front,-back,-round,-lab,+long] ∅
+
+= Proto-Romance
+
+$ LIIb ae merges to short e > ɛ
+[+lo] e̯ > [+front,-back,-lo,-tense] ∅
+
+$ LIb, LIIb, LVIIIa etc non-low vowels have quantity distinction become tenseness quality distinction, temporarily. Like Albanian, Capestranese has conditions where ɪ and ʊ revert to i and u, but eː and oː do not raise to i and u, largely involving posterior palatality.
+[-lo,-long,+syl] > [-tense] 
+
+$ LIa, LIIa etc -- loss of distinctive vowel length
+[+syl] > [-long] 
+
+$ LIc (stressed?) ɪ raises back to i "when followed by a syllable containing yod or a palatal". Not shared with West Romance but shared with Italo-Romance (and Albano-Latin?): consilium > Ital consiglio, Sic cunzigghiu, Alb këshill, vs. Venetan conséjo, Sp consejo, French conseil, Friul consei, Cat consell. ; cilium > ital ciglio, Sic cicgghiu, (Pied sign, Rom zida, French cil) vs Romansch tschegl, Venet cegia, Emilian zejja, Port celha, Sp cejo etc. ; leenticula > Ital lenticchia vs Sp lenteja, etc. French has it sometimes before ʎ separately. But Capestrano doesn't have it in auriculam > rekkja, or piscem > peʃʃe, or vicncere > vend͡ʒe (is this a french loan? from vindicare?) 
+	$ fed by iotation and/or yod coalescence-- avaritia, consiliu, ciliu
+	$ fed by kulV > kj : lenticula, butticula 
+[+hi,+front,+syl] > [+tense] / __ ([-syl])* [+front,-syl]
+
+= Proto-Italo-Romance
+
+$ XXXIa nd to nn, argued to be due to Oscan influence
+d > n / n __ 
+
+=Proto-South-Italo-Romance
+
+$ LIIc ɛ > æ under a-metaphony : bbælla (v/g)udælla vækkja fæsta
+	$unaccounted for sækwələ sæmbrə sætːə læd͡ʒːə ræd͡ʒːə ndænːə æsːə stænːə jærvə
+
+$ undated changes presented as specific 
+
+$ XXXIb s , ss to ʃ, ʃʃ in unclear contexts but all seemingly after a? TODO revise. He attributes to the Arabic superstrate from Saracen rule in the 6th to 8th centuries.
+{s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+
+$ likely recent changes highly locally specific to Capestrano: 
+
+$ XVa -- unstressed vocalism limited to i a u ə; surrounding varieties allow e ɛ o ə [unclear]. Based on example of Italian domenica for Capestranese dəmenəka and Bussi dumenika and Ofena domeneka, it seems the mid vowels become ə. Bussi and Ofena are nearby towns in inland Abruzzo.
+[-prim,-hi,-lo] > ə
+
+$ XXXVIa only ə and a (~ ɐ?) in unstressed final position
+[-prim,-lo] > ə / __ # 
+
+$ XVIIa Capestranese loses ʎ, presumably to j?
+ʎ > j
+
+$ XVIIb Capestranese ɛ to æ
+ˈɛ > ˈæ 
+
+$ XVIIc Capestranese has onset ŋ but unclear how this developed from the prose
+
+$ XVIId voiceless obstruents after nasals and l to voiced stops. San Francesco as sambranʃiske, aŋgora for aŋkora
+[-voi] > [+voi,-cont] / [mnas,-mlat] __
+
+$ XVIIe initial v/w to g
+[+lab,+cont,-syl] > ɡ / # __ 
+
+$ XXXVIIa implicit (?) -- j revocalizes after laterals
+j > i / [+lat] __
+
+$= Modern Capestranese
+
+$Modern Capestranese vowels: i e æ~ɛ ə ɐ a u o ɔ (~ɒ?); always longer in duration in stressed position, reduced if followed by long consonant. His æ seems to really be ɛ, but /e/ can also be [ɛ]; /ə/ is in frree variation with ə, ɪ and omission (clear itțs omission not ø -- see p45). He mentions ɔ can be ɒ; o is only o; u can be ʊ ; ɐ can be ʌ; e varies between e and ɛ; i can be ɪ.
+
+$ Capestranese consonants -- p pː t tː k kː b bː d dː ɡ ɡː t͡ʃ t͡ʃː d͡z d͡zː z zː d͡ʒ d͡ʒː f fː v vː s sː ʃ ʃː m mː n nː ɲ r rː l lː j jː w 
+	$ synchronic allophones in complementary distribution 
+$l and lː can be ɫ and ɫː after central and back vowels. 
+$s has [z] allophone after nasals and voiced stops -- comp
+$velar stops may front allophonically near front vowels
