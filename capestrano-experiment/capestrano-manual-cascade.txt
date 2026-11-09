@@ -1,63 +1,211 @@
 $annotation -- roman numeral page + letter
 
+$LIXb -- n place assimilation
+n > m / __ [+lab,+cons] 
+n > ŋ / __ [+back,+cons]
+
 $ LIIa oe merges to e: "very early"
 [+round,-hi] e̯ > [+front,-back,-round,-lab,+long] ∅
-
-= Proto-Romance
 
 $ LIIb ae merges to short e > ɛ
 [+lo] e̯ > [+front,-back,-lo,-tense] ∅
 
-$ LIb, LIIb, LVIIIa etc non-low vowels have quantity distinction become tenseness quality distinction, temporarily. Like Albanian, Capestranese has conditions where ɪ and ʊ revert to i and u, but eː and oː do not raise to i and u, largely involving posterior palatality.
+$ LXVa loss of h
+h > ∅
+
+$ LXVb gliding of i and u in hiatus 
+[+hi,-prim] > [-syl] / __ [+syl]
+
+$ LXIXa initial w to v
+w > v / # __
+
+$ LXXIXb bs > ss, bt > tt, dm > mm
+{b s;b t} > {s s;t t}
+
+= Proto-Romance
+
+$ LIb, LIIb, LVIIIa, LVIa etc non-low vowels have quantity distinction become tenseness quality distinction, temporarily. Like Albanian, Capestranese has conditions where ɪ and ʊ revert to i and u, but eː and oː do not raise to i and u, largely involving posterior palatality.
 [-lo,-long,+syl] > [-tense] 
 
-$ LIa, LIIa etc -- loss of distinctive vowel length
+$ LIa, LIIa LIVa LIVb etc -- loss of distinctive vowel length
 [+syl] > [-long] 
+
+$ LXVIIa dissimilatory kw... kw to k ... k. Feeds LXIIc
+k w > k / # __ (@)* k w 
+
+$LXIVb -- fIX, personal inference -- g > gg to become d͡ʒː in before ɛ stressed or unstressed, feed-conditioning LXIVa --- gentīlem, gentem, Germania (if not a loan), pagella, gelwu > gellu, lege > legge, rege > regge, angelum, argentum 
+	$ remaining unaccounted for cases  -- junium > dʒuɲə, ratione > rad͡ʒjone (if not a loan or influenced by relid͡ʒone
+ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+
+	$LXIVc gg > g in # __ ɛ C V -- gelum gelōnem genuculum generum genestram 
+ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+
+$ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidism. Counterbled by ɛ metaphony LIIc, and by reduction to schwa. Attributed to 2nd century on pag
+{k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː,d͡ʒː} / __ [+front,-lo,-cons] 
+
+$ LVIIIa countertonic ɪ and ɛ to e
+[+stres,-prim,+front,-tense] > ˌe 
+
+$ LVIIIb coutnertonic ɔ and ʊ tense to o and u
+[+stres,-prim,+round] > [+tense]
 
 $ LIc (stressed?) ɪ raises back to i "when followed by a syllable containing yod or a palatal". Not shared with West Romance but shared with Italo-Romance (and Albano-Latin?): consilium > Ital consiglio, Sic cunzigghiu, Alb këshill, vs. Venetan conséjo, Sp consejo, French conseil, Friul consei, Cat consell. ; cilium > ital ciglio, Sic cicgghiu, (Pied sign, Rom zida, French cil) vs Romansch tschegl, Venet cegia, Emilian zejja, Port celha, Sp cejo etc. ; leenticula > Ital lenticchia vs Sp lenteja, etc. French has it sometimes before ʎ separately. But Capestrano doesn't have it in auriculam > rekkja, or piscem > peʃʃe, or vicncere > vend͡ʒe (is this a french loan? from vindicare?) 
 	$ fed by iotation and/or yod coalescence-- avaritia, consiliu, ciliu
 	$ fed by kulV > kj : lenticula, butticula 
 [+hi,+front,+syl] > [+tense] / __ ([-syl])* [+front,-syl]
 
-= Proto-Italo-Romance
+$ LIIc ɛ > æ under a-metaphony : bbælla (v/g)udælla vækkja fæsta
+	$unaccounted for sækwələ sæmbrə sætːə læd͡ʒːə ræd͡ʒːə ndænːə æsːə stænːə jærvə
+	$ FIX: requires consonants (not yet counting geminates as one) beforehand
+$ LVa -- tentatively -- tonic o > ɔ under metaphony, i.e. before final a. FIX -- all of these involve at least two segments in between. 
+	$ FIX combining LIIc and La
+[+syl,-hi,-tense] > [+lo] / __ @ @ (@)* [+lo] #
 
-$ XXXIa nd to nn, argued to be due to Oscan influence
-d > n / n __ 
+$ LVIIa -- ˈʊ to ˈo before a 
+$ˈʊ > ˈo / __ (@)* a #
+$ FIX: it's actually ʊ to o before multiple consonants than a. (FIX -- inferred from data presented). FIX -- combined with LVIIb 
+		$ either way, counterfeeds LVa!
+ˈʊ > ˈo / __ @ @ 
+	$ LVIIb ʊ to o before nasal geminate then a#. Bleeds LVIIc
+	$ˈʊ > ˈo / __ [+nas,+long] a ([+cons]) #
+		$ combined into LVIIa 
+
+$ LVIIc ˈʊ > ˈu before nasal geminate unless bled by LVIIc above
+[+hi,+round,+syl] > [+tense] / __ [+nas,+long]
+
+$ LVIId and LId ɪ and ʊ, unless raised, and ɛ and ɔ unless metathesized, pass to e and o
+[+syl,-lo,-tense] > [-hi,+tense]
+
+$ we're working with ɔ not ɒ-tense -- BANDAID 
+[+lo,-tense] > [-lo]
+
+$ XXXIa nd to nn, argued to be due to Oscan influence. 
+$d > n / n __ 
+	$ LVIIb -- this applies to mp to mm too. 
+	$treating these as long nasals, as well as nn and mm
+	$ feeds LVIIb-- ORIGINALLY. But now it actually counterbleeds LVIIa.
+[+nas,mlab,-mcor] [+cons,+voi,nnas,nson,mlab,-mcor] > [+long] ∅
+
+$ LIVd ag > aw, feeding LIIc
+ɡ > w / __ m
+
+$ LIVc aw > o. FIX -- only preconsonantal
+[+lo] w > [+back,-front,-lo,+lab,+round] ∅ / ___ [+cons]
+
+$ LVXXb nj to ɲ
+n j > ɲ
+
+$ LVXIXb palatalization of postobstruental l. Fed by syncope in fibula > fibbja case. 
+l > j / [-son] __ 
+
+$ LXIVa -- lj to ʎʎ; have inferred from other Italo-Romance and etc.
+l j > ʎː 
+
+$ LXIXd bj to bbj and LXXIXa br and bl to bbr and bbl Fed by LVXIXb
+b > bː / __ ̪[rcor,-rfront,+son,-nas,-syl] 
+
+$LVXXIXa -- apply geminations. Must come after LVIIa. 
+{t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡s;;d͡zː;ŋː;ɲː;ʎː}
+
+$ LXXc medial b to v. TODO will need to debug. 
+b > v
+
+$LXXb sce sci to ʃ. Fed by LXIIc.
+s t͡ʃ > ʃ 
+
+$LXXVa gemination of m before in proparoxytones with another nasal involved -- hominem numerum, inimicum, femina
+$m > mː / [+nas] [+syl] __ [+syl] [+cons] [+syl] #
+$m > mː / __ [+syl] [+nas] [+syl] #
+	$ executive decision    -- FIX -- just any proparoxytones! humidum vomita- 
+m > mː /  __ [+syl] [+cons] [+syl] #
 
 =Proto-South-Italo-Romance
 
-$ LIIc ɛ > æ under a-metaphony : bbælla (v/g)udælla vækkja fæsta
-	$unaccounted for sækwələ sæmbrə sætːə læd͡ʒːə ræd͡ʒːə ndænːə æsːə stænːə jærvə
-
 $ undated changes presented as specific 
+
+$ LXXIIIa ,LXXIIIb dj and gj variously to jj dzː or d͡ʒː , he's indecisvie... 
+
+$ they go to d͡ʒ -- EXECUTIVE DECISION -- dj > zz cases (e.g. mæzzə) seem to be likely Tuscan loans. 
+{d j;dː j;ɡ j;ɡː j} > {d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː}
 
 $ XXXIb s , ss to ʃ, ʃʃ in unclear contexts but all seemingly after a? TODO revise. He attributes to the Arabic superstrate from Saracen rule in the 6th to 8th centuries.
 {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
 
-$ likely recent changes highly locally specific to Capestrano: 
 
-$ XVa -- unstressed vocalism limited to i a u ə; surrounding varieties allow e ɛ o ə [unclear]. Based on example of Italian domenica for Capestranese dəmenəka and Bussi dumenika and Ofena domeneka, it seems the mid vowels become ə. Bussi and Ofena are nearby towns in inland Abruzzo.
-[-prim,-hi,-lo] > ə
+$ LXVIIIa -- FIX, INFERRED -- #si- to ʃi-
+s > ʃ / # __ [+hi,+front]
+
+$ LVIIIb FIX inferred from examples -- countertonic ˌo metaphony to ˌu before high vowel, before intertonic / unstressed high vowels reduceː consutūram > cˌosutúra > cusətura; solidātum > sˌolidˈatu > suldatə 
+ˌo > ˌu / __ ([+cons])* [+hi]
+
+$ LIXd -- noninitial nontonic vowels lose stress (and will soon reduce to ə). Counterbleeds LVIIIb
+[-prim] > [-stres] / [+syl] (@)* __ 
+
+$ LIXe ˌa ˌi ˌu retained after initial a. Bleeds LIXf
+[-prim,αlo,-αhi] > [+stres] / # [+lo] ([-syl])* __
+
+$ LXa non-tonic i retained before syllable with yod in onset. partizjone, allivjá. Bleeds LIXf
+i > ˌi / __ ([-syl])* j
+
+$ LXIa kulV- gulV > kwəlV, gwəlV; w insertion, counterfed by LIXf reduction to ə 
+∅ > w / [-cont,+back] __ u [+lat] [+syl] #
+
+$ LIXf -- all atonic vowels to ə. Includes  unstressed finals LXb
+[-stres] > ə
+
+$LIXa -- non-low initial non-tonic initial vowels fall in any case
+[-prim,-lo] > ∅ / # __
+
+$ XVIId LIXc voiceless obstruents after nasals and l to voiced stops. San Francesco as sambranʃiske, aŋgora for aŋkora. Does not feed nd > nn
+[-voi] > [+voi,-cont] / [mnas,-mlat] __
 
 $ XXXVIa only ə and a (~ ɐ?) in unstressed final position
 [-prim,-lo] > ə / __ # 
 
+$ FIX, inferred LXIIa initial b to v before coronal then a seeing through unstressed vowel, brācae brachuim bilanciam botella > vrakə vrat͡ʃə vəland͡ʒa (v/g)udælːa . Not lː -- ballāre > balːá. Bled by palatalization of postconsonantal l. Fed by ɛ to æ metaphony. Usurps LVXIXb. 
+b > v / # __ ([-prim]) [+cor,-long] [+lo]
+
+$FIX< inferred -- LXIIb -- initial b to v before tonic round vowel,  followed by single or geminate consonant then vowel.  vottə, vollə, vokkə, gufə, maybe vovə. Not heteroorganic C1 C2 -- buksidam > busta (must be fed by syncope), boscum > boʃkə. Not before nasal -- bonum > bːonə. 
+b > v / # __ [+prim,+round] [+cons] [+syl]
+
+$ LXIIb.2 or before tonic round vowel (vollə, vottə , vokkə, arguably vovə not withstanding the doublet with bbovə)
+	$not non-tonic 
+	$ not r then non-low -- brutum > brutə
+b > v / # __ {r [+lo];[+prim,+round]} 
+
+$ LXXa gr > r 
+ɡ > ∅ / # __ r
+
+$ XVIIb Capestranese r becomes a flap ɾ. Doesn't seem to apply to the long version
+r > ɾ
+
+$ likely recent changes highly locally specific to Capestrano: 
+
+$ LVIIId -- unclear if relative -- FIX, inferred -- ˌu > ə before f, v 
+ˌu > ə / __ [+lab,+strid] 
+
+$ XVa, LVIIIc -- unstressed vocalism limited to i a u ə; surrounding varieties allow e ɛ o ə [unclear]. Based on example of Italian domenica for Capestranese dəmenəka and Bussi dumenika and Ofena domeneka, it seems the mid vowels become ə. Bussi and Ofena are nearby towns in inland Abruzzo.
+[-prim,-hi,-lo] > ə
+
+
 $ XVIIa Capestranese loses ʎ, presumably to j?
-ʎ > j
+{ʎ;ʎː} > {j;j:}
 
 $ XVIIb Capestranese ɛ to æ
-ˈɛ > ˈæ 
+	$ removed. already handled
+$ˈɛ > ˈæ 
 
 $ XVIIc Capestranese has onset ŋ but unclear how this developed from the prose
-
-$ XVIId voiceless obstruents after nasals and l to voiced stops. San Francesco as sambranʃiske, aŋgora for aŋkora
-[-voi] > [+voi,-cont] / [mnas,-mlat] __
 
 $ XVIIe initial v/w to g
 [+lab,+cont,-syl] > ɡ / # __ 
 
 $ XXXVIIa implicit (?) -- j revocalizes after laterals
 j > i / [+lat] __
+
+
+$BANDAID notational loss of countertonic stress
+[-prim] > [-stres]
 
 $= Modern Capestranese
 
