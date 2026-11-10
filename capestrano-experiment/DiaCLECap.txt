@@ -180,7 +180,11 @@ $ LXXXe -- FIX, manual inferred -- wək to wk after stressed vowel -- dulcem fal
 
 $ MANUAL FIX A9 -- kʊl, kr > gl, gr in particular conditions
 	$ picrum macrum cuniculus butticulus
-{k ʊ l;k r} > {ɡ l;ɡ r} / [+cons,-cor] ( [+hi,+round] ( [+cor] )* ) [+syl,-round] __
+		$ ungulus coagulus worked in 
+{ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ([+cons,-cor]) [+lab,bant,-bhi,-strid] ( [+cor] )* [vsyl,-vnas,-lab] __
+
+$ MANUAL FIX A10 gl > ʎː. Fed by A9. Bleeds pre-lateral peripheral lengthening 
+ɡ l > ʎː 
 
 $ LXIa final kulV- gulV (now with ʊ per LIb/ LIIb/ LVIIIa/ LVIa)> kwəlV, gwəlV; w insertion, counterfed by LIXf reduction to ə 
 $FONTECCHIO VERSION: ∅ > w / [-cont,+back] __ ʊ [+lat] [+syl] #
@@ -203,17 +207,19 @@ w > v / # ((@)* [+son]) __ [-cons]
 		$ bled by LXXVIIa -- viduva 
 w > ∅ / [+hi,+round] ([-cons]) ([+cons])+ __
 
+
+
 $ LXXXVIIa bVl > bl in unknown conditions, 
 		$feeds LVXIXb and LXIXd to produce bbj (fibbja, nebbja). 
 			$Attributed to "roughly between the second and fourth centuries CE". 
 	$MANUAL INFERENCE, FIX --it's after (non-low) front vowels $ NOT: nūbila , tabula, turbulare
-	$ FIX: MANUAL INFERENCE -- broaned -- 
+	$ FIX: MANUAL INFERENCE -- broadened -- 
 		$ this context could also apply for frīgidus, > friddu. 
 	$ TODO may need to debug. 
 		$ Bled by LXIa for rēgula > regwəla.
 		$ not before voiceless: dēbitum > debbətə
 		$ may be affected: digitum to ditə, digitōnem > ditonə
-[-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+[-prim,-lo] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
 
 
 

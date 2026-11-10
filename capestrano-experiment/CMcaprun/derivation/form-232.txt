@@ -4,11 +4,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌeːrˈuːkula#
 *#ˌeːrˈuːkʊla# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌerˈukʊla# | 27 : [+syl] > [-long,-splng] 
-*#ˌerˈukwʊla# | 44 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#ˌerˈukʊla# | 46 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#ˌerˈukula# | 51 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌerˈukwʊla# | 45 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#ˌerˈukʊla# | 47 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
+*#ˌerˈukula# | 52 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌerˈukula#
-*#ˌerˈukəla# | 89 : [-stres,-lo] > ə 
-*#rˈukəla# | 90 : [-prim,-lo] > ∅ / # __
-*#ɾˈukəla# | 100 : r > ɾ 
+*#ˌerˈukəla# | 90 : [-stres,-lo] > ə 
+*#rˈukəla# | 91 : [-prim,-lo] > ∅ / # __
+*#ɾˈukəla# | 101 : r > ɾ 
 Final form : *#ɾˈukəla#

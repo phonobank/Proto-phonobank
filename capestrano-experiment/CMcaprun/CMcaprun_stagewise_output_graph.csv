@@ -188,7 +188,7 @@ etID  | Input | Proto-Romance | Proto-South-Italo-Romance | Output {GOLD}
 186    | #rˌeːɡˈiːnam# | *#rˌeːɡˈiːnam# | *#rˌejˈina# | *#ɾəjˈina# {GOLD: #ɾed͡ʒːˈina#}
 187    | #rˈeɡe# | *#rˈeɡe# | *#rˈed͡ʒːe# | *#ɾˈed͡ʒːə# {GOLD: #ɾˈæd͡ʒːe#}
 188    | #rˈeɡe# | *#rˈeɡe# | *#rˈed͡ʒːe# | *#ɾˈed͡ʒːə# {GOLD: #ɾˈæd͡ʒːə#}
-189    | #rˌeɡalˈaː# | *#rˌeɡalˈaː# | *#rˌeɡʎˈa# | *#ɾəɡjˈa# {GOLD: #ɾəɡalˈa#}
+189    | #rˌeɡalˈaː# | *#rˌeɡalˈaː# | *#rˌeɡalˈa# | *#ɾəɡalˈa# {GOLD: #ɾəɡalˈa#}
 190    | #rˈeːɡulam# | *#rˈeːɡulam# | *#rˈeɡwula# | *#ɾˈeɡwəla# {GOLD: #ɾˈeɡwəla#}
 191    | #raːdˈiːkum# | *#raːdˈiːkum# | *#radˈiku# | *#ɾadˈikə# {GOLD: #ɾˈadəkə#}
 192    | #rˈabiam# | *#rˈabjam# | *#rˈabːja# | *#ɾˈabːja# {GOLD: #ɾˈabːja#}
@@ -393,7 +393,7 @@ etID  | Input | Proto-Romance | Proto-South-Italo-Romance | Output {GOLD}
 391    | #kˈorpus# | *#kˈorpus# | *#kˈorpu# | *#kˈoɾpə# {GOLD: #kˈoɾpə#}
 392    | #kˈollum# | *#kˈollum# | *#kˈolːu# | *#kˈojːə# {GOLD: #kˈɔjːə#}
 393    | #kˌolˈumnam# | *#kˌolˈumnam# | *#kˌolˈomna# | *#kəlˈomna# {GOLD: #kolˈonːa#}
-394    | #kˌoˈaːɡulum# | *#kwˈaːɡulum# | *#kwˈaɡulu# | *#kwˈaɡələ# {GOLD: #kwˈajːə#}
+394    | #kˌoˈaːɡulum# | *#kwˈaːɡulum# | *#kwˈaʎːu# | *#kwˈajːə# {GOLD: #kwˈajːə#}
 395    | #kˈoktam# | *#kˈoktam# | *#kˈotːa# | *#kˈotːa# {GOLD: #kˈɔtːa#}
 396    | #kˈoktum# | *#kˈoktum# | *#kˈotːu# | *#kˈotːə# {GOLD: #kˈotːə#}
 397    | #kˈoksam# | *#kˈoksam# | *#kˈosːa# | *#kˈosːa# {GOLD: #kˈɔsːa#}
@@ -406,15 +406,15 @@ etID  | Input | Proto-Romance | Proto-South-Italo-Romance | Output {GOLD}
 404    | #kˌomparˈaːtum# | *#kˌomparˈaːtum# | *#kˌomparˈatu# | *#kəmbaɾˈatə# {GOLD: #kəmbɾˈatə#}
 405    | #kˌomptiˈaː# | *#kˌomptjˈaː# | *#kˌomt͡ʃˈa# | *#kəmd͡ʒˈa# {GOLD: #kund͡ʒˈa#}
 406    | #kˌomputˈaː# | *#kˌomputˈaː# | *#kˌomputˈa# | *#kumbətˈa# {GOLD: #kundˈa#}
-407    | #kˌunˈiːkulum# | *#kˌunˈiːkulum# | *#kˌunˈiɡːʎu# | *#kunˈiɡːjə# {GOLD: #kunˈijːə#}
+407    | #kˌunˈiːkulum# | *#kˌunˈiːkulum# | *#kˌunˈiʎːu# | *#kunˈijːə# {GOLD: #kunˈijːə#}
 408    | #kˈulpam# | *#kˈulpam# | *#kˈolpa# | *#kˈolpa# {GOLD: #kˈolpa#}
 409    | #kˌultˈellum# | *#kˌultˈellum# | *#kˌurtˈelːu# | *#kuɾtˈejːə# {GOLD: #kuɾtˈejːə#}
 410    | #kˈurtam# | *#kˈurtam# | *#kˈorta# | *#kˈoɾta# {GOLD: #kˈoɾta#}
 411    | #kˈurtum# | *#kˈurtum# | *#kˈortu# | *#kˈoɾtə# {GOLD: #kˈuɾtə#}
 412    | #kˈuppam# | *#kˈuppam# | *#kˈopːa# | *#kˈopːa# {GOLD: #kˈɔpːa#}
 413    | #kˈubitum# | *#kˈubitum# | *#kˈovetu# | *#kˈovətə# {GOLD: #vˈutə#}
-414    | #ɡlˈandam# | *#ɡlˈandam# | *#ɡʎˈanːa# | *#ɡjˈanːa# {GOLD: #ɟˈanːa#}
-415    | #ɡlˈakiem# | *#ɡlˈakjem# | *#ɡʎˈat͡ʃje# | *#ɡjˈat͡ʃjə# {GOLD: #jˈat͡ʃːə#}
+414    | #ɡlˈandam# | *#ɡlˈandam# | *#ʎːˈanːa# | *#jːˈanːa# {GOLD: #ɟˈanːa#}
+415    | #ɡlˈakiem# | *#ɡlˈakjem# | *#ʎːˈat͡ʃje# | *#jːˈat͡ʃjə# {GOLD: #jˈat͡ʃːə#}
 416    | #ɡrˈaːnum# | *#ɡrˈaːnum# | *#ɡrˈanu# | *#ɾˈanə# {GOLD: #ɾˈanə#}
 417    | #ɡrˈossam# | *#ɡrˈossam# | *#ɡrˈɔsːa# | *#ɾˈɔsːa# {GOLD: #ɾˈɔsːa#}
 418    | #ɡrˈossum# | *#ɡrˈossum# | *#ɡrˈosːu# | *#ɾˈosːə# {GOLD: #ɾˈosːə#}
@@ -475,7 +475,7 @@ etID  | Input | Proto-Romance | Proto-South-Italo-Romance | Output {GOLD}
 473    | #wˈoːkem# | *#wˈoːkem# | *#vˈot͡ʃe# | *#ɡˈot͡ʃə# {GOLD: #vˈot͡ʃə#}
 474    | #wˈulpem# | *#wˈulpem# | *#vˈolpe# | *#ɡˈolpə# {GOLD: #vˈolpə#}
 475    | #ˈuːndekim# | *#ˈuːndjkim# | *#ˈunːt͡ʃi# | *#ˈunːd͡ʒə# {GOLD: #ˈunːet͡ʃə#}
-476    | #ˈunɡulam# | *#ˈuŋɡulam# | *#ˈoŋɡula# | *#ˈoŋɡəla# {GOLD: #ˈoɲa#}
+476    | #ˈunɡulam# | *#ˈuŋɡulam# | *#ˈoŋʎːa# | *#ˈoŋjːa# {GOLD: #ˈoɲa#}
 477    | #ˈulmum# | *#ˈulmum# | *#ˈolmu# | *#ˈolmə# {GOLD: #ˈulmə#}
 478    | #ˌurtˈiːka# | *#ˌurtˈiːka# | *#ˌurtˈika# | *#ɾtˈika# {GOLD: #aɾdˈika#}
 479    | #ˈursum# | *#ˈursum# | *#ˈorsu# | *#ˈoɾt͡sə# {GOLD: #ˈuɾt͡sə#}
@@ -583,7 +583,7 @@ etID  | Input | Proto-Romance | Proto-South-Italo-Romance | Output {GOLD}
 581    | #bˈonum# | *#bˈonum# | *#bˈonu# | *#ɡˈonə# {GOLD: #bːˈonə#}
 582    | #bˈoweːs# | *#bˈoweːs# | *#bˈove# | *#ɡˈovə# {GOLD: #bːˈovə#}
 583    | #bˈowem# | *#bˈowem# | *#bˈove# | *#ɡˈovə# {GOLD: #vˈovə#}
-584    | #bˌuttˈikulam# | *#bˌuttˈikulam# | *#bˌutːˈiɡːʎa# | *#butːˈiɡːja# {GOLD: #bːutːˈijːa#}
+584    | #bˌuttˈikulam# | *#bˌuttˈikulam# | *#bˌutːˈiʎːa# | *#butːˈijːa# {GOLD: #bːutːˈijːa#}
 585    | #bˈuttem# | *#bˈuttem# | *#bˈotːe# | *#ɡˈotːə# {GOLD: #vˈotːə#}
 586    | #bˌullˈiː# | *#bˌullˈiː# | *#bˌulːˈi# | *#bujːˈi# {GOLD: #vˈolːə#}
 587    | #bˈuksidam# | *#bˈuksidam# | *#bˈosːeda# | *#ɡˈosːəda# {GOLD: #bːˈusta#}

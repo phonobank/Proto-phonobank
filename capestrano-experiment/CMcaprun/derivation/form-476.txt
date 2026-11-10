@@ -1,14 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 476:
-#ˈunɡulam# >>> *#ˈoŋɡəla# ( GOLD : #ˈoɲa#) :
+#ˈunɡulam# >>> *#ˈoŋjːa# ( GOLD : #ˈoɲa#) :
 ˈu n ɡ u l a m 
 *#ˈuŋɡulam# | 1 : n > ŋ / __ [+back,+cons]
 Proto-Romance stage form : *#ˈuŋɡulam#
 *#ˈʊŋɡʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈʊŋɡʊla# | 34 : [+cons] > ∅ / __ #
-*#ˈʊŋɡwʊla# | 44 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#ˈʊŋɡʊla# | 46 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#ˈʊŋɡula# | 51 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈoŋɡula# | 55 : ˈʊ > ˈo / __ @ @
-Proto-South-Italo-Romance stage form : *#ˈoŋɡula#
-*#ˈoŋɡəla# | 89 : [-stres,-lo] > ə 
-Final form : *#ˈoŋɡəla#
+*#ˈʊŋɡla# | 43 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
+*#ˈʊŋʎːa# | 44 : ɡ l > ʎː 
+*#ˈoŋʎːa# | 56 : ˈʊ > ˈo / __ @ @
+Proto-South-Italo-Romance stage form : *#ˈoŋʎːa#
+*#ˈoŋjːa# | 104 : {ʎ;ʎː} > {j;jː} 
+Final form : *#ˈoŋjːa#
