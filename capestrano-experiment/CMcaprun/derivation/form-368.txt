@@ -1,12 +1,14 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 368:
-#kˌarrˈuːkula# >>> *#karːˈukəla# ( GOLD : #karːˈukəla#) :
-k ˌa r r ˈuː k u l a 
-Proto-Romance stage form : *#kˌarrˈuːkula#
-*#kˌarrˈuːkʊla# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌarrˈukʊla# | 12 : [+syl] > [-long,-splng] 
-*#kˌarrˈukola# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˌarːˈukola# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#kˌarːˈukola#
-*#kˌarːˈukəla# | 77 : [-stres,-lo] > ə 
-*#karːˈukəla# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#karːˈukəla#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 368:
+#kˌarbˈoːnem# >>> *#kaɾvˈonə# ( GOLD : #kaɾbˈonə#) :
+k ˌa r b ˈoː n e m 
+Proto-Romance stage form : *#kˌarbˈoːnem#
+*#kˌarbˈoːnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌarbˈonɛm# | 12 : [+syl] > [-long,-splng] 
+*#kˌarbˈonɛ# | 21 : [+cons] > ∅ / __ #
+*#kˌarbˈone# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌarvˈone# | 57 : b > v / @ __
+Proto-South-Italo-Romance stage form : *#kˌarvˈone#
+*#kˌarvˈonə# | 77 : [-stres,-lo] > ə 
+*#kˌaɾvˈonə# | 88 : r > ɾ 
+*#kaɾvˈonə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaɾvˈonə#

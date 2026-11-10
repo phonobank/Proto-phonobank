@@ -1,10 +1,16 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 325:
-#klˈaːra# >>> *#kjˈaɾa# ( GOLD : #cˈaːɾa#) :
-k l ˈaː r a 
-Proto-Romance stage form : *#klˈaːra#
-*#klˈara# | 12 : [+syl] > [-long,-splng] 
-*#kʎˈara# | 54 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#kʎˈara#
-*#kʎˈaɾa# | 88 : r > ɾ 
-*#kjˈaɾa# | 91 : {ʎ;ʎː} > {j;jː} 
-Final form : *#kjˈaɾa#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 325:
+#klˌawdˈeːtem# >>> *#kjədˈetə# ( GOLD : #cudˈetə#) :
+k l ˌa w d ˈeː t e m 
+Proto-Romance stage form : *#klˌawdˈeːtem#
+*#klˌawdˈeːtɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#klˌawdˈetɛm# | 12 : [+syl] > [-long,-splng] 
+*#klˌawdˈetɛ# | 21 : [+cons] > ∅ / __ #
+*#klˌawdˈete# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#klˌowdˈete# | 50 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+*#kʎˌowdˈete# | 54 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#kʎˌowdˈete#
+*#kʎˌodˈete# | 64 : w > ∅ / [+round] __ [+cons]
+*#kʎˌodˈetə# | 77 : [-stres,-lo] > ə 
+*#kʎədˈetə# | 90 : [-prim,-hi,-lo] > ə 
+*#kjədˈetə# | 91 : {ʎ;ʎː} > {j;jː} 
+Final form : *#kjədˈetə#

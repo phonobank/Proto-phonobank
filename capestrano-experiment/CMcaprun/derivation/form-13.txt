@@ -1,10 +1,15 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 13:
-#tˌenˈeː# >>> *#tənˈe# ( GOLD : #tənˈe#) :
-t ˌe n ˈeː 
-Proto-Romance stage form : *#tˌenˈeː#
-*#tˌɛnˈeː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˌɛnˈe# | 12 : [+syl] > [-long,-splng] 
-*#tˌenˈe# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#tˌenˈe#
-*#tənˈe# | 90 : [-prim,-hi,-lo] > ə 
-Final form : *#tənˈe#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 13:
+#tˌerremˈoːtum# >>> *#tərːəmːˈotə# ( GOLD : #terːəmˈutə#) :
+t ˌe r r e m ˈoː t u m 
+Proto-Romance stage form : *#tˌerremˈoːtum#
+*#tˌɛrrɛmˈoːtʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#tˌɛrrɛmˈotʊm# | 12 : [+syl] > [-long,-splng] 
+*#tˌɛrrɛmˈotʊ# | 21 : [+cons] > ∅ / __ #
+*#tˌerrɛmˈotʊ# | 37 : [+stres,-prim,+front,-tense] > ˌe 
+*#tˌerremˈoto# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#tˌerːemˈoto# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#tˌerːemːˈoto# | 63 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#tˌerːemːˈoto#
+*#tˌerːəmːˈotə# | 77 : [-stres,-lo] > ə 
+*#tərːəmːˈotə# | 90 : [-prim,-hi,-lo] > ə 
+Final form : *#tərːəmːˈotə#

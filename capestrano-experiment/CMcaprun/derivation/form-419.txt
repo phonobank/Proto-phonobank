@@ -1,16 +1,12 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 419:
-#kˌunˈiːkulum# >>> *#kunˈikjə# ( GOLD : #kunˈijːə#) :
-k ˌu n ˈiː k u l u m 
-Proto-Romance stage form : *#kˌunˈiːkulum#
-*#kˌʊnˈiːkʊlʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌʊnˈikʊlʊm# | 12 : [+syl] > [-long,-splng] 
-*#kˌʊnˈikʊlʊ# | 21 : [+cons] > ∅ / __ #
-*#kˌʊnˈiklʊ# | 33 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#kˌunˈiklʊ# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌunˈiklo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˌunˈikʎo# | 54 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#kˌunˈikʎo#
-*#kˌunˈikʎə# | 77 : [-stres,-lo] > ə 
-*#kˌunˈikjə# | 91 : {ʎ;ʎː} > {j;jː} 
-*#kunˈikjə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kunˈikjə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 419:
+#kˈurtum# >>> *#kˈoɾtə# ( GOLD : #kˈuɾtə#) :
+k ˈu r t u m 
+Proto-Romance stage form : *#kˈurtum#
+*#kˈʊrtʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈʊrtʊ# | 21 : [+cons] > ∅ / __ #
+*#kˈortʊ# | 43 : ˈʊ > ˈo / __ @ @
+*#kˈorto# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈorto#
+*#kˈortə# | 77 : [-stres,-lo] > ə 
+*#kˈoɾtə# | 88 : r > ɾ 
+Final form : *#kˈoɾtə#

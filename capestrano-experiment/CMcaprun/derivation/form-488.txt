@@ -1,14 +1,9 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 488:
-#ˈuːndekim# >>> *#ˈunːjt͡ʃə# ( GOLD : #ˈunːet͡ʃə#) :
-ˈuː n d e k i m 
-*#ˈuːndjkim# | 9 : e > j / __ [+back]
-Proto-Romance stage form : *#ˈuːndjkim#
-*#ˈuːndjkɪm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈundjkɪm# | 12 : [+syl] > [-long,-splng] 
-*#ˈundjkɪ# | 21 : [+cons] > ∅ / __ #
-*#ˈundjt͡ʃɪ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#ˈundjt͡ʃe# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˈunːjt͡ʃe# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#ˈunːjt͡ʃe#
-*#ˈunːjt͡ʃə# | 77 : [-stres,-lo] > ə 
-Final form : *#ˈunːjt͡ʃə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 488:
+#ˈuːwam# >>> *#ˈuva# ( GOLD : #ˈuva#) :
+ˈuː w a m 
+Proto-Romance stage form : *#ˈuːwam#
+*#ˈuwam# | 12 : [+syl] > [-long,-splng] 
+*#ˈuwa# | 21 : [+cons] > ∅ / __ #
+*#ˈuva# | 34 : w > v / __ [-cons]
+Proto-South-Italo-Romance stage form : *#ˈuva#
+Final form : *#ˈuva#

@@ -1,12 +1,11 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 239:
-#ˌeksniːdˈaː# >>> *#sːnədˈa# ( GOLD : #snidˈa#) :
-ˌe k s n iː d ˈaː 
-Proto-Romance stage form : *#ˌeksniːdˈaː#
-*#ˌɛksniːdˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɛksnidˈa# | 12 : [+syl] > [-long,-splng] 
-*#ˌɛsːnidˈa# | 19 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
-*#ˌesːnidˈa# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#ˌesːnidˈa#
-*#ˌesːnədˈa# | 77 : [-stres,-lo] > ə 
-*#sːnədˈa# | 78 : [-prim,-lo] > ∅ / # __
-Final form : *#sːnədˈa#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 239:
+#ˈeksit# >>> *#ˈesːə# ( GOLD : #ˈeʃːi#) :
+ˈe k s i t 
+Proto-Romance stage form : *#ˈeksit#
+*#ˈɛksɪt# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɛsːɪt# | 19 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
+*#ˈɛsːɪ# | 21 : [+cons] > ∅ / __ #
+*#ˈesːe# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈesːe#
+*#ˈesːə# | 77 : [-stres,-lo] > ə 
+Final form : *#ˈesːə#

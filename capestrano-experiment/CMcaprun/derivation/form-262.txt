@@ -1,11 +1,10 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 262:
-#ˈannum# >>> *#ˈanːə# ( GOLD : #ˈanːə#) :
-ˈa n n u m 
-Proto-Romance stage form : *#ˈannum#
-*#ˈannʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈannʊ# | 21 : [+cons] > ∅ / __ #
-*#ˈanno# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˈanːo# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#ˈanːo#
-*#ˈanːə# | 77 : [-stres,-lo] > ə 
-Final form : *#ˈanːə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 262:
+#ˈanimam# >>> *#ˈanəma# ( GOLD : #ˈalma#) :
+ˈa n i m a m 
+Proto-Romance stage form : *#ˈanimam#
+*#ˈanɪmam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈanɪma# | 21 : [+cons] > ∅ / __ #
+*#ˈanema# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈanema#
+*#ˈanəma# | 77 : [-stres,-lo] > ə 
+Final form : *#ˈanəma#

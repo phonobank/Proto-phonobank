@@ -1,13 +1,9 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 350:
-#kˈerwum# >>> *#t͡ʃˈeɾvə# ( GOLD : #t͡ʃˈeɾvə#) :
-k ˈe r w u m 
-Proto-Romance stage form : *#kˈerwum#
-*#kˈɛrwʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈɛrwʊ# | 21 : [+cons] > ∅ / __ #
-*#t͡ʃˈɛrwʊ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˈɛrvʊ# | 34 : w > v / __ [-cons]
-*#t͡ʃˈervo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#t͡ʃˈervo#
-*#t͡ʃˈervə# | 77 : [-stres,-lo] > ə 
-*#t͡ʃˈeɾvə# | 88 : r > ɾ 
-Final form : *#t͡ʃˈeɾvə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 350:
+#kˌatˈeːnam# >>> *#katˈena# ( GOLD : #katˈena#) :
+k ˌa t ˈeː n a m 
+Proto-Romance stage form : *#kˌatˈeːnam#
+*#kˌatˈenam# | 12 : [+syl] > [-long,-splng] 
+*#kˌatˈena# | 21 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˌatˈena#
+*#katˈena# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#katˈena#

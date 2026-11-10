@@ -1,13 +1,9 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 666:
-#mˌeritˈaː# >>> *#məɾətˈa# ( GOLD : #məɾdˈa#) :
-m ˌe r i t ˈaː 
-Proto-Romance stage form : *#mˌeritˈaː#
-*#mˌɛrɪtˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɛrɪtˈa# | 12 : [+syl] > [-long,-splng] 
-*#mˌerɪtˈa# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#mˌeretˈa# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌeretˈa#
-*#mˌerətˈa# | 77 : [-stres,-lo] > ə 
-*#mˌeɾətˈa# | 88 : r > ɾ 
-*#məɾətˈa# | 90 : [-prim,-hi,-lo] > ə 
-Final form : *#məɾətˈa#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 666:
+#mˌaːtuːtˈiːna# >>> *#matətˈina# ( GOLD : #mːatˈina#) :
+m ˌaː t uː t ˈiː n a 
+Proto-Romance stage form : *#mˌaːtuːtˈiːna#
+*#mˌatutˈina# | 12 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#mˌatutˈina#
+*#mˌatətˈina# | 77 : [-stres,-lo] > ə 
+*#matətˈina# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#matətˈina#

@@ -1,11 +1,13 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 713:
-#rˈuspo# >>> *#ɾˈospə# ( GOLD : #ɾˈuspə#) :
-r ˈu s p o 
-Proto-Romance stage form : *#rˈuspo#
-*#rˈʊspɔ# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#rˈospɔ# | 43 : ˈʊ > ˈo / __ @ @
-*#rˈospo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#rˈospo#
-*#rˈospə# | 77 : [-stres,-lo] > ə 
-*#ɾˈospə# | 88 : r > ɾ 
-Final form : *#ɾˈospə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 713:
+#kˈoːnflat# >>> *#kˈombja# ( GOLD : #ɡˈomfjə#) :
+k ˈoː n f l a t 
+*#kˈoːmflat# | 0 : n > m / __ [+lab,+cons]
+Proto-Romance stage form : *#kˈoːmflat#
+*#kˈomflat# | 12 : [+syl] > [-long,-splng] 
+*#kˈomfla# | 21 : [+cons] > ∅ / __ #
+*#kˈomfʎa# | 54 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#kˈomfʎa#
+*#kˈomb͡vʎa# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kˈombʎa# | 81 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#kˈombja# | 91 : {ʎ;ʎː} > {j;jː} 
+Final form : *#kˈombja#

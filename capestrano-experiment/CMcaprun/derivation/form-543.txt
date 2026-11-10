@@ -1,16 +1,11 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 543:
-#pˌekorˈaːrium# >>> *#pəkɾˈaɾjə# ( GOLD : #pəkuɾˈalə#) :
-p ˌe k o r ˈaː r i u m 
-*#pˌekorˈaːrjum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#pˌekorˈaːrjum#
-*#pˌɛkɔrˈaːrjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌɛkɔrˈarjʊm# | 12 : [+syl] > [-long,-splng] 
-*#pˌɛkɔrˈarjʊ# | 21 : [+cons] > ∅ / __ #
-*#pˌɛkrˈarjʊ# | 33 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#pˌekrˈarjʊ# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#pˌekrˈarjo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˌekrˈarjo#
-*#pˌekrˈarjə# | 77 : [-stres,-lo] > ə 
-*#pˌekɾˈaɾjə# | 88 : r > ɾ 
-*#pəkɾˈaɾjə# | 90 : [-prim,-hi,-lo] > ə 
-Final form : *#pəkɾˈaɾjə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 543:
+#pˈaːnem# >>> *#pˈanə# ( GOLD : #pˈanə#) :
+p ˈaː n e m 
+Proto-Romance stage form : *#pˈaːnem#
+*#pˈaːnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈanɛm# | 12 : [+syl] > [-long,-splng] 
+*#pˈanɛ# | 21 : [+cons] > ∅ / __ #
+*#pˈane# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#pˈane#
+*#pˈanə# | 77 : [-stres,-lo] > ə 
+Final form : *#pˈanə#

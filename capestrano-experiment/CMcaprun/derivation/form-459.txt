@@ -1,8 +1,12 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 459:
-#wˈiːta# >>> *#vˈita# ( GOLD : #vˈiːta#) :
-w ˈiː t a 
-Proto-Romance stage form : *#wˈiːta#
-*#wˈita# | 12 : [+syl] > [-long,-splng] 
-*#vˈita# | 34 : w > v / __ [-cons]
-Proto-South-Italo-Romance stage form : *#vˈita#
-Final form : *#vˈita#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 459:
+#wˈiːnum# >>> *#vˈinə# ( GOLD : #vˈinə#) :
+w ˈiː n u m 
+Proto-Romance stage form : *#wˈiːnum#
+*#wˈiːnʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈinʊm# | 12 : [+syl] > [-long,-splng] 
+*#wˈinʊ# | 21 : [+cons] > ∅ / __ #
+*#vˈinʊ# | 34 : w > v / __ [-cons]
+*#vˈino# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˈino#
+*#vˈinə# | 77 : [-stres,-lo] > ə 
+Final form : *#vˈinə#

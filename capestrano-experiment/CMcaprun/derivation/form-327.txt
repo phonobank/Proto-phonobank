@@ -1,14 +1,14 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 327:
-#klˈaːwem# >>> *#kjˈavə# ( GOLD : #cˈave#) :
-k l ˈaː w e m 
-Proto-Romance stage form : *#klˈaːwem#
-*#klˈaːwɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#klˈawɛm# | 12 : [+syl] > [-long,-splng] 
-*#klˈawɛ# | 21 : [+cons] > ∅ / __ #
-*#klˈavɛ# | 34 : w > v / __ [-cons]
-*#klˈave# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kʎˈave# | 54 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#kʎˈave#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 327:
+#klˈaːwum# >>> *#kjˈavə# ( GOLD : #cˈɔvə#) :
+k l ˈaː w u m 
+Proto-Romance stage form : *#klˈaːwum#
+*#klˈaːwʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#klˈawʊm# | 12 : [+syl] > [-long,-splng] 
+*#klˈawʊ# | 21 : [+cons] > ∅ / __ #
+*#klˈavʊ# | 34 : w > v / __ [-cons]
+*#klˈavo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kʎˈavo# | 54 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#kʎˈavo#
 *#kʎˈavə# | 77 : [-stres,-lo] > ə 
 *#kjˈavə# | 91 : {ʎ;ʎː} > {j;jː} 
 Final form : *#kjˈavə#

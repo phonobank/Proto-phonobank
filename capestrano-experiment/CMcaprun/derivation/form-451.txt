@@ -1,11 +1,10 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 451:
-#kwˌem# >>> *#kvə# ( GOLD : #kə#) :
-k w ˌe m 
-Proto-Romance stage form : *#kwˌem#
-*#kwˌɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kwˌɛ# | 21 : [+cons] > ∅ / __ #
-*#kvˌɛ# | 34 : w > v / __ [-cons]
-*#kvˌe# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#kvˌe#
-*#kvə# | 83 : [-prim,-lo] > ə / __ #
-Final form : *#kvə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 451:
+#kwˈantoː# >>> *#kvˈandə# ( GOLD : #kwˈandə#) :
+k w ˈa n t oː 
+Proto-Romance stage form : *#kwˈantoː#
+*#kwˈanto# | 12 : [+syl] > [-long,-splng] 
+*#kvˈanto# | 34 : w > v / __ [-cons]
+Proto-South-Italo-Romance stage form : *#kvˈanto#
+*#kvˈantə# | 77 : [-stres,-lo] > ə 
+*#kvˈandə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#kvˈandə#

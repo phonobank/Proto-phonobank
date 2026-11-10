@@ -1,14 +1,11 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 349:
-#kˌerˈaseam# >>> *#t͡ʃəɾˈasja# ( GOLD : #t͡ʃəɾˈaʃa#) :
-k ˌe r ˈa s e a m 
-*#kˌerˈasiam# | 8 : [-prim,-lo] > [+hi] / __ [+lo]
-*#kˌerˈasjam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#kˌerˈasjam#
-*#kˌɛrˈasjam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɛrˈasja# | 21 : [+cons] > ∅ / __ #
-*#t͡ʃˌɛrˈasja# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˌerˈasja# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#t͡ʃˌerˈasja#
-*#t͡ʃˌeɾˈasja# | 88 : r > ɾ 
-*#t͡ʃəɾˈasja# | 90 : [-prim,-hi,-lo] > ə 
-Final form : *#t͡ʃəɾˈasja#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 349:
+#kˈattum# >>> *#kˈatːə# ( GOLD : #ɡˈatːə#) :
+k ˈa t t u m 
+Proto-Romance stage form : *#kˈattum#
+*#kˈattʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈattʊ# | 21 : [+cons] > ∅ / __ #
+*#kˈatto# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈatːo# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#kˈatːo#
+*#kˈatːə# | 77 : [-stres,-lo] > ə 
+Final form : *#kˈatːə#

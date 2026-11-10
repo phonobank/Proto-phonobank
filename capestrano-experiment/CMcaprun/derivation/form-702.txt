@@ -1,11 +1,12 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 702:
-#ˌakkˈetta# >>> *#at͡ʃːˈætːa# ( GOLD : #t͡ʃˈætːa#) :
-ˌa k k ˈe t t a 
-Proto-Romance stage form : *#ˌakkˈetta#
-*#ˌakkˈɛtta# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌat͡ʃːˈɛtta# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#ˌat͡ʃːˈætta# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˌat͡ʃːˈætːa# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#ˌat͡ʃːˈætːa#
-*#at͡ʃːˈætːa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#at͡ʃːˈætːa#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 702:
+#wˌardoːn# >>> *#vaɾdə# ( GOLD : #wardˈa#) :
+w ˌa r d oː n 
+Proto-Romance stage form : *#wˌardoːn#
+*#wˌardon# | 12 : [+syl] > [-long,-splng] 
+*#wˌardo# | 21 : [+cons] > ∅ / __ #
+*#vˌardo# | 34 : w > v / __ [-cons]
+Proto-South-Italo-Romance stage form : *#vˌardo#
+*#vˌardə# | 77 : [-stres,-lo] > ə 
+*#vˌaɾdə# | 88 : r > ɾ 
+*#vaɾdə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vaɾdə#

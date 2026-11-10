@@ -1,12 +1,9 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 273:
-#ˌalˈawdula# >>> *#alˈodəla# ( GOLD : #lˈɔla#) :
-ˌa l ˈa w d u l a 
-Proto-Romance stage form : *#ˌalˈawdula#
-*#ˌalˈawdʊla# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌalˈawdola# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌalˈowdola# | 50 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#ˌalˈowdola#
-*#ˌalˈodola# | 64 : w > ∅ / [+round] __ [+cons]
-*#ˌalˈodəla# | 77 : [-stres,-lo] > ə 
-*#alˈodəla# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#alˈodəla#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 273:
+#ˌarˈeːna# >>> *#aɾˈena# ( GOLD : #ɾˈena#) :
+ˌa r ˈeː n a 
+Proto-Romance stage form : *#ˌarˈeːna#
+*#ˌarˈena# | 12 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#ˌarˈena#
+*#ˌaɾˈena# | 88 : r > ɾ 
+*#aɾˈena# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#aɾˈena#

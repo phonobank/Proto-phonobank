@@ -1,10 +1,10 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 562:
-#pˈorta# >>> *#pˈɔɾta# ( GOLD : #pˈɔɾta#) :
-p ˈo r t a 
-Proto-Romance stage form : *#pˈorta#
-*#pˈɔrta# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɞˤrta# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#pˈɔrta# | 46 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#pˈɔrta#
-*#pˈɔɾta# | 88 : r > ɾ 
-Final form : *#pˈɔɾta#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 562:
+#pˈopuliː# >>> *#pˈopələ# ( GOLD : #pˈopələ#) :
+p ˈo p u l iː 
+Proto-Romance stage form : *#pˈopuliː#
+*#pˈɔpʊliː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɔpʊli# | 12 : [+syl] > [-long,-splng] 
+*#pˈopoli# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#pˈopoli#
+*#pˈopələ# | 77 : [-stres,-lo] > ə 
+Final form : *#pˈopələ#

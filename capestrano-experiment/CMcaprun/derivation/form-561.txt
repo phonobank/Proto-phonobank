@@ -1,11 +1,9 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 561:
-#pˈontem# >>> *#pˈondə# ( GOLD : #pˈondə#) :
-p ˈo n t e m 
-Proto-Romance stage form : *#pˈontem#
-*#pˈɔntɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɔntɛ# | 21 : [+cons] > ∅ / __ #
-*#pˈonte# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˈonte#
-*#pˈontə# | 77 : [-stres,-lo] > ə 
-*#pˈondə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#pˈondə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 561:
+#pˈoe̯nam# >>> *#pˈena# ( GOLD : #pˈena#) :
+p ˈo e̯ n a m 
+*#pˈeːnam# | 2 : [+round,-hi] e̯ > [+front,-back,-round,-lab,+long] ∅
+Proto-Romance stage form : *#pˈeːnam#
+*#pˈenam# | 12 : [+syl] > [-long,-splng] 
+*#pˈena# | 21 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#pˈena#
+Final form : *#pˈena#

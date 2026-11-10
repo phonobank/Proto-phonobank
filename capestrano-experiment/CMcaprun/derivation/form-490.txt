@@ -1,11 +1,11 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 490:
-#ˈulmum# >>> *#ˈolmə# ( GOLD : #ˈulmə#) :
-ˈu l m u m 
-Proto-Romance stage form : *#ˈulmum#
-*#ˈʊlmʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈʊlmʊ# | 21 : [+cons] > ∅ / __ #
-*#ˈolmʊ# | 43 : ˈʊ > ˈo / __ @ @
-*#ˈolmo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈolmo#
-*#ˈolmə# | 77 : [-stres,-lo] > ə 
-Final form : *#ˈolmə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 490:
+#ˈumbram# >>> *#ˈomːɾa# ( GOLD : #ˈombɾa#) :
+ˈu m b r a m 
+Proto-Romance stage form : *#ˈumbram#
+*#ˈʊmbram# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈʊmbra# | 21 : [+cons] > ∅ / __ #
+*#ˈombra# | 43 : ˈʊ > ˈo / __ @ @
+*#ˈomːra# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#ˈomːra#
+*#ˈomːɾa# | 88 : r > ɾ 
+Final form : *#ˈomːɾa#

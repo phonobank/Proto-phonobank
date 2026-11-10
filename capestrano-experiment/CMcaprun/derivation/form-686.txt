@@ -1,15 +1,14 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 686:
-#mˌontˈaːneam# >>> *#məndˈaɲa# ( GOLD : #məndˈaɲa#) :
-m ˌo n t ˈaː n e a m 
-*#mˌontˈaːniam# | 8 : [-prim,-lo] > [+hi] / __ [+lo]
-*#mˌontˈaːnjam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#mˌontˈaːnjam#
-*#mˌɔntˈaːnjam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɔntˈanjam# | 12 : [+syl] > [-long,-splng] 
-*#mˌɔntˈanja# | 21 : [+cons] > ∅ / __ #
-*#mˌontˈanja# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˌontˈaɲa# | 51 : n j > ɲ 
-Proto-South-Italo-Romance stage form : *#mˌontˈaɲa#
-*#mˌondˈaɲa# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#məndˈaɲa# | 90 : [-prim,-hi,-lo] > ə 
-Final form : *#məndˈaɲa#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 686:
+#mˌorsikˈaːre# >>> *#məɾt͡səkˈaɾə# ( GOLD : #mot͡ʃːikˈa#) :
+m ˌo r s i k ˈaː r e 
+Proto-Romance stage form : *#mˌorsikˈaːre#
+*#mˌɔrsɪkˈaːrɛ# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɔrsɪkˈarɛ# | 12 : [+syl] > [-long,-splng] 
+*#mˌorsɪkˈarɛ# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˌorsekˈare# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌorsekˈare#
+*#mˌort͡sekˈare# | 68 : s > t͡s / r __
+*#mˌort͡səkˈarə# | 77 : [-stres,-lo] > ə 
+*#mˌoɾt͡səkˈaɾə# | 88 : r > ɾ 
+*#məɾt͡səkˈaɾə# | 90 : [-prim,-hi,-lo] > ə 
+Final form : *#məɾt͡səkˈaɾə#

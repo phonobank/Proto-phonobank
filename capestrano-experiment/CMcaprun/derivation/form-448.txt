@@ -1,18 +1,16 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 448:
-#kwˌiːnkwekˈentum# >>> *#t͡ʃiŋɡvjt͡ʃˈendə# ( GOLD : #t͡ʃiŋɡwət͡ʃˈendə#) :
-k w ˌiː n k w e k ˈe n t u m 
-*#kwˌiːŋkwekˈentum# | 1 : n > ŋ / __ [+back,+cons]
-*#kwˌiːŋkwjkˈentum# | 9 : e > j / __ [+back]
-Proto-Romance stage form : *#kwˌiːŋkwjkˈentum#
-*#kwˌiːŋkwjkˈɛntʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kwˌiŋkwjkˈɛntʊm# | 12 : [+syl] > [-long,-splng] 
-*#kˌiŋkwjkˈɛntʊm# | 13 : k w > k / # __ ( @ )* k w
-*#kˌiŋkwjkˈɛntʊ# | 21 : [+cons] > ∅ / __ #
-*#t͡ʃˌiŋkwjt͡ʃˈɛntʊ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˌiŋkvjt͡ʃˈɛntʊ# | 34 : w > v / __ [-cons]
-*#t͡ʃˌiŋkvjt͡ʃˈento# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#t͡ʃˌiŋkvjt͡ʃˈento#
-*#t͡ʃˌiŋkvjt͡ʃˈentə# | 77 : [-stres,-lo] > ə 
-*#t͡ʃˌiŋɡvjt͡ʃˈendə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#t͡ʃiŋɡvjt͡ʃˈendə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#t͡ʃiŋɡvjt͡ʃˈendə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 448:
+#kwattuˈordeki# >>> *#kvatːvˈoɾd͡ʒt͡ʃə# ( GOLD : #kwatːˈoɾdet͡ʃə#) :
+k w a t t u ˈo r d e k i 
+*#kwattuˈordjki# | 9 : e > j / __ [+back]
+*#kwattwˈordjki# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#kwattwˈordjki#
+*#kwattwˈɔrdjkɪ# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kwattwˈɔrdjt͡ʃɪ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#kvattvˈɔrdjt͡ʃɪ# | 34 : w > v / __ [-cons]
+*#kvattvˈordjt͡ʃe# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kvatːvˈordjt͡ʃe# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#kvatːvˈordjt͡ʃe#
+*#kvatːvˈord͡ʒt͡ʃe# | 70 : {d j;dː j;ɡ j;ɡː j} > {d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
+*#kvatːvˈord͡ʒt͡ʃə# | 77 : [-stres,-lo] > ə 
+*#kvatːvˈoɾd͡ʒt͡ʃə# | 88 : r > ɾ 
+Final form : *#kvatːvˈoɾd͡ʒt͡ʃə#

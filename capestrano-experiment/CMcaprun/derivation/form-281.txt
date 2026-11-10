@@ -1,13 +1,13 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 281:
-#ˌarkˈoːnem# >>> *#aɾkˈonə# ( GOLD : #aɾkˈonə#) :
-ˌa r k ˈoː n e m 
-Proto-Romance stage form : *#ˌarkˈoːnem#
-*#ˌarkˈoːnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌarkˈonɛm# | 12 : [+syl] > [-long,-splng] 
-*#ˌarkˈonɛ# | 21 : [+cons] > ∅ / __ #
-*#ˌarkˈone# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌarkˈone#
-*#ˌarkˈonə# | 77 : [-stres,-lo] > ə 
-*#ˌaɾkˈonə# | 88 : r > ɾ 
-*#aɾkˈonə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#aɾkˈonə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 281:
+#ˈarborem# >>> *#ˈalvəɾə# ( GOLD : #ˈalbəɾə#) :
+ˈa r b o r e m 
+Proto-Romance stage form : *#ˈarborem#
+*#ˈarbɔrɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈarbɔrɛ# | 21 : [+cons] > ∅ / __ #
+*#ˈalbɔrɛ# | 27 : r > l / __ b ( @ )* r
+*#ˈalbore# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈalvore# | 57 : b > v / @ __
+Proto-South-Italo-Romance stage form : *#ˈalvore#
+*#ˈalvərə# | 77 : [-stres,-lo] > ə 
+*#ˈalvəɾə# | 88 : r > ɾ 
+Final form : *#ˈalvəɾə#

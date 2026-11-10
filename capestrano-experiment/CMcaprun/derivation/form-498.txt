@@ -1,11 +1,11 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 498:
-#ˈorɡanum# >>> *#ˈoɾɡanə# ( GOLD : #ˈɔɾɡənə#) :
-ˈo r ɡ a n u m 
-Proto-Romance stage form : *#ˈorɡanum#
-*#ˈɔrɡanʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔrɡanʊ# | 21 : [+cons] > ∅ / __ #
-*#ˈorɡano# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈorɡano#
-*#ˈorɡanə# | 77 : [-stres,-lo] > ə 
-*#ˈoɾɡanə# | 88 : r > ɾ 
-Final form : *#ˈoɾɡanə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 498:
+#ˈowum# >>> *#ˈovə# ( GOLD : #ˈɔvə#) :
+ˈo w u m 
+Proto-Romance stage form : *#ˈowum#
+*#ˈɔwʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔwʊ# | 21 : [+cons] > ∅ / __ #
+*#ˈɔvʊ# | 34 : w > v / __ [-cons]
+*#ˈovo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈovo#
+*#ˈovə# | 77 : [-stres,-lo] > ə 
+Final form : *#ˈovə#

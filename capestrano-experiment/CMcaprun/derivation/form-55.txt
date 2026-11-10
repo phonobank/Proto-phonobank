@@ -1,10 +1,11 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 55:
-#stˈanːum# >>> *#stˈanːə# ( GOLD : #stˈaɲə#) :
-s t ˈa nː u m 
-Proto-Romance stage form : *#stˈanːum#
-*#stˈanːʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#stˈanːʊ# | 21 : [+cons] > ∅ / __ #
-*#stˈanːo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 55:
+#stˈannum# >>> *#stˈanːə# ( GOLD : #stˈaɲə#) :
+s t ˈa n n u m 
+Proto-Romance stage form : *#stˈannum#
+*#stˈannʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#stˈannʊ# | 21 : [+cons] > ∅ / __ #
+*#stˈanno# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#stˈanːo# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
 Proto-South-Italo-Romance stage form : *#stˈanːo#
 *#stˈanːə# | 77 : [-stres,-lo] > ə 
 Final form : *#stˈanːə#

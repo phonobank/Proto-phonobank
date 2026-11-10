@@ -1,13 +1,12 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 484:
-#wˌolaːrˈelːa# >>> *#vəlaɾˈelːa# ( GOLD : #vəlaɾˈælːa#) :
-w ˌo l aː r ˈe lː a 
-Proto-Romance stage form : *#wˌolaːrˈelːa#
-*#wˌɔlaːrˈɛlːa# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɔlarˈɛlːa# | 12 : [+syl] > [-long,-splng] 
-*#vˌɔlarˈɛlːa# | 34 : w > v / __ [-cons]
-*#vˌolarˈɛlːa# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vˌolarˈelːa# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˌolarˈelːa#
-*#vˌolaɾˈelːa# | 88 : r > ɾ 
-*#vəlaɾˈelːa# | 90 : [-prim,-hi,-lo] > ə 
-Final form : *#vəlaɾˈelːa#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 484:
+#ˈunɡulam# >>> *#ˈoŋɡəla# ( GOLD : #ˈoɲa#) :
+ˈu n ɡ u l a m 
+*#ˈuŋɡulam# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˈuŋɡulam#
+*#ˈʊŋɡʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈʊŋɡʊla# | 21 : [+cons] > ∅ / __ #
+*#ˈoŋɡʊla# | 43 : ˈʊ > ˈo / __ @ @
+*#ˈoŋɡola# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈoŋɡola#
+*#ˈoŋɡəla# | 77 : [-stres,-lo] > ə 
+Final form : *#ˈoŋɡəla#

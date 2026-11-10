@@ -1,12 +1,6 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 584:
-#bˈaːsium# >>> *#bˈasjə# ( GOLD : #bːˈaʃə#) :
-b ˈaː s i u m 
-*#bˈaːsjum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#bˈaːsjum#
-*#bˈaːsjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˈasjʊm# | 12 : [+syl] > [-long,-splng] 
-*#bˈasjʊ# | 21 : [+cons] > ∅ / __ #
-*#bˈasjo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#bˈasjo#
-*#bˈasjə# | 77 : [-stres,-lo] > ə 
-Final form : *#bˈasjə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 584:
+#bˈasta# >>> *#bˈasta# ( GOLD : #vˈasta#) :
+b ˈa s t a 
+Proto-Romance stage form : *#bˈasta#
+Proto-South-Italo-Romance stage form : *#bˈasta#
+Final form : *#bˈasta#

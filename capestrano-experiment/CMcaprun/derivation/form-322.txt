@@ -1,12 +1,12 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 322:
-#hˈominem# >>> *#ˈomːənə# ( GOLD : #ˈomːənə#) :
-h ˈo m i n e m 
-*#ˈominem# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˈominem#
-*#ˈɔmɪnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔmɪnɛ# | 21 : [+cons] > ∅ / __ #
-*#ˈomene# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˈomːene# | 63 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#ˈomːene#
-*#ˈomːənə# | 77 : [-stres,-lo] > ə 
-Final form : *#ˈomːənə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 322:
+#hˈortum# >>> *#ˈoɾtə# ( GOLD : #ˈoɾtə#) :
+h ˈo r t u m 
+*#ˈortum# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˈortum#
+*#ˈɔrtʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔrtʊ# | 21 : [+cons] > ∅ / __ #
+*#ˈorto# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈorto#
+*#ˈortə# | 77 : [-stres,-lo] > ə 
+*#ˈoɾtə# | 88 : r > ɾ 
+Final form : *#ˈoɾtə#

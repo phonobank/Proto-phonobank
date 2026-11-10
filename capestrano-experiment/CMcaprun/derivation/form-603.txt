@@ -1,13 +1,14 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 603:
-#bˌullˈiː# >>> *#bujːˈi# ( GOLD : #vˈolːə#) :
-b ˌu l l ˈiː 
-Proto-Romance stage form : *#bˌullˈiː#
-*#bˌʊllˈiː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˌʊllˈi# | 12 : [+syl] > [-long,-splng] 
-*#bˌullˈi# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#bˌulːˈi# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#bˌulːˈi#
-*#bˌuʎːˈi# | 65 : lː > ʎː / __ [+hi]
-*#bˌujːˈi# | 91 : {ʎ;ʎː} > {j;jː} 
-*#bujːˈi# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#bujːˈi#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 603:
+#flˈoːrem# >>> *#fjˈoɾə# ( GOLD : #fjˈoɾə#) :
+f l ˈoː r e m 
+Proto-Romance stage form : *#flˈoːrem#
+*#flˈoːrɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#flˈorɛm# | 12 : [+syl] > [-long,-splng] 
+*#flˈorɛ# | 21 : [+cons] > ∅ / __ #
+*#flˈore# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fʎˈore# | 54 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#fʎˈore#
+*#fʎˈorə# | 77 : [-stres,-lo] > ə 
+*#fʎˈoɾə# | 88 : r > ɾ 
+*#fjˈoɾə# | 91 : {ʎ;ʎː} > {j;jː} 
+Final form : *#fjˈoɾə#

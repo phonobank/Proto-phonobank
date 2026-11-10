@@ -1,13 +1,7 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 540:
-#pˈersikam# >>> *#pˈæɾt͡səka# ( GOLD : #pˈæɾt͡səka#) :
-p ˈe r s i k a m 
-Proto-Romance stage form : *#pˈersikam#
-*#pˈɛrsɪkam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɛrsɪka# | 21 : [+cons] > ∅ / __ #
-*#pˈærsɪka# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#pˈærseka# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˈærseka#
-*#pˈært͡seka# | 68 : s > t͡s / r __
-*#pˈært͡səka# | 77 : [-stres,-lo] > ə 
-*#pˈæɾt͡səka# | 88 : r > ɾ 
-Final form : *#pˈæɾt͡səka#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 540:
+#padˈuːla# >>> *#padˈula# ( GOLD : #padˈuɾa#) :
+p a d ˈuː l a 
+Proto-Romance stage form : *#padˈuːla#
+*#padˈula# | 12 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#padˈula#
+Final form : *#padˈula#

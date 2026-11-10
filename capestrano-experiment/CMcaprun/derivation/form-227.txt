@@ -1,17 +1,12 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 227:
-#ˌiɡnoːrˈantem# >>> *#ɲːəɾˈandə# ( GOLD : #ɲuɾˈandə#) :
-ˌi ɡ n oː r ˈa n t e m 
-Proto-Romance stage form : *#ˌiɡnoːrˈantem#
-*#ˌɪɡnoːrˈantɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪɡnorˈantɛm# | 12 : [+syl] > [-long,-splng] 
-*#ˌɪjnorˈantɛm# | 14 : [+back,+cons] > j / __ n
-*#ˌɪjnorˈantɛ# | 21 : [+cons] > ∅ / __ #
-*#ˌejnorˈantɛ# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌeɲːorˈantɛ# | 40 : j n > ɲː / [+front,-lo,+syl] __
-*#ˌeɲːorˈante# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌeɲːorˈante#
-*#ˌeɲːərˈantə# | 77 : [-stres,-lo] > ə 
-*#ɲːərˈantə# | 78 : [-prim,-lo] > ∅ / # __
-*#ɲːərˈandə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#ɲːəɾˈandə# | 88 : r > ɾ 
-Final form : *#ɲːəɾˈandə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 227:
+#iˌoːˈanneːs# >>> *#jwːˈanːə# ( GOLD : #juwˈanə#) :
+i ˌoː ˈa n n eː s 
+*#iˌuːˈanneːs# | 8 : [-prim,-lo] > [+hi] / __ [+lo]
+*#jwːˈanneːs# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#jwːˈanneːs#
+*#jwːˈannes# | 12 : [+syl] > [-long,-splng] 
+*#jwːˈanne# | 21 : [+cons] > ∅ / __ #
+*#jwːˈanːe# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#jwːˈanːe#
+*#jwːˈanːə# | 77 : [-stres,-lo] > ə 
+Final form : *#jwːˈanːə#

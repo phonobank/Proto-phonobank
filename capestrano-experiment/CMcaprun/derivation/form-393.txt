@@ -1,20 +1,13 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 393:
-#kˌondikiˈoːnem# >>> *#kunːit͡sjˈonə# ( GOLD : #kundit͡sjˈonə#) :
-k ˌo n d i k i ˈoː n e m 
-*#kˌondikjˈoːnem# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#kˌondikjˈoːnem#
-*#kˌɔndɪkjˈoːnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɔndɪkjˈonɛm# | 12 : [+syl] > [-long,-splng] 
-*#kˌɔndɪkjˈonɛ# | 21 : [+cons] > ∅ / __ #
-*#kˌɔndɪt͡ʃjˈonɛ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#kˌondɪt͡ʃjˈonɛ# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌondit͡ʃjˈonɛ# | 39 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
-*#kˌondit͡ʃjˈone# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˌonːit͡ʃjˈone# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#kˌonːit͡sjˈone# | 60 : [+delrel,-voi] > [+ant,-distr,-front,-hi,-round,+cor] / __ j [+round]
-Proto-South-Italo-Romance stage form : *#kˌonːit͡sjˈone#
-*#kˌunːit͡sjˈone# | 73 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌunːˌit͡sjˈone# | 76 : i > ˌi / __ ( [-syl] )* j
-*#kˌunːˌit͡sjˈonə# | 77 : [-stres,-lo] > ə 
-*#kunːit͡sjˈonə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kunːit͡sjˈonə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 393:
+#kˌoːnsuːtˈuːram# >>> *#kund͡zətˈuɾa# ( GOLD : #kuʃətˈuɾa#) :
+k ˌoː n s uː t ˈuː r a m 
+Proto-Romance stage form : *#kˌoːnsuːtˈuːram#
+*#kˌonsutˈuram# | 12 : [+syl] > [-long,-splng] 
+*#kˌonsutˈura# | 21 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˌonsutˈura#
+*#kˌunsutˈura# | 73 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌunsətˈura# | 77 : [-stres,-lo] > ə 
+*#kˌund͡zətˈura# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kˌund͡zətˈuɾa# | 88 : r > ɾ 
+*#kund͡zətˈuɾa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kund͡zətˈuɾa#

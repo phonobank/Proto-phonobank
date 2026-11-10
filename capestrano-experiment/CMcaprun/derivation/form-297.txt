@@ -1,16 +1,15 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 297:
-#ˌawrˈikulam# >>> *#ɾˈekja# ( GOLD : #ɾˈekːja#) :
-ˌa w r ˈi k u l a m 
-Proto-Romance stage form : *#ˌawrˈikulam#
-*#ˌawrˈɪkʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌawrˈɪkʊla# | 21 : [+cons] > ∅ / __ #
-*#ˌawrˈɪkla# | 33 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#ˌawrˈekla# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌowrˈekla# | 50 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-*#ˌowrˈekʎa# | 54 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌowrˈekʎa#
-*#ˌorˈekʎa# | 64 : w > ∅ / [+round] __ [+cons]
-*#rˈekʎa# | 78 : [-prim,-lo] > ∅ / # __
-*#ɾˈekʎa# | 88 : r > ɾ 
-*#ɾˈekja# | 91 : {ʎ;ʎː} > {j;jː} 
-Final form : *#ɾˈekja#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 297:
+#ˌawaːrˈitiam# >>> *#avaɾˈitja# ( GOLD : #avaɾˈit͡sja#) :
+ˌa w aː r ˈi t i a m 
+*#ˌawaːrˈitjam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˌawaːrˈitjam#
+*#ˌawaːrˈɪtjam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌawarˈɪtjam# | 12 : [+syl] > [-long,-splng] 
+*#ˌawarˈɪtja# | 21 : [+cons] > ∅ / __ #
+*#ˌavarˈɪtja# | 34 : w > v / __ [-cons]
+*#ˌavarˈitja# | 39 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
+Proto-South-Italo-Romance stage form : *#ˌavarˈitja#
+*#ˌavˌarˈitja# | 75 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌavˌaɾˈitja# | 88 : r > ɾ 
+*#avaɾˈitja# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#avaɾˈitja#

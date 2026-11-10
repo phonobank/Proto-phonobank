@@ -1,15 +1,12 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 247:
-#ˌeksmowˈeː# >>> *#sːmːəvˈe# ( GOLD : #smˈovə#) :
-ˌe k s m o w ˈeː 
-Proto-Romance stage form : *#ˌeksmowˈeː#
-*#ˌɛksmɔwˈeː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɛksmɔwˈe# | 12 : [+syl] > [-long,-splng] 
-*#ˌɛsːmɔwˈe# | 19 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
-*#ˌɛsːmɔvˈe# | 34 : w > v / __ [-cons]
-*#ˌesːmɔvˈe# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌesːmovˈe# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌesːmːovˈe# | 63 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#ˌesːmːovˈe#
-*#ˌesːmːəvˈe# | 77 : [-stres,-lo] > ə 
-*#sːmːəvˈe# | 78 : [-prim,-lo] > ∅ / # __
-Final form : *#sːmːəvˈe#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 247:
+#ˌepˈiskopum# >>> *#pˈeskəpə# ( GOLD : #vˈeskəvə#) :
+ˌe p ˈi s k o p u m 
+Proto-Romance stage form : *#ˌepˈiskopum#
+*#ˌɛpˈɪskɔpʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛpˈɪskɔpʊ# | 21 : [+cons] > ∅ / __ #
+*#ˌepˈɪskɔpʊ# | 37 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌepˈeskopo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌepˈeskopo#
+*#ˌepˈeskəpə# | 77 : [-stres,-lo] > ə 
+*#pˈeskəpə# | 78 : [-prim,-lo] > ∅ / # __
+Final form : *#pˈeskəpə#

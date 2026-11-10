@@ -1,9 +1,16 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 376:
-#kˈawsam# >>> *#kˈosa# ( GOLD : #kˈosa#) :
-k ˈa w s a m 
-Proto-Romance stage form : *#kˈawsam#
-*#kˈawsa# | 21 : [+cons] > ∅ / __ #
-*#kˈowsa# | 50 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#kˈowsa#
-*#kˈosa# | 64 : w > ∅ / [+round] __ [+cons]
-Final form : *#kˈosa#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 376:
+#kˌaptiatˈoːrem# >>> *#kat͡ʃːjatˈoɾə# ( GOLD : #kat͡ʃːatˈoɾə#) :
+k ˌa p t i a t ˈoː r e m 
+*#kˌaptjatˈoːrem# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#kˌaptjatˈoːrem#
+*#kˌaptjatˈoːrɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌaptjatˈorɛm# | 12 : [+syl] > [-long,-splng] 
+*#kˌatːjatˈorɛm# | 19 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
+*#kˌatːjatˈorɛ# | 21 : [+cons] > ∅ / __ #
+*#kˌatːjatˈore# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌat͡ʃːjatˈore# | 59 : tː > t͡ʃː / __ j
+Proto-South-Italo-Romance stage form : *#kˌat͡ʃːjatˈore#
+*#kˌat͡ʃːjatˈorə# | 77 : [-stres,-lo] > ə 
+*#kˌat͡ʃːjatˈoɾə# | 88 : r > ɾ 
+*#kat͡ʃːjatˈoɾə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kat͡ʃːjatˈoɾə#

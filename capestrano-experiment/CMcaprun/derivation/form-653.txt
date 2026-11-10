@@ -1,11 +1,12 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 653:
-#fˈuːnem# >>> *#fˈunə# ( GOLD : #fˈunə#) :
-f ˈuː n e m 
-Proto-Romance stage form : *#fˈuːnem#
-*#fˈuːnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈunɛm# | 12 : [+syl] > [-long,-splng] 
-*#fˈunɛ# | 21 : [+cons] > ∅ / __ #
-*#fˈune# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˈune#
-*#fˈunə# | 77 : [-stres,-lo] > ə 
-Final form : *#fˈunə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 653:
+#mˈedium# >>> *#mˈed͡ʒə# ( GOLD : #mˈæd͡zːə#) :
+m ˈe d i u m 
+*#mˈedjum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#mˈedjum#
+*#mˈɛdjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛdjʊ# | 21 : [+cons] > ∅ / __ #
+*#mˈedjo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈedjo#
+*#mˈed͡ʒo# | 70 : {d j;dː j;ɡ j;ɡː j} > {d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
+*#mˈed͡ʒə# | 77 : [-stres,-lo] > ə 
+Final form : *#mˈed͡ʒə#

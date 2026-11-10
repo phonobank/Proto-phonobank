@@ -1,10 +1,11 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 658:
-#mˈedikum# >>> *#mˈedəkə# ( GOLD : #mˈedəkə#) :
-m ˈe d i k u m 
-Proto-Romance stage form : *#mˈedikum#
-*#mˈɛdɪkʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɛdɪkʊ# | 21 : [+cons] > ∅ / __ #
-*#mˈedeko# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈedeko#
-*#mˈedəkə# | 77 : [-stres,-lo] > ə 
-Final form : *#mˈedəkə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 658:
+#mˈelem# >>> *#mːˈelə# ( GOLD : #mˈelə#) :
+m ˈe l e m 
+Proto-Romance stage form : *#mˈelem#
+*#mˈɛlɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛlɛ# | 21 : [+cons] > ∅ / __ #
+*#mˈele# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mːˈele# | 63 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#mːˈele#
+*#mːˈelə# | 77 : [-stres,-lo] > ə 
+Final form : *#mːˈelə#

@@ -1,12 +1,13 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 308:
-#ˈaːfrikam# >>> *#ˈafɾəka# ( GOLD : #ˈafɾəka#) :
-ˈaː f r i k a m 
-Proto-Romance stage form : *#ˈaːfrikam#
-*#ˈaːfrɪkam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈafrɪkam# | 12 : [+syl] > [-long,-splng] 
-*#ˈafrɪka# | 21 : [+cons] > ∅ / __ #
-*#ˈafreka# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈafreka#
-*#ˈafrəka# | 77 : [-stres,-lo] > ə 
-*#ˈafɾəka# | 88 : r > ɾ 
-Final form : *#ˈafɾəka#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 308:
+#ˌamˈiːkum# >>> *#amːˈikə# ( GOLD : #amˈikə#) :
+ˌa m ˈiː k u m 
+Proto-Romance stage form : *#ˌamˈiːkum#
+*#ˌamˈiːkʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌamˈikʊm# | 12 : [+syl] > [-long,-splng] 
+*#ˌamˈikʊ# | 21 : [+cons] > ∅ / __ #
+*#ˌamˈiko# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌamːˈiko# | 63 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#ˌamːˈiko#
+*#ˌamːˈikə# | 77 : [-stres,-lo] > ə 
+*#amːˈikə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#amːˈikə#

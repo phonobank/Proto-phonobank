@@ -1,13 +1,10 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 678:
-#mˌarˈiːtum# >>> *#maɾˈitə# ( GOLD : #maɾˈitə#) :
-m ˌa r ˈiː t u m 
-Proto-Romance stage form : *#mˌarˈiːtum#
-*#mˌarˈiːtʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌarˈitʊm# | 12 : [+syl] > [-long,-splng] 
-*#mˌarˈitʊ# | 21 : [+cons] > ∅ / __ #
-*#mˌarˈito# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌarˈito#
-*#mˌarˈitə# | 77 : [-stres,-lo] > ə 
-*#mˌaɾˈitə# | 88 : r > ɾ 
-*#maɾˈitə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#maɾˈitə#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 678:
+#mˈakulam# >>> *#mˈakəla# ( GOLD : #mˈakːja#) :
+m ˈa k u l a m 
+Proto-Romance stage form : *#mˈakulam#
+*#mˈakʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈakʊla# | 21 : [+cons] > ∅ / __ #
+*#mˈakola# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈakola#
+*#mˈakəla# | 77 : [-stres,-lo] > ə 
+Final form : *#mˈakəla#

@@ -1,13 +1,14 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 656:
-#mˌiniˈattam# >>> *#məɲˈatːa# ( GOLD : #məɲˈatːa#) :
-m ˌi n i ˈa t t a m 
-*#mˌinjˈattam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#mˌinjˈattam#
-*#mˌɪnjˈattam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɪnjˈatta# | 21 : [+cons] > ∅ / __ #
-*#mˌenjˈatta# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#mˌeɲˈatta# | 51 : n j > ɲ 
-*#mˌeɲˈatːa# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#mˌeɲˈatːa#
-*#məɲˈatːa# | 90 : [-prim,-hi,-lo] > ə 
-Final form : *#məɲˈatːa#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 656:
+#mˈelius# >>> *#mːˈejːə# ( GOLD : #mˈejːə#) :
+m ˈe l i u s 
+*#mˈeljus# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#mˈeljus#
+*#mˈɛljʊs# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛljʊ# | 21 : [+cons] > ∅ / __ #
+*#mˈeljo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˈeʎːo# | 55 : l j > ʎː 
+*#mːˈeʎːo# | 63 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#mːˈeʎːo#
+*#mːˈeʎːə# | 77 : [-stres,-lo] > ə 
+*#mːˈejːə# | 91 : {ʎ;ʎː} > {j;jː} 
+Final form : *#mːˈejːə#

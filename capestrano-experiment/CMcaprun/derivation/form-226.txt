@@ -1,17 +1,17 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 226:
-#ˌirˈundinellam# >>> *#ɾˈonːənælːa# ( GOLD : #ɾˈenːəla#) :
-ˌi r ˈu n d i n e l l a m 
-Proto-Romance stage form : *#ˌirˈundinellam#
-*#ˌɪrˈʊndɪnɛllam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪrˈʊndɪnɛlla# | 21 : [+cons] > ∅ / __ #
-*#ˌerˈʊndɪnɛlla# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌerˈʊndɪnælla# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˌerˈondɪnælla# | 43 : ˈʊ > ˈo / __ @ @
-*#ˌerˈondenælla# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌerˈonːenælla# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#ˌerˈonːenælːa# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#ˌerˈonːenælːa#
-*#ˌerˈonːənælːa# | 77 : [-stres,-lo] > ə 
-*#rˈonːənælːa# | 78 : [-prim,-lo] > ∅ / # __
-*#ɾˈonːənælːa# | 88 : r > ɾ 
-Final form : *#ɾˈonːənælːa#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 226:
+#ˌiɡnoːrˈantem# >>> *#ɲːəɾˈandə# ( GOLD : #ɲuɾˈandə#) :
+ˌi ɡ n oː r ˈa n t e m 
+Proto-Romance stage form : *#ˌiɡnoːrˈantem#
+*#ˌɪɡnoːrˈantɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪɡnorˈantɛm# | 12 : [+syl] > [-long,-splng] 
+*#ˌɪjnorˈantɛm# | 14 : [+back,+cons] > j / __ n
+*#ˌɪjnorˈantɛ# | 21 : [+cons] > ∅ / __ #
+*#ˌejnorˈantɛ# | 37 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌeɲːorˈantɛ# | 40 : j n > ɲː / [+front,-lo,+syl] __
+*#ˌeɲːorˈante# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌeɲːorˈante#
+*#ˌeɲːərˈantə# | 77 : [-stres,-lo] > ə 
+*#ɲːərˈantə# | 78 : [-prim,-lo] > ∅ / # __
+*#ɲːərˈandə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ɲːəɾˈandə# | 88 : r > ɾ 
+Final form : *#ɲːəɾˈandə#

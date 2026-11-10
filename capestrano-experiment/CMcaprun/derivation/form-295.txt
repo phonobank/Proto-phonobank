@@ -1,8 +1,16 @@
-Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 295:
-#ˌawt# >>> *#aw# ( GOLD : #o#) :
-ˌa w t 
-Proto-Romance stage form : *#ˌawt#
-*#ˌaw# | 21 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#ˌaw#
-*#aw# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#aw#
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 295:
+#ˌawrˈikulam# >>> *#ɾˈekja# ( GOLD : #ɾˈekːja#) :
+ˌa w r ˈi k u l a m 
+Proto-Romance stage form : *#ˌawrˈikulam#
+*#ˌawrˈɪkʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌawrˈɪkʊla# | 21 : [+cons] > ∅ / __ #
+*#ˌawrˈɪkla# | 33 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+*#ˌawrˈekla# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌowrˈekla# | 50 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+*#ˌowrˈekʎa# | 54 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#ˌowrˈekʎa#
+*#ˌorˈekʎa# | 64 : w > ∅ / [+round] __ [+cons]
+*#rˈekʎa# | 78 : [-prim,-lo] > ∅ / # __
+*#ɾˈekʎa# | 88 : r > ɾ 
+*#ɾˈekja# | 91 : {ʎ;ʎː} > {j;jː} 
+Final form : *#ɾˈekja#
