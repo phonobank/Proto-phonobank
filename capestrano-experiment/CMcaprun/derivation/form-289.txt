@@ -4,11 +4,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌawtˈumnum#
 *#ˌawtˈʊmnʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌawtˈʊmnʊ# | 34 : [+cons] > ∅ / __ #
-*#ˌawtˈʊmnu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌawtˈomnu# | 53 : ˈʊ > ˈo / __ @ @
-*#ˌowtˈomnu# | 59 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+*#ˌawtˈʊmnu# | 50 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌawtˈomnu# | 54 : ˈʊ > ˈo / __ @ @
+*#ˌowtˈomnu# | 60 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 Proto-South-Italo-Romance stage form : *#ˌowtˈomnu#
-*#ˌotˈomnu# | 76 : w > ∅ / [+round] __ [+cons]
-*#ˌotˈomnə# | 87 : [-stres,-lo] > ə 
-*#tˈomnə# | 88 : [-prim,-lo] > ∅ / # __
+*#ˌotˈomnu# | 77 : w > ∅ / [+round] __ [+cons]
+*#ˌotˈomnə# | 88 : [-stres,-lo] > ə 
+*#tˈomnə# | 89 : [-prim,-lo] > ∅ / # __
 Final form : *#tˈomnə#

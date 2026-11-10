@@ -42,8 +42,9 @@ lˠ > w / __ ( ə ) t͡ʃ
 lˠ > l 
 ə > ∅ / [!blab] [+prim,blab] w __ k
 ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
-[-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
 w > v / # ( ( @ )* [+son] ) __ [-cons]
+w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
+[-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
 [+syl,+round] > [+hi] / __ j
 [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
 [+stres,-prim,+front,-tense] > ˌe 

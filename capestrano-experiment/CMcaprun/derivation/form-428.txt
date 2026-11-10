@@ -4,10 +4,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ɡˈallum#
 *#ɡˈallʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ɡˈallʊ# | 34 : [+cons] > ∅ / __ #
-*#ɡˈallu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɡˈalːu# | 60 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ɡˈallu# | 50 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ɡˈalːu# | 61 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#ɡˈalːu#
-*#ɡˈaʎːu# | 77 : lː > ʎː / __ [+hi]
-*#ɡˈaʎːə# | 87 : [-stres,-lo] > ə 
-*#ɡˈajːə# | 101 : {ʎ;ʎː} > {j;jː} 
+*#ɡˈaʎːu# | 78 : lː > ʎː / __ [+hi]
+*#ɡˈaʎːə# | 88 : [-stres,-lo] > ə 
+*#ɡˈajːə# | 102 : {ʎ;ʎː} > {j;jː} 
 Final form : *#ɡˈajːə#

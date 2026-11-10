@@ -185,6 +185,20 @@ $FONTECCHIO VERSION: ∅ > w / [-cont,+back] __ ʊ [+lat] [+syl] #
 ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] # 
 		$needs to be in k/g o/u l V- finals -- not in columna > kolonːa. etc. 
 
+
+$ LXXVIIa medial w to v, if prevocalic
+	$ subsumed -- LXIXa initial w to v
+		$w > v / # __
+		$w > v / __ [-cons]
+	$ MANUAL FIX -- does not happen after obstruents
+w > v / # ((@)* [+son]) __ [-cons]
+
+	$ MANUAL FIX w lost in gw if there's w or u in prior syllable -- 
+		$ungula , coagula, rukəla, karrukəla, mokkəla 
+	$ TODO WRITE ABOUT !!
+		$ bled by LXXVIIa -- viduva 
+w > ∅ / [+hi,+round] ([-cons]) ([+cons])+ __
+
 $ LXXXVIIa bVl > bl in unknown conditions, 
 		$feeds LVXIXb and LXIXd to produce bbj (fibbja, nebbja). 
 			$Attributed to "roughly between the second and fourth centuries CE". 
@@ -197,12 +211,6 @@ $ LXXXVIIa bVl > bl in unknown conditions,
 		$ may be affected: digitum to ditə, digitōnem > ditonə
 [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
 
-$ LXXVIIa medial w to v, if prevocalic
-	$ subsumed -- LXIXa initial w to v
-		$w > v / # __
-		$w > v / __ [-cons]
-	$ MANUAL FIX -- does not happen after obstruents
-w > v / # ((@)* [+son]) __ [-cons]
 
 
 $ TODO HERE remaining secondary clusters to account for per Fontecchio
