@@ -1,15 +1,17 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 417:
-#kˌultˈellum# >>> *#kuɾtˈelːə# ( GOLD : #kuɾtˈejːə#) :
+#kˌultˈellum# >>> *#kuɾtˈejːə# ( GOLD : #kuɾtˈejːə#) :
 k ˌu l t ˈe l l u m 
 Proto-Romance stage form : *#kˌultˈellum#
 *#kˌʊltˈɛllʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#kˌʊltˈɛllʊ# | 21 : [+cons] > ∅ / __ #
 *#kˌʊrtˈɛllʊ# | 26 : l > r / __ [-cont] ( @ )* [+lat]
-*#kˌurtˈɛllʊ# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌurtˈello# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˌurtˈelːo# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#kˌurtˈelːo#
-*#kˌurtˈelːə# | 77 : [-stres,-lo] > ə 
-*#kˌuɾtˈelːə# | 88 : r > ɾ 
-*#kuɾtˈelːə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kuɾtˈelːə#
+*#kˌurtˈɛllu# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌurtˈellu# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌurtˈelːu# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#kˌurtˈelːu#
+*#kˌurtˈeʎːu# | 65 : lː > ʎː / __ [+hi]
+*#kˌurtˈeʎːə# | 77 : [-stres,-lo] > ə 
+*#kˌuɾtˈeʎːə# | 88 : r > ɾ 
+*#kˌuɾtˈejːə# | 91 : {ʎ;ʎː} > {j;jː} 
+*#kuɾtˈejːə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kuɾtˈejːə#

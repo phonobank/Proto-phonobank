@@ -1,13 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 413:
-#kˌomputˈaː# >>> *#kəmbətˈa# ( GOLD : #kundˈa#) :
+#kˌomputˈaː# >>> *#kumbətˈa# ( GOLD : #kundˈa#) :
 k ˌo m p u t ˈaː 
 Proto-Romance stage form : *#kˌomputˈaː#
 *#kˌɔmpʊtˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#kˌɔmpʊtˈa# | 12 : [+syl] > [-long,-splng] 
-*#kˌompʊtˈa# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌompotˈa# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌompotˈa#
-*#kˌompətˈa# | 77 : [-stres,-lo] > ə 
-*#kˌombətˈa# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kəmbətˈa# | 90 : [-prim,-hi,-lo] > ə 
-Final form : *#kəmbətˈa#
+*#kˌomputˈa# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌomputˈa#
+*#kˌumputˈa# | 73 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌumpətˈa# | 77 : [-stres,-lo] > ə 
+*#kˌumbətˈa# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kumbətˈa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kumbətˈa#

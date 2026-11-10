@@ -36,7 +36,7 @@ w > v / # ( ( @ )* [+son] ) __ [-cons]
 [+syl,+round] > [+hi] / __ j
 [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
 [+stres,-prim,+front,-tense] > ˌe 
-[+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+[-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
 j n > ɲː / [+front,-lo,+syl] __
 j n > ɲː / __ [+front,-lo,+syl]
