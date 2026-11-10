@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 476:
-#wˈetulum# >>> *#ɡˈetələ# ( GOLD : #vˈekːjə#) :
-w ˈe t u l u m 
-Proto-Romance stage form : *#wˈetulum#
-*#wˈɛtʊlʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈɛtʊlʊ# | 16 : [+cons] > ∅ / __ #
-*#vˈɛtʊlʊ# | 29 : w > v / __ [-cons]
-*#vˈetolo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˈetolo#
-*#vˈetələ# | 72 : [-stres,-lo] > ə 
-*#ɡˈetələ# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-Final form : *#ɡˈetələ#
+#wˈespa# >>> *#ɡˈɛspa# ( GOLD : #vˈæspa#) :
+w ˈe s p a 
+Proto-Romance stage form : *#wˈespa#
+*#wˈɛspa# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛspa# | 29 : w > v / __ [-cons]
+*#vˈæspa# | 37 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#vˈɛspa# | 41 : [+lo,-tense] > [-lo] 
+Proto-South-Italo-Romance stage form : *#vˈɛspa#
+*#ɡˈɛspa# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+Final form : *#ɡˈɛspa#

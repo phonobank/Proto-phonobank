@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 609:
-#flˈaːtum# >>> *#fjˈatə# ( GOLD : #fjˈaːtə#) :
-f l ˈaː t u m 
-Proto-Romance stage form : *#flˈaːtum#
-*#flˈaːtʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#flˈatʊm# | 7 : [+syl] > [-long,-splng] 
-*#flˈatʊ# | 16 : [+cons] > ∅ / __ #
-*#flˈato# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#fʎˈato# | 49 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#fʎˈato#
-*#fʎˈatə# | 72 : [-stres,-lo] > ə 
-*#fjˈatə# | 85 : {ʎ;ʎː} > {j;jː} 
-Final form : *#fjˈatə#
+#flˈoːrem# >>> *#fjˈoɾə# ( GOLD : #fjˈoɾə#) :
+f l ˈoː r e m 
+Proto-Romance stage form : *#flˈoːrem#
+*#flˈoːrɛm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#flˈorɛm# | 7 : [+syl] > [-long,-splng] 
+*#flˈorɛ# | 16 : [+cons] > ∅ / __ #
+*#flˈore# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fʎˈore# | 49 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#fʎˈore#
+*#fʎˈorə# | 72 : [-stres,-lo] > ə 
+*#fʎˈoɾə# | 82 : r > ɾ 
+*#fjˈoɾə# | 85 : {ʎ;ʎː} > {j;jː} 
+Final form : *#fjˈoɾə#

@@ -1,9 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 567:
-#pˈoe̯nam# >>> *#pˈena# ( GOLD : #pˈena#) :
-p ˈo e̯ n a m 
-*#pˈeːnam# | 2 : [+round,-hi] e̯ > [+front,-back,-round,-lab,+long] ∅
-Proto-Romance stage form : *#pˈeːnam#
-*#pˈenam# | 7 : [+syl] > [-long,-splng] 
-*#pˈena# | 16 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#pˈena#
-Final form : *#pˈena#
+#pˈopuliː# >>> *#pˈopələ# ( GOLD : #pˈopələ#) :
+p ˈo p u l iː 
+Proto-Romance stage form : *#pˈopuliː#
+*#pˈɔpʊliː# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɔpʊli# | 7 : [+syl] > [-long,-splng] 
+*#pˈopoli# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#pˈopoli#
+*#pˈopələ# | 72 : [-stres,-lo] > ə 
+Final form : *#pˈopələ#

@@ -1,14 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 485:
-#wˌolaːrˈelːa# >>> *#ɡəlaɾˈelːa# ( GOLD : #vəlaɾˈælːa#) :
-w ˌo l aː r ˈe lː a 
-Proto-Romance stage form : *#wˌolaːrˈelːa#
-*#wˌɔlaːrˈɛlːa# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɔlarˈɛlːa# | 7 : [+syl] > [-long,-splng] 
-*#vˌɔlarˈɛlːa# | 29 : w > v / __ [-cons]
-*#vˌolarˈɛlːa# | 33 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vˌolarˈelːa# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˌolarˈelːa#
-*#vˌolaɾˈelːa# | 82 : r > ɾ 
-*#vəlaɾˈelːa# | 84 : [-prim,-hi,-lo] > ə 
-*#ɡəlaɾˈelːa# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-Final form : *#ɡəlaɾˈelːa#
+#wˈolwita# >>> *#ɡˈɔlvəta# ( GOLD : #vˈota#) :
+w ˈo l w i t a 
+Proto-Romance stage form : *#wˈolwita#
+*#wˈɔlwɪta# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɔlvɪta# | 29 : w > v / __ [-cons]
+*#vˈɞˤlvɪta# | 37 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#vˈɞˤlveta# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#vˈɔlveta# | 41 : [+lo,-tense] > [-lo] 
+Proto-South-Italo-Romance stage form : *#vˈɔlveta#
+*#vˈɔlvəta# | 72 : [-stres,-lo] > ə 
+*#ɡˈɔlvəta# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+Final form : *#ɡˈɔlvəta#

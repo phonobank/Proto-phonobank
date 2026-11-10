@@ -1,18 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 473:
-#wˌereːkˈundiam# >>> *#ɡəɾəkˈonːja# ( GOLD : #vɾəvˈoɲa#) :
-w ˌe r eː k ˈu n d i a m 
-*#wˌereːkˈundjam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#wˌereːkˈundjam#
-*#wˌɛreːkˈʊndjam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɛrekˈʊndjam# | 7 : [+syl] > [-long,-splng] 
-*#wˌɛrekˈʊndja# | 16 : [+cons] > ∅ / __ #
-*#vˌɛrekˈʊndja# | 29 : w > v / __ [-cons]
-*#vˌerekˈʊndja# | 32 : [+stres,-prim,+front,-tense] > ˌe 
-*#vˌerekˈondja# | 38 : ˈʊ > ˈo / __ @ @
-*#vˌerekˈonːja# | 43 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#vˌerekˈonːja#
-*#vˌerəkˈonːja# | 72 : [-stres,-lo] > ə 
-*#vˌeɾəkˈonːja# | 82 : r > ɾ 
-*#vəɾəkˈonːja# | 84 : [-prim,-hi,-lo] > ə 
-*#ɡəɾəkˈonːja# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-Final form : *#ɡəɾəkˈonːja#
+#wˈeːrum# >>> *#ɡˈeɾə# ( GOLD : #vˈeɾə#) :
+w ˈeː r u m 
+Proto-Romance stage form : *#wˈeːrum#
+*#wˈeːrʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈerʊm# | 7 : [+syl] > [-long,-splng] 
+*#wˈerʊ# | 16 : [+cons] > ∅ / __ #
+*#vˈerʊ# | 29 : w > v / __ [-cons]
+*#vˈero# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˈero#
+*#vˈerə# | 72 : [-stres,-lo] > ə 
+*#vˈeɾə# | 82 : r > ɾ 
+*#ɡˈeɾə# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+Final form : *#ɡˈeɾə#

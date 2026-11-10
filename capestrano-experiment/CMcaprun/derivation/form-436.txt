@@ -1,16 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 436:
-#ɡˌenˈukulum# >>> *#jənˈokələ# ( GOLD : #jənˈokːjə#) :
-ɡ ˌe n ˈu k u l u m 
-Proto-Romance stage form : *#ɡˌenˈukulum#
-*#ɡˌɛnˈʊkʊlʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˌɛnˈʊkʊlʊm# | 10 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˌɛnˈʊkʊlʊm# | 11 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-*#ɡˌɛnˈʊkʊlʊ# | 16 : [+cons] > ∅ / __ #
-*#jˌɛnˈʊkʊlʊ# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#jˌenˈʊkʊlʊ# | 32 : [+stres,-prim,+front,-tense] > ˌe 
-*#jˌenˈokʊlʊ# | 38 : ˈʊ > ˈo / __ @ @
-*#jˌenˈokolo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#jˌenˈokolo#
-*#jˌenˈokələ# | 72 : [-stres,-lo] > ə 
-*#jənˈokələ# | 84 : [-prim,-hi,-lo] > ə 
-Final form : *#jənˈokələ#
+#ɡˌelˈaː# >>> *#jəlˈa# ( GOLD : #jəlˈa#) :
+ɡ ˌe l ˈaː 
+Proto-Romance stage form : *#ɡˌelˈaː#
+*#ɡˌɛlˈaː# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡˌɛlˈa# | 7 : [+syl] > [-long,-splng] 
+*#ɡɡˌɛlˈa# | 10 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛlˈa# | 11 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+*#jˌɛlˈa# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#jˌelˈa# | 32 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#jˌelˈa#
+*#jəlˈa# | 84 : [-prim,-hi,-lo] > ə 
+Final form : *#jəlˈa#

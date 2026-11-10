@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 490:
-#ˈunɡulam# >>> *#ˈoŋɡəla# ( GOLD : #ˈoɲa#) :
-ˈu n ɡ u l a m 
-*#ˈuŋɡulam# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#ˈuŋɡulam#
-*#ˈʊŋɡʊlam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈʊŋɡʊla# | 16 : [+cons] > ∅ / __ #
-*#ˈoŋɡʊla# | 38 : ˈʊ > ˈo / __ @ @
-*#ˈoŋɡola# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈoŋɡola#
-*#ˈoŋɡəla# | 72 : [-stres,-lo] > ə 
-Final form : *#ˈoŋɡəla#
+#ˈulmum# >>> *#ˈolmə# ( GOLD : #ˈulmə#) :
+ˈu l m u m 
+Proto-Romance stage form : *#ˈulmum#
+*#ˈʊlmʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈʊlmʊ# | 16 : [+cons] > ∅ / __ #
+*#ˈolmʊ# | 38 : ˈʊ > ˈo / __ @ @
+*#ˈolmo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈolmo#
+*#ˈolmə# | 72 : [-stres,-lo] > ə 
+Final form : *#ˈolmə#

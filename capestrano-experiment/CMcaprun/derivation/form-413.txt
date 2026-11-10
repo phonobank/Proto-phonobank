@@ -1,11 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 413:
-#kˈomitem# >>> *#kˈomːətə# ( GOLD : #kˈondə#) :
-k ˈo m i t e m 
-Proto-Romance stage form : *#kˈomitem#
-*#kˈɔmɪtɛm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈɔmɪtɛ# | 16 : [+cons] > ∅ / __ #
-*#kˈomete# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˈomːete# | 58 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#kˈomːete#
-*#kˈomːətə# | 72 : [-stres,-lo] > ə 
-Final form : *#kˈomːətə#
+#kˌompˈanio# >>> *#kəmbˈaɲə# ( GOLD : #kəmbˈaɲə#) :
+k ˌo m p ˈa n i o 
+*#kˌompˈanjo# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#kˌompˈanjo#
+*#kˌɔmpˈanjɔ# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌompˈanjɔ# | 33 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌompˈanjo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌompˈaɲo# | 46 : n j > ɲ 
+Proto-South-Italo-Romance stage form : *#kˌompˈaɲo#
+*#kˌompˈaɲə# | 72 : [-stres,-lo] > ə 
+*#kˌombˈaɲə# | 75 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
+*#kəmbˈaɲə# | 84 : [-prim,-hi,-lo] > ə 
+Final form : *#kəmbˈaɲə#

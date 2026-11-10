@@ -1,10 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 409:
-#kˈoksam# >>> *#kˈosːa# ( GOLD : #kˈɔsːa#) :
-k ˈo k s a m 
-Proto-Romance stage form : *#kˈoksam#
-*#kˈɔksam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈɔsːam# | 14 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
-*#kˈɔsːa# | 16 : [+cons] > ∅ / __ #
-*#kˈosːa# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈosːa#
-Final form : *#kˈosːa#
+#kˈoke# >>> *#kˈot͡ʃə# ( GOLD : #kˈot͡ʃə#) :
+k ˈo k e 
+Proto-Romance stage form : *#kˈoke#
+*#kˈɔkɛ# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɔt͡ʃɛ# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#kˈot͡ʃe# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈot͡ʃe#
+*#kˈot͡ʃə# | 72 : [-stres,-lo] > ə 
+Final form : *#kˈot͡ʃə#

@@ -1,11 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 565:
-#pˈorkam# >>> *#pˈɔɾka# ( GOLD : #pˈɔɾka#) :
-p ˈo r k a m 
-Proto-Romance stage form : *#pˈorkam#
-*#pˈɔrkam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɔrka# | 16 : [+cons] > ∅ / __ #
-*#pˈɞˤrka# | 37 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#pˈɔrka# | 41 : [+lo,-tense] > [-lo] 
-Proto-South-Italo-Romance stage form : *#pˈɔrka#
-*#pˈɔɾka# | 82 : r > ɾ 
-Final form : *#pˈɔɾka#
+#pˈorkum# >>> *#pˈoɾkə# ( GOLD : #pˈoɾkə#) :
+p ˈo r k u m 
+Proto-Romance stage form : *#pˈorkum#
+*#pˈɔrkʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɔrkʊ# | 16 : [+cons] > ∅ / __ #
+*#pˈorko# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#pˈorko#
+*#pˈorkə# | 72 : [-stres,-lo] > ə 
+*#pˈoɾkə# | 82 : r > ɾ 
+Final form : *#pˈoɾkə#

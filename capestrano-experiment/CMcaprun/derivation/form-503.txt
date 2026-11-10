@@ -1,10 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 503:
-#ˈokulum# >>> *#ˈokələ# ( GOLD : #ˈɔkːjə#) :
-ˈo k u l u m 
-Proto-Romance stage form : *#ˈokulum#
-*#ˈɔkʊlʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔkʊlʊ# | 16 : [+cons] > ∅ / __ #
-*#ˈokolo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈokolo#
-*#ˈokələ# | 72 : [-stres,-lo] > ə 
-Final form : *#ˈokələ#
+#ˈowum# >>> *#ˈovə# ( GOLD : #ˈɔvə#) :
+ˈo w u m 
+Proto-Romance stage form : *#ˈowum#
+*#ˈɔwʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔwʊ# | 16 : [+cons] > ∅ / __ #
+*#ˈɔvʊ# | 29 : w > v / __ [-cons]
+*#ˈovo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈovo#
+*#ˈovə# | 72 : [-stres,-lo] > ə 
+Final form : *#ˈovə#

@@ -1,13 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 611:
-#flˈuːmen# >>> *#fjˈumə# ( GOLD : #fjˈumə#) :
-f l ˈuː m e n 
-Proto-Romance stage form : *#flˈuːmen#
-*#flˈuːmɛn# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#flˈumɛn# | 7 : [+syl] > [-long,-splng] 
-*#flˈumɛ# | 16 : [+cons] > ∅ / __ #
-*#flˈume# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#fʎˈume# | 49 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#fʎˈume#
-*#fʎˈumə# | 72 : [-stres,-lo] > ə 
-*#fjˈumə# | 85 : {ʎ;ʎː} > {j;jː} 
-Final form : *#fjˈumə#
+#frˈiːɡidum# >>> *#fɾˈijədə# ( GOLD : #fɾˈidːə#) :
+f r ˈiː ɡ i d u m 
+Proto-Romance stage form : *#frˈiːɡidum#
+*#frˈiːɡɪdʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#frˈiɡɪdʊm# | 7 : [+syl] > [-long,-splng] 
+*#frˈiɡɪdʊ# | 16 : [+cons] > ∅ / __ #
+*#frˈijɪdʊ# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#frˈijedo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#frˈijedo#
+*#frˈijədə# | 72 : [-stres,-lo] > ə 
+*#fɾˈijədə# | 82 : r > ɾ 
+Final form : *#fɾˈijədə#

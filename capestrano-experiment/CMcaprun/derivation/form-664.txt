@@ -1,14 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 664:
-#mˈelius# >>> *#mːˈejːə# ( GOLD : #mˈejːə#) :
-m ˈe l i u s 
-*#mˈeljus# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#mˈeljus#
-*#mˈɛljʊs# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɛljʊ# | 16 : [+cons] > ∅ / __ #
-*#mˈeljo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#mˈeʎːo# | 50 : l j > ʎː 
-*#mːˈeʎːo# | 58 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#mːˈeʎːo#
-*#mːˈeʎːə# | 72 : [-stres,-lo] > ə 
-*#mːˈejːə# | 85 : {ʎ;ʎː} > {j;jː} 
-Final form : *#mːˈejːə#
+#mˈelem# >>> *#mːˈelə# ( GOLD : #mjˈelə#) :
+m ˈe l e m 
+Proto-Romance stage form : *#mˈelem#
+*#mˈɛlɛm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛlɛ# | 16 : [+cons] > ∅ / __ #
+*#mˈele# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mːˈele# | 58 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#mːˈele#
+*#mːˈelə# | 72 : [-stres,-lo] > ə 
+Final form : *#mːˈelə#

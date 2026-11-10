@@ -1,11 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 496:
-#ˈumbram# >>> *#ˈomːɾa# ( GOLD : #ˈombɾa#) :
-ˈu m b r a m 
-Proto-Romance stage form : *#ˈumbram#
-*#ˈʊmbram# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈʊmbra# | 16 : [+cons] > ∅ / __ #
-*#ˈombra# | 38 : ˈʊ > ˈo / __ @ @
-*#ˈomːra# | 43 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#ˈomːra#
-*#ˈomːɾa# | 82 : r > ɾ 
-Final form : *#ˈomːɾa#
+#ˌolˈiːwam# >>> *#lˈiva# ( GOLD : #lˈiva#) :
+ˌo l ˈiː w a m 
+Proto-Romance stage form : *#ˌolˈiːwam#
+*#ˌɔlˈiːwam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔlˈiwam# | 7 : [+syl] > [-long,-splng] 
+*#ˌɔlˈiwa# | 16 : [+cons] > ∅ / __ #
+*#ˌɔlˈiva# | 29 : w > v / __ [-cons]
+*#ˌolˈiva# | 33 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌolˈiva#
+*#ˌulˈiva# | 68 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#lˈiva# | 73 : [-prim,-lo] > ∅ / # __
+Final form : *#lˈiva#

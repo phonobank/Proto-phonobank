@@ -1,13 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 574:
-#brˈaːkae̯# >>> *#bːɾˈat͡ʃə# ( GOLD : #vɾˈakə#) :
-b r ˈaː k a e̯ 
-*#brˈaːkɛ# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,-cons,-lat,+cont,0delrel] ∅
-Proto-Romance stage form : *#brˈaːkɛ#
-*#brˈakɛ# | 7 : [+syl] > [-long,-splng] 
-*#brˈat͡ʃɛ# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#brˈat͡ʃe# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#bːrˈat͡ʃe# | 51 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
-Proto-South-Italo-Romance stage form : *#bːrˈat͡ʃe#
-*#bːrˈat͡ʃə# | 72 : [-stres,-lo] > ə 
-*#bːɾˈat͡ʃə# | 82 : r > ɾ 
-Final form : *#bːɾˈat͡ʃə#
+#brˈakʰium# >>> *#bːɾˈakʰjə# ( GOLD : #vɾˈat͡ʃə#) :
+b r ˈa kʰ i u m 
+*#brˈakʰjum# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#brˈakʰjum#
+*#brˈakʰjʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#brˈakʰjʊ# | 16 : [+cons] > ∅ / __ #
+*#brˈakʰjo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#bːrˈakʰjo# | 51 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+Proto-South-Italo-Romance stage form : *#bːrˈakʰjo#
+*#bːrˈakʰjə# | 72 : [-stres,-lo] > ə 
+*#bːɾˈakʰjə# | 82 : r > ɾ 
+Final form : *#bːɾˈakʰjə#
