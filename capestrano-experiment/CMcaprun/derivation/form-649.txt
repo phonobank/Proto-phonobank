@@ -1,14 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 649:
-#mˌerkˈaːtum# >>> *#məɾkˈatə# ( GOLD : #məɾkˈatə#) :
-m ˌe r k ˈaː t u m 
-Proto-Romance stage form : *#mˌerkˈaːtum#
-*#mˌɛrkˈaːtʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɛrkˈatʊm# | 27 : [+syl] > [-long,-splng] 
-*#mˌɛrkˈatʊ# | 34 : [+cons] > ∅ / __ #
-*#mˌerkˈatʊ# | 54 : [+stres,-prim,+front,-tense] > ˌe 
-*#mˌerkˈatu# | 55 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌerkˈatu#
-*#mˌerkˈatə# | 94 : [-stres,-lo] > ə 
-*#mˌeɾkˈatə# | 105 : r > ɾ 
-*#məɾkˈatə# | 107 : [-prim,-hi,-lo] > ə 
-Final form : *#məɾkˈatə#
+#mˌaːtˈeriam# >>> *#matˈeɾja# ( GOLD : #matˈæɾja#) :
+m ˌaː t ˈe r i a m 
+*#mˌaːtˈerjam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#mˌaːtˈerjam#
+*#mˌaːtˈɛrjam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌatˈɛrjam# | 27 : [+syl] > [-long,-splng] 
+*#mˌatˈɛrʲam# | 29 : r j > rʲ 
+*#mˌatˈɛrʲa# | 34 : [+cons] > ∅ / __ #
+*#mˌatˈerʲa# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌatˈerʲa#
+*#mˌatˈerja# | 82 : rʲ > r j / [+front,-lo,+syl] __ [+syl]
+*#mˌatˈeɾja# | 107 : r > ɾ 
+*#matˈeɾja# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#matˈeɾja#

@@ -1,13 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 300:
-#ˈaːfrikam# >>> *#ˈafɾika# ( GOLD : #ˈafɾəka#) :
-ˈaː f r i k a m 
-Proto-Romance stage form : *#ˈaːfrikam#
-*#ˈaːfrɪkam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaːfriːkam# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˈafrikam# | 27 : [+syl] > [-long,-splng] 
-*#ˈafrika# | 34 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#ˈafrika#
-*#ˈafrˌika# | 93 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈafɾˌika# | 105 : r > ɾ 
-*#ˈafɾika# | 112 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈafɾika#
+#ˌamaːtˈoːrem# >>> *#amatˈoɾə# ( GOLD : #amatˈoɾə#) :
+ˌa m aː t ˈoː r e m 
+Proto-Romance stage form : *#ˌamaːtˈoːrem#
+*#ˌamaːtˈoːrɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌamatˈorɛm# | 27 : [+syl] > [-long,-splng] 
+*#ˌamatˈorɛ# | 34 : [+cons] > ∅ / __ #
+*#ˌamatˈore# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌamatˈore#
+*#ˌamˌatˈore# | 95 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌamˌatˈorə# | 96 : [-stres,-lo] > ə 
+*#ˌamˌatˈoɾə# | 107 : r > ɾ 
+*#amatˈoɾə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#amatˈoɾə#

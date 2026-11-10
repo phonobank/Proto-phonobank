@@ -1,15 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 421:
-#ɡˌenˈestram# >>> *#jənˈæstɾa# ( GOLD : #jenˈestɾa#) :
-ɡ ˌe n ˈe s t r a m 
-Proto-Romance stage form : *#ɡˌenˈestram#
-*#ɡˌɛnˈɛstram# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˌɛnˈɛstram# | 15 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˌɛnˈɛstram# | 16 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-*#jˌɛnˈɛstram# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#jˌɛnˈɛstra# | 34 : [+cons] > ∅ / __ #
-*#jˌenˈɛstra# | 54 : [+stres,-prim,+front,-tense] > ˌe 
-*#jˌenˈæstra# | 61 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#jˌenˈæstra#
-*#jˌenˈæstɾa# | 105 : r > ɾ 
-*#jənˈæstɾa# | 107 : [-prim,-hi,-lo] > ə 
-Final form : *#jənˈæstɾa#
+#ɡelˈoːnem# >>> *#jəlˈonə# ( GOLD : #jelˈonə#) :
+ɡ e l ˈoː n e m 
+Proto-Romance stage form : *#ɡelˈoːnem#
+*#ɡɛlˈoːnɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡɛlˈoːnɛm# | 15 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡɛlˈoːnɛm# | 16 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+*#jɛlˈoːnɛm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#jɛlˈonɛm# | 27 : [+syl] > [-long,-splng] 
+*#jɛlˈonɛ# | 34 : [+cons] > ∅ / __ #
+*#jelˈone# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jelˈone#
+*#jəlˈonə# | 96 : [-stres,-lo] > ə 
+Final form : *#jəlˈonə#

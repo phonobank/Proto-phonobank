@@ -1,12 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 691:
-#pˌit͡sːˈutu# >>> *#pət͡sːˈotə# ( GOLD : #pət͡sːˈutə#) :
-p ˌi t͡sː ˈu t u 
-Proto-Romance stage form : *#pˌit͡sːˈutu#
-*#pˌɪt͡sːˈʊtʊ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌet͡sːˈʊtʊ# | 54 : [+stres,-prim,+front,-tense] > ˌe 
-*#pˌet͡sːˈʊtu# | 55 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˌet͡sːˈotu# | 62 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˌet͡sːˈotu#
-*#pˌet͡sːˈotə# | 94 : [-stres,-lo] > ə 
-*#pət͡sːˈotə# | 107 : [-prim,-hi,-lo] > ə 
-Final form : *#pət͡sːˈotə#
+#mˈanika# >>> *#mˈanɡa# ( GOLD : #mˈanika#) :
+m ˈa n i k a 
+Proto-Romance stage form : *#mˈanika#
+*#mˈanɪka# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈaniːka# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#mˈanika# | 27 : [+syl] > [-long,-splng] 
+*#mˈanka# | 52 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson] ( [-syl] )* [+syl]
+Proto-South-Italo-Romance stage form : *#mˈanka#
+*#mˈanɡa# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#mˈanɡa#

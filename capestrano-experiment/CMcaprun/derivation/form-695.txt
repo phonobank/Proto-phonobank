@@ -1,12 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 695:
-#mˌattˈoːne# >>> *#matːˈonə# ( GOLD : #matːˈonə#) :
-m ˌa t t ˈoː n e 
-Proto-Romance stage form : *#mˌattˈoːne#
-*#mˌattˈoːnɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌattˈonɛ# | 27 : [+syl] > [-long,-splng] 
-*#mˌattˈone# | 62 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#mˌatːˈone# | 66 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#mˌatːˈone#
-*#mˌatːˈonə# | 94 : [-stres,-lo] > ə 
-*#matːˈonə# | 112 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#matːˈonə#
+#dˌomˈinikam# >>> *#dəmˈenɡa# ( GOLD : #dəmˈenəka#) :
+d ˌo m ˈi n i k a m 
+Proto-Romance stage form : *#dˌomˈinikam#
+*#dˌɔmˈɪnɪkam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˌɔmˈɪniːkam# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#dˌɔmˈɪnikam# | 27 : [+syl] > [-long,-splng] 
+*#dˌɔmˈɪnika# | 34 : [+cons] > ∅ / __ #
+*#dˌɔmˈɪnka# | 52 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson] ( [-syl] )* [+syl]
+*#dˌomˈɪnka# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dˌomˈenka# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#dˌomˈenka#
+*#dˌomˈenɡa# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#dəmˈenɡa# | 109 : [-prim,-hi,-lo] > ə 
+Final form : *#dəmˈenɡa#

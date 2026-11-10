@@ -246,29 +246,25 @@ $ LXXXVIIa bVl > bl in unknown conditions,
 			$ only operatesr after prim stress -- pecorariu 
 [-prim,+round] > ∅ / [+prim,+front,-lo] [-cont,-cor] __ [+cor,+voi]
 
-
+$ MANUAL FIX A14 --  post nasal cluster deletions. Various learnedisms are exceptions: anima, animala, atlanticum, condicionem, manica, dominica 
+	$ hits: inebriaconem , inhibernum, vanitare, hirundinella, manduciare(?), 
+[-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __  [+cons,nnas,nson] ( [-syl] )* [+syl]
 
 $ TODO HERE remaining secondary clusters to account for per Fontecchio
 	$ LXXXVIIc
 	$ būksida
-	$ off(ˌe)rˈiː > uffrí; aperˈī to apri ; suff(ˌe)rˈī > səffri, opera > opra 
-	$ cubitum : vutə, volvita : vota: 
 		$ digitum, digitone, frigidum 
 	$  spīnula alaudula 
-	$ camera; domina; dóm(i)nula 
-		$ not: hominem, femina 
-	$ computare; manducare; vanitāre; meritāre 
-		$ sanctufranciscum
 		$ not : dominica, septimana, vomitā
-	$ comparatum, comparˈā 	$ parab(o)lare
+			$solidum
+	$ sōricem; spiːritu ;
+	$ parab(o)lare
 	$ par(a)blare
-	$ mat(ū)tīnum 
-	$ sōricem; spiːritu ; comitem
-		$solidum
-	$ iuniperum ßß iunipelum
+	$ mat(ū)tīnum  
 	$ in(ˌe)briacōne, in(i)bernum -- feeds nb > mb > mm 
+				$ sanctufranciscum
+					$ hirund(i)nella 
 	$ v(e)recundia
-	$ hirund(i)nella 
 		$ maybe hit: leporem, laridum , cerebellum, or(o)logium 
 		$ anima : alma
 		$ alter(um) : atrə ; alterī > etrə
@@ -331,6 +327,7 @@ $ LVIIc ˈʊ > ˈu before nasal geminate unless bled by LVIIa above
 		$ mundus fung(i)us plumbum spongia lumbum , but not axungia , hirundinella 
 [+round,-tense] > [+tense,+hi] / [-mlab] __ [+nas,+long,mlab]
 
+
 $ LIIc ɛ > æ under a-metaphony : bbælla (v/g)udælla vækkja fæsta
 	$unaccounted for sækwələ sæmbrə sætːə læd͡ʒːə ræd͡ʒːə ndænːə æsːə stænːə jærvə
 	$ FIX: requires consonants (not yet counting geminates as one) beforehand
@@ -341,15 +338,11 @@ $ LVa -- tentatively -- tonic o > ɔ under metaphony, i.e. before final a. FIX -
 $ LVIId and LId ɪ and ʊ, unless raised, and ɛ and ɔ unless metathesized, pass to e and o
 [+syl,-lo,-tense] > [-hi,+tense]
 
-$ we're working with ɔ not ɒ-tense -- BANDAID 
-[+lo,-tense,+round] > [-lo]
-
 $ LIVd ag > aw, feeding LIIc
 ɡ > w / __ m
 
 $ LIVc aw > o. FIX -- only preconsonantal
 [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-
 
 $LXXVIIIa -- apply geminations. Must come after LVIIa. 
 {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː}
@@ -381,8 +374,18 @@ $ OG: b > bː / __ [rcor,-rfront,+son,-nas,-syl]
 	$ MANUAL FIX -- this only happens for any of these after tonic vowel -- results in gain 1% acc.
 [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
 
-$ LXXc medial b to v. TODO will need to debug. Merger attributed to begin in midst of "confusion" in third century CE> 
-b > v / @ __ 
+$ LXXc medial b to v. 
+	$Merger attributed to begin in midst of "confusion" in third century CE.
+	$ MANUAL FIX -- doesn't happen after consonants except for seeing thru n, and r in conditions seen in A15.
+b > v / [-cons] (n) __ 
+
+$ FIX A15 rb > rv after vowels that aren't a 
+b > v / [+syl,alo,-atense] r __ 
+
+
+$ we're working with ɔ not ɒ-tense -- BANDAID 
+[+lo,-tense,+round] > [-lo]
+
 
 $LXXb sce sci to ʃ. Fed by LXIIc.
 s t͡ʃ > ʃ 

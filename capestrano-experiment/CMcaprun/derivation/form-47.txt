@@ -1,13 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 47:
-#duˈodeki# >>> *#dwˈod͡ʒt͡ʃə# ( GOLD : #dˈudet͡ʃə#) :
-d u ˈo d e k i 
-*#duˈodjki# | 10 : e > j / __ [+back]
-*#dwˈodjki# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#dwˈodjki#
-*#dwˈɔdjkɪ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dwˈɔdjt͡ʃɪ# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#dwˈɔd͡ʒt͡ʃɪ# | 23 : {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
-*#dwˈod͡ʒt͡ʃe# | 62 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#dwˈod͡ʒt͡ʃe#
-*#dwˈod͡ʒt͡ʃə# | 94 : [-stres,-lo] > ə 
-Final form : *#dwˈod͡ʒt͡ʃə#
+#dˈuplam# >>> *#dˈopːja# ( GOLD : #dˈopːja#) :
+d ˈu p l a m 
+Proto-Romance stage form : *#dˈuplam#
+*#dˈʊplam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˈʊpla# | 34 : [+cons] > ∅ / __ #
+*#dˈopla# | 59 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#dˈopʎa# | 67 : l > ʎ / [-son,-cor] __
+*#dˈopːʎa# | 69 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+Proto-South-Italo-Romance stage form : *#dˈopːʎa#
+*#dˈopːja# | 110 : {ʎ;ʎː} > {j;jː} 
+Final form : *#dˈopːja#

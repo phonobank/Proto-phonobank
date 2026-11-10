@@ -1,12 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 666:
-#mˈakulam# >>> *#mˈakːja# ( GOLD : #mˈakːja#) :
-m ˈa k u l a m 
-Proto-Romance stage form : *#mˈakulam#
-*#mˈakʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈaklam# | 26 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
-*#mˈakla# | 34 : [+cons] > ∅ / __ #
-*#mˈakʎa# | 67 : l > ʎ / [-son,-cor] __
-*#mˈakːʎa# | 69 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
-Proto-South-Italo-Romance stage form : *#mˈakːʎa#
-*#mˈakːja# | 108 : {ʎ;ʎː} > {j;jː} 
-Final form : *#mˈakːja#
+#mˌolˈiːnum# >>> *#mulˈinə# ( GOLD : #mujːˈin#) :
+m ˌo l ˈiː n u m 
+Proto-Romance stage form : *#mˌolˈiːnum#
+*#mˌɔlˈiːnʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɔlˈinʊm# | 27 : [+syl] > [-long,-splng] 
+*#mˌɔlˈinʊ# | 34 : [+cons] > ∅ / __ #
+*#mˌolˈinu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌolˈinu#
+*#mˌulˈinu# | 93 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#mˌulˈinə# | 96 : [-stres,-lo] > ə 
+*#mulˈinə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#mulˈinə#

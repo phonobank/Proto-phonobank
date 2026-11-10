@@ -1,15 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 207:
-#jˌuːnˈiperum# >>> *#junˈipəɾə# ( GOLD : #jenˈibːjə#) :
-j ˌuː n ˈi p e r u m 
-Proto-Romance stage form : *#jˌuːnˈiperum#
-*#jˌuːnˈɪpɛrʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˌuːnˈiːpɛrʊm# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#jˌunˈipɛrʊm# | 27 : [+syl] > [-long,-splng] 
-*#jˌunˈipɛrʊ# | 34 : [+cons] > ∅ / __ #
-*#jˌunˈipɛru# | 55 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˌunˈiperu# | 62 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#jˌunˈiperu#
-*#jˌunˈipərə# | 94 : [-stres,-lo] > ə 
-*#jˌunˈipəɾə# | 105 : r > ɾ 
-*#junˈipəɾə# | 112 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#junˈipəɾə#
+#jˌuːmˈentam# >>> *#jumˈænda# ( GOLD : #jəmˈenda#) :
+j ˌuː m ˈe n t a m 
+Proto-Romance stage form : *#jˌuːmˈentam#
+*#jˌuːmˈɛntam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˌumˈɛntam# | 27 : [+syl] > [-long,-splng] 
+*#jˌumˈɛnta# | 34 : [+cons] > ∅ / __ #
+*#jˌumˈænta# | 62 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+Proto-South-Italo-Romance stage form : *#jˌumˈænta#
+*#jˌumˈænda# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#jumˈænda# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#jumˈænda#

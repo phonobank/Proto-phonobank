@@ -1,14 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 309:
-#hˈerbam# >>> *#ˈæɾva# ( GOLD : #jˈæɾva#) :
-h ˈe r b a m 
-*#ˈerbam# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˈerbam#
-*#ˈɛrbam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɛrba# | 34 : [+cons] > ∅ / __ #
-*#ˈærba# | 61 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˈærva# | 70 : b > v / @ __
-Proto-South-Italo-Romance stage form : *#ˈærva#
-*#ˈærvˌa# | 93 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈæɾvˌa# | 105 : r > ɾ 
-*#ˈæɾva# | 112 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈæɾva#
+#hˈaːmum# >>> *#ˈamə# ( GOLD : #ˈamə#) :
+h ˈaː m u m 
+*#ˈaːmum# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˈaːmum#
+*#ˈaːmʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈamʊm# | 27 : [+syl] > [-long,-splng] 
+*#ˈamʊ# | 34 : [+cons] > ∅ / __ #
+*#ˈamu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈamu#
+*#ˈamˌu# | 95 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈamə# | 102 : [-prim,-lo] > ə / __ #
+Final form : *#ˈamə#

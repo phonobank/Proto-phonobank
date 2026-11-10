@@ -1,10 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 692:
-#pˌalːˈiːna# >>> *#pajːˈina# ( GOLD : #palːˈina#) :
-p ˌa lː ˈiː n a 
-Proto-Romance stage form : *#pˌalːˈiːna#
-*#pˌalːˈina# | 27 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#pˌalːˈina#
-*#pˌaʎːˈina# | 84 : lː > ʎː / __ [+hi]
-*#pˌajːˈina# | 108 : {ʎ;ʎː} > {j;jː} 
-*#pajːˈina# | 112 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#pajːˈina#
+#stˌap͡ɸːˈine# >>> *#stapːˈenə# ( GOLD : #ʃtafːˈinə#) :
+s t ˌa p͡ɸː ˈi n e 
+Proto-Romance stage form : *#stˌap͡ɸːˈine#
+*#stˌap͡ɸːˈɪnɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#stˌap͡ɸːˈene# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#stˌap͡ɸːˈene#
+*#stˌap͡ɸːˈenə# | 96 : [-stres,-lo] > ə 
+*#stˌapːˈenə# | 100 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#stapːˈenə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#stapːˈenə#

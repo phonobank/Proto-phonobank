@@ -1,11 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 204:
-#jˌokˈaː# >>> *#jukˈa# ( GOLD : #jəkˈa#) :
-j ˌo k ˈaː 
-Proto-Romance stage form : *#jˌokˈaː#
-*#jˌɔkˈaː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˌɔkˈa# | 27 : [+syl] > [-long,-splng] 
-*#jˌokˈa# | 55 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#jˌokˈa#
-*#jˌukˈa# | 91 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#jukˈa# | 112 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#jukˈa#
+#jˈokum# >>> *#jˈokə# ( GOLD : #jˈokə#) :
+j ˈo k u m 
+Proto-Romance stage form : *#jˈokum#
+*#jˈɔkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˈɔkʊ# | 34 : [+cons] > ∅ / __ #
+*#jˈɔku# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈoku# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jˈoku#
+*#jˈokə# | 96 : [-stres,-lo] > ə 
+Final form : *#jˈokə#

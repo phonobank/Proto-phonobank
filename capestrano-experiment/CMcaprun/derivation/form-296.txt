@@ -1,17 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 296:
-#ˌapprˌetiˈaː# >>> *#apːɾət͡sːˈa# ( GOLD : #apːɾət͡sːˈa#) :
-ˌa p p r ˌe t i ˈaː 
-*#ˌapprˌetjˈaː# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#ˌapprˌetjˈaː#
-*#ˌapprˌɛtjˈaː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌapprˌɛtʲːˈaː# | 20 : t j > tʲː 
-*#ˌapprˌɛtʲːˈa# | 27 : [+syl] > [-long,-splng] 
-*#ˌapprˌɛt͡sːˈa# | 28 : tʲː > t͡sː 
-*#ˌapprˌet͡sːˈa# | 54 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌapːrˌet͡sːˈa# | 66 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#ˌapːrˌet͡sːˈa#
-*#ˌapːret͡sːˈa# | 92 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌapːrət͡sːˈa# | 94 : [-stres,-lo] > ə 
-*#ˌapːɾət͡sːˈa# | 105 : r > ɾ 
-*#apːɾət͡sːˈa# | 112 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#apːɾət͡sːˈa#
+#ˈaːfrikam# >>> *#ˈafɾika# ( GOLD : #ˈafɾəka#) :
+ˈaː f r i k a m 
+Proto-Romance stage form : *#ˈaːfrikam#
+*#ˈaːfrɪkam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈaːfriːkam# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˈafrikam# | 27 : [+syl] > [-long,-splng] 
+*#ˈafrika# | 34 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈafrika#
+*#ˈafrˌika# | 95 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈafɾˌika# | 107 : r > ɾ 
+*#ˈafɾika# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈafɾika#

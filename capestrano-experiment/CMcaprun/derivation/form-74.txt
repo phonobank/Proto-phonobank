@@ -1,11 +1,21 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 74:
-#sˈemper# >>> *#sˈembə# ( GOLD : #sˈæmbɾə#) :
-s ˈe m p e r 
-Proto-Romance stage form : *#sˈemper#
-*#sˈɛmpɛr# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɛmpɛ# | 34 : [+cons] > ∅ / __ #
-*#sˈempe# | 62 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˈempe#
-*#sˈempə# | 94 : [-stres,-lo] > ə 
-*#sˈembə# | 97 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#sˈembə#
+#sˌanktufrˌankˈiskum# >>> *#saŋdfɾand͡ʒˈiskə# ( GOLD : #sambɾanʃˈiskə#) :
+s ˌa n k t u f r ˌa n k ˈi s k u m 
+*#sˌaŋktufrˌaŋkˈiskum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#sˌaŋktufrˌaŋkˈiskum#
+*#sˌaŋktʊfrˌaŋkˈɪskʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌaŋktʊfrˌant͡ʃˈɪskʊm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#sˌaŋtːʊfrˌant͡ʃˈɪskʊm# | 24 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#sˌaŋtːʊfrˌant͡ʃˈiːskʊm# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#sˌaŋtːʊfrˌant͡ʃˈiskʊm# | 27 : [+syl] > [-long,-splng] 
+*#sˌaŋtːʊfrˌant͡ʃˈiskʊ# | 34 : [+cons] > ∅ / __ #
+*#sˌaŋtʊfrˌant͡ʃˈiskʊ# | 36 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#sˌaŋtfrˌant͡ʃˈiskʊ# | 52 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson] ( [-syl] )* [+syl]
+*#sˌaŋtfrˌant͡ʃˈisku# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˌaŋtfrˌant͡ʃˈisku#
+*#sˌaŋtfrant͡ʃˈisku# | 94 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#sˌaŋtfrant͡ʃˈiskə# | 96 : [-stres,-lo] > ə 
+*#sˌaŋdfrand͡ʒˈiskə# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#sˌaŋdfɾand͡ʒˈiskə# | 107 : r > ɾ 
+*#saŋdfɾand͡ʒˈiskə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#saŋdfɾand͡ʒˈiskə#

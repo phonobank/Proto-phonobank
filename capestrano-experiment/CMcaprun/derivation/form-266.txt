@@ -1,12 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 266:
-#ˌalˈawdula# >>> *#alˈodəla# ( GOLD : #lˈɔla#) :
-ˌa l ˈa w d u l a 
-Proto-Romance stage form : *#ˌalˈawdula#
-*#ˌalˈawdʊla# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌalˈawdula# | 55 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌalˈowdula# | 65 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#ˌalˈowdula#
-*#ˌalˈodula# | 83 : w > ∅ / [+round] __ [+cons]
-*#ˌalˈodəla# | 94 : [-stres,-lo] > ə 
-*#alˈodəla# | 112 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#alˈodəla#
+#ˌarˈaː# >>> *#aɾˈa# ( GOLD : #aɾˈa#) :
+ˌa r ˈaː 
+Proto-Romance stage form : *#ˌarˈaː#
+*#ˌarˈa# | 27 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#ˌarˈa#
+*#ˌaɾˈa# | 107 : r > ɾ 
+*#aɾˈa# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#aɾˈa#

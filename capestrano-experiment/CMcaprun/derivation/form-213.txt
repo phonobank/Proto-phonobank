@@ -1,15 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 213:
-#ˌinkˈontraː# >>> *#ŋɡˈɔndɾa# ( GOLD : #ŋɡˈondɾa#) :
-ˌi n k ˈo n t r aː 
-*#ˌiŋkˈontraː# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#ˌiŋkˈontraː#
-*#ˌɪŋkˈɔntraː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌiːŋkˈɔntraː# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌiŋkˈɔntra# | 27 : [+syl] > [-long,-splng] 
-*#ˌiŋkˈɞˤntra# | 61 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˌiŋkˈɔntra# | 63 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#ˌiŋkˈɔntra#
-*#ŋkˈɔntra# | 95 : [-prim,-lo] > ∅ / # __
-*#ŋɡˈɔndra# | 97 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#ŋɡˈɔndɾa# | 105 : r > ɾ 
-Final form : *#ŋɡˈɔndɾa#
+#ˌinkˈuːdulam# >>> *#ŋɡˈudəla# ( GOLD : #ŋɡˈudəla#) :
+ˌi n k ˈuː d u l a m 
+*#ˌiŋkˈuːdulam# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˌiŋkˈuːdulam#
+*#ˌɪŋkˈuːdʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌiːŋkˈuːdʊlam# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌiŋkˈudʊlam# | 27 : [+syl] > [-long,-splng] 
+*#ˌiŋkˈudʊla# | 34 : [+cons] > ∅ / __ #
+*#ˌiŋkˈudula# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌiŋkˈudula#
+*#ˌiŋkˈudəla# | 96 : [-stres,-lo] > ə 
+*#ŋkˈudəla# | 97 : [-prim,-lo] > ∅ / # __
+*#ŋɡˈudəla# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#ŋɡˈudəla#

@@ -1,14 +1,10 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 434:
-#kwˈiːnkwe# >>> *#t͡ʃˈiŋɡwə# ( GOLD : #t͡ʃˈiŋɡwə#) :
-k w ˈiː n k w e 
-*#kwˈiːŋkwe# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#kwˈiːŋkwe#
-*#kwˈiːŋkwɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈiːŋkwɛ# | 13 : k w > k / # __ ( @ )* k w
-*#t͡ʃˈiːŋkwɛ# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˈiŋkwɛ# | 27 : [+syl] > [-long,-splng] 
-*#t͡ʃˈiŋkwe# | 62 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#t͡ʃˈiŋkwe#
-*#t͡ʃˈiŋkwə# | 94 : [-stres,-lo] > ə 
-*#t͡ʃˈiŋɡwə# | 97 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#t͡ʃˈiŋɡwə#
+#kwˌem# >>> *#kwə# ( GOLD : #kə#) :
+k w ˌe m 
+Proto-Romance stage form : *#kwˌem#
+*#kwˌɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kwˌɛ# | 34 : [+cons] > ∅ / __ #
+*#kwˌe# | 55 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#kwˌe#
+*#kwə# | 102 : [-prim,-lo] > ə / __ #
+Final form : *#kwə#

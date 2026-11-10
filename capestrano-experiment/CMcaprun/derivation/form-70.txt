@@ -1,15 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 70:
-#sˌeptimˈaːnae̯# >>> *#sətːəmˈanə# ( GOLD : #sˌetːimˈanə#) :
-s ˌe p t i m ˈaː n a e̯ 
-*#sˌeptimˈaːnɛː# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
-Proto-Romance stage form : *#sˌeptimˈaːnɛː#
-*#sˌɛptɪmˈaːnɛː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌɛptiːmˈaːnɛː# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#sˌɛptimˈanɛ# | 27 : [+syl] > [-long,-splng] 
-*#sˌɛtːimˈanɛ# | 32 : [+lab,-son] [+cor,-son] > ∅ [+long]
-*#sˌetːimˈanɛ# | 54 : [+stres,-prim,+front,-tense] > ˌe 
-*#sˌetːimˈane# | 62 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˌetːimˈane#
-*#sˌetːəmˈanə# | 94 : [-stres,-lo] > ə 
-*#sətːəmˈanə# | 107 : [-prim,-hi,-lo] > ə 
-Final form : *#sətːəmˈanə#
+#sˌeptuaːɡˈintaː# >>> *#sətːwajˈenda# ( GOLD : #setːˈanda#) :
+s ˌe p t u aː ɡ ˈi n t aː 
+*#sˌeptwaːɡˈintaː# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#sˌeptwaːɡˈintaː#
+*#sˌɛptwaːɡˈɪntaː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌɛptwaːjˈɪntaː# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#sˌɛptwajˈɪnta# | 27 : [+syl] > [-long,-splng] 
+*#sˌɛtːwajˈɪnta# | 32 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#sˌetːwajˈɪnta# | 55 : [+stres,-prim,+front,-tense] > ˌe 
+*#sˌetːwajˈenta# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˌetːwajˈenta#
+*#sˌetːwajˈenda# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#sətːwajˈenda# | 109 : [-prim,-hi,-lo] > ə 
+Final form : *#sətːwajˈenda#

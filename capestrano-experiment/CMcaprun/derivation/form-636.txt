@@ -1,12 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 636:
-#fˈurnum# >>> *#fˈoɾnə# ( GOLD : #fˈuɾnə#) :
-f ˈu r n u m 
-Proto-Romance stage form : *#fˈurnum#
-*#fˈʊrnʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈʊrnʊ# | 34 : [+cons] > ∅ / __ #
-*#fˈʊrnu# | 55 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#fˈornu# | 62 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˈornu#
-*#fˈornə# | 94 : [-stres,-lo] > ə 
-*#fˈoɾnə# | 105 : r > ɾ 
-Final form : *#fˈoɾnə#
+#mˈedikum# >>> *#mˈedəkə# ( GOLD : #mˈedəkə#) :
+m ˈe d i k u m 
+Proto-Romance stage form : *#mˈedikum#
+*#mˈɛdɪkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛdiːkʊm# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#mˈɛdikʊm# | 27 : [+syl] > [-long,-splng] 
+*#mˈɛdikʊ# | 34 : [+cons] > ∅ / __ #
+*#mˈɛdiku# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˈediku# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈediku#
+*#mˈedəkə# | 96 : [-stres,-lo] > ə 
+Final form : *#mˈedəkə#

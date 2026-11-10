@@ -50,6 +50,7 @@ lˠ > l
 w > v / # ( ( @ )* [+son] ) __ [-cons]
 w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
 [-prim,+round] > ∅ / [+prim,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+[-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson] ( [-syl] )* [+syl]
 [+syl,+round] > [+hi] / __ j
 [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
 [+stres,-prim,+front,-tense] > ˌe 
@@ -61,14 +62,15 @@ j n > ɲː / __ [+front,-lo,+syl]
 [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
 [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-[+lo,-tense,+round] > [-lo] 
 ɡ > w / __ m
 [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 l > ʎ / [-son,-cor] __
 b > bː / [-cons] __ r
 [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
-b > v / @ __
+b > v / [-cons] ( n ) __
+b > v / [+syl,alo,!atense] r __
+[+lo,-tense,+round] > [-lo] 
 s t͡ʃ > ʃ 
 tː > t͡ʃː / __ j
 t͡ʃː > t͡s j / __ [+round]

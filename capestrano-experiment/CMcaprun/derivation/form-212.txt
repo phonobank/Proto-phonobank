@@ -1,19 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 212:
-#ˌinˌeːbriaːkˈoːnem# >>> *#nəvɾjakˈonə# ( GOLD : #mbɾiakˈonə#) :
-ˌi n ˌeː b r i aː k ˈoː n e m 
-*#ˌinˌeːbrjaːkˈoːnem# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#ˌinˌeːbrjaːkˈoːnem#
-*#ˌɪnˌeːbrjaːkˈoːnɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪnˌebrjakˈonɛm# | 27 : [+syl] > [-long,-splng] 
-*#ˌɪnˌebrʲakˈonɛm# | 29 : r j > rʲ 
-*#ˌɪnˌebrʲakˈonɛ# | 34 : [+cons] > ∅ / __ #
-*#ˌenˌebrʲakˈonɛ# | 54 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenˌebrʲakˈone# | 62 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌenˌevrʲakˈone# | 70 : b > v / @ __
-Proto-South-Italo-Romance stage form : *#ˌenˌevrʲakˈone#
-*#ˌenˌevrjakˈone# | 81 : rʲ > r j / [+cons] __
-*#ˌenevrjakˈone# | 92 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌenəvrjakˈonə# | 94 : [-stres,-lo] > ə 
-*#nəvrjakˈonə# | 95 : [-prim,-lo] > ∅ / # __
-*#nəvɾjakˈonə# | 105 : r > ɾ 
-Final form : *#nəvɾjakˈonə#
+#ˌinkˈontraː# >>> *#ŋɡˈɔndɾa# ( GOLD : #ŋɡˈondɾa#) :
+ˌi n k ˈo n t r aː 
+*#ˌiŋkˈontraː# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˌiŋkˈontraː#
+*#ˌɪŋkˈɔntraː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌiːŋkˈɔntraː# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌiŋkˈɔntra# | 27 : [+syl] > [-long,-splng] 
+*#ˌiŋkˈɞˤntra# | 62 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌiŋkˈɔntra# | 72 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#ˌiŋkˈɔntra#
+*#ŋkˈɔntra# | 97 : [-prim,-lo] > ∅ / # __
+*#ŋɡˈɔndra# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ŋɡˈɔndɾa# | 107 : r > ɾ 
+Final form : *#ŋɡˈɔndɾa#
