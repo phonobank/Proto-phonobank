@@ -15,7 +15,7 @@ etID  | Input | Proto-Romance | Proto-South-Italo-Romance | Output {GOLD}
 13     | #tˌerremˈoːtum# | *#tˌerremˈoːtum# | *#tˌerːemːˈotu# | *#tərːəmːˈotə# {GOLD: #terːəmˈutə#}
 14     | #tˈerram# | *#tˈerram# | *#tˈærːa# | *#tˈærːa# {GOLD: #tˈærːa#}
 15     | #tˈeːktum# | *#tˈeːktum# | *#tˈetːu# | *#tˈetːə# {GOLD: #tˈitːə#}
-16     | #tˈepidum# | *#tˈepidum# | *#tˈepdu# | *#tˈepdə# {GOLD: #tˈepədə#}
+16     | #tˈepidum# | *#tˈepidum# | *#tˈepedu# | *#tˈepədə# {GOLD: #tˈepədə#}
 17     | #tˈempus# | *#tˈempus# | *#tˈempu# | *#tˈembə# {GOLD: #tˈembə#}
 18     | #tˌaːliˈaːre# | *#tˌaːljˈaːre# | *#tˌaʎːˈare# | *#tajːˈaɾə# {GOLD: #tajˈa#}
 19     | #tˈawrum# | *#tˈawrum# | *#tˈowru# | *#tˈoɾə# {GOLD: #tˈoɾə#}
@@ -122,7 +122,7 @@ etID  | Input | Proto-Romance | Proto-South-Italo-Romance | Output {GOLD}
 120    | #spˈiːka# | *#spˈiːka# | *#spˈika# | *#spˈika# {GOLD: #spˈika#}
 121    | #spˈekulum# | *#spˈekulum# | *#spˈekːʎu# | *#spˈekːjə# {GOLD: #spˈekːjə#}
 122    | #spˈatulam# | *#spˈatulam# | *#spˈatla# | *#spˈatːla# {GOLD: #spˈalːa#}
-123    | #spˈonɡiam# | *#spˈoŋɡjam# | *#spˈʉˤnːja# | *#spˈʉˤɲa# {GOLD: #spˈuɲa#}
+123    | #spˈonɡiam# | *#spˈoŋɡjam# | *#spˈunːja# | *#spˈuɲa# {GOLD: #spˈuɲa#}
 124    | #spˈoːnsam# | *#spˈoːnsam# | *#spˈonsa# | *#spˈond͡za# {GOLD: #spˈosa#}
 125    | #spˌuːtˈaː# | *#spˌuːtˈaː# | *#spˌutˈa# | *#sputˈa# {GOLD: #ʃtupˈa#}
 126    | #nˈiːdum# | *#nˈiːdum# | *#nˈidu# | *#nˈidə# {GOLD: #nˈidə#}
@@ -133,7 +133,7 @@ etID  | Input | Proto-Romance | Proto-South-Italo-Romance | Output {GOLD}
 131    | #nˈebulam# | *#nˈebulam# | *#nˈæbːʎa# | *#nˈæbːja# {GOLD: #nˈebːja#}
 132    | #naːtˈaːle# | *#naːtˈaːle# | *#natˈale# | *#natˈalə# {GOLD: #natˈalə#}
 133    | #nˈaːwem# | *#nˈaːwem# | *#nˈave# | *#nˈavə# {GOLD: #nˈavə#}
-134    | #nˈonnam# | *#nˈonnam# | *#nˈɔnːa# | *#nˈɔnːa# {GOLD: #nˈɔnːa#}
+134    | #nˈonnam# | *#nˈonnam# | *#nˈonːa# | *#nˈonːa# {GOLD: #nˈɔnːa#}
 135    | #nˈonnum# | *#nˈonnum# | *#nˈonːu# | *#nˈonːə# {GOLD: #nˈɔnːə#}
 136    | #nˈostram# | *#nˈostram# | *#nˈɔstra# | *#nˈɔstɾa# {GOLD: #nˈɔstɾa#}
 137    | #nˈostrum# | *#nˈostrum# | *#nˈostru# | *#nˈostɾə# {GOLD: #nˈostɾə#}
@@ -206,7 +206,7 @@ etID  | Input | Proto-Romance | Proto-South-Italo-Romance | Output {GOLD}
 204    | #jˌokˈaː# | *#jˌokˈaː# | *#jˌokˈa# | *#jukˈa# {GOLD: #jəkˈa#}
 205    | #jˈokum# | *#jˈokum# | *#jˈoku# | *#jˈokə# {GOLD: #jˈokə#}
 206    | #jˈuːnium# | *#jˈuːnjum# | *#jˈuɲːu# | *#jˈuɲə# {GOLD: #d͡ʒˈuɲə#}
-207    | #jˌuːnˈiperum# | *#jˌuːnˈiperum# | *#jˌunˈipru# | *#junˈipɾə# {GOLD: #jenˈibːjə#}
+207    | #jˌuːnˈiperum# | *#jˌuːnˈiperum# | *#jˌunˈiperu# | *#junˈipəɾə# {GOLD: #jenˈibːjə#}
 208    | #jˌuːmˈentam# | *#jˌuːmˈentam# | *#jˌumˈænta# | *#jumˈænda# {GOLD: #jəmˈenda#}
 209    | #ˌintˈende# | *#ˌintˈende# | *#ˌentˈenːe# | *#ndˈenːə# {GOLD: #ndˈænːe#}
 210    | #ˌinsˈinum# | *#ˌinsˈinum# | *#ˌensˈenu# | *#nd͡zˈenə# {GOLD: #nd͡zˈinə#}
@@ -453,7 +453,7 @@ etID  | Input | Proto-Romance | Proto-South-Italo-Romance | Output {GOLD}
 451    | #wˈiːnum# | *#wˈiːnum# | *#vˈinu# | *#vˈinə# {GOLD: #vˈinə#}
 452    | #wˌiːkˈiːnum# | *#wˌiːkˈiːnum# | *#vˌit͡ʃˈinu# | *#vit͡ʃˈinə# {GOLD: #vit͡ʃˈinə#}
 453    | #wiːɡˈintiː# | *#wiːɡˈintiː# | *#vˌijˈenti# | *#vijˈendə# {GOLD: #vˈində#}
-454    | #wˈiːperam# | *#wˈiːperam# | *#vˈipra# | *#vˈipɾa# {GOLD: #vˈipəɾa#}
+454    | #wˈiːperam# | *#wˈiːperam# | *#vˈipera# | *#vˈipəɾa# {GOLD: #vˈipəɾa#}
 455    | #wˌestˈiːtum# | *#wˌestˈiːtum# | *#vˌestˈitu# | *#vəstˈitə# {GOLD: #vəstˈitə#}
 456    | #wˌeːssˈiːka# | *#wˌeːssˈiːka# | *#vˌesːˈika# | *#vəsːˈika# {GOLD: #veʃˈika#}
 457    | #wˈeːnde# | *#wˈeːnde# | *#vˈenːe# | *#vˈenːə# {GOLD: #vˈenːə#}
@@ -527,7 +527,7 @@ etID  | Input | Proto-Romance | Proto-South-Italo-Romance | Output {GOLD}
 525    | #pˈersikam# | *#pˈersikam# | *#pˈærsika# | *#pˈæɾt͡səka# {GOLD: #pˈæɾt͡səka#}
 526    | #pˌersˈoːnam# | *#pˌersˈoːnam# | *#pˌersˈona# | *#pəɾt͡sˈona# {GOLD: #pəɾt͡sˈona#}
 527    | #pˈektum# | *#pˈektum# | *#pˈetːu# | *#pˈetːə# {GOLD: #pˈetːə#}
-528    | #pˌekorˈaːrium# | *#pˌekorˈaːrjum# | *#pˌekrˈarʲu# | *#pəkɾˈaɾə# {GOLD: #pəkuɾˈalə#}
+528    | #pˌekorˈaːrium# | *#pˌekorˈaːrjum# | *#pˌekorˈarʲu# | *#pəkəɾˈaɾə# {GOLD: #pəkuɾˈalə#}
 529    | #pˈatrem# | *#pˈatrem# | *#pˈatre# | *#pˈatɾə# {GOLD: #pˈatɾə#}
 530    | #padˈuːla# | *#padˈuːla# | *#padˈula# | *#padˈula# {GOLD: #padˈuɾa#}
 531    | #pˌaskwˈaːlem# | *#pˌaskwˈaːlem# | *#pˌaskwˈale# | *#paskwˈalə# {GOLD: #paskwˈalə#}

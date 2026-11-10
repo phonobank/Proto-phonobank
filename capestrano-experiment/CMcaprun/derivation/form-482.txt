@@ -4,8 +4,8 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˈumbram#
 *#ˈʊmbram# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈʊmbra# | 34 : [+cons] > ∅ / __ #
-*#ˈombra# | 56 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-*#ˈomːra# | 57 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˈombra# | 55 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#ˈomːra# | 56 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
 Proto-South-Italo-Romance stage form : *#ˈomːra#
 *#ˈomːɾa# | 103 : r > ɾ 
 Final form : *#ˈomːɾa#

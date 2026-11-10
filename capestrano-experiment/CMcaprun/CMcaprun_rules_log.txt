@@ -46,17 +46,17 @@ lˠ > l
 ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
 w > v / # ( ( @ )* [+son] ) __ [-cons]
 w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-[-prim,-lo] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+[-prim,+round] > ∅ / [+prim,+front,-lo] [-cont,-cor] __ [+cor,+voi]
 [+syl,+round] > [+hi] / __ j
 [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
 [+stres,-prim,+front,-tense] > ˌe 
 [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 j n > ɲː / [+front,-lo,+syl] __
 j n > ɲː / __ [+front,-lo,+syl]
-[+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
 [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
 [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
+[+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 [+lo,-tense,+round] > [-lo] 
 ɡ > w / __ m
