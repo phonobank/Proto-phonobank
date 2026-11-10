@@ -58,7 +58,7 @@ d [+lab,+cons] > ∅ [+long]
 $ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidism. Counterbled by ɛ metaphony LIIc, and by reduction to schwa. 
 	$ Attributed to 2nd century on page 72. Affrication of g attributed to be as early as 1st century on page 74. 
 			$ MANUAL FIX: ŋ to n as well 
-{ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons] 
+{ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons] 
 		$ integrate ICIb and ICIc ktj phenomena
 		$ integrate ICIIIb tj > tsj 
 			$ og: {k t;t} > {t͡ʃː;t͡sʲ} / __ j 
@@ -296,27 +296,30 @@ $ LVIIa -- ˈʊ to ˈo before a
 $ˈʊ > ˈo / __ (@)* a #
 $ FIX: it's actually ʊ to o before multiple consonants than a. (FIX -- inferred from data presented). FIX -- combined with LVIIb 
 		$ either way, counterfeeds LVa!
-ˈʊ > ˈo / __ @ @ 
+ˈʊ > ˈo / __ [+cons] ([+cons])+ [+lo] 
 	$ LVIIb ʊ to o before nasal geminate then a#. Bleeds LVIIc
 	$ˈʊ > ˈo / __ [+nas,+long] a ([+cons]) #
 		$ combined into LVIIa 
 
-$ LVIIc ˈʊ > ˈu before nasal geminate unless bled by LVIIc above
-[+hi,+round,+syl] > [+tense] / __ [+nas,+long]
+$ XXXIa nd to nn, argued to be due to Oscan influence. 
+$d > n / n __ 
+	$ LVIIb -- this applies to mp to mm too 
+	$treating these as long nasals, as well as nn and mm
+	$ feeds LVIIc-- ORIGINALLY. 
+		$counterbleeds LVIIa.
+	$ MANUAL FIX: doesn't absorb d͡ʒ.. .yet.
+[+nas,mlab,-mcor] [+cons,+voi,nnas,nson,mlab,-mcor] > [+long] ∅
+
+$ LVIIc ˈʊ > ˈu before nasal geminate unless bled by LVIIa above
+	$ MANUAL FIX -- only if theres labiality on one side, but its ɔ too 
+		$ mundus fung(i)us plumbum spongia lumbum , but not axungia , hirundinella 
+[+round,-tense] > [+tense,+hi] / [-mlab] __ [+nas,+long,mlab]
 
 $ LVIId and LId ɪ and ʊ, unless raised, and ɛ and ɔ unless metathesized, pass to e and o
 [+syl,-lo,-tense] > [-hi,+tense]
 
 $ we're working with ɔ not ɒ-tense -- BANDAID 
 [+lo,-tense,+round] > [-lo]
-
-
-$ XXXIa nd to nn, argued to be due to Oscan influence. 
-$d > n / n __ 
-	$ LVIIb -- this applies to mp to mm too. 
-	$treating these as long nasals, as well as nn and mm
-	$ feeds LVIIb-- ORIGINALLY. But now it actually counterbleeds LVIIa.
-[+nas,mlab,-mcor] [+cons,+voi,nnas,nson,mlab,-mcor] > [+long] ∅
 
 $ LIVd ag > aw, feeding LIIc
 ɡ > w / __ m
@@ -402,6 +405,11 @@ m > mː /  __ [+syl] [+cons] [+syl] #
 
 $ undated changes presented as specific 
 
+$ ICIIa -- Nd͡ʒ , mːj (from mbj, NOT mj -- cambiare > caña, but not praemium or simium or astemium), nj, Nʎ > ɲː 
+	$MANUAL FIX A11 -- handling mː j case. 
+mː [+front,-syl,+voi] > ɲː 
+	$handling rest. 
+[+nas,-lab] [+front,-syl,+voi] > ɲː 
 
 $ ICIIr.ii rʲ > r in arju > arʲ u endings . Bleeds ICIIr.iii 
 $ SUPPRESSED: rʲ > r / [+lo] __ [+round,+hi,+syl] ([+cons]) #

@@ -3,13 +3,13 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 l ˌuː k ˈe r t u l a m 
 Proto-Romance stage form : *#lˌuːkˈertulam#
 *#lˌuːkˈɛrtʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˌuːt͡ʃˈɛrtʊlam# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#lˌuːt͡ʃˈɛrtʊlam# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
 *#lˌut͡ʃˈɛrtʊlam# | 27 : [+syl] > [-long,-splng] 
 *#lˌut͡ʃˈɛrtʊla# | 34 : [+cons] > ∅ / __ #
 *#lˌut͡ʃˈɛrtula# | 52 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 *#lˌut͡ʃˈærtula# | 55 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 Proto-South-Italo-Romance stage form : *#lˌut͡ʃˈærtula#
-*#lˌut͡ʃˈærtəla# | 90 : [-stres,-lo] > ə 
-*#lˌut͡ʃˈæɾtəla# | 101 : r > ɾ 
-*#lut͡ʃˈæɾtəla# | 108 : [-prim] > [-stres,-prim,+syl,+son] 
+*#lˌut͡ʃˈærtəla# | 92 : [-stres,-lo] > ə 
+*#lˌut͡ʃˈæɾtəla# | 103 : r > ɾ 
+*#lut͡ʃˈæɾtəla# | 110 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#lut͡ʃˈæɾtəla#

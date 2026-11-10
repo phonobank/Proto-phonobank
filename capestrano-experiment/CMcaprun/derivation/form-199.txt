@@ -3,13 +3,13 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 r ˌoː b ˈiː ɡ i n e 
 Proto-Romance stage form : *#rˌoːbˈiːɡine#
 *#rˌoːbˈiːɡɪnɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#rˌoːbˈiːjɪnɛ# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#rˌoːbˈiːjɪnɛ# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
 *#rˌobˈijɪnɛ# | 27 : [+syl] > [-long,-splng] 
-*#rˌobˈijene# | 58 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˌobˈijene# | 59 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 *#rˌovˈijene# | 67 : b > v / @ __
 Proto-South-Italo-Romance stage form : *#rˌovˈijene#
-*#rˌuvˈijene# | 87 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#rˌuvˈijənə# | 90 : [-stres,-lo] > ə 
-*#ɾˌuvˈijənə# | 101 : r > ɾ 
-*#ɾəvˈijənə# | 102 : ˌu > ə / __ [+lab,+strid]
+*#rˌuvˈijene# | 89 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#rˌuvˈijənə# | 92 : [-stres,-lo] > ə 
+*#ɾˌuvˈijənə# | 103 : r > ɾ 
+*#ɾəvˈijənə# | 104 : ˌu > ə / __ [+lab,+strid]
 Final form : *#ɾəvˈijənə#

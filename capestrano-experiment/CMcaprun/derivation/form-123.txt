@@ -1,14 +1,16 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 123:
-#spˈonɡiam# >>> *#spˈɔnːja# ( GOLD : #spˈuɲa#) :
+#spˈonɡiam# >>> *#spˈʉˤɲa# ( GOLD : #spˈuɲa#) :
 s p ˈo n ɡ i a m 
 *#spˈoŋɡiam# | 1 : n > ŋ / __ [+back,+cons]
 *#spˈoŋɡjam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#spˈoŋɡjam#
 *#spˈɔŋɡjam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#spˈɔnd͡ʒjam# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#spˈɔnd͡ʒjam# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
 *#spˈɔnd͡ʒja# | 34 : [+cons] > ∅ / __ #
 *#spˈɞˤnd͡ʒja# | 55 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#spˈɔnd͡ʒja# | 59 : [+lo,-tense,+round] > [-lo] 
-*#spˈɔnːja# | 60 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#spˈɔnːja#
-Final form : *#spˈɔnːja#
+*#spˈɞˤnːja# | 57 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#spˈʉˤnːja# | 58 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
+Proto-South-Italo-Romance stage form : *#spˈʉˤnːja#
+*#spˈʉˤɲːa# | 77 : [+nas,-lab] [+front,-syl,+voi] > ɲː
+*#spˈʉˤɲa# | 107 : ɲː > ɲ 
+Final form : *#spˈʉˤɲa#

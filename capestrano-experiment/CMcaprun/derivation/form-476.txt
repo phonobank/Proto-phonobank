@@ -1,5 +1,5 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 476:
-#ˈunɡulam# >>> *#ˈoŋjːa# ( GOLD : #ˈoɲa#) :
+#ˈunɡulam# >>> *#ˈoɲa# ( GOLD : #ˈoɲa#) :
 ˈu n ɡ u l a m 
 *#ˈuŋɡulam# | 1 : n > ŋ / __ [+back,+cons]
 Proto-Romance stage form : *#ˈuŋɡulam#
@@ -7,7 +7,8 @@ Proto-Romance stage form : *#ˈuŋɡulam#
 *#ˈʊŋɡʊla# | 34 : [+cons] > ∅ / __ #
 *#ˈʊŋɡla# | 43 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
 *#ˈʊŋʎːa# | 44 : ɡ l > ʎː 
-*#ˈoŋʎːa# | 56 : ˈʊ > ˈo / __ @ @
+*#ˈoŋʎːa# | 56 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
 Proto-South-Italo-Romance stage form : *#ˈoŋʎːa#
-*#ˈoŋjːa# | 104 : {ʎ;ʎː} > {j;jː} 
-Final form : *#ˈoŋjːa#
+*#ˈoɲːa# | 77 : [+nas,-lab] [+front,-syl,+voi] > ɲː
+*#ˈoɲa# | 107 : ɲː > ɲ 
+Final form : *#ˈoɲa#
