@@ -375,7 +375,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 373,*/kˈosa/,/kˈosa/,0,0.0,0.0,4,4
 374,*/kˈoda/,/kˈoda/,0,0.0,0.0,4,4
 375,*/kavjˈola/,/kajˈola/,1,0.16666666666666666,0.6538461538461539,7,6
-376,*/katʲːjatˈoɾə/,/kat͡ʃːatˈoɾə/,2,0.25,0.6730769230769231,9,8
+376,*/kat͡ʃːjatˈoɾə/,/kat͡ʃːatˈoɾə/,1,0.125,0.5192307692307693,9,8
 377,*/katːˈivə/,/katːˈivə/,0,0.0,0.0,6,6
 378,*/kˈaʃːa/,/kˈaʃːa/,0,0.0,0.0,4,4
 379,*/kˈapːɾa/,/kɾˈapa/,3,0.6,1.0,5,5
@@ -411,7 +411,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 409,*/kəmbˈaɲə/,/kəmbˈaɲə/,0,0.0,0.0,7,7
 410,*/kəmbaɾˈa/,/kəmbɾˈa/,1,0.16666666666666666,0.75,7,6
 411,*/kəmbaɾˈatə/,/kəmbɾˈatə/,1,0.125,0.75,9,8
-412,*/kumdʲjˈa/,/kund͡ʒˈa/,3,0.6,0.6923076923076923,6,5
+412,*/kumd͡ʒjˈa/,/kund͡ʒˈa/,2,0.4,0.5384615384615384,6,5
 413,*/kumbətˈa/,/kundˈa/,4,0.8,1.1730769230769231,7,5
 414,*/kˈopːja/,/kˈopːja/,0,0.0,0.0,5,5
 415,*/kunˈikwələ/,/kunˈijːə/,4,0.6666666666666666,1.7692307692307692,9,6

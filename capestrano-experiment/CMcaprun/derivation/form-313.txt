@@ -5,14 +5,14 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌinˌiːbˈernum#
 *#ˌɪnˌiːbˈɛrnʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɪnˌibˈɛrnʊm# | 12 : [+syl] > [-long,-splng] 
-*#ˌɪnˌibˈɛrnʊ# | 28 : [+cons] > ∅ / __ #
-*#ˌenˌibˈɛrnʊ# | 42 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenˌibˈɛrnu# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌenˌibˈernu# | 49 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌenˌivˈernu# | 59 : b > v / @ __
+*#ˌɪnˌibˈɛrnʊ# | 29 : [+cons] > ∅ / __ #
+*#ˌenˌibˈɛrnʊ# | 43 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenˌibˈɛrnu# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌenˌibˈernu# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌenˌivˈernu# | 60 : b > v / @ __
 Proto-South-Italo-Romance stage form : *#ˌenˌivˈernu#
-*#ˌenivˈernu# | 75 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌenəvˈernə# | 78 : [-stres,-lo] > ə 
-*#nəvˈernə# | 79 : [-prim,-lo] > ∅ / # __
-*#nəvˈeɾnə# | 89 : r > ɾ 
+*#ˌenivˈernu# | 76 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌenəvˈernə# | 79 : [-stres,-lo] > ə 
+*#nəvˈernə# | 80 : [-prim,-lo] > ∅ / # __
+*#nəvˈeɾnə# | 90 : r > ɾ 
 Final form : *#nəvˈeɾnə#

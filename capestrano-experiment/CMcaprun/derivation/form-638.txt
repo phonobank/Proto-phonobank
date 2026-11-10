@@ -4,13 +4,13 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 *#ˌimfˈossam# | 0 : n > m / __ [+lab,+cons]
 Proto-Romance stage form : *#ˌimfˈossam#
 *#ˌɪmfˈɔssam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌimfˈɔssam# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌimfˈɔssa# | 28 : [+cons] > ∅ / __ #
-*#ˌimfˈɞˤssa# | 46 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˌimfˈɔssa# | 50 : [+lo,-tense,+round] > [-lo] 
-*#ˌimfˈɔsːa# | 56 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ˌimfˈɔssam# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌimfˈɔssa# | 29 : [+cons] > ∅ / __ #
+*#ˌimfˈɞˤssa# | 47 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌimfˈɔssa# | 51 : [+lo,-tense,+round] > [-lo] 
+*#ˌimfˈɔsːa# | 57 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#ˌimfˈɔsːa#
-*#mfˈɔsːa# | 79 : [-prim,-lo] > ∅ / # __
-*#mb͡vˈɔsːa# | 81 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbˈɔsːa# | 82 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#mfˈɔsːa# | 80 : [-prim,-lo] > ∅ / # __
+*#mb͡vˈɔsːa# | 82 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbˈɔsːa# | 83 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
 Final form : *#mbˈɔsːa#

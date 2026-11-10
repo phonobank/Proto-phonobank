@@ -64,8 +64,10 @@ $ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidi
 		$ integrate ICIb and ICIc ktj phenomena
 		$ integrate ICIIIb tj > tsj 
 			$ og: {k t;t} > {t͡ʃː;t͡sʲ} / __ j 
-	$ fix -- passed to tʲ because this patterns as palatal non-strident in avaritia in A1
-{k t;t} > {t͡ʃː;tʲ} / __ j 
+	$ MANUAL FIX -- first this passes to tʲ because this patterns as palatal non-strident in avaritia in A1
+t > tʲ / __ j 
+	$ MANUAL FIX -- then stop + tʲ > t͡ʃː -- not just -ctj- but also -ptj- 
+[-cont] tʲ > t͡ʃː 
 
 $ LXXIIIa ,LXXIIIb dj and gj variously to jj dzː or d͡ʒː , he's indecisvie... 
 $ gj dj etc go to d͡ʒ -- EXECUTIVE DECISION -- dj > zz cases (e.g. mæzzə) seem to be likely Tuscan loans. 
@@ -83,7 +85,7 @@ $ MANUAL FIX RULE A1 -- ˈɪ appears to tense back to ˈi before peripheral non-
 	$ before k : lenticula, craticula, picculu, picru, butticula, moricolum 
 	$ before p : iuniperum/iunipelum, 
 			$ does occur before ps : ipse > issə 
-	$ before b -- tributum > tribːutə
+	$ before b -- tributum > tribːutə, librum 
 		$ previously covered by LIC but works better here
 			$ before tj : avaritsja 
 		$ not before tt: mitte > mettə, sagitta > saettə, littera > lettərə 
@@ -92,7 +94,7 @@ $ MANUAL FIX RULE A1 -- ˈɪ appears to tense back to ˈi before peripheral non-
 	$ not before f,v -- stridents -- 
 	$ before ɲ: tinea etc 
 	$ before ʎ: liliu etc 
-	$ before g > j : digitu, digitone
+	$ before g > j : digitu, digitone, nigru 
 	$ altho this is seen elsewhere (French seems to inherit crāticula as if it was crātīcula, long ī...), 
 		$ it is BLED by LXXIXc Italo-Romance kt > tt, so seems to be secondary
 			$ unless we reconceive a pan-Romance kt > xt, which becomes tt in Italo-Romance...
@@ -121,8 +123,6 @@ $ LXXIXe semi-bandaid -- degeminate geminates in clusters, except when second el
 	$ bst > st not sst etc; mpt , nct > nt , later to nd ,etc.
 [+cons] [-son] > [-long] [-long] 
 
-
-
 $ LXXXId lt, lk to rt, rk if there's lateral later in word. Bleeds LXXXf. FIX -- this also happens to lp -- scalpellum > ʃkarpejjə. Just assume all stops at this point.
 l > r / __ [-cont] (@)* [+lat] 
 
@@ -141,7 +141,6 @@ lˠ > l
 $ LXXXe -- FIX, manual inferred -- wək to wk after stressed vowel -- dulcem falcem -- if there is labiality on it or beforehand. 
 	$Bleeds LXXVIIa. 
 ə > ∅ / [-blab] [+prim,blab] w __ k
-
 
 $ LXIa final kulV- gulV (now with ʊ per LIb/ LIIb/ LVIIIa/ LVIa)> kwəlV, gwəlV; w insertion, counterfed by LIXf reduction to ə 
 $FONTECCHIO VERSION: ∅ > w / [-cont,+back] __ ʊ [+lat] [+syl] #
@@ -317,13 +316,13 @@ s t͡ʃ > ʃ
 $ICIb and ICIc -- ttj ; ctj to t͡ʃːj
 tː > t͡ʃː / __ j
 
-$ ICIa : -cj- , now -t͡ʃj, goes > -t͡sj-
+$ ICIa : -cj- , now -t͡ʃ- , goes > -t͡sj-
 $t͡ʃ > t͡s / @ __ j
-	$exec decision -- FIX -- only before o
+	$exec decision -- FIX -- only before o; applies also to t͡ʃː 
 		$combining mwith ICIc ctj to t͡sːj in ktjōne (now ttj) 
 		$ affected : fractiōnem > frazzjone , condicionem > kundizjone
 		$ not : aciarium , falciare
-[+delrel,-voi] > [+ant,-distr,-front,-hi,-round] / __ j [+round]
+t͡ʃː > t͡s j / __ [+round]
 
 $ ICIɲ -- mbi, ngj , ndj ,ndzj > ɲ. Counterfed by LXId
 [+nas,-lab] [-cont,+voi] j > ɲ

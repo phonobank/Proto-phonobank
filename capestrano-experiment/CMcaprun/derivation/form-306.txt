@@ -4,10 +4,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˈaːfrikam#
 *#ˈaːfrɪkam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈafrɪkam# | 12 : [+syl] > [-long,-splng] 
-*#ˈafrikam# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˈafrika# | 28 : [+cons] > ∅ / __ #
+*#ˈafrikam# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˈafrika# | 29 : [+cons] > ∅ / __ #
 Proto-South-Italo-Romance stage form : *#ˈafrika#
-*#ˈafrˌika# | 76 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈafɾˌika# | 89 : r > ɾ 
-*#ˈafɾika# | 95 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˈafrˌika# | 77 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈafɾˌika# | 90 : r > ɾ 
+*#ˈafɾika# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#ˈafɾika#

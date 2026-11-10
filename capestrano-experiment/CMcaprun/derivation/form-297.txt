@@ -5,12 +5,12 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌawaːrˈitjam#
 *#ˌawaːrˈɪtjam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌawarˈɪtjam# | 12 : [+syl] > [-long,-splng] 
-*#ˌawarˈɪtʲjam# | 20 : {k t;t} > {t͡ʃː;tʲ} / __ j
-*#ˌawarˈitʲjam# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌawarˈitʲja# | 28 : [+cons] > ∅ / __ #
-*#ˌavarˈitʲja# | 39 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#ˌawarˈɪtʲjam# | 20 : t > tʲ / __ j
+*#ˌawarˈitʲjam# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌawarˈitʲja# | 29 : [+cons] > ∅ / __ #
+*#ˌavarˈitʲja# | 40 : w > v / # ( ( @ )* [+son] ) __ [-cons]
 Proto-South-Italo-Romance stage form : *#ˌavarˈitʲja#
-*#ˌavˌarˈitʲja# | 76 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌavˌaɾˈitʲja# | 89 : r > ɾ 
-*#avaɾˈitʲja# | 95 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌavˌarˈitʲja# | 77 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌavˌaɾˈitʲja# | 90 : r > ɾ 
+*#avaɾˈitʲja# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#avaɾˈitʲja#

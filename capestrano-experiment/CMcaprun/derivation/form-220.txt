@@ -5,11 +5,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌiːmfantˈiːlem#
 *#ˌiːmfantˈiːlɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌimfantˈilɛm# | 12 : [+syl] > [-long,-splng] 
-*#ˌimfantˈilɛ# | 28 : [+cons] > ∅ / __ #
-*#ˌimfantˈile# | 49 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌimfantˈilɛ# | 29 : [+cons] > ∅ / __ #
+*#ˌimfantˈile# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌimfantˈile#
-*#ˌimfantˈilə# | 78 : [-stres,-lo] > ə 
-*#mfantˈilə# | 79 : [-prim,-lo] > ∅ / # __
-*#mb͡vandˈilə# | 81 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbandˈilə# | 82 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#ˌimfantˈilə# | 79 : [-stres,-lo] > ə 
+*#mfantˈilə# | 80 : [-prim,-lo] > ∅ / # __
+*#mb͡vandˈilə# | 82 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbandˈilə# | 83 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
 Final form : *#mbandˈilə#

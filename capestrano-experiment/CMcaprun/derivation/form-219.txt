@@ -5,13 +5,13 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌimfloːrˈiː#
 *#ˌɪmfloːrˈiː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɪmflorˈi# | 12 : [+syl] > [-long,-splng] 
-*#ˌimflorˈi# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌimfʎorˈi# | 57 : l > ʎ / [-son,-cor] __
+*#ˌimflorˈi# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌimfʎorˈi# | 58 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌimfʎorˈi#
-*#ˌimfʎərˈi# | 78 : [-stres,-lo] > ə 
-*#mfʎərˈi# | 79 : [-prim,-lo] > ∅ / # __
-*#mb͡vʎərˈi# | 81 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbʎərˈi# | 82 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
-*#mbʎəɾˈi# | 89 : r > ɾ 
-*#mbjəɾˈi# | 92 : {ʎ;ʎː} > {j;jː} 
+*#ˌimfʎərˈi# | 79 : [-stres,-lo] > ə 
+*#mfʎərˈi# | 80 : [-prim,-lo] > ∅ / # __
+*#mb͡vʎərˈi# | 82 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbʎərˈi# | 83 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#mbʎəɾˈi# | 90 : r > ɾ 
+*#mbjəɾˈi# | 93 : {ʎ;ʎː} > {j;jː} 
 Final form : *#mbjəɾˈi#
