@@ -24,7 +24,8 @@ $ shared with French and Albano-Romance it seems éolu > eólu etc.
 
 $ LXVb gliding of i and u in hiatus 
 	$ FIX, MANUAL -- gliding of ea eo eu and oa too 
-[-prim,-lo] > [+hi] / __ [+lo]
+[-stres,-lo] > [+hi] / __ [+lo]
+[-prim,-lo] > [+hi] / __ [+lo,+stres]
 e > j / __ [+back]
 [+hi,-prim] > [-syl] / __ [+syl]
 
@@ -101,14 +102,24 @@ $ MANUAL FIX RULE A1 -- ˈɪ appears to tense back to ˈi before peripheral non-
 	$ This also resembles the Classical Proto-Albanian i-tensing rule...
 [+hi,+front,+syl] > [+tense] / __ ([+cor]) [-syl,blab,-bhi,-strid]
 
+$ ICIIr.i -- rj > rʲ, returning to rj later, except in arju 
+r j > rʲ 
+
 $ LVXXb nj to ɲ
+$ combine with LXIVa -- lj to ʎʎ; have inferred from other Italo-Romance and etc.
+
 n j > ɲ 
 
-$ LXIVa -- lj to ʎʎ; have inferred from other Italo-Romance and etc.
 l j > ʎː 
 
 $ ICIIIa sj > ʃ; not lengthened. 
 s j > ʃ 
+
+
+$ MANUAL FIX: both of the above are wrong. 
+	$Instead, rʲ > r generally much later, rʲ > rj in specific conditions: 
+		$ ˌinˌeːbrjaːkˈoːne 
+
 
 $LXXIXb LXXXIIIa bs > ss, bt > tt. 
 	$Separate from LXXIXc kt > tt at least, bc LXXIXc feeds A1, and this doesn't
@@ -345,7 +356,23 @@ m > mː /  __ [+syl] [+cons] [+syl] #
 
 $ undated changes presented as specific 
 
-$ MANUAL FIX -- ow > o preconsonantal
+
+$ ICIIr.ii rʲ > r in arju > arʲ u endings . Bleeds ICIIr.iii 
+$ SUPPRESSED: rʲ > r / [+lo] __ [+round,+hi,+syl] ([+cons]) #
+
+$ ICIIr.iii rʲ > rj when not bled by ICIIr.ii . He lists materia
+	$ MANUAL FIX -- this is specific to erja endings -- and erju -- and nothing else.
+		$ no evidence on -irja but def not -arja : carbonaria, calcaria and area don't have it.  
+rʲ > r j / [+front,-lo,+syl] __ [+syl]
+
+$ MANUAL FIX A3 -- rʲ to rj after consonants 
+	 $after whatever happened in anatria > anitra bleeds it
+rʲ > r j / [+cons] __ 
+
+$ MANUA LFIX A4 rʲ to r elsewhere 
+rʲ > r
+
+$ MANUAL FIX A2 -- ow > o preconsonantal
 w > ∅ / [+round] __ [+cons]
 
 

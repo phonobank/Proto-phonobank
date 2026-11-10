@@ -1,14 +1,10 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 443:
-#kwˌiːnkwaːɡˈintaː# >>> *#t͡ʃiŋɡwajˈenda# ( GOLD : #t͡ʃiŋɡwˈanda#) :
-k w ˌiː n k w aː ɡ ˈi n t aː 
-*#kwˌiːŋkwaːɡˈintaː# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#kwˌiːŋkwaːɡˈintaː#
-*#kwˌiːŋkwaːɡˈɪntaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kwˌiŋkwaɡˈɪnta# | 12 : [+syl] > [-long,-splng] 
-*#kˌiŋkwaɡˈɪnta# | 13 : k w > k / # __ ( @ )* k w
-*#t͡ʃˌiŋkwajˈɪnta# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˌiŋkwajˈenta# | 51 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#t͡ʃˌiŋkwajˈenta#
-*#t͡ʃˌiŋɡwajˈenda# | 83 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#t͡ʃiŋɡwajˈenda# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#t͡ʃiŋɡwajˈenda#
+#kwˌem# >>> *#kwə# ( GOLD : #kə#) :
+k w ˌe m 
+Proto-Romance stage form : *#kwˌem#
+*#kwˌɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kwˌɛ# | 32 : [+cons] > ∅ / __ #
+*#kwˌe# | 46 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#kwˌe#
+*#kwə# | 91 : [-prim,-lo] > ə / __ #
+Final form : *#kwə#

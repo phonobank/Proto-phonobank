@@ -1,12 +1,19 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 363:
-#kˌarrikˈaː# >>> *#karːəkˈa# ( GOLD : #kaɾəkˈa#) :
-k ˌa r r i k ˈaː 
-Proto-Romance stage form : *#kˌarrikˈaː#
-*#kˌarrɪkˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌarrɪkˈa# | 12 : [+syl] > [-long,-splng] 
-*#kˌarrikˈa# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#kˌarːikˈa# | 58 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#kˌarːikˈa#
-*#kˌarːəkˈa# | 80 : [-stres,-lo] > ə 
-*#karːəkˈa# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#karːəkˈa#
+#kˌariofˈyllum# >>> *#kaɾəfˈøjːə# ( GOLD : #ɡaɾˈɔfənə#) :
+k ˌa r i o f ˈy l l u m 
+*#kˌarjofˈyllum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#kˌarjofˈyllum#
+*#kˌarjɔfˈʏllʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌarʲɔfˈʏllʊm# | 26 : r j > rʲ 
+*#kˌarʲɔfˈʏllʊ# | 32 : [+cons] > ∅ / __ #
+*#kˌarʲofˈʏllu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌarʲofˈøllu# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌarʲofˈølːu# | 60 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#kˌarʲofˈølːu#
+*#kˌarofˈølːu# | 72 : rʲ > r 
+*#kˌarofˈøʎːu# | 74 : lː > ʎː / __ [+hi]
+*#kˌarəfˈøʎːə# | 85 : [-stres,-lo] > ə 
+*#kˌaɾəfˈøʎːə# | 96 : r > ɾ 
+*#kˌaɾəfˈøjːə# | 99 : {ʎ;ʎː} > {j;jː} 
+*#kaɾəfˈøjːə# | 102 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaɾəfˈøjːə#

@@ -1,15 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 18:
 #tˌaːliˈaːre# >>> *#tajːˈaɾə# ( GOLD : #tajˈa#) :
 t ˌaː l i ˈaː r e 
-*#tˌaːljˈaːre# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#tˌaːljˈaːre# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#tˌaːljˈaːre#
-*#tˌaːljˈaːrɛ# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˌaljˈarɛ# | 12 : [+syl] > [-long,-splng] 
-*#tˌaʎːˈarɛ# | 26 : l j > ʎː 
-*#tˌaʎːˈare# | 51 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#tˌaːljˈaːrɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#tˌaljˈarɛ# | 13 : [+syl] > [-long,-splng] 
+*#tˌaʎːˈarɛ# | 28 : l j > ʎː 
+*#tˌaʎːˈare# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#tˌaʎːˈare#
-*#tˌaʎːˈarə# | 80 : [-stres,-lo] > ə 
-*#tˌaʎːˈaɾə# | 91 : r > ɾ 
-*#tˌajːˈaɾə# | 94 : {ʎ;ʎː} > {j;jː} 
-*#tajːˈaɾə# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
+*#tˌaʎːˈarə# | 85 : [-stres,-lo] > ə 
+*#tˌaʎːˈaɾə# | 96 : r > ɾ 
+*#tˌajːˈaɾə# | 99 : {ʎ;ʎː} > {j;jː} 
+*#tajːˈaɾə# | 102 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#tajːˈaɾə#

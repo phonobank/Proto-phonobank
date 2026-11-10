@@ -1,16 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 296:
-#ˌawaːrˈitiam# >>> *#avaɾˈitʲja# ( GOLD : #avaɾˈit͡sja#) :
-ˌa w aː r ˈi t i a m 
-*#ˌawaːrˈitjam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#ˌawaːrˈitjam#
-*#ˌawaːrˈɪtjam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌawarˈɪtjam# | 12 : [+syl] > [-long,-splng] 
-*#ˌawarˈɪtʲjam# | 20 : t > tʲ / __ j
-*#ˌawarˈitʲjam# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌawarˈitʲja# | 30 : [+cons] > ∅ / __ #
-*#ˌavarˈitʲja# | 41 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#ˌavarˈitʲja#
-*#ˌavˌarˈitʲja# | 78 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌavˌaɾˈitʲja# | 91 : r > ɾ 
-*#avaɾˈitʲja# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#avaɾˈitʲja#
+#ˈape# >>> *#ˈapə# ( GOLD : #ˈaːpə#) :
+ˈa p e 
+Proto-Romance stage form : *#ˈape#
+*#ˈapɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈape# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈape#
+*#ˈapə# | 85 : [-stres,-lo] > ə 
+Final form : *#ˈapə#

@@ -1,14 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 203:
-#jaːnuˈaːriu# >>> *#jamːˈaɾjə# ( GOLD : #jenːˈaɾə#) :
-j aː n u ˈaː r i u 
-*#jaːnwˈaːrju# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#jaːnwˈaːrju#
-*#jaːnwˈaːrjʊ# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#janwˈarjʊ# | 12 : [+syl] > [-long,-splng] 
-*#janvˈarjʊ# | 41 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#janvˈarju# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#janvˈarju#
-*#jamːˈarju# | 71 : n v > mː 
-*#jamːˈarjə# | 80 : [-stres,-lo] > ə 
-*#jamːˈaɾjə# | 91 : r > ɾ 
-Final form : *#jamːˈaɾjə#
+#jˌakˈeː# >>> *#jat͡ʃˈe# ( GOLD : #jat͡ʃˈe#) :
+j ˌa k ˈeː 
+Proto-Romance stage form : *#jˌakˈeː#
+*#jˌakˈe# | 13 : [+syl] > [-long,-splng] 
+*#jˌat͡ʃˈe# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+Proto-South-Italo-Romance stage form : *#jˌat͡ʃˈe#
+*#jat͡ʃˈe# | 102 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#jat͡ʃˈe#

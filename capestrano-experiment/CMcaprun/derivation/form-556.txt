@@ -1,11 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 556:
-#pˈorkam# >>> *#pˈɔɾka# ( GOLD : #pˈɔɾka#) :
-p ˈo r k a m 
-Proto-Romance stage form : *#pˈorkam#
-*#pˈɔrkam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɔrka# | 30 : [+cons] > ∅ / __ #
-*#pˈɞˤrka# | 48 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#pˈɔrka# | 52 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#pˈɔrka#
-*#pˈɔɾka# | 91 : r > ɾ 
-Final form : *#pˈɔɾka#
+#pˈoe̯nam# >>> *#pˈena# ( GOLD : #pˈena#) :
+p ˈo e̯ n a m 
+*#pˈeːnam# | 2 : [+round,-hi] e̯ > [+front,-back,-round,-lab,+long] ∅
+Proto-Romance stage form : *#pˈeːnam#
+*#pˈenam# | 13 : [+syl] > [-long,-splng] 
+*#pˈena# | 32 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#pˈena#
+Final form : *#pˈena#

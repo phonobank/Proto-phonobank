@@ -1,12 +1,8 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 632:
-#fˈakiem# >>> *#fˈat͡ʃjə# ( GOLD : #fˈat͡ʃːə#) :
-f ˈa k i e m 
-*#fˈakjem# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#fˈakjem#
-*#fˈakjɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈat͡ʃjɛm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#fˈat͡ʃjɛ# | 30 : [+cons] > ∅ / __ #
-*#fˈat͡ʃje# | 51 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˈat͡ʃje#
-*#fˈat͡ʃjə# | 80 : [-stres,-lo] > ə 
-Final form : *#fˈat͡ʃjə#
+#fˈabam# >>> *#fˈava# ( GOLD : #fˈava#) :
+f ˈa b a m 
+Proto-Romance stage form : *#fˈabam#
+*#fˈaba# | 32 : [+cons] > ∅ / __ #
+*#fˈava# | 63 : b > v / @ __
+Proto-South-Italo-Romance stage form : *#fˈava#
+Final form : *#fˈava#

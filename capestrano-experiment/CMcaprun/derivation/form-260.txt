@@ -1,15 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 260:
-#ˌanimˈaːlem# >>> *#animːˈalə# ( GOLD : #alimˈanə#) :
-ˌa n i m ˈaː l e m 
-Proto-Romance stage form : *#ˌanimˈaːlem#
-*#ˌanɪmˈaːlɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌanɪmˈalɛm# | 12 : [+syl] > [-long,-splng] 
-*#ˌanimˈalɛm# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌanimˈalɛ# | 30 : [+cons] > ∅ / __ #
-*#ˌanimˈale# | 51 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌanimːˈale# | 67 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#ˌanimːˈale#
-*#ˌanˌimːˈale# | 78 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌanˌimːˈalə# | 80 : [-stres,-lo] > ə 
-*#animːˈalə# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#animːˈalə#
+#ˌanˈatria# >>> *#anˈatɾja# ( GOLD : #anˈitɾa#) :
+ˌa n ˈa t r i a 
+*#ˌanˈatrja# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˌanˈatrja#
+*#ˌanˈatrʲa# | 26 : r j > rʲ 
+Proto-South-Italo-Romance stage form : *#ˌanˈatrʲa#
+*#ˌanˈatrja# | 71 : rʲ > r j / [+cons] __
+*#ˌanˈatɾja# | 96 : r > ɾ 
+*#anˈatɾja# | 102 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#anˈatɾja#

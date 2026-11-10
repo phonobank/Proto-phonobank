@@ -1,13 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 382:
-#kˌabˈalliː# >>> *#kavˈajːə# ( GOLD : #kævˈæjːə#) :
-k ˌa b ˈa l l iː 
-Proto-Romance stage form : *#kˌabˈalliː#
-*#kˌabˈalli# | 12 : [+syl] > [-long,-splng] 
-*#kˌabˈalːi# | 58 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-*#kˌavˈalːi# | 61 : b > v / @ __
-Proto-South-Italo-Romance stage form : *#kˌavˈalːi#
-*#kˌavˈaʎːi# | 69 : lː > ʎː / __ [+hi]
-*#kˌavˈaʎːə# | 80 : [-stres,-lo] > ə 
-*#kˌavˈajːə# | 94 : {ʎ;ʎː} > {j;jː} 
-*#kavˈajːə# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
+#kˌabˈallum# >>> *#kavˈajːə# ( GOLD : #kavˈajːə#) :
+k ˌa b ˈa l l u m 
+Proto-Romance stage form : *#kˌabˈallum#
+*#kˌabˈallʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌabˈallʊ# | 32 : [+cons] > ∅ / __ #
+*#kˌabˈallu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌabˈalːu# | 60 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#kˌavˈalːu# | 63 : b > v / @ __
+Proto-South-Italo-Romance stage form : *#kˌavˈalːu#
+*#kˌavˈaʎːu# | 74 : lː > ʎː / __ [+hi]
+*#kˌavˈaʎːə# | 85 : [-stres,-lo] > ə 
+*#kˌavˈajːə# | 99 : {ʎ;ʎː} > {j;jː} 
+*#kavˈajːə# | 102 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#kavˈajːə#

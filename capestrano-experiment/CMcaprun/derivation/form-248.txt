@@ -1,15 +1,17 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 248:
-#ˌaddˌormˈiː# >>> *#adːuɾmˈi# ( GOLD : #adːəɾmˈi#) :
-ˌa d d ˌo r m ˈiː 
-Proto-Romance stage form : *#ˌaddˌormˈiː#
-*#ˌaddˌɔrmˈiː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌaddˌɔrmˈi# | 12 : [+syl] > [-long,-splng] 
-*#ˌaddˌormˈi# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌadːˌormˈi# | 58 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#ˌadːˌormˈi#
-*#ˌadːˌurmˈi# | 76 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#ˌadːurmˈi# | 77 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌadːˌurmˈi# | 78 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌadːˌuɾmˈi# | 91 : r > ɾ 
-*#adːuɾmˈi# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#adːuɾmˈi#
+#ˌadriˈaːtikum# >>> *#adɾjˈatəkə# ( GOLD : #adɾiˈatəkə#) :
+ˌa d r i ˈaː t i k u m 
+*#ˌadrjˈaːtikum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˌadrjˈaːtikum#
+*#ˌadrjˈaːtɪkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌadrjˈatɪkʊm# | 13 : [+syl] > [-long,-splng] 
+*#ˌadrjˈatikʊm# | 25 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌadrʲˈatikʊm# | 26 : r j > rʲ 
+*#ˌadrʲˈatikʊ# | 32 : [+cons] > ∅ / __ #
+*#ˌadrʲˈatiku# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌadrʲˈatiku#
+*#ˌadrjˈatiku# | 71 : rʲ > r j / [+cons] __
+*#ˌadrjˈatəkə# | 85 : [-stres,-lo] > ə 
+*#ˌadɾjˈatəkə# | 96 : r > ɾ 
+*#adɾjˈatəkə# | 102 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#adɾjˈatəkə#

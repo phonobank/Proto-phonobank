@@ -1,17 +1,17 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 2:
 #trˌifˈolium# >>> *#tɾəfˈojːə# ( GOLD : #tɾəfˈojːə#) :
 t r ˌi f ˈo l i u m 
-*#trˌifˈoljum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#trˌifˈoljum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#trˌifˈoljum#
-*#trˌɪfˈɔljʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#trˌɪfˈɔʎːʊm# | 26 : l j > ʎː 
-*#trˌɪfˈɔʎːʊ# | 30 : [+cons] > ∅ / __ #
-*#trˌefˈɔʎːʊ# | 44 : [+stres,-prim,+front,-tense] > ˌe 
-*#trˌefˈɔʎːu# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#trˌefˈoʎːu# | 51 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#trˌɪfˈɔljʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#trˌɪfˈɔʎːʊm# | 28 : l j > ʎː 
+*#trˌɪfˈɔʎːʊ# | 32 : [+cons] > ∅ / __ #
+*#trˌefˈɔʎːʊ# | 46 : [+stres,-prim,+front,-tense] > ˌe 
+*#trˌefˈɔʎːu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#trˌefˈoʎːu# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#trˌefˈoʎːu#
-*#trˌefˈoʎːə# | 80 : [-stres,-lo] > ə 
-*#tɾˌefˈoʎːə# | 91 : r > ɾ 
-*#tɾəfˈoʎːə# | 93 : [-prim,-hi,-lo] > ə 
-*#tɾəfˈojːə# | 94 : {ʎ;ʎː} > {j;jː} 
+*#trˌefˈoʎːə# | 85 : [-stres,-lo] > ə 
+*#tɾˌefˈoʎːə# | 96 : r > ɾ 
+*#tɾəfˈoʎːə# | 98 : [-prim,-hi,-lo] > ə 
+*#tɾəfˈojːə# | 99 : {ʎ;ʎː} > {j;jː} 
 Final form : *#tɾəfˈojːə#

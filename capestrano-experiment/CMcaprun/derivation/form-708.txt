@@ -1,16 +1,18 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 708:
-#ˌekklˈeːsiam# >>> *#kːjˈeʃa# ( GOLD : #kjˈesa#) :
-ˌe k k l ˈeː s i a m 
-*#ˌekklˈeːsjam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#ˌekklˈeːsjam#
-*#ˌɛkklˈeːsjam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɛkklˈesjam# | 12 : [+syl] > [-long,-splng] 
-*#ˌɛkklˈeʃam# | 27 : s j > ʃ 
-*#ˌɛkklˈeʃa# | 30 : [+cons] > ∅ / __ #
-*#ˌekklˈeʃa# | 44 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌekːlˈeʃa# | 58 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-*#ˌekːʎˈeʃa# | 59 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌekːʎˈeʃa#
-*#kːʎˈeʃa# | 81 : [-prim,-lo] > ∅ / # __
-*#kːjˈeʃa# | 94 : {ʎ;ʎː} > {j;jː} 
-Final form : *#kːjˈeʃa#
+#ˌadultˈerium# >>> *#aduldˈeɾjə# ( GOLD : #adultˈeɾjə#) :
+ˌa d u l t ˈe r i u m 
+*#ˌadultˈerjum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˌadultˈerjum#
+*#ˌadʊltˈɛrjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌadʊltˈɛrʲʊm# | 26 : r j > rʲ 
+*#ˌadʊltˈɛrʲʊ# | 32 : [+cons] > ∅ / __ #
+*#ˌadultˈɛrʲu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌadultˈerʲu# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌadultˈerʲu#
+*#ˌadultˈerju# | 70 : rʲ > r j / [+front,-lo,+syl] __ [+syl]
+*#ˌadˌultˈerju# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌadˌultˈerjə# | 85 : [-stres,-lo] > ə 
+*#ˌadˌuldˈerjə# | 90 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
+*#ˌadˌuldˈeɾjə# | 96 : r > ɾ 
+*#aduldˈeɾjə# | 102 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#aduldˈeɾjə#

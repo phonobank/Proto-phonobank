@@ -1,13 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 364:
-#kˌarrˈuːkula# >>> *#karːˈukwəla# ( GOLD : #karːˈukəla#) :
-k ˌa r r ˈuː k u l a 
-Proto-Romance stage form : *#kˌarrˈuːkula#
-*#kˌarrˈuːkʊla# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌarrˈukʊla# | 12 : [+syl] > [-long,-splng] 
-*#kˌarrˈukwʊla# | 39 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
-*#kˌarrˈukwula# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌarːˈukwula# | 58 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#kˌarːˈukwula#
-*#kˌarːˈukwəla# | 80 : [-stres,-lo] > ə 
-*#karːˈukwəla# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#karːˈukwəla#
+#kˈarkerem# >>> *#kˈaɾt͡ʃəɾə# ( GOLD : #kˈaɾt͡ʃələ#) :
+k ˈa r k e r e m 
+Proto-Romance stage form : *#kˈarkerem#
+*#kˈarkɛrɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈart͡ʃɛrɛm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#kˈart͡ʃɛrɛ# | 32 : [+cons] > ∅ / __ #
+*#kˈart͡ʃere# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈart͡ʃere#
+*#kˈart͡ʃərə# | 85 : [-stres,-lo] > ə 
+*#kˈaɾt͡ʃəɾə# | 96 : r > ɾ 
+Final form : *#kˈaɾt͡ʃəɾə#

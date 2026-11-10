@@ -1,8 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 648:
-#mˌeː# >>> *#mə# ( GOLD : #mə#) :
-m ˌeː 
-Proto-Romance stage form : *#mˌeː#
-*#mˌe# | 12 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#mˌe#
-*#mə# | 86 : [-prim,-lo] > ə / __ #
-Final form : *#mə#
+#mˈedium# >>> *#mːˈed͡ʒə# ( GOLD : #mˈæd͡zːə#) :
+m ˈe d i u m 
+*#mˈedjum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#mˈedjum#
+*#mˈɛdjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛd͡ʒʊm# | 23 : {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
+*#mˈɛd͡ʒʊ# | 32 : [+cons] > ∅ / __ #
+*#mˈɛd͡ʒu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˈed͡ʒu# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mːˈed͡ʒu# | 69 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#mːˈed͡ʒu#
+*#mːˈed͡ʒə# | 85 : [-stres,-lo] > ə 
+Final form : *#mːˈed͡ʒə#

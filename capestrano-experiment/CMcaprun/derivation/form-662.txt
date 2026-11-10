@@ -1,13 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 662:
-#mˌaːtˈeriam# >>> *#matˈæɾja# ( GOLD : #matˈæɾja#) :
-m ˌaː t ˈe r i a m 
-*#mˌaːtˈerjam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#mˌaːtˈerjam#
-*#mˌaːtˈɛrjam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌatˈɛrjam# | 12 : [+syl] > [-long,-splng] 
-*#mˌatˈɛrja# | 30 : [+cons] > ∅ / __ #
-*#mˌatˈærja# | 48 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#mˌatˈærja#
-*#mˌatˈæɾja# | 91 : r > ɾ 
-*#matˈæɾja# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#matˈæɾja#
+#mˈanika# >>> *#mˈanəka# ( GOLD : #mˈanika#) :
+m ˈa n i k a 
+Proto-Romance stage form : *#mˈanika#
+*#mˈanɪka# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈanika# | 25 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+Proto-South-Italo-Romance stage form : *#mˈanika#
+*#mˈanəka# | 85 : [-stres,-lo] > ə 
+Final form : *#mˈanəka#

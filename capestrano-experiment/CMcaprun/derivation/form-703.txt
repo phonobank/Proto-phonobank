@@ -1,8 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 703:
-#mˈelma# >>> *#mˈælma# ( GOLD : #mˈælma#) :
-m ˈe l m a 
-Proto-Romance stage form : *#mˈelma#
-*#mˈɛlma# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈælma# | 48 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#mˈælma#
-Final form : *#mˈælma#
+#stˌap͡ɸːˈine# >>> *#stapːˈenə# ( GOLD : #ʃtafːˈinə#) :
+s t ˌa p͡ɸː ˈi n e 
+Proto-Romance stage form : *#stˌap͡ɸːˈine#
+*#stˌap͡ɸːˈɪnɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#stˌap͡ɸːˈene# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#stˌap͡ɸːˈene#
+*#stˌap͡ɸːˈenə# | 85 : [-stres,-lo] > ə 
+*#stˌapːˈenə# | 89 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#stapːˈenə# | 102 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#stapːˈenə#

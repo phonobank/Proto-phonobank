@@ -1,14 +1,18 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 309:
-#ˌamaːtˈoːrem# >>> *#amatˈoɾə# ( GOLD : #amatˈoɾə#) :
-ˌa m aː t ˈoː r e m 
-Proto-Romance stage form : *#ˌamaːtˈoːrem#
-*#ˌamaːtˈoːrɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌamatˈorɛm# | 12 : [+syl] > [-long,-splng] 
-*#ˌamatˈorɛ# | 30 : [+cons] > ∅ / __ #
-*#ˌamatˈore# | 51 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌamatˈore#
-*#ˌamˌatˈore# | 78 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌamˌatˈorə# | 80 : [-stres,-lo] > ə 
-*#ˌamˌatˈoɾə# | 91 : r > ɾ 
-*#amatˈoɾə# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#amatˈoɾə#
+#hˌirˈundinellam# >>> *#ɾˈonːənælːa# ( GOLD : #ɾˈenːəla#) :
+h ˌi r ˈu n d i n e l l a m 
+*#ˌirˈundinellam# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˌirˈundinellam#
+*#ˌɪrˈʊndɪnɛllam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪrˈʊndɪnɛlla# | 32 : [+cons] > ∅ / __ #
+*#ˌerˈʊndɪnɛlla# | 46 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌerˈʊndɪnælla# | 50 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌerˈondɪnælla# | 51 : ˈʊ > ˈo / __ @ @
+*#ˌerˈondenælla# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌerˈonːenælla# | 56 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˌerˈonːenælːa# | 60 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#ˌerˈonːenælːa#
+*#ˌerˈonːənælːa# | 85 : [-stres,-lo] > ə 
+*#rˈonːənælːa# | 86 : [-prim,-lo] > ∅ / # __
+*#ɾˈonːənælːa# | 96 : r > ɾ 
+Final form : *#ɾˈonːənælːa#

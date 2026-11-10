@@ -1,9 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 470:
-#wˈespa# >>> *#vˈæspa# ( GOLD : #vˈæspa#) :
-w ˈe s p a 
-Proto-Romance stage form : *#wˈespa#
-*#wˈɛspa# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɛspa# | 41 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈæspa# | 48 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#vˈæspa#
-Final form : *#vˈæspa#
+#wˈallam# >>> *#vˈalːa# ( GOLD : #vˈalːa#) :
+w ˈa l l a m 
+Proto-Romance stage form : *#wˈallam#
+*#wˈalla# | 32 : [+cons] > ∅ / __ #
+*#vˈalla# | 43 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈalːa# | 60 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#vˈalːa#
+Final form : *#vˈalːa#

@@ -2,11 +2,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 #tˈepidum# >>> *#tˈepdə# ( GOLD : #tˈepədə#) :
 t ˈe p i d u m 
 Proto-Romance stage form : *#tˈepidum#
-*#tˈɛpɪdʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˈɛpɪdʊ# | 30 : [+cons] > ∅ / __ #
-*#tˈɛpdʊ# | 40 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#tˈɛpdu# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tˈepdu# | 51 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#tˈɛpɪdʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#tˈɛpɪdʊ# | 32 : [+cons] > ∅ / __ #
+*#tˈɛpdʊ# | 42 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+*#tˈɛpdu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tˈepdu# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#tˈepdu#
-*#tˈepdə# | 80 : [-stres,-lo] > ə 
+*#tˈepdə# | 85 : [-stres,-lo] > ə 
 Final form : *#tˈepdə#
