@@ -5,11 +5,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌekstraktjˈaː#
 *#ˌɛkstraktjˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɛkstraktjˈa# | 12 : [+syl] > [-long,-splng] 
-*#ˌɛsːtratːjˈa# | 19 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
-*#ˌɛstratːjˈa# | 23 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#ˌestratːjˈa# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌestrat͡ʃːjˈa# | 59 : tː > t͡ʃː / __ j
+*#ˌɛkstrat͡ʃːjˈa# | 20 : {k t;t} > {t͡ʃː;tʲ} / __ j
+*#ˌɛsːtrat͡ʃːjˈa# | 22 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛstrat͡ʃːjˈa# | 30 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˌestrat͡ʃːjˈa# | 42 : [+stres,-prim,+front,-tense] > ˌe 
 Proto-South-Italo-Romance stage form : *#ˌestrat͡ʃːjˈa#
-*#strat͡ʃːjˈa# | 78 : [-prim,-lo] > ∅ / # __
-*#stɾat͡ʃːjˈa# | 88 : r > ɾ 
+*#strat͡ʃːjˈa# | 79 : [-prim,-lo] > ∅ / # __
+*#stɾat͡ʃːjˈa# | 89 : r > ɾ 
 Final form : *#stɾat͡ʃːjˈa#

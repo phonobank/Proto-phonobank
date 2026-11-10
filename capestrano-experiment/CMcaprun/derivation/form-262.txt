@@ -1,10 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 262:
-#ˈanimam# >>> *#ˈanəma# ( GOLD : #ˈalma#) :
+#ˈanimam# >>> *#ˈanima# ( GOLD : #ˈalma#) :
 ˈa n i m a m 
 Proto-Romance stage form : *#ˈanimam#
 *#ˈanɪmam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈanɪma# | 21 : [+cons] > ∅ / __ #
-*#ˈanema# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈanema#
-*#ˈanəma# | 77 : [-stres,-lo] > ə 
-Final form : *#ˈanəma#
+*#ˈanimam# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˈanima# | 28 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈanima#
+*#ˈanˌima# | 76 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈanima# | 95 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈanima#

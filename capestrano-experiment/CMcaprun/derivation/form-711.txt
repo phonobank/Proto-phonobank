@@ -1,12 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 711:
-#kʰrˌiːstiˈaːniː# >>> *#kɾistjˈanə# ( GOLD : #kɾistiˈenə#) :
+#kʰrˌiːstiˈaːniː# >>> *#kɾistʲjˈanə# ( GOLD : #kɾistiˈenə#) :
 kʰ r ˌiː s t i ˈaː n iː 
 *#krˌiːstiˈaːniː# | 6 : [+cons] > [-sg] 
 *#krˌiːstjˈaːniː# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#krˌiːstjˈaːniː#
 *#krˌistjˈani# | 12 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#krˌistjˈani#
-*#krˌistjˈanə# | 77 : [-stres,-lo] > ə 
-*#kɾˌistjˈanə# | 88 : r > ɾ 
-*#kɾistjˈanə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kɾistjˈanə#
+*#krˌistʲjˈani# | 20 : {k t;t} > {t͡ʃː;tʲ} / __ j
+Proto-South-Italo-Romance stage form : *#krˌistʲjˈani#
+*#krˌistʲjˈanə# | 78 : [-stres,-lo] > ə 
+*#kɾˌistʲjˈanə# | 89 : r > ɾ 
+*#kɾistʲjˈanə# | 95 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kɾistʲjˈanə#

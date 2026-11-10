@@ -1,12 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 564:
-#pˈuteum# >>> *#pˈotjə# ( GOLD : #pˈut͡sːə#) :
+#pˈuteum# >>> *#pˈotʲjə# ( GOLD : #pˈut͡sːə#) :
 p ˈu t e u m 
 *#pˈutjum# | 9 : e > j / __ [+back]
 Proto-Romance stage form : *#pˈutjum#
 *#pˈʊtjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈʊtjʊ# | 21 : [+cons] > ∅ / __ #
-*#pˈʊtju# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˈotju# | 43 : ˈʊ > ˈo / __ @ @
-Proto-South-Italo-Romance stage form : *#pˈotju#
-*#pˈotjə# | 77 : [-stres,-lo] > ə 
-Final form : *#pˈotjə#
+*#pˈʊtʲjʊm# | 20 : {k t;t} > {t͡ʃː;tʲ} / __ j
+*#pˈʊtʲjʊ# | 28 : [+cons] > ∅ / __ #
+*#pˈʊtʲju# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˈotʲju# | 47 : ˈʊ > ˈo / __ @ @
+Proto-South-Italo-Romance stage form : *#pˈotʲju#
+*#pˈotʲjə# | 78 : [-stres,-lo] > ə 
+Final form : *#pˈotʲjə#

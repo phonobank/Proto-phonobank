@@ -4,12 +4,12 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌeksmowˈeː#
 *#ˌɛksmɔwˈeː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɛksmɔwˈe# | 12 : [+syl] > [-long,-splng] 
-*#ˌɛsːmɔwˈe# | 19 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
-*#ˌɛsːmɔvˈe# | 34 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#ˌesːmɔvˈe# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌesːmovˈe# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌesːmːovˈe# | 63 : m > mː / __ [+syl] [+cons] [+syl] #
+*#ˌɛsːmɔwˈe# | 22 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛsːmɔvˈe# | 39 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#ˌesːmɔvˈe# | 42 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌesːmovˈe# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌesːmːovˈe# | 65 : m > mː / __ [+syl] [+cons] [+syl] #
 Proto-South-Italo-Romance stage form : *#ˌesːmːovˈe#
-*#ˌesːmːəvˈe# | 77 : [-stres,-lo] > ə 
-*#sːmːəvˈe# | 78 : [-prim,-lo] > ∅ / # __
+*#ˌesːmːəvˈe# | 78 : [-stres,-lo] > ə 
+*#sːmːəvˈe# | 79 : [-prim,-lo] > ∅ / # __
 Final form : *#sːmːəvˈe#

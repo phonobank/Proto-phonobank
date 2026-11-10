@@ -1,19 +1,19 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 75:
-#sˌanktufrˌankˈiskum# >>> *#saŋdəfɾaŋd͡ʒˈeskə# ( GOLD : #sambɾanʃˈiskə#) :
+#sˌanktufrˌankˈiskum# >>> *#saŋdəfɾand͡ʒˈiskə# ( GOLD : #sambɾanʃˈiskə#) :
 s ˌa n k t u f r ˌa n k ˈi s k u m 
 *#sˌaŋktufrˌaŋkˈiskum# | 1 : n > ŋ / __ [+back,+cons]
 Proto-Romance stage form : *#sˌaŋktufrˌaŋkˈiskum#
 *#sˌaŋktʊfrˌaŋkˈɪskʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌaŋtːʊfrˌaŋkˈɪskʊm# | 19 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
-*#sˌaŋtːʊfrˌaŋkˈɪskʊ# | 21 : [+cons] > ∅ / __ #
-*#sˌaŋtʊfrˌaŋkˈɪskʊ# | 23 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#sˌaŋtʊfrˌaŋt͡ʃˈɪskʊ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#sˌaŋtufrˌaŋt͡ʃˈɪsku# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sˌaŋtufrˌaŋt͡ʃˈesku# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˌaŋtufrˌaŋt͡ʃˈesku#
-*#sˌaŋtufraŋt͡ʃˈesku# | 74 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#sˌaŋtəfraŋt͡ʃˈeskə# | 77 : [-stres,-lo] > ə 
-*#sˌaŋdəfraŋd͡ʒˈeskə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#sˌaŋdəfɾaŋd͡ʒˈeskə# | 88 : r > ɾ 
-*#saŋdəfɾaŋd͡ʒˈeskə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#saŋdəfɾaŋd͡ʒˈeskə#
+*#sˌaŋktʊfrˌant͡ʃˈɪskʊm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#sˌaŋtːʊfrˌant͡ʃˈɪskʊm# | 22 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#sˌaŋtːʊfrˌant͡ʃˈiskʊm# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#sˌaŋtːʊfrˌant͡ʃˈiskʊ# | 28 : [+cons] > ∅ / __ #
+*#sˌaŋtʊfrˌant͡ʃˈiskʊ# | 30 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#sˌaŋtufrˌant͡ʃˈisku# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˌaŋtufrˌant͡ʃˈisku#
+*#sˌaŋtufrant͡ʃˈisku# | 75 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#sˌaŋtəfrant͡ʃˈiskə# | 78 : [-stres,-lo] > ə 
+*#sˌaŋdəfrand͡ʒˈiskə# | 81 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#sˌaŋdəfɾand͡ʒˈiskə# | 89 : r > ɾ 
+*#saŋdəfɾand͡ʒˈiskə# | 95 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#saŋdəfɾand͡ʒˈiskə#

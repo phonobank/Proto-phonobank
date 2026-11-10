@@ -3,13 +3,13 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 b ˌo t ˈe l l u m 
 Proto-Romance stage form : *#bˌotˈellum#
 *#bˌɔtˈɛllʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˌɔtˈɛllʊ# | 21 : [+cons] > ∅ / __ #
-*#bˌotˈɛllu# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#bˌotˈellu# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#bˌotˈelːu# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#bˌɔtˈɛllʊ# | 28 : [+cons] > ∅ / __ #
+*#bˌotˈɛllu# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#bˌotˈellu# | 49 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#bˌotˈelːu# | 56 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#bˌotˈelːu#
-*#bˌotˈeʎːu# | 65 : lː > ʎː / __ [+hi]
-*#bˌotˈeʎːə# | 77 : [-stres,-lo] > ə 
-*#bətˈeʎːə# | 90 : [-prim,-hi,-lo] > ə 
-*#bətˈejːə# | 91 : {ʎ;ʎː} > {j;jː} 
+*#bˌotˈeʎːu# | 67 : lː > ʎː / __ [+hi]
+*#bˌotˈeʎːə# | 78 : [-stres,-lo] > ə 
+*#bətˈeʎːə# | 91 : [-prim,-hi,-lo] > ə 
+*#bətˈejːə# | 92 : {ʎ;ʎː} > {j;jː} 
 Final form : *#bətˈejːə#

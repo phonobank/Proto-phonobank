@@ -1,15 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 301:
-#ˌapplˌikˈaː# >>> *#appːjəkˈa# ( GOLD : #apːjəkˈa#) :
+#ˌapplˌikˈaː# >>> *#appːjikˈa# ( GOLD : #apːjəkˈa#) :
 ˌa p p l ˌi k ˈaː 
 Proto-Romance stage form : *#ˌapplˌikˈaː#
 *#ˌapplˌɪkˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌapplˌɪkˈa# | 12 : [+syl] > [-long,-splng] 
-*#ˌapplˌekˈa# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌappːlˌekˈa# | 52 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
-*#ˌappːʎˌekˈa# | 54 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌappːʎˌekˈa#
-*#ˌappːʎekˈa# | 74 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌappːʎəkˈa# | 77 : [-stres,-lo] > ə 
-*#ˌappːjəkˈa# | 91 : {ʎ;ʎː} > {j;jː} 
-*#appːjəkˈa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#appːjəkˈa#
+*#ˌapplˌikˈa# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌappːlˌikˈa# | 55 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
+*#ˌappːʎˌikˈa# | 57 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#ˌappːʎˌikˈa#
+*#ˌappːʎikˈa# | 75 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌappːʎˌikˈa# | 76 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌappːjˌikˈa# | 92 : {ʎ;ʎː} > {j;jː} 
+*#appːjikˈa# | 95 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#appːjikˈa#

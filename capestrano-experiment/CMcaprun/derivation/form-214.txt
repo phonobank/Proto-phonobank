@@ -5,13 +5,13 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌinˌeːbrjaːkˈoːnem#
 *#ˌɪnˌeːbrjaːkˈoːnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɪnˌebrjakˈonɛm# | 12 : [+syl] > [-long,-splng] 
-*#ˌɪnˌebrjakˈonɛ# | 21 : [+cons] > ∅ / __ #
-*#ˌenˌebrjakˈonɛ# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenˌebrjakˈone# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌenˌebːrjakˈone# | 56 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+*#ˌɪnˌebrjakˈonɛ# | 28 : [+cons] > ∅ / __ #
+*#ˌenˌebrjakˈonɛ# | 42 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenˌebrjakˈone# | 49 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌenˌebːrjakˈone# | 58 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
 Proto-South-Italo-Romance stage form : *#ˌenˌebːrjakˈone#
-*#ˌenebːrjakˈone# | 74 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌenəbːrjakˈonə# | 77 : [-stres,-lo] > ə 
-*#nəbːrjakˈonə# | 78 : [-prim,-lo] > ∅ / # __
-*#nəbːɾjakˈonə# | 88 : r > ɾ 
+*#ˌenebːrjakˈone# | 75 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌenəbːrjakˈonə# | 78 : [-stres,-lo] > ə 
+*#nəbːrjakˈonə# | 79 : [-prim,-lo] > ∅ / # __
+*#nəbːɾjakˈonə# | 89 : r > ɾ 
 Final form : *#nəbːɾjakˈonə#

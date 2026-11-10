@@ -3,11 +3,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 w ˈe n t u m 
 Proto-Romance stage form : *#wˈentum#
 *#wˈɛntʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈɛntʊ# | 21 : [+cons] > ∅ / __ #
-*#vˈɛntʊ# | 34 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈɛntu# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vˈentu# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˈɛntʊ# | 28 : [+cons] > ∅ / __ #
+*#vˈɛntʊ# | 39 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈɛntu# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vˈentu# | 49 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˈentu#
-*#vˈentə# | 77 : [-stres,-lo] > ə 
-*#vˈendə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#vˈentə# | 78 : [-stres,-lo] > ə 
+*#vˈendə# | 81 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
 Final form : *#vˈendə#

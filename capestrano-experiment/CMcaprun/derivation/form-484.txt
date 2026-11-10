@@ -4,10 +4,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 *#ˈuŋɡulam# | 1 : n > ŋ / __ [+back,+cons]
 Proto-Romance stage form : *#ˈuŋɡulam#
 *#ˈʊŋɡʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈʊŋɡʊla# | 21 : [+cons] > ∅ / __ #
-*#ˈʊŋɡwʊla# | 32 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
-*#ˈʊŋɡwula# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈoŋɡwula# | 43 : ˈʊ > ˈo / __ @ @
+*#ˈʊŋɡʊla# | 28 : [+cons] > ∅ / __ #
+*#ˈʊŋɡwʊla# | 37 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#ˈʊŋɡwula# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈoŋɡwula# | 47 : ˈʊ > ˈo / __ @ @
 Proto-South-Italo-Romance stage form : *#ˈoŋɡwula#
-*#ˈoŋɡwəla# | 77 : [-stres,-lo] > ə 
+*#ˈoŋɡwəla# | 78 : [-stres,-lo] > ə 
 Final form : *#ˈoŋɡwəla#

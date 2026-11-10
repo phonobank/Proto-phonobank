@@ -3,11 +3,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 p ˈe r s i k a m 
 Proto-Romance stage form : *#pˈersikam#
 *#pˈɛrsɪkam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɛrsɪka# | 21 : [+cons] > ∅ / __ #
-*#pˈærsɪka# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#pˈærseka# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˈærseka#
-*#pˈært͡seka# | 68 : s > t͡s / r __
-*#pˈært͡səka# | 77 : [-stres,-lo] > ə 
-*#pˈæɾt͡səka# | 88 : r > ɾ 
+*#pˈɛrsikam# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#pˈɛrsika# | 28 : [+cons] > ∅ / __ #
+*#pˈærsika# | 46 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+Proto-South-Italo-Romance stage form : *#pˈærsika#
+*#pˈært͡sika# | 70 : s > t͡s / r __
+*#pˈært͡səka# | 78 : [-stres,-lo] > ə 
+*#pˈæɾt͡səka# | 89 : r > ɾ 
 Final form : *#pˈæɾt͡səka#

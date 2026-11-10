@@ -3,12 +3,12 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 ˌa t l ˈa n t i k u m 
 Proto-Romance stage form : *#ˌatlˈantikum#
 *#ˌatlˈantɪkʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌatlˈantɪkʊ# | 21 : [+cons] > ∅ / __ #
-*#ˌatlˈantɪku# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌatlˈanteku# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌatlˈanteku#
-*#ˌatːlˈanteku# | 69 : t > tː / __ l
-*#ˌatːlˈantəkə# | 77 : [-stres,-lo] > ə 
-*#ˌatːlˈandəkə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#atːlˈandəkə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌatlˈantikʊm# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌatlˈantikʊ# | 28 : [+cons] > ∅ / __ #
+*#ˌatlˈantiku# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌatlˈantiku#
+*#ˌatːlˈantiku# | 71 : t > tː / __ l
+*#ˌatːlˈantəkə# | 78 : [-stres,-lo] > ə 
+*#ˌatːlˈandəkə# | 81 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#atːlˈandəkə# | 95 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#atːlˈandəkə#

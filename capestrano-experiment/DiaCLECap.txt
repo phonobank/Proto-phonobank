@@ -39,6 +39,7 @@ $ LIa, LIIa LIVa LIVb etc -- loss of distinctive vowel length
 $ LXVIIa dissimilatory kw... kw to k ... k. Feeds LXIIc
 k w > k / # __ (@)* k w 
 
+
 $LXXXa Italo-Romance gn /ŋn to jn 
 [+back,+cons] > j / __ n
 
@@ -49,17 +50,65 @@ $LXIVb -- fIX, personal inference -- g > gg to become d͡ʒː in before ɛ stres
 	$LXIVc gg > g in # __ ɛ C V -- gelum gelōnem genuculum generum genestram 
 ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
 
-
 $ development of dark L -- FIX exec decis. -- before k V. Similar things may happen before s -- falsum > fald͡zə , favət͡sə-- but not enough data. -- LXXXIb 
 l > lˠ / __ k [-cons] 
 
 $LXXIXd dv to vv, dm to mm; throw in db and dp while at it
 d [+lab,+cons] > ∅ [+long]
 
-$ LXXIXc, LXXXIIIa, LXXXV Italo-Romance kt, bt, pt to tt and ps, ks to ss
-	$subsumed $ LXXIXb bs > ss, bt > tt. 
-		${b s;b t} > {s s;t t}
-[-cont,-cor] [+cor,-voi] > ∅ [+long]
+
+$ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidism. Counterbled by ɛ metaphony LIIc, and by reduction to schwa. 
+	$ Attributed to 2nd century on page 72. Affrication of g attributed to be as early as 1st century on page 74. 
+			$ MANUAL FIX: ŋ to n as well 
+{ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons] 
+		$ integrate ICIb and ICIc ktj phenomena
+		$ integrate ICIIIb tj > tsj 
+			$ og: {k t;t} > {t͡ʃː;t͡sʲ} / __ j 
+	$ fix -- passed to tʲ because this patterns as palatal non-strident in avaritia in A1
+{k t;t} > {t͡ʃː;tʲ} / __ j 
+
+$ LXXIIIa ,LXXIIIb dj and gj variously to jj dzː or d͡ʒː , he's indecisvie... 
+$ gj dj etc go to d͡ʒ -- EXECUTIVE DECISION -- dj > zz cases (e.g. mæzzə) seem to be likely Tuscan loans. 
+	$ MANUAL FIX: ŋ to n as well 
+{n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː}
+
+
+$ LXXIXc LXXXVx Italo-Romance kt, bt, pt to tt and ps, ks to ss
+	$coded so it can handle an intermediate xt or xs if necessary, or even çt çs
+[+hi,-son] [+cor,-son] > ∅ [+long]
+
+$ MANUAL FIX RULE A1 -- ˈɪ appears to tense back to ˈi before peripheral non-stridents, including tʲ > t͡sʲ but not t͡ʃ;
+		$ can see thru s 
+	$ before sk : sanctufranciscum > sambranʃiskə
+	$ before k : lenticula, craticula, picculu, picru, butticula, moricolum 
+	$ before p : iuniperum/iunipelum, 
+			$ does occur before ps : ipse > issə 
+	$ before b -- tributum > tribːutə
+		$ previously covered by LIC but works better here
+			$ before tj : avaritsja 
+		$ not before tt: mitte > mettə, sagitta > saettə, littera > lettərə 
+			$ not before kt > tt : strictum > strettə
+		$ not before st͡ʃ, t͡ʃ -- stridents -- thus bled by LXIIc: piscem, picem, picea 
+	$ not before f,v -- stridents -- 
+	$ before ɲ: tinea etc 
+	$ before ʎ: liliu etc 
+	$ before g > j : digitu, digitone
+	$ altho this is seen elsewhere (French seems to inherit crāticula as if it was crātīcula, long ī...), 
+		$ it is BLED by LXXIXc Italo-Romance kt > tt, so seems to be secondary
+			$ unless we reconceive a pan-Romance kt > xt, which becomes tt in Italo-Romance...
+	$ This also resembles the Classical Proto-Albanian i-tensing rule...
+[+hi,+front,+syl] > [+tense] / __ ([+cor]) [-syl,blab,-bhi,-strid]
+
+$ LVXXb nj to ɲ
+n j > ɲ 
+
+$ LXIVa -- lj to ʎʎ; have inferred from other Italo-Romance and etc.
+l j > ʎː 
+
+$LXXIXb LXXXIIIa bs > ss, bt > tt. 
+	$Separate from LXXIXc kt > tt at least, bc LXXIXc feeds A1, and this doesn't
+			$ strictum > strettə vs ipse > issə
+[+lab,-son] [+cor,-son] > ∅ [+long]
 
 $ ICIVb final s to j in monosyllables tentatively. Bleeds ICIVa
 s > j / # ([-syl])* [+syl] ([-syl]) __ #
@@ -72,10 +121,7 @@ $ LXXIXe semi-bandaid -- degeminate geminates in clusters, except when second el
 	$ bst > st not sst etc; mpt , nct > nt , later to nd ,etc.
 [+cons] [-son] > [-long] [-long] 
 
-$ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidism. Counterbled by ɛ metaphony LIIc, and by reduction to schwa. Attributed to 2nd century on page 72. Affrication of g attributed to be as early as 1st century on page 74. 
-{k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons] 
-		$ integrate ICIb and ICIc ktj phenomena
-k t > t͡ʃː / __ j 
+
 
 $ LXXXId lt, lk to rt, rk if there's lateral later in word. Bleeds LXXXf. FIX -- this also happens to lp -- scalpellum > ʃkarpejjə. Just assume all stops at this point.
 l > r / __ [-cont] (@)* [+lat] 
@@ -126,7 +172,6 @@ w > v / # ((@)* [+son]) __ [-cons]
 
 $ TODO HERE remaining secondary clusters to account for per Fontecchio
 	$ LXXXVIIc
-
 	$ būksida
 	$ off(ˌe)rˈiː > uffrí; aperˈī to apri ; suff(ˌe)rˈī > səffri, opera > opra 
 	$ cubitum : vutə, volvita : vota: digitum, digitone
@@ -154,8 +199,8 @@ $ TODO HERE remaining secondary clusters to account for per Fontecchio
 		$ alter(um) : atrə ; alterī > etrə
 	
 			$ misc exclusion : sedecim , suffocā > səffəkˈa, littera, lacrima, lucertula, ra̍sica, inimīcu, ignoranta, edera, episcopum, atlanticu, adriˈaticu, animalem, arborem, africa, cititas, cimicem, carricā, carcerem > kart͡ʃələ, carbonarium, cap(i)sterium , capti(a)torem, cond(i)cionem, cons(o)brīnum, cons(ū)tūra, generum, quindecim , quinquecentum, viperam , umida , organum, professiōnem (? may be loan), piscātōrem, persica, pec(o)rārium, part(ī)tionem , pag(i)na, populī, basil(i̠)cam , fatiga , fiasciatura, medicum, maxillāre, māchina, māchinˈā, morsicā, mulinārium
-
-					$ not before high ū >ju : erūcula , guttula, asinum 
+						$, guttula, asinum 
+		$ not before high ū >ju : erūcula 
 		$ not before i ? ː populī to popələ
 		$ not medaited by consonant : calcula 	
 		$ not after voiced : tabula nūbila incūdula > nkudəla etc
@@ -178,7 +223,10 @@ $ LVIIIb countertonic ɔ and ʊ tense to o and u
 $ LIc (stressed?) ɪ raises back to i "when followed by a syllable containing yod or a palatal". Not shared with West Romance but shared with Italo-Romance (and Albano-Latin?): consilium > Ital consiglio, Sic cunzigghiu, Alb këshill, vs. Venetan conséjo, Sp consejo, French conseil, Friul consei, Cat consell. ; cilium > ital ciglio, Sic cicgghiu, (Pied sign, Rom zida, French cil) vs Romansch tschegl, Venet cegia, Emilian zejja, Port celha, Sp cejo etc. ; leenticula > Ital lenticchia vs Sp lenteja, etc. French has it sometimes before ʎ separately. But Capestrano doesn't have it in auriculam > rekkja, or piscem > peʃʃe, or vicncere > vend͡ʒe (is this a french loan? from vindicare?) 
 	$ fed by iotation and/or yod coalescence-- avaritia, consiliu, ciliu
 	$ fed by kulV > kj : lenticula, butticula 
-[+hi,+front,+syl] > [+tense] / __ ([-syl])* [+front,-syl]
+	$ MANUAL FIX -- subsumed into A1
+		$ kj tj cases covered, A1 also covers cases before p and k that doesn't go to kj e.g. picrum etc
+	$ other applications appear to be wrong, e.g those before t͡ʃ or s t͡ʃ 
+$[+hi,+front,+syl] > [+tense] / __ ([-syl])* [+front,-syl]
 
 $ LXXXb jn to ɲː in unclear circumstances. FIX -- inference , manual --when next to a non-low front vowel on either side. jn preserved in agnum, cognatum. 
 j n > ɲː / [+front,-lo,+syl] __
@@ -212,13 +260,21 @@ $ we're working with ɔ not ɒ-tense -- BANDAID
 
 $ LXXXVIIb -- FIX; MANUAL INFERENCE 
 	$ further deletions of atonic round vowels --  
-	$ -- unstressed u/ʊ lost (per LVIIIb, it's u) in á,ɔ́,ó (not uǃ) C̥* __ l a,o,u.
-	$ examples -- macula : makkja; masculum; assula; spatula; copula, genuculum > jənˈokːjə, oculum, peduculum > pədokːjə 
-		$ not before high ū >ju : erūcula , guttula, asinum 
-		$ not before i ? ː populī to popələ
-		$ not medaited by consonant : calcula 	
+	$ atonic u/ʊ lost in á,ɔ́,ó (not uǃ) C̥* __ l a,o,u.
+		$ C̥ = voiceless consonant.
+	$ examples 
+				$ a -- macula : makkja; masculum; assula; spatula; 
+				$ ˈo > ˈɔ : copula, oculum
+				$ ˈu > ˈʊ > ˈo : genuculum > jənˈokːjə, , peduculum > pədokːjə 
+				$ arguably ˈi > ˈɪ : auricula > rek:jə, 
+		$ not after ū > u : erūcula >  ruːkəla, carrūcula > karrukəla  
+		$ not if voiced cons involved: calcula
+				$ not before i ? ː populī to popələ
+		$ not after voiced: rēgula, fragula , calcula, angulu etc. 
+		$ unexplained exception: guttula
+		$ not mediated by consonant :  	
 		$ not after voiced : tabula nūbila incūdula > nkudəla etc
-			$ and-or not after front : rēgula
+			$ and-or not after front : 
 		$ not after non-low front: tepidum , saeculum, picculum , morriculum 
 		$ not before r , or not to e : socerum, socera, 
 [-prim,+round] > ∅ / [+stres,alo,-around] ([-voi])+ __ l [-stres,ælo,-æround]
@@ -236,8 +292,6 @@ $ LIVd ag > aw, feeding LIIc
 $ LIVc aw > o. FIX -- only preconsonantal
 [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 
-$ LVXXb nj to ɲ
-n j > ɲ 
 
 $ LXXXIb pl and pr to ppl , ppr unless initial syllable. Counterbled by LVXIXb
 p > pː / [+syl] (@)* __ [+son,+cor,-nas] 
@@ -250,9 +304,6 @@ $ LVXIXb palatalization of postobstruental l. Fed by syncope in fibula > fibbja 
 l > ʎ / [-son,-cor] __ 
 
 $ LXXXVa -- bl to bbl in obliga, but this is an isolated case, exec decis to not make rule 
-
-$ LXIVa -- lj to ʎʎ; have inferred from other Italo-Romance and etc.
-l j > ʎː 
 
 $ LXIXd bj to bbj and LXXIXa br and bl to bbr and bbl Fed by LVXIXb. Bleeds LXXc
 b > bː / __ [rcor,-rfront,+son,-nas,-syl] 
@@ -315,9 +366,6 @@ s > t͡s / r __
 $ LXXXIVb medial tl to ttl
 t > tː / __ l 
 
-$ LXXIIIa ,LXXIIIb dj and gj variously to jj dzː or d͡ʒː , he's indecisvie... 
-$ gj dj etc go to d͡ʒ -- EXECUTIVE DECISION -- dj > zz cases (e.g. mæzzə) seem to be likely Tuscan loans. 
-{d j;dː j;ɡ j;ɡː j} > {d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː}
 
 $ XXXIb s , ss to ʃ, ʃʃ in unclear contexts but all seemingly after a? TODO revise. He attributes to the Arabic superstrate from Saracen rule in the 6th to 8th centuries.
 {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]

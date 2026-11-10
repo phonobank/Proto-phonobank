@@ -5,11 +5,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌiŋkˈuːdulam#
 *#ˌɪŋkˈuːdʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɪŋkˈudʊlam# | 12 : [+syl] > [-long,-splng] 
-*#ˌɪŋkˈudʊla# | 21 : [+cons] > ∅ / __ #
-*#ˌeŋkˈudʊla# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌeŋkˈudula# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌeŋkˈudula#
-*#ˌeŋkˈudəla# | 77 : [-stres,-lo] > ə 
-*#ŋkˈudəla# | 78 : [-prim,-lo] > ∅ / # __
-*#ŋɡˈudəla# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ˌiŋkˈudʊlam# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌiŋkˈudʊla# | 28 : [+cons] > ∅ / __ #
+*#ˌiŋkˈudula# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌiŋkˈudula#
+*#ˌiŋkˈudəla# | 78 : [-stres,-lo] > ə 
+*#ŋkˈudəla# | 79 : [-prim,-lo] > ∅ / # __
+*#ŋɡˈudəla# | 81 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
 Final form : *#ŋɡˈudəla#

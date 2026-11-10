@@ -3,10 +3,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 w ˈoː s 
 Proto-Romance stage form : *#wˈoːs#
 *#wˈos# | 12 : [+syl] > [-long,-splng] 
-*#wˈoj# | 20 : s > j / # ( [-syl] )* [+syl] ( [-syl] ) __ #
-*#vˈoj# | 34 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈuj# | 35 : [+syl,+round] > [+hi] / __ j
-*#vˈu# | 36 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
+*#wˈoj# | 27 : s > j / # ( [-syl] )* [+syl] ( [-syl] ) __ #
+*#vˈoj# | 39 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈuj# | 40 : [+syl,+round] > [+hi] / __ j
+*#vˈu# | 41 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
 Proto-South-Italo-Romance stage form : *#vˈu#
-*#ɡˈu# | 92 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+*#ɡˈu# | 93 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
 Final form : *#ɡˈu#

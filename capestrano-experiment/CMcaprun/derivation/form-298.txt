@@ -4,11 +4,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌaprˈiːlem#
 *#ˌaprˈiːlɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌaprˈilɛm# | 12 : [+syl] > [-long,-splng] 
-*#ˌaprˈilɛ# | 21 : [+cons] > ∅ / __ #
-*#ˌaprˈile# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌapːrˈile# | 52 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
+*#ˌaprˈilɛ# | 28 : [+cons] > ∅ / __ #
+*#ˌaprˈile# | 49 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌapːrˈile# | 55 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
 Proto-South-Italo-Romance stage form : *#ˌapːrˈile#
-*#ˌapːrˈilə# | 77 : [-stres,-lo] > ə 
-*#ˌapːɾˈilə# | 88 : r > ɾ 
-*#apːɾˈilə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌapːrˈilə# | 78 : [-stres,-lo] > ə 
+*#ˌapːɾˈilə# | 89 : r > ɾ 
+*#apːɾˈilə# | 95 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#apːɾˈilə#

@@ -1,13 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 247:
-#ˌepˈiskopum# >>> *#pˈeskəpə# ( GOLD : #vˈeskəvə#) :
+#ˌepˈiskopum# >>> *#pˈiskəpə# ( GOLD : #vˈeskəvə#) :
 ˌe p ˈi s k o p u m 
 Proto-Romance stage form : *#ˌepˈiskopum#
 *#ˌɛpˈɪskɔpʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɛpˈɪskɔpʊ# | 21 : [+cons] > ∅ / __ #
-*#ˌepˈɪskɔpʊ# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌepˈɪskopu# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌepˈeskopu# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌepˈeskopu#
-*#ˌepˈeskəpə# | 77 : [-stres,-lo] > ə 
-*#pˈeskəpə# | 78 : [-prim,-lo] > ∅ / # __
-Final form : *#pˈeskəpə#
+*#ˌɛpˈiskɔpʊm# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌɛpˈiskɔpʊ# | 28 : [+cons] > ∅ / __ #
+*#ˌepˈiskɔpʊ# | 42 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌepˈiskopu# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌepˈiskopu#
+*#ˌepˈiskəpə# | 78 : [-stres,-lo] > ə 
+*#pˈiskəpə# | 79 : [-prim,-lo] > ∅ / # __
+Final form : *#pˈiskəpə#

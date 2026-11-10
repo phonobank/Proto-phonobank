@@ -3,10 +3,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 b ˌa s ˈi l i k a m 
 Proto-Romance stage form : *#bˌasˈilikam#
 *#bˌasˈɪlɪkam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˌasˈɪlɪka# | 21 : [+cons] > ∅ / __ #
-*#bˌasˈeleka# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#bˌasˈeleka#
-*#bˌaʃˈeleka# | 71 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#bˌaʃˈeləka# | 77 : [-stres,-lo] > ə 
-*#baʃˈeləka# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+*#bˌasˈɪlikam# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#bˌasˈɪlika# | 28 : [+cons] > ∅ / __ #
+*#bˌasˈelika# | 49 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#bˌasˈelika#
+*#bˌaʃˈelika# | 72 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#bˌaʃˈeləka# | 78 : [-stres,-lo] > ə 
+*#baʃˈeləka# | 95 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#baʃˈeləka#

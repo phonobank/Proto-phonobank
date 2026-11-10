@@ -4,12 +4,12 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌinimˈiːkum#
 *#ˌɪnɪmˈiːkʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɪnɪmˈikʊm# | 12 : [+syl] > [-long,-splng] 
-*#ˌɪnɪmˈikʊ# | 21 : [+cons] > ∅ / __ #
-*#ˌenɪmˈikʊ# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenɪmˈiku# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌenemˈiku# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌenemːˈiku# | 63 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#ˌenemːˈiku#
-*#ˌenəmːˈikə# | 77 : [-stres,-lo] > ə 
-*#nəmːˈikə# | 78 : [-prim,-lo] > ∅ / # __
+*#ˌɪnimˈikʊm# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌɪnimˈikʊ# | 28 : [+cons] > ∅ / __ #
+*#ˌenimˈikʊ# | 42 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenimˈiku# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌenimːˈiku# | 65 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#ˌenimːˈiku#
+*#ˌenəmːˈikə# | 78 : [-stres,-lo] > ə 
+*#nəmːˈikə# | 79 : [-prim,-lo] > ∅ / # __
 Final form : *#nəmːˈikə#

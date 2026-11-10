@@ -3,10 +3,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 ˈa s k i a m 
 *#ˈaskjam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˈaskjam#
-*#ˈaskja# | 21 : [+cons] > ∅ / __ #
-*#ˈast͡ʃja# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#ˈaʃja# | 58 : s t͡ʃ > ʃ 
+*#ˈast͡ʃjam# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#ˈast͡ʃja# | 28 : [+cons] > ∅ / __ #
+*#ˈaʃja# | 60 : s t͡ʃ > ʃ 
 Proto-South-Italo-Romance stage form : *#ˈaʃja#
-*#ˈaʃjˌa# | 75 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈaʃja# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˈaʃjˌa# | 76 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈaʃja# | 95 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#ˈaʃja#

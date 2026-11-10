@@ -3,10 +3,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 n ˈu k e m 
 Proto-Romance stage form : *#nˈukem#
 *#nˈʊkɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#nˈʊkɛ# | 21 : [+cons] > ∅ / __ #
-*#nˈʊt͡ʃɛ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#nˈot͡ʃɛ# | 43 : ˈʊ > ˈo / __ @ @
-*#nˈot͡ʃe# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#nˈʊt͡ʃɛm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#nˈʊt͡ʃɛ# | 28 : [+cons] > ∅ / __ #
+*#nˈot͡ʃɛ# | 47 : ˈʊ > ˈo / __ @ @
+*#nˈot͡ʃe# | 49 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#nˈot͡ʃe#
-*#nˈot͡ʃə# | 77 : [-stres,-lo] > ə 
+*#nˈot͡ʃə# | 78 : [-stres,-lo] > ə 
 Final form : *#nˈot͡ʃə#

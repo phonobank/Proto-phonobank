@@ -3,12 +3,12 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 d ˈu p l u m 
 Proto-Romance stage form : *#dˈuplum#
 *#dˈʊplʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈʊplʊ# | 21 : [+cons] > ∅ / __ #
-*#dˈʊplu# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dˈoplu# | 43 : ˈʊ > ˈo / __ @ @
-*#dˈopːlu# | 52 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
-*#dˈopːʎu# | 54 : l > ʎ / [-son,-cor] __
+*#dˈʊplʊ# | 28 : [+cons] > ∅ / __ #
+*#dˈʊplu# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dˈoplu# | 47 : ˈʊ > ˈo / __ @ @
+*#dˈopːlu# | 55 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
+*#dˈopːʎu# | 57 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#dˈopːʎu#
-*#dˈopːʎə# | 77 : [-stres,-lo] > ə 
-*#dˈopːjə# | 91 : {ʎ;ʎː} > {j;jː} 
+*#dˈopːʎə# | 78 : [-stres,-lo] > ə 
+*#dˈopːjə# | 92 : {ʎ;ʎː} > {j;jː} 
 Final form : *#dˈopːjə#

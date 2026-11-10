@@ -4,11 +4,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌamaːtˈoːrem#
 *#ˌamaːtˈoːrɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌamatˈorɛm# | 12 : [+syl] > [-long,-splng] 
-*#ˌamatˈorɛ# | 21 : [+cons] > ∅ / __ #
-*#ˌamatˈore# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌamatˈorɛ# | 28 : [+cons] > ∅ / __ #
+*#ˌamatˈore# | 49 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌamatˈore#
-*#ˌamˌatˈore# | 75 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌamˌatˈorə# | 77 : [-stres,-lo] > ə 
-*#ˌamˌatˈoɾə# | 88 : r > ɾ 
-*#amatˈoɾə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌamˌatˈore# | 76 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌamˌatˈorə# | 78 : [-stres,-lo] > ə 
+*#ˌamˌatˈoɾə# | 89 : r > ɾ 
+*#amatˈoɾə# | 95 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#amatˈoɾə#

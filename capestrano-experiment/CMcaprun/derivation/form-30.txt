@@ -3,11 +3,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 d ˈi ɡ i t u m 
 Proto-Romance stage form : *#dˈiɡitum#
 *#dˈɪɡɪtʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈɪɡɪtʊ# | 21 : [+cons] > ∅ / __ #
-*#dˈɪjɪtʊ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#dˈɪjɪtu# | 38 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dˈijɪtu# | 39 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
-*#dˈijetu# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#dˈɪjɪtʊm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#dˈijɪtʊm# | 23 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#dˈijɪtʊ# | 28 : [+cons] > ∅ / __ #
+*#dˈijɪtu# | 43 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dˈijetu# | 49 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#dˈijetu#
-*#dˈijətə# | 77 : [-stres,-lo] > ə 
+*#dˈijətə# | 78 : [-stres,-lo] > ə 
 Final form : *#dˈijətə#
