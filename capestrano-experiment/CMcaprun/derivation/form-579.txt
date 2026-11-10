@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 579:
-#bˌilˈankiam# >>> *#ɡəlˈaŋd͡ʒjə# ( GOLD : #bilˈand͡ʒɐ#) :
+#bˌilˈankiam# >>> *#ɡəlˈaŋd͡ʒja# ( GOLD : #bilˈand͡ʒɐ#) :
 b ˌi l ˈa n k i a m 
 *#bˌilˈaŋkiam# | 1 : n > ŋ / __ [+back,+cons]
 *#bˌilˈaŋkjam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
@@ -9,9 +9,8 @@ Proto-Romance stage form : *#bˌilˈaŋkjam#
 *#bˌɪlˈaŋt͡ʃja# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
 *#bˌelˈaŋt͡ʃja# | 30 : [+stres,-prim,+front,-tense] > ˌe 
 Proto-South-Italo-Romance stage form : *#bˌelˈaŋt͡ʃja#
-*#bˌelˈaŋt͡ʃjə# | 70 : [-stres] > ə 
-*#bˌelˈaŋd͡ʒjə# | 73 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
-*#vˌelˈaŋd͡ʒjə# | 76 : b > v / # __ ( [-prim] ) [+cor,-long] [+lo]
-*#vəlˈaŋd͡ʒjə# | 82 : [-prim,-hi,-lo] > ə 
-*#ɡəlˈaŋd͡ʒjə# | 84 : [+lab,+cont,-syl] > ɡ / # __
-Final form : *#ɡəlˈaŋd͡ʒjə#
+*#bˌelˈaŋd͡ʒja# | 73 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
+*#vˌelˈaŋd͡ʒja# | 76 : b > v / # __ ( [-prim] ) [+cor,-long] [+lo]
+*#vəlˈaŋd͡ʒja# | 82 : [-prim,-hi,-lo] > ə 
+*#ɡəlˈaŋd͡ʒja# | 84 : [+lab,+cont,-syl] > ɡ / # __
+Final form : *#ɡəlˈaŋd͡ʒja#

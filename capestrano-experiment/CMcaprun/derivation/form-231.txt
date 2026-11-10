@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 231:
-#ˈedera# >>> *#ˈɛdəɾə# ( GOLD : #ˈedeɾa#) :
+#ˈedera# >>> *#ˈɛdəɾa# ( GOLD : #ˈedeɾa#) :
 ˈe d e r a 
 Proto-Romance stage form : *#ˈedera#
 *#ˈɛdɛra# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -7,6 +7,6 @@ Proto-Romance stage form : *#ˈedera#
 *#ˈædera# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 *#ˈɛdera# | 39 : [+lo,-tense] > [-lo] 
 Proto-South-Italo-Romance stage form : *#ˈɛdera#
-*#ˈɛdərə# | 70 : [-stres] > ə 
-*#ˈɛdəɾə# | 80 : r > ɾ 
-Final form : *#ˈɛdəɾə#
+*#ˈɛdəra# | 70 : [-stres,-lo] > ə 
+*#ˈɛdəɾa# | 80 : r > ɾ 
+Final form : *#ˈɛdəɾa#

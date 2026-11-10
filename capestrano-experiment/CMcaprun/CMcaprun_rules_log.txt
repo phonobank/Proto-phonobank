@@ -68,7 +68,7 @@ s > ʃ / # __ [+hi,+front]
 [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
 [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
 i > ˌi / __ ( [-syl] )* j
-[-stres] > ə 
+[-stres,-lo] > ə 
 [-prim,-lo] > ∅ / # __
 ɡ > ∅ / # __ r
 [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __

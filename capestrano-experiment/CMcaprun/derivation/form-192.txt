@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 192:
-#raːdˈiːkum# >>> *#ɾədˈikə# ( GOLD : #ɾˈadəkə#) :
+#raːdˈiːkum# >>> *#ɾadˈikə# ( GOLD : #ɾˈadəkə#) :
 r aː d ˈiː k u m 
 Proto-Romance stage form : *#raːdˈiːkum#
 *#raːdˈiːkʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -7,6 +7,6 @@ Proto-Romance stage form : *#raːdˈiːkum#
 *#radˈikʊ# | 16 : [+cons] > ∅ / __ #
 *#radˈiko# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#radˈiko#
-*#rədˈikə# | 70 : [-stres] > ə 
-*#ɾədˈikə# | 80 : r > ɾ 
-Final form : *#ɾədˈikə#
+*#radˈikə# | 70 : [-stres,-lo] > ə 
+*#ɾadˈikə# | 80 : r > ɾ 
+Final form : *#ɾadˈikə#

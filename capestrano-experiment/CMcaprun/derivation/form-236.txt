@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 236:
-#ˌekklˈeːsiam# >>> *#kːjˈesjə# ( GOLD : #kjˈesa#) :
+#ˌekklˈeːsiam# >>> *#kːjˈesja# ( GOLD : #kjˈesa#) :
 ˌe k k l ˈeː s i a m 
 *#ˌekklˈeːsjam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˌekklˈeːsjam#
@@ -10,7 +10,6 @@ Proto-Romance stage form : *#ˌekklˈeːsjam#
 *#ˌekːlˈesja# | 46 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 *#ˌekːʎˈesja# | 47 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌekːʎˈesja#
-*#ˌekːʎˈesjə# | 70 : [-stres] > ə 
-*#kːʎˈesjə# | 71 : [-prim,-lo] > ∅ / # __
-*#kːjˈesjə# | 83 : {ʎ;ʎː} > {j;jː} 
-Final form : *#kːjˈesjə#
+*#kːʎˈesja# | 71 : [-prim,-lo] > ∅ / # __
+*#kːjˈesja# | 83 : {ʎ;ʎː} > {j;jː} 
+Final form : *#kːjˈesja#

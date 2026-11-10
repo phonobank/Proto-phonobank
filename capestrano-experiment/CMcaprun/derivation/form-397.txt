@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 397:
-#kˈoːnflat# >>> *#kˈom?2jə# ( GOLD : #ɡˈomfjə#) :
+#kˈoːnflat# >>> *#kˈom?2ja# ( GOLD : #ɡˈomfjə#) :
 k ˈoː n f l a t 
 *#kˈoːmflat# | 0 : n > m / __ [+lab,+cons]
 Proto-Romance stage form : *#kˈoːmflat#
@@ -7,7 +7,6 @@ Proto-Romance stage form : *#kˈoːmflat#
 *#kˈomfla# | 16 : [+cons] > ∅ / __ #
 *#kˈomfʎa# | 47 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#kˈomfʎa#
-*#kˈomfʎə# | 70 : [-stres] > ə 
-*#kˈom?2ʎə# | 73 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
-*#kˈom?2jə# | 83 : {ʎ;ʎː} > {j;jː} 
-Final form : *#kˈom?2jə#
+*#kˈom?2ʎa# | 73 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
+*#kˈom?2ja# | 83 : {ʎ;ʎː} > {j;jː} 
+Final form : *#kˈom?2ja#

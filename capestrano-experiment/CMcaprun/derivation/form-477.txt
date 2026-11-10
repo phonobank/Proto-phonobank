@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 477:
-#wˈespa# >>> *#ɡˈɛspə# ( GOLD : #vˈæspa#) :
+#wˈespa# >>> *#ɡˈɛspa# ( GOLD : #vˈæspa#) :
 w ˈe s p a 
 Proto-Romance stage form : *#wˈespa#
 *#wˈɛspa# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -7,6 +7,5 @@ Proto-Romance stage form : *#wˈespa#
 *#vˈæspa# | 35 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 *#vˈɛspa# | 39 : [+lo,-tense] > [-lo] 
 Proto-South-Italo-Romance stage form : *#vˈɛspa#
-*#vˈɛspə# | 70 : [-stres] > ə 
-*#ɡˈɛspə# | 84 : [+lab,+cont,-syl] > ɡ / # __
-Final form : *#ɡˈɛspə#
+*#ɡˈɛspa# | 84 : [+lab,+cont,-syl] > ɡ / # __
+Final form : *#ɡˈɛspa#

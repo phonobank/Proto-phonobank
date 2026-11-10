@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 648:
-#fˈortiam# >>> *#ɡˈɔɾtjə# ( GOLD : #fˈɔɾt͡sa#) :
+#fˈortiam# >>> *#ɡˈɔɾtja# ( GOLD : #fˈɔɾt͡sa#) :
 f ˈo r t i a m 
 *#fˈortjam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#fˈortjam#
@@ -8,7 +8,6 @@ Proto-Romance stage form : *#fˈortjam#
 *#fˈɞˤrtja# | 35 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 *#fˈɔrtja# | 39 : [+lo,-tense] > [-lo] 
 Proto-South-Italo-Romance stage form : *#fˈɔrtja#
-*#fˈɔrtjə# | 70 : [-stres] > ə 
-*#fˈɔɾtjə# | 80 : r > ɾ 
-*#ɡˈɔɾtjə# | 84 : [+lab,+cont,-syl] > ɡ / # __
-Final form : *#ɡˈɔɾtjə#
+*#fˈɔɾtja# | 80 : r > ɾ 
+*#ɡˈɔɾtja# | 84 : [+lab,+cont,-syl] > ɡ / # __
+Final form : *#ɡˈɔɾtja#

@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 0:
-#trˌiːɡˈintam# >>> *#tɾijˈendə# ( GOLD : #tɾˈentə#) :
+#trˌiːɡˈintam# >>> *#tɾijˈenda# ( GOLD : #tɾˈentə#) :
 t r ˌiː ɡ ˈi n t a m 
 Proto-Romance stage form : *#trˌiːɡˈintam#
 *#trˌiːɡˈɪntam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -8,8 +8,7 @@ Proto-Romance stage form : *#trˌiːɡˈintam#
 *#trˌijˈɪnta# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
 *#trˌijˈenta# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#trˌijˈenta#
-*#trˌijˈentə# | 70 : [-stres] > ə 
-*#trˌijˈendə# | 73 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
-*#tɾˌijˈendə# | 80 : r > ɾ 
-*#tɾijˈendə# | 86 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#tɾijˈendə#
+*#trˌijˈenda# | 73 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
+*#tɾˌijˈenda# | 80 : r > ɾ 
+*#tɾijˈenda# | 86 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#tɾijˈenda#

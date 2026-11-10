@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 308:
-#ˈaːfrikam# >>> *#ˈafɾəkə# ( GOLD : #ˈafɾəka#) :
+#ˈaːfrikam# >>> *#ˈafɾəka# ( GOLD : #ˈafɾəka#) :
 ˈaː f r i k a m 
 Proto-Romance stage form : *#ˈaːfrikam#
 *#ˈaːfrɪkam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -7,6 +7,6 @@ Proto-Romance stage form : *#ˈaːfrikam#
 *#ˈafrɪka# | 16 : [+cons] > ∅ / __ #
 *#ˈafreka# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˈafreka#
-*#ˈafrəkə# | 70 : [-stres] > ə 
-*#ˈafɾəkə# | 80 : r > ɾ 
-Final form : *#ˈafɾəkə#
+*#ˈafrəka# | 70 : [-stres,-lo] > ə 
+*#ˈafɾəka# | 80 : r > ɾ 
+Final form : *#ˈafɾəka#

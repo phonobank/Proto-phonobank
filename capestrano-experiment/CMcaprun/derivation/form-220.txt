@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 220:
-#ˌiːnfantˈiːlem# >>> *#ɡ?2əndˈilə# ( GOLD : #mbandˈilə#) :
+#ˌiːnfantˈiːlem# >>> *#ɡ?2andˈilə# ( GOLD : #mbandˈilə#) :
 ˌiː n f a n t ˈiː l e m 
 *#ˌiːmfantˈiːlem# | 0 : n > m / __ [+lab,+cons]
 Proto-Romance stage form : *#ˌiːmfantˈiːlem#
@@ -8,8 +8,8 @@ Proto-Romance stage form : *#ˌiːmfantˈiːlem#
 *#ˌimfantˈilɛ# | 16 : [+cons] > ∅ / __ #
 *#ˌimfantˈile# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌimfantˈile#
-*#ˌimfəntˈilə# | 70 : [-stres] > ə 
-*#mfəntˈilə# | 71 : [-prim,-lo] > ∅ / # __
-*#m?2əndˈilə# | 73 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
-*#ɡ?2əndˈilə# | 84 : [+lab,+cont,-syl] > ɡ / # __
-Final form : *#ɡ?2əndˈilə#
+*#ˌimfantˈilə# | 70 : [-stres,-lo] > ə 
+*#mfantˈilə# | 71 : [-prim,-lo] > ∅ / # __
+*#m?2andˈilə# | 73 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
+*#ɡ?2andˈilə# | 84 : [+lab,+cont,-syl] > ɡ / # __
+Final form : *#ɡ?2andˈilə#

@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 24:
-#tˌurdˈeːlam# >>> *#tuɾdˈelə# ( GOLD : #tˈɔɾdəla#) :
+#tˌurdˈeːlam# >>> *#tuɾdˈela# ( GOLD : #tˈɔɾdəla#) :
 t ˌu r d ˈeː l a m 
 Proto-Romance stage form : *#tˌurdˈeːlam#
 *#tˌʊrdˈeːlam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -7,7 +7,6 @@ Proto-Romance stage form : *#tˌurdˈeːlam#
 *#tˌʊrdˈela# | 16 : [+cons] > ∅ / __ #
 *#tˌurdˈela# | 31 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#tˌurdˈela#
-*#tˌurdˈelə# | 70 : [-stres] > ə 
-*#tˌuɾdˈelə# | 80 : r > ɾ 
-*#tuɾdˈelə# | 86 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#tuɾdˈelə#
+*#tˌuɾdˈela# | 80 : r > ɾ 
+*#tuɾdˈela# | 86 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#tuɾdˈela#

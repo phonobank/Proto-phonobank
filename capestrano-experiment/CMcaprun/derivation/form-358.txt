@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 358:
-#kˌanˈiːliam# >>> *#kanˈijːə# ( GOLD : #kanːˈijːa#) :
+#kˌanˈiːliam# >>> *#kanˈijːa# ( GOLD : #kanːˈijːa#) :
 k ˌa n ˈiː l i a m 
 *#kˌanˈiːljam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#kˌanˈiːljam#
@@ -7,7 +7,6 @@ Proto-Romance stage form : *#kˌanˈiːljam#
 *#kˌanˈilja# | 16 : [+cons] > ∅ / __ #
 *#kˌanˈiʎːa# | 48 : l j > ʎː 
 Proto-South-Italo-Romance stage form : *#kˌanˈiʎːa#
-*#kˌanˈiʎːə# | 70 : [-stres] > ə 
-*#kˌanˈijːə# | 83 : {ʎ;ʎː} > {j;jː} 
-*#kanˈijːə# | 86 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kanˈijːə#
+*#kˌanˈijːa# | 83 : {ʎ;ʎː} > {j;jː} 
+*#kanˈijːa# | 86 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kanˈijːa#
