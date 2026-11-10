@@ -1,13 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 679:
-#mˈundum# >>> *#mːˈunːə# ( GOLD : #mˈunːə#) :
+#mˈundum# >>> *#mˈunːə# ( GOLD : #mˈunːə#) :
 m ˈu n d u m 
 Proto-Romance stage form : *#mˈundum#
 *#mˈʊndʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#mˈʊndʊ# | 34 : [+cons] > ∅ / __ #
-*#mˈʊndu# | 52 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˈʊnːu# | 56 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#mˈunːu# | 57 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
-*#mːˈunːu# | 75 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#mːˈunːu#
-*#mːˈunːə# | 92 : [-stres,-lo] > ə 
-Final form : *#mːˈunːə#
+*#mˈʊndu# | 53 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˈʊnːu# | 57 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#mˈunːu# | 58 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
+Proto-South-Italo-Romance stage form : *#mˈunːu#
+*#mˈunːə# | 92 : [-stres,-lo] > ə 
+Final form : *#mˈunːə#

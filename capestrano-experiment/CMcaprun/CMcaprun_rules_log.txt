@@ -37,6 +37,7 @@ s > j / # ( [-syl] )* [+syl] ( [-syl] ) __ #
 [+cons] [-son] > [-long,-splng] [-long,-splng]
 l > r / __ [-cont] ( @ )* [+lat]
 r > l / __ b ( @ )* r
+m > mː / @ __ [+syl] [+cons] [+syl] #
 ∅ > ə / lˠ __
 lˠ > w / __ ( ə ) t͡ʃ
 lˠ > l 
@@ -73,7 +74,6 @@ i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
 [+lab,-cont,-voi] j > t͡ʃː
 [+nas,-lab] [-cont,+voi] j > ɲ
 l > ∅ / __ ɲ
-m > mː / __ [+syl] [+cons] [+syl] #
 mː [+front,-syl,+voi] > ɲː
 [+nas,-lab] [+front,-syl,+voi] > ɲː
 rʲ > r j / [+front,-lo,+syl] __ [+syl]

@@ -4,9 +4,9 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌinsˈinum#
 *#ˌɪnsˈɪnʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɪnsˈɪnʊ# | 34 : [+cons] > ∅ / __ #
-*#ˌensˈɪnʊ# | 51 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌensˈɪnu# | 52 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌensˈenu# | 59 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌensˈɪnʊ# | 52 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌensˈɪnu# | 53 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌensˈenu# | 60 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌensˈenu#
 *#ˌensˈenə# | 92 : [-stres,-lo] > ə 
 *#nsˈenə# | 93 : [-prim,-lo] > ∅ / # __

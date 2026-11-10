@@ -165,6 +165,13 @@ l > r / __ [-cont] (@)* [+lat]
 $ LXXXIIId rb to lb if there's a later r
 r > l / __ b (@)* r 
 
+$LXXVa gemination of m before in proparoxytones with another nasal involved -- hominem numerum, inimicum, femina
+	$ bleeds A12
+$m > mː / [+nas] [+syl] __ [+syl] [+cons] [+syl] #
+$m > mː / __ [+syl] [+nas] [+syl] #
+	$ executive decision    -- FIX -- just any proparoxytones! humidum vomita- 
+m > mː / @ __ [+syl] [+cons] [+syl] #
+
 $ LXXXf ɫk > ɫək insertion.
 ∅ > ə / lˠ __ 
 
@@ -225,9 +232,9 @@ $ TODO HERE remaining secondary clusters to account for per Fontecchio
 	$ LXXXVIIc
 	$ būksida
 	$ off(ˌe)rˈiː > uffrí; aperˈī to apri ; suff(ˌe)rˈī > səffri, opera > opra 
-	$ cubitum : vutə, volvita : vota: digitum, digitone
-	$ coagulum > kwajjə; ungula; spīnula
-			$ alaudula 
+	$ cubitum : vutə, volvita : vota: 
+		$ digitum, digitone, frigidum 
+	$  spīnula alaudula 
 	$ camera; domina; dóm(i)nula 
 		$ not: hominem, femina 
 	$ computare; manducare; vanitāre; meritāre 
@@ -238,8 +245,6 @@ $ TODO HERE remaining secondary clusters to account for per Fontecchio
 	$ mat(ū)tīnum 
 	$ sōricem; spiːritu ; comitem
 		$solidum
-	$ lenticula, auricula, cunīculum,  
-		$ not craticula , calcula , saeculum, picculum , morriculum 
 	$ iuniperum ßß iunipelum
 	$ in(ˌe)briacōne, in(i)bernum -- feeds nb > mb > mm 
 	$ v(e)recundia
@@ -392,11 +397,6 @@ $ ICIʎ lɲ > ɲ
 l > ∅ / __ ɲ
 
 
-$LXXVa gemination of m before in proparoxytones with another nasal involved -- hominem numerum, inimicum, femina
-$m > mː / [+nas] [+syl] __ [+syl] [+cons] [+syl] #
-$m > mː / __ [+syl] [+nas] [+syl] #
-	$ executive decision    -- FIX -- just any proparoxytones! humidum vomita- 
-m > mː /  __ [+syl] [+cons] [+syl] #
 
 
 =Proto-South-Italo-Romance
