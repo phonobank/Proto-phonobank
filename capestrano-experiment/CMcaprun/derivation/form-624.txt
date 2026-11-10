@@ -1,12 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 624:
-#fˌiɡˈuːram# >>> *#fəɡˈuɾa# ( GOLD : #fiɡˈuɾa#) :
-f ˌi ɡ ˈuː r a m 
-Proto-Romance stage form : *#fˌiɡˈuːram#
-*#fˌɪɡˈuːram# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˌɪɡˈuram# | 7 : [+syl] > [-long,-splng] 
-*#fˌɪɡˈura# | 16 : [+cons] > ∅ / __ #
-*#fˌeɡˈura# | 32 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#fˌeɡˈura#
-*#fˌeɡˈuɾa# | 82 : r > ɾ 
-*#fəɡˈuɾa# | 84 : [-prim,-hi,-lo] > ə 
-Final form : *#fəɡˈuɾa#
+#fˈiːbulam# >>> *#fˈibːja# ( GOLD : #fˈibːja#) :
+f ˈiː b u l a m 
+Proto-Romance stage form : *#fˈiːbulam#
+*#fˈiːbʊlam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈibʊlam# | 7 : [+syl] > [-long,-splng] 
+*#fˈibʊla# | 16 : [+cons] > ∅ / __ #
+*#fˈibla# | 28 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+*#fˈibʎa# | 49 : l > ʎ / [-son,-cor] __
+*#fˈibːʎa# | 51 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+Proto-South-Italo-Romance stage form : *#fˈibːʎa#
+*#fˈibːja# | 85 : {ʎ;ʎː} > {j;jː} 
+Final form : *#fˈibːja#

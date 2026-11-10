@@ -1,12 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 650:
-#fˈoe̯num# >>> *#fˈenə# ( GOLD : #fˈenə#) :
-f ˈo e̯ n u m 
-*#fˈeːnum# | 2 : [+round,-hi] e̯ > [+front,-back,-round,-lab,+long] ∅
-Proto-Romance stage form : *#fˈeːnum#
-*#fˈeːnʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈenʊm# | 7 : [+syl] > [-long,-splng] 
-*#fˈenʊ# | 16 : [+cons] > ∅ / __ #
-*#fˈeno# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˈeno#
-*#fˈenə# | 72 : [-stres,-lo] > ə 
-Final form : *#fˈenə#
+#fˈokum# >>> *#fˈokə# ( GOLD : #fˈokə#) :
+f ˈo k u m 
+Proto-Romance stage form : *#fˈokum#
+*#fˈɔkʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈɔkʊ# | 16 : [+cons] > ∅ / __ #
+*#fˈoko# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#fˈoko#
+*#fˈokə# | 72 : [-stres,-lo] > ə 
+Final form : *#fˈokə#
