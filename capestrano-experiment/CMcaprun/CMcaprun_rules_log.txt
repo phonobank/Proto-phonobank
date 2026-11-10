@@ -30,9 +30,9 @@ r > l / __ b ( @ )* r
 lˠ > w / __ ( ə ) t͡ʃ
 lˠ > l 
 ə > ∅ / [!blab] [+prim,blab] w __ k
-∅ > w / [-cont,+back] __ u [+lat] [+syl] #
+∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
 [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-w > v / __ [-cons]
+w > v / # ( ( @ )* [+son] ) __ [-cons]
 [+syl,+round] > [+hi] / __ j
 [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
 [+stres,-prim,+front,-tense] > ˌe 
@@ -45,7 +45,7 @@ j n > ɲː / __ [+front,-lo,+syl]
 [+hi,+round,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas,+long]
 [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 [+lo,-tense,+round] > [-lo] 
-u > ∅ / [+stres,alo,!around] [-voi] ( [-voi] )* __ l [-stres,ælo,!æround]
+[-prim,+round] > ∅ / [+stres,alo,!around] [-voi] ( [-voi] )* __ l [-stres,ælo,!æround]
 [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
 ɡ > w / __ m
 [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]

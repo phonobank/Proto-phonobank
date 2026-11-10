@@ -1,0 +1,41 @@
+$DiaSim CFR-debugged (partially) ruleset to generate Rarotongan from Proto-Polynesian
+
+$f > w to dissimilate from other nonsonorant continuants, except if round vowel intervenes. Shared with Hawaiian?
+f > w / __ [+syl,-round] [+cont,-son]
+
+$Shared with Hawaiian (though may be spurious?) ː ʔ > k / __ i # ? Excluded for now as not enough examples. 
+
+$ glottal stop...
+	$ lost always initially:  ?uli,  ?uhila, ?ate, ?ahu, ?alelo, 
+	$ lost medial: tu?a, rau?uru, wa?e, sa?ele, ta?u, matu?a 
+	$ lost medial but late: fa?a > ?aa (vowel non-coalescence)
+	$ preserved: la?ala?a, fo?ou, po?o, fetu?u, na?uru, tu?u 
+	$ to k : lua?i
+$ preserved between identical vowels apparently. Preserve by sending it to h, with which it shares its later patterning.
+ʔ > h / [+syl,ɑlo,βround,ɣhi] __ [+syl,ɑlo,βround,ɣhi]
+$ deleted elsewhere (exception: nauru. loan?) 
+ʔ > ∅
+
+$ initial il- > l-, apparently shared with Niuean.
+i > ∅ / # __ l
+
+$ before f and s become ʔ, the merged phoneme resulting from *h and *ʔ is deleted if it follows a consonantal continuant (except laterals) then a vowel. Seems to potentially apply twice. After coronal sonorants, can be reasonably assumed to share hte fate of /s/ (assimilation)
+h > ∅ / [-syl,+cont,-lat] [+syl] __
+h > ∅ / [-syl,+cont,-lat] [+syl] __
+
+$ remaining h AND s are deleted if there is no earlier consonant and what lies after the posterior vowel is a consonantal continuant. 
+[+cont,-voi,-lab] > ∅ / # ([+syl])* __ [+syl] [+cons,+cont]
+
+l > r
+
+$remaining frics merge into ʔ 
+[+cont,-son] > ʔ
+
+$metathesis. pehefea > pʔeʔea, refu > rʔeu, efu > ʔeu 
+e ʔ > ʔ e
+
+[+syl,βfront,ɣhi,ðlo] [+syl,βfront,ɣhi,ðlo] > [+long] ∅
+[+syl,βfront,ɣhi,ðlo] [+syl,βfront,ɣhi,ðlo] > [+long] ∅
+
+$w fortition to v. But not early enough to feed debuccalization. 
+w > v
