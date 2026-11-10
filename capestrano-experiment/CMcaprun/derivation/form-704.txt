@@ -1,10 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 704:
-#pˌalːˈiːna# >>> *#pajːˈina# ( GOLD : #palːˈina#) :
-p ˌa lː ˈiː n a 
-Proto-Romance stage form : *#pˌalːˈiːna#
-*#pˌalːˈina# | 12 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#pˌalːˈina#
-*#pˌaʎːˈina# | 68 : lː > ʎː / __ [+hi]
-*#pˌajːˈina# | 93 : {ʎ;ʎː} > {j;jː} 
-*#pajːˈina# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#pajːˈina#
+#blˈankum# >>> *#bːjˈaŋɡə# ( GOLD : #bːjˈaŋɡə#) :
+b l ˈa n k u m 
+*#blˈaŋkum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#blˈaŋkum#
+*#blˈaŋkʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#blˈaŋkʊ# | 29 : [+cons] > ∅ / __ #
+*#blˈaŋku# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#bʎˈaŋku# | 58 : l > ʎ / [-son,-cor] __
+*#bːʎˈaŋku# | 59 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+Proto-South-Italo-Romance stage form : *#bːʎˈaŋku#
+*#bːʎˈaŋkə# | 79 : [-stres,-lo] > ə 
+*#bːʎˈaŋɡə# | 82 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#bːjˈaŋɡə# | 93 : {ʎ;ʎː} > {j;jː} 
+Final form : *#bːjˈaŋɡə#

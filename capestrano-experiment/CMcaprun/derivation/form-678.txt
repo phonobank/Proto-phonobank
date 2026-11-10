@@ -1,11 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 678:
-#mˈakulam# >>> *#mˈakwəla# ( GOLD : #mˈakːja#) :
-m ˈa k u l a m 
-Proto-Romance stage form : *#mˈakulam#
-*#mˈakʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈakʊla# | 29 : [+cons] > ∅ / __ #
-*#mˈakwʊla# | 38 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
-*#mˈakwula# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈakwula#
-*#mˈakwəla# | 79 : [-stres,-lo] > ə 
-Final form : *#mˈakwəla#
+#mˈontem# >>> *#mˈondə# ( GOLD : #mˈondə#) :
+m ˈo n t e m 
+Proto-Romance stage form : *#mˈontem#
+*#mˈɔntɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɔntɛ# | 29 : [+cons] > ∅ / __ #
+*#mˈonte# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈonte#
+*#mˈontə# | 79 : [-stres,-lo] > ə 
+*#mˈondə# | 82 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#mˈondə#

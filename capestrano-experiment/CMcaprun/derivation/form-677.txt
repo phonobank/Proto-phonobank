@@ -1,13 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 677:
-#mˌaːkʰinˈaː# >>> *#mat͡ʃənˈa# ( GOLD : #mat͡ʃinˈa#) :
-m ˌaː kʰ i n ˈaː 
-*#mˌaːkinˈaː# | 6 : [+cons] > [-sg] 
-Proto-Romance stage form : *#mˌaːkinˈaː#
-*#mˌaːkɪnˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌakɪnˈa# | 12 : [+syl] > [-long,-splng] 
-*#mˌat͡ʃɪnˈa# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#mˌat͡ʃenˈa# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌat͡ʃenˈa#
-*#mˌat͡ʃənˈa# | 79 : [-stres,-lo] > ə 
-*#mat͡ʃənˈa# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#mat͡ʃənˈa#
+#mˈakulam# >>> *#mˈakwəla# ( GOLD : #mˈakːja#) :
+m ˈa k u l a m 
+Proto-Romance stage form : *#mˈakulam#
+*#mˈakʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈakʊla# | 29 : [+cons] > ∅ / __ #
+*#mˈakwʊla# | 38 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#mˈakwula# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈakwula#
+*#mˈakwəla# | 79 : [-stres,-lo] > ə 
+Final form : *#mˈakwəla#

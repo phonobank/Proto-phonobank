@@ -1,13 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 714:
-#kˈorium# >>> *#kˈoɾjə# ( GOLD : #kwˈɔjːə#) :
-k ˈo r i u m 
-*#kˈorjum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#kˈorjum#
-*#kˈɔrjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈɔrjʊ# | 29 : [+cons] > ∅ / __ #
-*#kˈɔrju# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˈorju# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈorju#
-*#kˈorjə# | 79 : [-stres,-lo] > ə 
-*#kˈoɾjə# | 90 : r > ɾ 
-Final form : *#kˈoɾjə#
+#pˈawpere# >>> *#pˈopəɾə# ( GOLD : #pˈɔːvɛrɔ#) :
+p ˈa w p e r e 
+Proto-Romance stage form : *#pˈawpere#
+*#pˈawpɛrɛ# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈawpere# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˈowpere# | 55 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+Proto-South-Italo-Romance stage form : *#pˈowpere#
+*#pˈopere# | 67 : w > ∅ / [+round] __ [+cons]
+*#pˈopərə# | 79 : [-stres,-lo] > ə 
+*#pˈopəɾə# | 90 : r > ɾ 
+Final form : *#pˈopəɾə#

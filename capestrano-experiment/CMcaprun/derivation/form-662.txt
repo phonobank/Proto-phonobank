@@ -1,10 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 662:
-#mˌanduːkˈaː# >>> *#manːəkˈa# ( GOLD : #maɲˈa#) :
-m ˌa n d uː k ˈaː 
-Proto-Romance stage form : *#mˌanduːkˈaː#
-*#mˌandukˈa# | 12 : [+syl] > [-long,-splng] 
-*#mˌanːukˈa# | 53 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#mˌanːukˈa#
-*#mˌanːəkˈa# | 79 : [-stres,-lo] > ə 
-*#manːəkˈa# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#manːəkˈa#
+#mˈaskulum# >>> *#mˈaskwələ# ( GOLD : #mˈaskjə#) :
+m ˈa s k u l u m 
+Proto-Romance stage form : *#mˈaskulum#
+*#mˈaskʊlʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈaskʊlʊ# | 29 : [+cons] > ∅ / __ #
+*#mˈaskwʊlʊ# | 38 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#mˈaskwulu# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈaskwulu#
+*#mˈaskwələ# | 79 : [-stres,-lo] > ə 
+Final form : *#mˈaskwələ#

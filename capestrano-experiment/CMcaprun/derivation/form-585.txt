@@ -1,13 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 585:
-#bˌasˈilikam# >>> *#baʃˈeləka# ( GOLD : #bːaʃˈiləka#) :
-b ˌa s ˈi l i k a m 
-Proto-Romance stage form : *#bˌasˈilikam#
-*#bˌasˈɪlɪkam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˌasˈɪlikam# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#bˌasˈɪlika# | 29 : [+cons] > ∅ / __ #
-*#bˌasˈelika# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#bˌasˈelika#
-*#bˌaʃˈelika# | 73 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#bˌaʃˈeləka# | 79 : [-stres,-lo] > ə 
-*#baʃˈeləka# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#baʃˈeləka#
+#bˈoːskum# >>> *#ɡˈoskə# ( GOLD : #bˈɔʃkə#) :
+b ˈoː s k u m 
+Proto-Romance stage form : *#bˈoːskum#
+*#bˈoːskʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˈoskʊm# | 12 : [+syl] > [-long,-splng] 
+*#bˈoskʊ# | 29 : [+cons] > ∅ / __ #
+*#bˈosku# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#bˈosku#
+*#bˈoskə# | 79 : [-stres,-lo] > ə 
+*#vˈoskə# | 89 : b > v / # __ [+prim,+round]
+*#ɡˈoskə# | 94 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+Final form : *#ɡˈoskə#

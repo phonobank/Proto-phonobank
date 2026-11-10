@@ -1,12 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 626:
-#fˈeːminam# >>> *#fˈemːəna# ( GOLD : #fˈemːəna#) :
-f ˈeː m i n a m 
-Proto-Romance stage form : *#fˈeːminam#
-*#fˈeːmɪnam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈemɪnam# | 12 : [+syl] > [-long,-splng] 
-*#fˈemɪna# | 29 : [+cons] > ∅ / __ #
-*#fˈemena# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#fˈemːena# | 66 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#fˈemːena#
-*#fˈemːəna# | 79 : [-stres,-lo] > ə 
-Final form : *#fˈemːəna#
+#fˌatiːɡˈaː# >>> *#fatəɡˈa# ( GOLD : #fˌatiˈa#) :
+f ˌa t iː ɡ ˈaː 
+Proto-Romance stage form : *#fˌatiːɡˈaː#
+*#fˌatiɡˈa# | 12 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#fˌatiɡˈa#
+*#fˌatəɡˈa# | 79 : [-stres,-lo] > ə 
+*#fatəɡˈa# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#fatəɡˈa#

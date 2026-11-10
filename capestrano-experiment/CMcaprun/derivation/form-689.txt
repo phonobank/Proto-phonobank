@@ -1,9 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 689:
-#mˈuskam# >>> *#mˈoska# ( GOLD : #mˈoʃka#) :
-m ˈu s k a m 
-Proto-Romance stage form : *#mˈuskam#
-*#mˈʊskam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈʊska# | 29 : [+cons] > ∅ / __ #
-*#mˈoska# | 48 : ˈʊ > ˈo / __ @ @
-Proto-South-Italo-Romance stage form : *#mˈoska#
-Final form : *#mˈoska#
+#mˈundum# >>> *#mːˈonːə# ( GOLD : #mˈunːə#) :
+m ˈu n d u m 
+Proto-Romance stage form : *#mˈundum#
+*#mˈʊndʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈʊndʊ# | 29 : [+cons] > ∅ / __ #
+*#mˈʊndu# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˈondu# | 48 : ˈʊ > ˈo / __ @ @
+*#mˈonːu# | 53 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#mːˈonːu# | 66 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#mːˈonːu#
+*#mːˈonːə# | 79 : [-stres,-lo] > ə 
+Final form : *#mːˈonːə#

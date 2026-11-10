@@ -1,5 +1,5 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 390:
-#kˌondikiˈoːnem# >>> *#kunːit͡sjˈonə# ( GOLD : #kundit͡sjˈonə#) :
+#kˌondikiˈoːnem# >>> *#kunːit͡ʃjˈonə# ( GOLD : #kundit͡sjˈonə#) :
 k ˌo n d i k i ˈoː n e m 
 *#kˌondikjˈoːnem# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#kˌondikjˈoːnem#
@@ -11,10 +11,9 @@ Proto-Romance stage form : *#kˌondikjˈoːnem#
 *#kˌondit͡ʃjˈonɛ# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 *#kˌondit͡ʃjˈone# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 *#kˌonːit͡ʃjˈone# | 53 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#kˌonːit͡sjˈone# | 63 : [+delrel,-voi] > [+ant,-distr,-front,-hi,-round,+cor] / __ j [+round]
-Proto-South-Italo-Romance stage form : *#kˌonːit͡sjˈone#
-*#kˌunːit͡sjˈone# | 75 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌunːˌit͡sjˈone# | 78 : i > ˌi / __ ( [-syl] )* j
-*#kˌunːˌit͡sjˈonə# | 79 : [-stres,-lo] > ə 
-*#kunːit͡sjˈonə# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kunːit͡sjˈonə#
+Proto-South-Italo-Romance stage form : *#kˌonːit͡ʃjˈone#
+*#kˌunːit͡ʃjˈone# | 75 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌunːˌit͡ʃjˈone# | 78 : i > ˌi / __ ( [-syl] )* j
+*#kˌunːˌit͡ʃjˈonə# | 79 : [-stres,-lo] > ə 
+*#kunːit͡ʃjˈonə# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kunːit͡ʃjˈonə#

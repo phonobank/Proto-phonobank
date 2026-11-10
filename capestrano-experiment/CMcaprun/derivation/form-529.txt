@@ -1,14 +1,10 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 529:
-#pˌedˈukulum# >>> *#pədˈokwələ# ( GOLD : #pədˈokːjə#) :
-p ˌe d ˈu k u l u m 
-Proto-Romance stage form : *#pˌedˈukulum#
-*#pˌɛdˈʊkʊlʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌɛdˈʊkʊlʊ# | 29 : [+cons] > ∅ / __ #
-*#pˌɛdˈʊkwʊlʊ# | 38 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
-*#pˌedˈʊkwʊlʊ# | 43 : [+stres,-prim,+front,-tense] > ˌe 
-*#pˌedˈʊkwulu# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˌedˈokwulu# | 48 : ˈʊ > ˈo / __ @ @
-Proto-South-Italo-Romance stage form : *#pˌedˈokwulu#
-*#pˌedˈokwələ# | 79 : [-stres,-lo] > ə 
-*#pədˈokwələ# | 92 : [-prim,-hi,-lo] > ə 
-Final form : *#pədˈokwələ#
+#pˈeːnsaːns# >>> *#pˈend͡za# ( GOLD : #pˈɛsa#) :
+p ˈeː n s aː n s 
+Proto-Romance stage form : *#pˈeːnsaːns#
+*#pˈensans# | 12 : [+syl] > [-long,-splng] 
+*#pˈensan# | 29 : [+cons] > ∅ / __ #
+*#pˈensa# | 30 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#pˈensa#
+*#pˈend͡za# | 82 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#pˈend͡za#
