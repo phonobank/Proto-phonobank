@@ -1,15 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 622:
-#fˈalkem# >>> *#fˈavət͡ʃə# ( GOLD : #fˈawt͡ʃə#) :
-f ˈa l k e m 
-Proto-Romance stage form : *#fˈalkem#
-*#fˈalkɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈalˠkɛm# | 17 : l > lˠ / __ k [-cons]
-*#fˈalˠt͡ʃɛm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#fˈalˠt͡ʃɛ# | 34 : [+cons] > ∅ / __ #
-*#fˈalˠət͡ʃɛ# | 40 : ∅ > ə / lˠ __
-*#fˈawət͡ʃɛ# | 41 : lˠ > w / __ ( ə ) t͡ʃ
-*#fˈavət͡ʃɛ# | 47 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#fˈavət͡ʃe# | 60 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˈavət͡ʃe#
-*#fˈavət͡ʃə# | 92 : [-stres,-lo] > ə 
-Final form : *#fˈavət͡ʃə#
+#fˌarˈiːna# >>> *#faɾˈina# ( GOLD : #faɾˈina#) :
+f ˌa r ˈiː n a 
+Proto-Romance stage form : *#fˌarˈiːna#
+*#fˌarˈina# | 27 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#fˌarˈina#
+*#fˌaɾˈina# | 103 : r > ɾ 
+*#faɾˈina# | 110 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#faɾˈina#

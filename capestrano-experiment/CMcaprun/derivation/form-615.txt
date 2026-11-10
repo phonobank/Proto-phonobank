@@ -1,12 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 615:
-#fˈeːminam# >>> *#fˈemːəna# ( GOLD : #fˈemːəna#) :
-f ˈeː m i n a m 
-Proto-Romance stage form : *#fˈeːminam#
-*#fˈeːmɪnam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈemɪnam# | 27 : [+syl] > [-long,-splng] 
-*#fˈemɪna# | 34 : [+cons] > ∅ / __ #
-*#fˈemːɪna# | 39 : m > mː / # ( [+lab] ) [-cons,-lo] __ [+syl] [+cons] [+syl] #
-*#fˈemːena# | 60 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˈemːena#
-*#fˈemːəna# | 92 : [-stres,-lo] > ə 
-Final form : *#fˈemːəna#
+#fˌatiːɡˈaː# >>> *#fatəɡˈa# ( GOLD : #fˌatiˈa#) :
+f ˌa t iː ɡ ˈaː 
+Proto-Romance stage form : *#fˌatiːɡˈaː#
+*#fˌatiɡˈa# | 27 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#fˌatiɡˈa#
+*#fˌatəɡˈa# | 92 : [-stres,-lo] > ə 
+*#fatəɡˈa# | 110 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#fatəɡˈa#

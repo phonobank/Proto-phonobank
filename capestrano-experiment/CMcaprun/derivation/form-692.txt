@@ -1,12 +1,10 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 692:
-#pˌit͡sːˈutu# >>> *#pət͡sːˈotə# ( GOLD : #pət͡sːˈutə#) :
-p ˌi t͡sː ˈu t u 
-Proto-Romance stage form : *#pˌit͡sːˈutu#
-*#pˌɪt͡sːˈʊtʊ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌet͡sːˈʊtʊ# | 52 : [+stres,-prim,+front,-tense] > ˌe 
-*#pˌet͡sːˈʊtu# | 53 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˌet͡sːˈotu# | 60 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˌet͡sːˈotu#
-*#pˌet͡sːˈotə# | 92 : [-stres,-lo] > ə 
-*#pət͡sːˈotə# | 105 : [-prim,-hi,-lo] > ə 
-Final form : *#pət͡sːˈotə#
+#pˌalːˈiːna# >>> *#pajːˈina# ( GOLD : #palːˈina#) :
+p ˌa lː ˈiː n a 
+Proto-Romance stage form : *#pˌalːˈiːna#
+*#pˌalːˈina# | 27 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#pˌalːˈina#
+*#pˌaʎːˈina# | 82 : lː > ʎː / __ [+hi]
+*#pˌajːˈina# | 106 : {ʎ;ʎː} > {j;jː} 
+*#pajːˈina# | 110 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#pajːˈina#

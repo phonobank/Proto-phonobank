@@ -1,20 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 706:
-#kˌondikiˈoːnem# >>> *#kunːət͡ʃjˈonə# ( GOLD : #kundit͡sjˈonə#) :
-k ˌo n d i k i ˈoː n e m 
-*#kˌondikjˈoːnem# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#kˌondikjˈoːnem#
-*#kˌɔndɪkjˈoːnɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɔndɪt͡ʃjˈoːnɛm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#kˌɔndiːt͡ʃjˈoːnɛm# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#kˌɔndit͡ʃjˈonɛm# | 27 : [+syl] > [-long,-splng] 
-*#kˌɔndit͡ʃjˈonɛ# | 34 : [+cons] > ∅ / __ #
-*#kˌondit͡ʃjˈonɛ# | 53 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌonːit͡ʃjˈonɛ# | 57 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#kˌonːit͡ʃjˈone# | 60 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˌonːˌit͡ʃjˈone# | 72 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
-Proto-South-Italo-Romance stage form : *#kˌonːˌit͡ʃjˈone#
-*#kˌunːˌit͡ʃjˈone# | 89 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌunːit͡ʃjˈone# | 90 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#kˌunːət͡ʃjˈonə# | 92 : [-stres,-lo] > ə 
-*#kunːət͡ʃjˈonə# | 110 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kunːət͡ʃjˈonə#
+#kˈoːpulam# >>> *#kˈopəla# ( GOLD : #kˈopːja#) :
+k ˈoː p u l a m 
+Proto-Romance stage form : *#kˈoːpulam#
+*#kˈoːpʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈopʊlam# | 27 : [+syl] > [-long,-splng] 
+*#kˈopʊla# | 34 : [+cons] > ∅ / __ #
+*#kˈopula# | 53 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈopula#
+*#kˈopəla# | 92 : [-stres,-lo] > ə 
+Final form : *#kˈopəla#

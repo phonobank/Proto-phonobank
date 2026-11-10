@@ -1,8 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 640:
-#mˌeː# >>> *#mə# ( GOLD : #mə#) :
-m ˌeː 
-Proto-Romance stage form : *#mˌeː#
-*#mˌe# | 27 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#mˌe#
-*#mə# | 98 : [-prim,-lo] > ə / __ #
-Final form : *#mə#
+#mˈedikum# >>> *#mˈedəkə# ( GOLD : #mˈedəkə#) :
+m ˈe d i k u m 
+Proto-Romance stage form : *#mˈedikum#
+*#mˈɛdɪkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛdiːkʊm# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#mˈɛdikʊm# | 27 : [+syl] > [-long,-splng] 
+*#mˈɛdikʊ# | 34 : [+cons] > ∅ / __ #
+*#mˈɛdiku# | 53 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˈediku# | 60 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈediku#
+*#mˈedəkə# | 92 : [-stres,-lo] > ə 
+Final form : *#mˈedəkə#

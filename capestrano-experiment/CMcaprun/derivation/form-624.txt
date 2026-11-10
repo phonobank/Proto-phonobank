@@ -1,12 +1,16 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 624:
-#fˈakiem# >>> *#fˈat͡ʃjə# ( GOLD : #fˈat͡ʃːə#) :
-f ˈa k i e m 
-*#fˈakjem# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#fˈakjem#
-*#fˈakjɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈat͡ʃjɛm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#fˈat͡ʃjɛ# | 34 : [+cons] > ∅ / __ #
-*#fˈat͡ʃje# | 60 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˈat͡ʃje#
-*#fˈat͡ʃjə# | 92 : [-stres,-lo] > ə 
-Final form : *#fˈat͡ʃjə#
+#ˌinfˈakiam# >>> *#mbˈat͡ʃja# ( GOLD : #mbˈat͡ʃːa#) :
+ˌi n f ˈa k i a m 
+*#ˌimfˈakiam# | 0 : n > m / __ [+lab,+cons]
+*#ˌimfˈakjam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˌimfˈakjam#
+*#ˌɪmfˈakjam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪmfˈat͡ʃjam# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#ˌiːmfˈat͡ʃjam# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌimfˈat͡ʃjam# | 27 : [+syl] > [-long,-splng] 
+*#ˌimfˈat͡ʃja# | 34 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˌimfˈat͡ʃja#
+*#mfˈat͡ʃja# | 93 : [-prim,-lo] > ∅ / # __
+*#mb͡vˈat͡ʃja# | 95 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbˈat͡ʃja# | 96 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+Final form : *#mbˈat͡ʃja#
