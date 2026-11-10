@@ -1,0 +1,6 @@
+ID,Source_Language_ID,Target_Language_ID,Source_Stage,Target_Stage,Target_Gold,Source
+maiden1995-latin-proto-romance,latin,proto-romance,Classical Latin,Proto-Romance,false,maiden1995
+maiden1995-proto-romance-italian,proto-romance,italian,Proto-Romance,"(standard, Florentine-based) Italian",,maiden1995
+pardess1990-latin-balkan-romance,latin,balkan-romance,Latin,Balkan Romance,false,pardess1990
+pardess1990-balkan-romance-common-romanian,balkan-romance,common-romanian,Balkan Romance,Common Romanian,false,pardess1990
+pardess1990-common-romanian-daco-romanian,common-romanian,daco-romanian,Common Romanian,Daco-Romanian,,pardess1990
