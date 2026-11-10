@@ -1,0 +1,756 @@
+$ oct26-romanian-extractor-cfr.txt
+$ [CORRECTED by the extraction critic, Oct 2026 -- see "oct26-extrcritic-Latin-Romanian-report.txt".
+$  Every changed rule line or comment is marked "$FIXED:" immediately above it; nothing else was altered.
+$  Every rule line was test-run in DiaSim (single-rule test files, plus a full run on RoLLex).]
+$ DiaSim cascade: Latin > Balkan Romance > Common Romanian > Daco-Romanian
+$ Source: Pardess, David Forbes. 1990. From Latin to Romanian: Phonological Rules. PhD diss., UCLA.
+$   (file: Pardess_From_Latin_to_Romanian_Phonology.pdf)
+$ Extracted Oct 2026 (fresh extraction from the PDF page images + OCR text layer).
+$
+$ CONVENTIONS OF THIS FILE
+$ - Rules appear in the order Pardess gives them (Ch. 4 = R1-R25C, Ch. 5 = R26A-R45B, Ch. 6 = R46A-R60).
+$ - Each rule is headed by Pardess's own identifier (R1, R2A, ... R60) and $$PG: = page number(s) as PRINTED
+$   in the dissertation (printed page = PDF page - 22).
+$FIXED: each $$PG: now also gives the rule's entry in Pardess's Ch. 8 synoptic index (pp. 137-141:
+$   R1-R5A p.137, R5B-R18A p.138, R18B-R29A p.139, R29B-R45B p.140, R46A-R60 p.141), which the
+$   extraction had omitted throughout.
+$ - Where one Pardess rule needs several DiaSim lines, the lines are labelled R13B-i, R13B-ii, etc.
+$ - "ORDER:" remarks record ordering constraints that Pardess states or that his derivations entail,
+$   referring to rules by Pardess's identifiers.
+$ - "NOTE:" remarks record translation decisions specific to one rule; general decisions are listed below.
+$ - Rules that Pardess himself describes as morphological / lexical are kept as comment-only entries
+$   (marked COMMENT-ONLY) so that their identifiers remain retrievable.
+$
+$ GENERAL EXECUTIVE DECISIONS (format translation)
+$ D1. Pardess's transcription -> DiaSim/IPA symbols:
+$       y (glide) = j ; w = w ; e-/o- with subscript arch = e̯ / o̯ ; B (beta) = β ;
+$       c-hacek = t͡ʃ ; j-hacek = d͡ʒ ; ts = t͡s ; dz = d͡z ; s-hacek = ʃ ; z-hacek = ʒ ;
+$       lambda = ʎ ; n-tilde = ɲ ; eng = ŋ ; schwa = ə ; barred-i = ɨ ; open e = ɛ ; open o = ɔ ;
+$       g = ɡ (IPA script g, U+0261) ; length ':' = ː ;
+$       w/y with under-ring (devoiced glides) = w̥ / j̥.
+$     Pardess's y is ALWAYS the palatal glide /j/, never the rounded vowel /y/.
+$ D2. Pardess's [r] is a flap and his [rr] a trill. DiaSim: flap = ɾ, trill = r.
+$     Hence Latin single r must be ɾ in the input lexicon, and Latin -rr- = ɾ ɾ until R26A.
+$FIXED (comment only) LEXICON CAVEAT: the RoLLex Latin column does NOT follow D1/D2: it writes every
+$     Latin r as "r" (never ɾ), AE/OE as "a e̯"/"o e̯" (not a j / o j), and -gn- as "ɡ n" (Pardess
+$     writes díŋnu, with eng). So R2A, R2B, R5C, R10A, R10Ca (gn), R26A, R26B, R34-derived ɾ, R49, R50 and
+$     R51 cannot fire as Pardess intends on RoLLex. On the OUTPUT side, the RoLLex Romanian column
+$     writes the rhotic as "r" and has no secondary stress, while this cascade (faithfully to Pardess:
+$     R51 trill > flap) outputs ɾ and never removes DiaSim secondary stress (ˌV). These are lexicon/
+$     cascade interface mismatches, not fidelity errors in the rules. Measured (critic's DiaSim runs):
+$     exact-match accuracy 19.4% on RoLLex as is; 20.0% with the Latin column converted to D1/D2;
+$     43.4% when, in addition, output ɾ is read as r and secondary stress is ignored.
+$     Pardess's ad hoc feature [rep] (r vs rr) does not exist in DiaSim; in DiaSim the flap/trill
+$     contrast is carried by [cont] (ɾ -cont, r +cont). Rules stated with [rep] are written with symbols.
+$ D3. Geminates are sequences of two identical segments (t t, l l, n n, ...), since DiaSim
+$     separates phones with spaces. A geminate affricate (Pardess "cc-hacek", "tts") is two identical
+$     affricate segments (t͡ʃ t͡ʃ, t͡s t͡s).
+$ D4. Stress: Pardess's [+acc] (primary stress, acute accent) = DiaSim [+prim] on the vowel (ˈV);
+$     [-acc] = [-stres] for vowels. In DiaSim the plain vowel symbols (a, e, i, o, u, ə ...) are the
+$     UNSTRESSED ones, so a symbol rule on "e" hits only unstressed e. Where Pardess's rule is
+$     stress-neutral, features or stress-variant disjunctions ({a;ˌa;ˈa}) are used instead.
+$FIXED: D4's "[-acc] = [-stres]" is corrected to [-acc] = [-prim]. Pardess's [acc] is PRIMARY stress and
+$     his system has no secondary stress, so a vowel that DiaSim marks with secondary stress (ˌV) is
+$     [-acc] for Pardess. [-stres], and plain-symbol rules on "e", "i", "a" etc., wrongly exempt ˌV,
+$     which RoLLex uses frequently (ˌa x186, ˌe x76, ˌi x82, ...). Affected rules, corrected below:
+$     R4A, R13B, R13D, R14, R28, R35A, R36A, R37A, R37B, R38, R39 (each marked $FIXED).
+$ D5. Pardess's feature names: [high] = hi, [low] = lo, [acc] = prim/stres, [voice] = voi,
+$     [str] = strid, [del rel] = delrel, [voc] has no DiaSim counterpart (vowels = [+syl], glides =
+$     [-syl,-cons]).
+$ D6. Pardess (1990) predates [front]: his [a], [ə], [ɨ] are [+back], his [e], [i], [ɛ] [-back].
+$     In DiaSim, a is [+front,-back,+lo] and ə / ɨ are [-back,-front]. So Pardess's "[-back] V"
+$     (= i e ɛ) is written [+syl,+front,-lo], and his "[+back] V" set is not a single DiaSim class;
+$     such rules are written with explicit symbols or split.
+$ D7. Pardess treats nasals as [-cont] stops; in DiaSim nasals are [+cont]. Where he means
+$     "stop, oral or nasal" this is written [αcont,αnas] (both - = oral stop, both + = nasal).
+$     Where his "[+cont]" class is meant to include n (R41A), symbols are used.
+$ D8. Pardess's class letters: C = [+cons]; V = [+syl]; N = [+nas,+cons]; Co = ([+cons])*
+$     (any number of consonants); W = [-syl,-cons]. '#' = word boundary.
+$FIXED: exception to "Co = ([+cons])*": in R53B, where Co follows Pardess's syllable boundary ($ Co e)
+$     and every example has at least one consonant, Co is rendered ([+cons])+ (see R53B).
+$     Pardess's $ (syllable boundary) cannot be used: DiaSim has no syllable boundaries and $ is
+$     the DiaSim comment character; it is replaced case by case (see R7).
+$     Pardess's '//' ("in the presence of", i.e. on either side) is split into two rules,
+$     one with the context before and one with the context after the focus.
+$ D9. Pardess's outputs often give only the features he considers distinctive; in DiaSim every feature
+$     that must change for the output to be a defined phone is specified (e.g. k > p also needs
+$     [-hi,-back]); where a feature matrix cannot reach a defined phone cleanly, symbols are used.
+$ D10. Sporadic or lexically restricted rules are encoded as general rules (DiaSim cannot restrict them
+$     lexically) and flagged "SPORADIC/LEXICAL" in a NOTE.
+
+$ ===================================================================================================
+$ CHAPTER 4. THE EARLY CHANGES: FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS (1st-6th c. A.D.)
+$ (Pardess: rules deriving 6th-century Balkan Romance; based on Otero's 'procesos', cited as Pn.)
+$ ===================================================================================================
+
+$ R1 Loss of [h]  $$PG: 46-47, 137
+h > ∅
+
+$ R2A Monophthongization of AE [ay] > [ɛː] (P3A)  $$PG: 47, 137
+$ ORDER: Pardess orders R2A before R2B (AE monophthongized before OE, after Väänänen).
+$ NOTE: written with features so the rule applies whatever the stress of the a; the a acquires the
+$ features of ɛː and the glide is deleted.
+[+syl,+lo] j > [-lo,-tense,+long] ∅
+
+$ R2B Monophthongization of OE [oy] > [eː]  $$PG: 47-48, 137
+[+syl,-hi,-lo,+round] j > [-round,-lab,-back,+front,+long] ∅
+
+$ R3A Reduction of final [m] (P6A)  $$PG: 48-49, 137
+$ Pardess: m > n / __ # in monosyllabic words; m > ∅ / __ # in all others.
+$ NOTE: "monosyllabic" = only one [+syl] in the word. Pardess's own examples conflict with the
+$ monosyllable clause (kum > cu, kwam > kwa lose the m; only kwem > kwen keeps a nasal).
+$ ORDER: R3A-i must precede R3A-ii.
+m > n / # ([-syl])* [+syl] __ #
+m > ∅ / __ #
+
+$ R3B Reduction of [n] + fricative (P6B)  $$PG: 49-50, 137
+$ V n [-son,+cont] > V[+long] ∅ [-son,+cont]
+$ NOTE: some past participles are exceptions (prensu > prins, responsu > raspuns) - LEXICAL.
+[+syl] n > [+long] ∅ / __ [-son,+cont]
+
+$ R4A Syncope (P4)  $$PG: 50-51, 137
+$ A short high vowel is deleted in an internal syllable (usually post-tonic) when preceded by a
+$ single resonant and followed by a single consonant, or vice versa:
+$   V[+high,-long] > ∅ / V Ci __ Cj V, where Ci and/or Cj = R (resonant).
+$ NOTE: split into the two cases (R before, R after). [-stres] added: a syncopated vowel is by
+$ definition unstressed, and Pardess's formula would otherwise delete stressed i/u too.
+$ NOTE: SPORADIC/LEXICAL - Pardess: "not applied universally ... one must verify the DR form"
+$ (lepore, maskulu are exceptions). assula > asla has a geminate before the vowel, which the
+$ single-C formula does not cover.
+$FIXED (note added): two more of Pardess's own examples fall outside his formula, and hence outside
+$ these lines: weteráːnu > wetráːnu deletes a NON-high e (formula: [+high]), and it is pretonic, not
+$ post-tonic. Line (i) already covers the case where BOTH flanking consonants are resonants
+$ (dómina > dómna), since its right context is any [+cons].
+$ ORDER: R4B applies concurrently with or immediately after R4A.
+$FIXED: [-stres] -> [-prim] in both lines (D4 correction: Pardess's "unstressed" = [-acc] = not primary-
+$ stressed; [-stres] wrongly exempted vowels carrying DiaSim secondary stress, ˌi / ˌu).
+[+syl,+hi,-long,-prim] > ∅ / [+syl] [+son,+cons] __ [+cons] [+syl]
+[+syl,+hi,-long,-prim] > ∅ / [+syl] [+cons] __ [+son,+cons] [+syl]
+
+$ R4B Dissimilation of [tl]: [tl] > [kl]  $$PG: 51-52, 137
+$ Pardess's formula: t > k / __ l
+$ NOTE: Pardess adds (after Väänänen) that [sl] likewise needed a 'consonant of passage' [k], before
+$ which [ss] degeminated (ássla > áskla). That part comes from his prose and example, not the formula,
+$ and is encoded as R4B-ii. The degemination ss > s before k then follows from R8.
+$ ORDER: concurrently with or immediately after R4A (Pardess).
+t > k / __ l
+∅ > k / s __ l
+
+$ R5A Deletion of word-final oral or nasal stop (P7)  $$PG: 52-53, 137
+$ Pardess: [C,-cont] > ∅ / __ #  (his [-cont] includes nasals; D7).
+$ NOTE: split into oral stops/affricates and nasal consonants. [-son] is needed in the first line
+$ because the DiaSim flap ɾ is also [-cont] and final r is not deleted here (cf. R5C).
+$ ORDER: after R3A (final m already handled there). Pardess's kwem > kwen > kwene implies the
+$ final -e of R5B was added to kwen before R5A could delete its n.
+[-son,-cont] > ∅ / __ #
+[+nas,+cons] > ∅ / __ #
+
+$ R5B Addition of word-final [e] after [l]  $$PG: 53, 138
+∅ > e / l __ #
+
+$ R5C Metathesis of word-final [r]  $$PG: 53-54, 138
+$ V r # > r V #
+$ NOTE: metathesis written as insertion + deletion. Pardess notes that in some words final r was
+$ simply lost (frater > frate, per > pe) - LEXICAL, not encoded.
+$FIXED: the prior context "[+cons] __" was an undisclosed addition: Pardess's rule (p.53) is just
+$ "V r # > r V #", with no left context. Removed; the rule otherwise applies exactly as before
+$ (DiaSim-tested: supeɾ > supɾe, inteɾ > intɾe).
+∅ [+syl] ɾ > ɾ [+syl] ∅ / __ #
+
+$ R6 Fronting of [w] to [β] (P10)  $$PG: 54-55, 138
+$ Pardess: w > β (unconditioned).
+$ NOTE: restricted to w before a vowel and not after a velar. Pardess's own later derivations keep
+$ the labiovelars kw/gw (kwéro, sángwe ... until R11/R17) and the diphthong aw (awru >> aur);
+$ all his examples of R6 have w before a vowel, initially or after a vowel, r, l or z.
+$ ORDER: R6 must precede R8 (egzwolare > egzβolare > ezβolare). R6 precedes R21.
+w > β / {#;[-cons];[+ant];[+cor]} __ [+syl]
+
+$ R7 Fortition of syllable initial [y]: [y] > [dy]  $$PG: 55-56, 138
+$ Pardess: y > dy / $ __  ($ = syllable boundary).
+$ NOTE: DiaSim has no syllable boundary; all of Pardess's examples are word-initial, so $ is
+$ rendered as # (word-initial). Pardess adds that the fortition probably began intervocalically
+$ (where yod was geminate); that case is not covered.
+$ ORDER: precedes R18B, which turns dy into d͡ʒ.
+∅ > d / # __ j
+
+$ R8 Simplification of K[s]K, K[z]K clusters (P8)  $$PG: 56, 138
+[-son] > ∅ / __ [+strid] [-son]
+
+$ R9 Deletion of [k]: [nkt] > [nt]  $$PG: 56, 138
+$ NOTE: written with [+nas,+cons] in case the input lexicon transcribes the nasal before k as ŋ.
+k > ∅ / [+nas,+cons] __ t
+
+$ R10A Assimilation of [r] to [s] (sporadic) (P13A)  $$PG: 57, 138
+$ NOTE: SPORADIC - ursu and persika do not undergo it.
+ɾ > s / __ s
+
+$ R10B Assimilation of [p] to [s] (P13)  $$PG: 57, 138
+p > s / __ s
+
+$ R10Ca Partial assimilation of velars (P12, P13)  $$PG: 58, 138
+$ After a stressed vowel a velar stop, oral or nasal, becomes bilabial before an alveolar consonant:
+$ [ks] > [ps], [kt] > [pt], [ŋn] > [mn].
+$ Pardess: [-cont,-ant,-cor] > [+ant] / V[+acc] __ C[+ant,+cor]
+$ NOTE: input "-cont" (oral + nasal stops, D7) = [αcont,αnas]. Output needs [+lab,-hi,-back] too,
+$ so that k/ɡ/ŋ become p/b/m (D9). The following consonant is restricted to alveolar obstruents and
+$ nasals ([αson,αnas] ...): the liquids l, ɾ are [+ant,+cor] as well, but kl/gl clusters
+$ (oklu, veklu) clearly do not become pl (cf. R43).
+$ NOTE: Pardess's example laktúka > laptúka has the velar AFTER AN UNSTRESSED vowel, which his formula
+$ (and the R10Ca/R10Cb split) does not predict.
+[+cons,-ant,-cor,αcont,αnas] > [+ant,+lab,-hi,-back] / [+syl,+prim] __ [+cons,+ant,+cor,βson,βnas]
+
+$ R10Cb Total assimilation of velars  $$PG: 59-60, 138
+$ Before stress, total assimilation seems to have occurred in most cases:
+$ Pardess: [-cont,-ant,-cor] > [+ant,+cor] / V[-acc] __ C[+ant,+cor]
+$ Examples: laksare > lassare, eksire > essire, fraksinetu > frassinetu, koŋnoskere > konnoskere.
+$ NOTE: "total assimilation" = the velar becomes identical to the following alveolar; written as one
+$ line per possible following alveolar (s, t, n) so the output is a defined phone.
+$ NOTE: Pardess hedges: "in most cases" (koŋnatu >> cumnat is an exception).
+[+cons,-ant,-cor,αcont,αnas] > s / [+syl,-prim] __ s
+[+cons,-ant,-cor,αcont,αnas] > t / [+syl,-prim] __ t
+[+cons,-ant,-cor,αcont,αnas] > n / [+syl,-prim] __ n
+
+$ R11 Labialization of [kw] and [gw] before [a]: [kwa] > [pwa], [gwa] > [bwa]  $$PG: 60-61, 138
+$ Pardess: [-son,-ant,-cor] > [+ant] / __ wa
+$ NOTE: output completed with [+lab,-hi,-back] (D9).
+$ NOTE: Pardess's example lingua > limbwa also shows the nasal assimilating to the new labial. That
+$ follows from his example, not from his formula, so it is encoded as a separate line, R11-ii.
+$ R11-ii assumes the input lexicon has velar ŋ before velars, as Pardess transcribes (líŋgua).
+$ NOTE: Pardess: before R11 (anticipating R17) QUALIS, QUAM, QUANDO, QUANTUS, SQUAMA lost the wau
+$ (kale, ka, kando, kantu, skama), so R11 could not apply to them - LEXICAL, not encoded.
+$ ORDER: before R17 (w > ∅ / __ V).
+[-son,-ant,-cor] > [+ant,+lab,-hi,-back] / __ w [+syl,+lo]
+[+nas,+cons,-ant,-cor] > [+ant,+lab,-hi,-back] / __ [-son,+lab] w [+syl,+lo]
+
+$ R12 Prothesis: initial [s]C > [is]C (P14)  $$PG: 61-62, 138
+$ ∅ > V[+high,-back] / # __ s C[-son]
+$ ORDER: R14 later removes this vowel again (after R13G has lowered it to e).
+∅ > i / # __ s [+cons,-son]
+
+$ R13A Lengthening of second vowel in vowel combinations and concomitant shift in stress (P15A)  $$PG: 62-63, 138
+$ Pardess: V[-low,+acc] V > V[-low,-acc] V[+long,+acc]
+$ Examples: muliere > mulié:re, pariete > parié:te, ariete > arié:te, kapreolu > kapreó:lu.
+$ NOTE: the first vowel's [-low] is not repeated in the output (it does not change).
+$ NOTE: as written, Pardess's formula would also hit púteu, mórtuu, kamísia, wí:nea, which in his
+$ own later derivations keep their stress (pútiu, mórtu, kamísya, wí:nia). All his R13A examples have
+$ a short FRONT first vowel and a MID second vowel, so the rule is restricted accordingly.
+$ ORDER: R13A precedes R15 (which needs the long stressed vowel R13A creates).
+[+syl,-lo,-back,-long,+prim] [+syl,-hi,-lo] > [-stres,-prim] [+long,+stres,+prim]
+
+$ R13B Raising of [o] and [e] (P15B)  $$PG: 63, 138
+$ Short, unstressed [o] and [e] become [u] and [i] when adjacent to another vowel.
+$ Pardess: V[-low,-long,-acc] > [+high] // V
+$ NOTE: '//' = on either side, hence two lines. The plain symbols e, o are the unstressed short ones (D4).
+$FIXED: the secondary-stressed short ˌe, ˌo are also Pardess [-acc] (D4 correction) and are added.
+{e;ˌe;o;ˌo} > {i;ˌi;u;ˌu} / __ [+syl]
+{e;ˌe;o;ˌo} > {i;ˌi;u;ˌu} / [+syl] __
+
+$ R13C Contraction of vowel combinations (P18B)  $$PG: 63, 138
+$ Two sequential identical vowels coalesce: Vi Vi > Vi  (mórtuu > mórtu)
+$ NOTE: identity is expressed with a separate alpha variable for each feature; the second vowel is deleted.
+$FIXED: two defects, both confirmed by DiaSim test runs. (1) The identity matrix omitted [tense],
+$ the ONLY feature distinguishing e from ɛ, so e.g. ɛː eː (ɛː from R2A) counted as "identical" and
+$ contracted. ηtense added. (2) The line always deleted the SECOND vowel, so a sequence whose second
+$ member is stressed (u ˈu) lost its stress (test: u ˈu > u). Now the non-primary-stressed member
+$ is the one deleted, in two lines (second, then first), as in R37B; mórtuu > mórtu is unaffected.
+[+syl,-prim,αhi,βlo,γback,δfront,εround,ζlong,ηtense] > ∅ / [+syl,αhi,βlo,γback,δfront,εround,ζlong,ηtense] __
+[+syl,-prim,αhi,βlo,γback,δfront,εround,ζlong,ηtense] > ∅ / __ [+syl,αhi,βlo,γback,δfront,εround,ζlong,ηtense]
+
+$ R13D Loss of syllabicity of high vowels (P15)  $$PG: 64, 138
+$ The short, unstressed high vowels [i] and [u] become the glides [y] and [w] when adjacent to another vowel.
+$ Pardess: V[+high,-long,-acc] > [-syl] // V
+$ NOTE: Pardess: "This rule seems to be recurrent", i.e. it applies from this point on whenever
+$ the environment arises. DiaSim applies it only here.
+$FIXED: secondary-stressed short ˌi, ˌu added (D4 correction; test: ˌi ˈa stayed unchanged before).
+{i;ˌi;u;ˌu} > {j;j;w;w} / __ [+syl]
+{i;ˌi;u;ˌu} > {j;j;w;w} / [+syl] __
+
+$ R13E Laxing of stressed [e] to [ɛ] (P15Da)  $$PG: 64-65, 138
+$ Pardess: V[-long,-high,-back,+acc] > [-tense]
+$ NOTE: Pardess's [-back] includes a in DiaSim (D6), hence [+front,-lo].
+[+syl,-long,-hi,-lo,+front,+prim] > [-tense]
+
+$ R13F Lengthening of word-final [-i(s)]  $$PG: 65, 138
+$ Pardess: V[+high,-back] > [+long] / __ (C) #   (fakitis > fakiti:s)
+$ ORDER: R13F bleeds R13G (prevents 2pl -tis > -te). Pardess notes the alternative that R13G was
+$ blocked morphologically in this case, in which case R13F would be unnecessary.
+$ NOTE: numbering discrepancy - in the Ch. 8 synoptic index (p. 138) "R13F" is i > e, i.e. the body's
+$ R13G, and the lengthening rule is not listed. The body numbering (Ch. 4) is used here.
+[+syl,+hi,+front] > [+long] / __ ([+cons]) #
+
+$ R13G Lowering of [i]: stressed or unstressed [i] > [e] (P15Db)  $$PG: 66-67, 138
+$ Pardess: V[-long,+high,-back] > [-high]
+$ NOTE: Pardess discusses (does not adopt) a parallel u > o.
+[+syl,-long,+hi,+front] > [-hi]
+
+$ R14 Apheresis: loss of unstressed initial [e] before [s] or [z] before a consonant  $$PG: 67, 138
+$ Pardess's formula: e > ∅ / __ [+cont,+ant,+cor,+str] (written after an 's').
+$ NOTE: "initial" and "before a consonant" come from the rule title and are added to the context.
+$ ORDER: R12 < R13G < R14 (prothetic i > e, then e deleted: skála > iskála > eskála > skála).
+$FIXED: secondary-stressed initial ˌe added (D4 correction): it is "unstressed" in Pardess's terms.
+{e;ˌe} > {∅;∅} / # __ [+cont,+ant,+cor,+strid] [+cons]
+
+$ R15 Contraction of vowels (P18Aab)  $$PG: 68, 138
+$ Pardess: V[-long,αback] > ∅ / C __ V[+long,+acc,αback]
+$ Examples: koórte > kó:rte, preé:ndere > pré:ndere, kwié:tu > kwé:tu.
+$ NOTE: Pardess's [back] grouping (a o u vs e i) is not a DiaSim class (D6), so the rule is split
+$ into front and rounded-back pairs. Pairs involving a, which Pardess counts as [+back], are not
+$ covered (he gives no such example).
+$ ORDER: after R13A (which creates the long stressed vowels), before R16.
+[+syl,-long,+front,-lo] > ∅ / [+cons] __ [+syl,+long,+prim,+front,-lo]
+[+syl,-long,-front,+round] > ∅ / [+cons] __ [+syl,+long,+prim,-front,+round]
+
+$ R16 Loss of vowel length (P15F)  $$PG: 68-69, 138
+[+syl,+long] > [-long]
+
+$ R17 Deletion of wau before a vowel (P22, T22)  $$PG: 69-70, 138
+$ ORDER: after R11 (kwa > pwa > pa).
+w > ∅ / __ [+syl]
+
+$ R18A Gemination of stop when after a vowel and before yod (P19)  $$PG: 70-71, 138
+$ Pardess: V [-son,-cont] y > V [-son,-cont] [-son,-cont] y
+$ NOTE: a feature matrix cannot be inserted, so the gemination is written with phone lists
+$ covering the stops of this stage.
+{p;b;t;d;k;ɡ} > {p p;b b;t t;d d;k k;ɡ ɡ} / [+syl] __ j
+
+$ R18B Affrication of alveolars: [d] > [d͡ʒ], [t] > [t͡ʃ] before yod (P20Aa)  $$PG: 71, 139
+$ Pardess: [-son,-cont,+ant,+cor,-del rel] > [-ant,+del rel] / __ y
+$ NOTE: the input class is exactly t, d, so symbols are used to reach the defined affricates.
+$ ORDER: Pardess (after Väänänen): R18B preceded R18C. R7 (y > dy) feeds R18B.
+{t;d} > {t͡ʃ;d͡ʒ} / __ j
+
+$ R18C Affrication of velars: [ɡ] > [d͡ʒ], [k] > [t͡ʃ] before yod (P20Ab)  $$PG: 72, 139
+$ Pardess: [-cont,-ant,-cor,-del rel] > [+cor,+del rel] / __ y
+{k;ɡ} > {t͡ʃ;d͡ʒ} / __ j
+
+$ R18D Absorption of yod after affricates (P20B)  $$PG: 72, 139
+$ NOTE: kásyu and kamésya keep their yod (s is not an affricate).
+j > ∅ / [-son,-cont,+cor,+delrel] __
+
+$ R18E Assimilation of stops to affricates (P20C)  $$PG: 73, 139
+$ Pardess: Ci Cj > Cj Cj where Cj = [-cont,-ant,+cor,+del rel]  (pútt͡ʃu > pút͡ʃt͡ʃu)
+$ NOTE: one line per palato-alveolar affricate; the preceding stop becomes identical to it.
+[-son,-cont,-delrel] > t͡ʃ / __ t͡ʃ
+[-son,-cont,-delrel] > d͡ʒ / __ d͡ʒ
+
+$ R19 Depalatalization: [d͡ʒ], [t͡ʃ] > [d͡z], [t͡s] after a stressed vowel (P32)  $$PG: 73, 139
+$ Pardess: [-ant,+cor,+del rel] > [+ant] / V[+acc] __
+$ NOTE: output completed with [-distr,-front] so that t͡ʃ/d͡ʒ reach t͡s/d͡z. Pardess's example
+$ pránd͡ʒu > prándzu has an n between the stressed vowel and the affricate, so consonants may
+$ intervene: context [+prim] ([+cons])*. A geminate t͡ʃ t͡ʃ thus becomes t͡s t͡s (Pardess "tts").
+$ ajjutáre and teččúne (pretonic) are unaffected.
+[-ant,+cor,+delrel] > [+ant,-distr,-front] / [+syl,+prim] ([+cons])* __
+
+$ R20 Attraction of glides (P23)  $$PG: 74, 139
+$ Pardess: V[+acc] Co [+son,-cons,-syl] > V[+acc] [+son,-cons,-syl] Co
+$ Examples: róbbyu > róybbu, ábbya > áybba, skábbya > skáybba.
+$ NOTE: metathesis written as insertion of j after the stressed vowel (i), then deletion of the
+$ original j (ii). Restricted to labial Co: all of Pardess's examples are labial, and his own later
+$ derivations keep kásyu, kamésya (stressed V + s + y) for R41A. Only yod is covered (no wau
+$ examples).
+∅ > j / [+syl,+prim] __ [+cons,+lab] ([+cons,+lab])* j
+j > ∅ / [+syl,+prim] j [+cons,+lab] ([+cons,+lab])* __
+
+$ R21 Spirantization of [b] (P25)  $$PG: 74, 139
+$ Word-initial b (and b after a consonant or glide) is unaffected.
+$ ORDER: Pardess: R21 cannot apply together with R6; several rules ordered between them need
+$ b and β still distinct.
+b > β / [+syl] __
+
+$ R22A Word-initial [β] > [v]  $$PG: 74-75, 139
+$ NOTE: a few DR words have initial b instead (berbec, bătrîn) - "sporadic results which cannot be
+$ accounted for by the phonological rules".
+β > v / # __
+
+$ R22B Occlusivization of [β]: [β] becomes a stop after a consonant  $$PG: 75, 139
+β > b / [+cons] __
+
+$ R22C [β] becomes the velar glide [w] before a resonant  $$PG: 76, 139
+β > w / __ [+son,+cons]
+
+$ R22D Intervocalic [β] > [ɡ] in the presence of [u] (sporadically)  $$PG: 76-77, 139
+$ Pardess: β > g // u
+$ NOTE: '//' split into two lines; "intervocalic" (title) gives the other side of each context.
+$ SPORADIC.
+$ ORDER: R22D precedes R24 (úger > úd͡ʒer).
+β > ɡ / [+syl,+hi,+round] __ [+syl]
+β > ɡ / [+syl] __ [+syl,+hi,+round]
+
+$FIXED: page range corrected from "77" to "77-78" (R22E's derivation table is on p.78).
+$ R22E [β] > ∅ elsewhere  $$PG: 77-78, 139
+$ NOTE: the root of a avea (aβere > avére) and some compounds (prima βera >> primăvară) keep v - LEXICAL.
+β > ∅
+
+$ R23 Degemination of consonants except the alveolar resonants [ll], [nn] and [rr] (P28)  $$PG: 78-79, 139
+$ Pardess: Ci Ci > Ci where Ci is not [+ant,+cor,+son,+cons]
+$ NOTE: identity of the two consonants is expressed with alpha variables (one per feature); line
+$ (i) covers obstruents, line (ii) the non-coronal sonorant consonants (e.g. m m). l l, n n, ɾ ɾ are
+$ [+cor] sonorants and are excluded, as Pardess requires.
+$ ORDER: after R18E/R19 (bráttsu > brátsu, ajjutare > ajutare). Pardess: degemination "did not
+$ occur until the eve of the fixation of the Romance dialects".
+[-son,+cons,αcont,βvoi,γant,δcor,εlab,ζhi,ηback,θstrid,ιfront] > ∅ / __ [-son,+cons,αcont,βvoi,γant,δcor,εlab,ζhi,ηback,θstrid,ιfront]
+[+son,+cons,-cor,αlab,βnas,γhi,δback] > ∅ / __ [+son,+cons,-cor,αlab,βnas,γhi,δback]
+
+$ R24 Affrication of velars: [k], [ɡ] > [t͡ʃ], [d͡ʒ] before a front vowel (P21)  $$PG: 79, 139
+$ Pardess: [-cont,-ant,-cor,-del rel] > [+cor,+del rel] / __ V[-back]
+$ NOTE: Pardess's V[-back] (e, i, ɛ) = [+syl,+front,-lo] (D6).
+$ ORDER: after R22D (úger > úd͡ʒer).
+{k;ɡ} > {t͡ʃ;d͡ʒ} / __ [+syl,+front,-lo]
+
+$ R25A Development of final -s in monosyllabic words (T23)  $$PG: 79-80, 139
+$ Pardess: [s] > [h] > [ç] > [y] / __ #  (in monosyllables; nos > noy, tres >> trey)
+$ NOTE: the three natural steps are encoded in sequence; "monosyllabic" as in R3A.
+$ ORDER: R25A must precede R25B.
+s > h / # ([-syl])* [+syl] __ #
+h > ç / # ([-syl])* [+syl] __ #
+ç > j / __ #
+
+$FIXED: page range corrected from "81" to "81-82" (the examples, incl. the plural restorations, are on p.82).
+$ R25B Loss of final [s] in polysyllabic words  $$PG: 81-82, 139
+s > ∅ / __ #
+
+$ R25C Generalization of word-final [i] as grammatical marker  $$PG: 82, 139
+$ COMMENT-ONLY: morphological (restoration of the nominative plurals -i/-e and generalization of
+$ 2sg -i, e.g. kántas > kánta > kánti). Not a phonological rule; not encoded.
+
+=Balkan Romance
+
+$ ===================================================================================================
+$ CHAPTER 5. THE DEVELOPMENT OF COMMON ROMANIAN (6th-11th c. A.D.)
+$ ===================================================================================================
+
+$ R26A [rr] > trill  $$PG: 86, 139
+$ Pardess: rr > [+rep]. -RR- is assumed to have been a doubled flap.
+$ NOTE: [rep] is not a DiaSim feature (D2): the doubled flap becomes the single trill r.
+$ ORDER: R23 must not degeminate rr before R26A (Pardess excludes rr from R23).
+ɾ ɾ > r
+
+$ R26B Initial [r] > [rr]  $$PG: 86-87, 139
+$ ORDER: feeds R50 (e > ə, i > ɨ after the trill, in DR).
+ɾ > r / # __
+
+$ R27A Tensing of [ɛ] before nasal + oral consonant  $$PG: 87-88, 139
+$ Pardess: V > [+tense] / __ N C[-nas]
+$ ORDER: R27A must bleed R27B (otherwise *tyempu, *dyente, *lyemba).
+[+syl,-tense] > [+tense] / __ [+nas,+cons] [+cons,-nas]
+
+$ R27B Diphthongization of [ɛ]: [ɛ] > [ye] (P36A)  $$PG: 88-89, 139
+$ Pardess's formula: ∅ > y / __ V[-tense]; title and examples: ɛ > ye (pɛ́tra > pyétra).
+$ NOTE: the yod insertion and the tensing ɛ > e (from the title and examples) are done in one line.
+$ At this stage the only [-tense] vowels are the stressed ɛ of R13E.
+$ ORDER: R27A bleeds R27B. R27B must precede R31A (Pardess). Feeds R41/R42 (palatalization before y).
+∅ [+syl,-tense] > j [+tense]
+
+$ R28 Unstressed [o] > [u]  $$PG: 89-90, 139
+$ Pardess: V[+back,-high,-low,-acc] > [+high]
+$ NOTE: Pardess: in DR, o was later sometimes restored in unstressed position by paradigm leveling.
+$FIXED: [-stres] -> [-prim] (D4 correction: Pardess's [-acc]; test: ˌo in ˌoɾɾésko was skipped before).
+[+syl,+back,-hi,-lo,-prim] > [+hi]
+
+$ R29A Loss of stress in the postposed forms of éllu (definite article)  $$PG: 90-91, 139
+$ COMMENT-ONLY: Pardess: e > [-acc] / # __ "in the postposed article" - morphologically conditioned.
+
+$ R29B Apheresis and enclisis of the forms of [ellu]  $$PG: 92, 140
+$ COMMENT-ONLY: Pardess: e > ∅ / # __ "in the postposed article", plus enclisis to the preceding word
+$ (lúpu ellu > lúpullu) - morphologically conditioned.
+
+$ R30 Preyodization of initial [e]: [e] > [ye]  $$PG: 93-94, 140
+$ Pardess: ∅ > y / # __ e "in some words" (este, ellu, ella, elli, elle, eu, esire, e, era ...).
+$ NOTE: LEXICAL ("in some words"); encoded for all initial e of any stress. Pardess attributes it
+$ probably to Slavic influence.
+∅ > j / # __ [+syl,-hi,-lo,+front,+tense]
+
+$ R31A Metaphony: stressed mid vowels become lax when followed by [a] or [e] in the following
+$      syllable, except before [n] or before [m] plus a consonant  $$PG: 94-95, 140
+$ Pardess: V[-high,-low,+acc] > [-tense] / __ Co V[-high,-round], except where Co = n or mC
+$ NOTE: DiaSim has no negation, so "Co except n or mC" is written as three positive cases:
+$   (i) Co begins with a non-nasal consonant; (ii) Co = n followed by at least one more consonant;
+$   (iii) Co = single m. Glides may occur inside Co (kamésya > kamɛ́sya), hence ([-syl])*.
+$   Co is taken to contain at least one consonant: méa and avéa keep their tense é for R32.
+$ NOTE: Pardess's literal exception covers only "n", so dénte (nt) is not excepted by the formula,
+$ although his R27A discussion requires dénte to keep its tense e.
+$FIXED (note added): the reverse conflict also occurs. Pardess's own R31B example dómna > doámna
+$ (p.96), and his p.97 derivation which runs domna through R31A [-tense], require dómna (Co = mn, an
+$ "mC") to undergo R31A, which his stated exception forbids. These lines follow the formula, so
+$ domna is NOT laxed here and will not reach DR doamnă.
+$ ORDER: R27B before R31A (Pardess).
+[+syl,-hi,-lo,+prim] > [-tense] / __ [+cons,-nas] ([-syl])* [+syl,-hi,-round]
+[+syl,-hi,-lo,+prim] > [-tense] / __ n [+cons] ([-syl])* [+syl,-hi,-round]
+[+syl,-hi,-lo,+prim] > [-tense] / __ m [+syl,-hi,-round]
+
+$ R31B Diphthongization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]  $$PG: 95-97, 140
+$ Pardess: ∅ > a / V[-tense] __ ; then V[-tense] > [-syl]   (négra > nɛ́gra > ne̯ágra)
+$ NOTE: both steps in one symbol line. The stress passes to the new a (Pardess writes e̯á, o̯á).
+$ The glides are e̯ / o̯, the glides of Pardess's inventory. All lax vowels at this stage are stressed
+$ (from R31A).
+$ NOTE: Pardess: IR shows ɛ, ɔ here; R31B probably applied there too and was later undone.
+{ˈɛ;ˈɔ} > {e̯ ˈa;o̯ ˈa}
+
+$ R32 Displacement of accent and loss of syllabicity: [éa] > [eá]  $$PG: 98, 140
+$ Pardess: e[+acc] a > [-acc] [+acc]   (méa > meá, avéa > aveá)
+$ NOTE: only the stress shift is formalized here; the e becomes a glide in R38.
+ˈe a > e ˈa
+
+$ R33 Raising of [a] and [o] before a non-geminate nasal  $$PG: 98-99, 140
+$ Pardess: {a > ə ; o > u} / __ C[+nas] V
+$ NOTE: Pardess's own examples have the nasal followed by a consonant (kándu, mónte, kómparu) or word-
+$ finally (betrán > betrə́n), not only by a vowel. Only a following nasal (nn: ánnu; mn: doámna) blocks
+$ the change. So the context is a nasal consonant followed by a non-nasal or #. All stress grades
+$ are listed.
+$ NOTE: Pardess: later, in DR, R47B raises e > i in this environment.
+{a;ˌa;ˈa;o;ˌo;ˈo} > {ə;ˌə;ˈə;u;ˌu;ˈu} / __ [+nas,+cons] {[-nas];#}
+
+$ R34 Rhotacism: non-geminate [l] > [r] between vowels  $$PG: 99-100, 140
+$ NOTE: Pardess's r = flap ɾ (D2). Not applied to Slavic loans (borrowed after R34, or with a
+$ different l).
+l > ɾ / [+syl] __ [+syl]
+
+$ R35A [ll] > [w] before unstressed [a]  $$PG: 100-101, 140
+$ NOTE: plain a = unstressed (D4); medulláre (stressed a) is unaffected.
+$FIXED: secondary-stressed ˌa added to the context: Pardess's "a[-acc]" means not primary-stressed (D4).
+l l > w / __ {a;ˌa}
+
+$ R35B Degemination of [ll]  $$PG: 101, 140
+l l > l
+
+$ R36A Loss of secondary wau: [Vwa] > [Va] when neither vowel is stressed  $$PG: 101, 140
+$ Pardess: w > ∅ / V[-acc] __ V[+low,-acc]
+$FIXED: [-acc] rendered [-prim] on both vowels (D4 correction); the following "a" was plain-symbol
+$ (unstressed only), now [+syl,+lo,-prim].
+w > ∅ / [+syl,-prim] __ [+syl,+lo,-prim]
+
+$ R36B Feminine singular nominative/accusative definite article [a] > [+long]  $$PG: 102, 140
+$ COMMENT-ONLY: Pardess: a > [+long] / __ # "in all articulated f sg nouns in the
+$ nominative/accusative case" (zíwa > zíwaa); "in reality a morpho-phonologic rule".
+
+$ R36C [úwa] > [úva]  $$PG: 102, 140
+w > v / [+syl,+hi,+round] __ [+syl,+lo]
+
+$ R37A Raising of non-initial, non-geminate, unstressed [a]  $$PG: 102-103, 140
+$ Pardess: V[+low,-acc,-long] > ___ / C __   (output left blank in the source; the examples show ə:
+$ kása > kásə, parénte > pərénte, sanetáte > sənetáte)
+$ NOTE: "non-geminate" is enforced by excluding an a followed by another a (kásaa, from R36A, keeps
+$ its aa for R37B: DR casa 'the house' vs casă 'house').
+$ NOTE: Pardess: the rule also applied to Slavic loans (platiti > plətiti).
+$FIXED: secondary-stressed ˌa added (D4 correction: Pardess's [-acc]).
+{a;ˌa} > {ə;ˌə} / [+cons] __ {#;[-syl];[+syl,-lo]}
+
+$ R37B Degemination of geminate vowels  $$PG: 103, 140
+$ Pardess: Vi Vi > Vi   (kásaa > kása, purtáa > purtá, kaálu > kálu, beére > bére)
+$ NOTE: identity is expressed with one alpha variable per feature. The UNSTRESSED member is deleted,
+$ so the stress survives: (i) deletes an unstressed second vowel, (ii) an unstressed first vowel.
+$FIXED: two defects, confirmed by DiaSim test runs. (1) [-stres] -> [-prim] (D4 correction): with
+$ [-stres], ˌa ˈa was left untouched (a secondary-stressed vowel is [+stres]). (2) [tense] was missing
+$ from the identity matrix, so e.g. ɛ e counted as identical; ζtense added (DiaSim handles ə's
+$ tense value 0 correctly here: ə ə > ə tested).
+[+syl,-prim,αhi,βlo,γback,δfront,εround,ζtense] > ∅ / [+syl,αhi,βlo,γback,δfront,εround,ζtense] __
+[+syl,-prim,αhi,βlo,γback,δfront,εround,ζtense] > ∅ / __ [+syl,αhi,βlo,γback,δfront,εround,ζtense]
+
+$ R38 [ea] > [e̯a]: [e] becomes a glide before [a]  $$PG: 103-104, 140
+$ Pardess: e > [-syl] / __ a   (vúlpea > vúlpe̯a)
+$ NOTE: e here is unstressed (stressed éa was handled by R32); the glide is e̯.
+$FIXED: secondary-stressed ˌe added (D4 correction): it too is Pardess [-acc].
+{e;ˌe} > {e̯;e̯} / __ [+syl,+lo]
+
+$ R39 Lowering of unstressed internal [i]  $$PG: 104, 140
+$ ORDER: R39 must precede (bleed) R40.
+$FIXED: Pardess's input is i[-acc]; secondary-stressed ˌi added (D4 correction; test: t͡ʃˌitate was
+$ skipped before).
+{i;ˌi} > {e;ˌe} / [+cons] __ [+cons]
+
+$ R40 Diphthongization of [i]: [i] > [yi]  $$PG: 104-105, 140
+$ Pardess: ∅ > y / __ i   (díku > dyíku, fáčeti > fáčetyi)
+$ NOTE: all of Pardess's examples are post-consonantal, and the purpose of the rule is to supply the
+$ yod for R41/R42 palatalization, so a preceding consonant is required. Any stress grade of i.
+$ NOTE: Pardess follows Pușcariu/Sala here; Vasiliu considers the rule unnecessary.
+$ ORDER: after R39; feeds R41A, R42A.
+∅ > j / [+cons] __ [+syl,+hi,+front]
+
+$ R41A Palatalization of non-occlusive alveolars before yod: [l] > [ʎ], [n] > [ɲ], [s] > [ʃ]  $$PG: 105-106, 140
+$ Pardess: [+cont,+ant,+cor] > [+high,-ant] / __ y
+$ NOTE: written with symbols: DiaSim [+cont,+ant,+cor] would also include the trill r and z, and
+$ ʎ/ɲ are [-cor] in DiaSim, unlike Pardess's output.
+{l;n;s} > {ʎ;ɲ;ʃ} / __ j
+
+$ R41B Absorption of yod after a palatal segment  $$PG: 106, 140
+$ Pardess: y > ∅ / C[+high] __
+$ NOTE: Pardess's [+high] consonants here are ʎ ɲ ʃ. In DiaSim ʃ is [-hi], so the class is written
+$ [+cons,-ant,+front] (palatals and palato-alveolars).
+j > ∅ / [+cons,-ant,+front] __
+
+$ R42A Affrication of alveolar stops before yod: [t] > [t͡s], [d] > [d͡z]  $$PG: 106-107, 140
+$ Pardess: [-cont,+ant,+cor,-del rel] > [+del rel] / __ y
+$ NOTE: symbols - the DiaSim flap ɾ is also [-cont,+ant,+cor,-delrel].
+$ ORDER: needs the yods created by R27B and R40.
+{t;d} > {t͡s;d͡z} / __ j
+
+$ R42B Absorption of yod after an affricate  $$PG: 107-108, 140
+j > ∅ / [+cons,+delrel] __
+
+$ R43 Palatalization of [l] after a velar consonant  $$PG: 108, 140
+$ Pardess: l > [+high,-ant] / [-cont,-ant,-cor] __   (óklu > ókʎu, glátsə > gʎátsə)
+$FIXED: the context silently replaced Pardess's [-cont] with [+cons,-son]. That admits the velar and
+$ palatal FRICATIVES (x, ɣ, ç), which Pardess's [-cont] excludes. Pardess's own matrix is restored.
+$ (In DiaSim it picks out k, ɡ and the palatal stops c, ɟ. Pardess's [-cont] would also include the
+$ nasal ŋ, which DiaSim codes [+cont]; no ŋl case is attested.)
+l > ʎ / [-cont,-ant,-cor] __
+
+$ R44 Fronting of [ə] after [ʎ] and [ɲ]  $$PG: 108, 140
+$ Pardess: ə > e / [-cont,+high,-str] __
+$ NOTE: the context consists of just ʎ and ɲ, written as symbols (both are [+cont] in DiaSim). The
+$ input is written with features so stressed ə is affected too.
+$FIXED (note qualified): Pardess's context matrix [-cont,+high,-str] is literally broader than ʎ and
+$ ɲ: in his feature system it also covers the velar stops k, ɡ. The restriction to ʎ, ɲ follows his
+$ title ("after [ʎ] and [ɲ]") and his examples, not his formula. It is a justified departure, but
+$ it is a departure.
+[+syl,-hi,-lo,-back,-front] > [+front,+tense] / {ʎ;ɲ} __
+
+$ R45A Assimilation: [s] > [ʃ] before [t͡ʃ]  $$PG: 109, 140
+s > ʃ / __ [+delrel,-ant,+cor]
+
+$ R45B Dissimilation: [t͡ʃ] > [t] after [ʃ]  $$PG: 109, 140
+$ Pardess: [+del rel,-ant,+cor] > [-del rel,+ant] / ʃ __
+$ NOTE: symbols, to reach the defined plain stops.
+{t͡ʃ;d͡ʒ} > {t;d} / ʃ __
+
+=Common Romanian
+
+$ ===================================================================================================
+$ CHAPTER 6. THE DEVELOPMENT OF DACO-ROMANIAN (11th c. to the present)
+$ (Pardess: rules deriving standard Romanian (DR) from CR; Vn = Vasiliu's 'schimbări fonetice'.)
+$ ===================================================================================================
+
+$ R46A [e],[e̯] > [ə],[ə̯] after a labial and before a syllable containing a back vowel (V10)  $$PG: 112-113, 141
+$ Pardess: [-cons,-back,-high] > [+back] / C[+ant,-cor] __ Co V[+back]
+$ NOTE: the input is [-cons], so it covers the glide e̯ as well as the vowel e (kəme̯ášə > kəmə̯ášə).
+$ Written with symbols, listing every stress grade, because e > ə also changes [front] and [tense].
+$ NOTE: Pardess's [+back] vowels (a o u ə ɨ) = DiaSim [+syl,-front] or [+syl,+lo] (D6).
+$ NOTE: for the glide, the "following syllable" is the one after its a nucleus: fe̯átə > fə̯átə, but
+$ ve̯áde, me̯áse, pe̯ánne, be̯áre remain (next syllable has e). Hence line (ii) skips the a.
+$ NOTE: Pardess's example bešíkə > bəšíkə has a front vowel (í) in the next syllable and is not
+$ covered by his formula.
+$ ORDER: R46A feeds R46B.
+{e;ˌe;ˈe} > {ə;ˌə;ˈə} / [+cons,+ant,-cor] __ ([+cons])* {[+syl,-front];[+syl,+lo]}
+e̯ > ə̯ / [+cons,+ant,-cor] __ [+syl,+lo] ([+cons])* {[+syl,-front];[+syl,+lo]}
+
+$ R46B Loss of [ə̯] before [a]: [ə̯a] > [a]  $$PG: 113, 141
+ə̯ > ∅ / __ [+syl,+lo]
+
+$ R47A Raising of [ə] before [n] or [m]CV (V59)  $$PG: 113, 141
+$ Pardess: ə > [+high] / __ {n ; mCV}   (vénə > vɨ́nə, kəmpu > kɨ́mpu, əntrégu > ɨntrégu)
+$ NOTE: written with symbols (ə > ɨ also changes [tense] in DiaSim), all stress grades.
+{ə;ˌə;ˈə} > {ɨ;ˌɨ;ˈɨ} / __ {n;m [+cons] [+syl]}
+
+$ R47B Raising of [e] before [n] (V63)  $$PG: 114, 141
+$ Pardess: e > [+high] / __ C[+nas]   (byéne > byíne, lémbə > límbə, témpu > tímpu)
+$ NOTE: symbols with all stress grades of e; ə and e̯ are not targeted.
+$ NOTE: Pardess: some words may have come from Late Latin with e already raised to i here.
+{e;ˌe;ˈe} > {i;ˌi;ˈi} / __ [+nas,+cons]
+
+$ R48 Degemination of [nn]: [nn] > [n]  $$PG: 114, 141
+n n > n
+
+$ R49 Raising of [ə] before [r,s] plus consonant (Vasiliu 1968:63)  $$PG: 114-115, 141
+$ Pardess: ə > ɨ / __ {r;s} C   (vərtúte > vɨrtúte, gə́skə > gɨ́skə, kəstigáre > kɨstigáre)
+$ NOTE: Pardess's r here is the flap ɾ (D2).
+{ə;ˌə;ˈə} > {ɨ;ˌɨ;ˈɨ} / __ {ɾ;s} [+cons]
+
+$ R50 Backing of front vowels after [rr] (V13)  $$PG: 115, 141
+$ Pardess: V > [+back] / rr __   (rréw > rrə́w, rrímu > rrɨ́mu, rríde > rrɨ́de)
+$ NOTE: Pardess's [+back] here = central (D6): e > ə, i > ɨ. Symbols with all stress grades.
+$ ORDER: R26B (initial r > rr) feeds R50; R50 must precede R51.
+{e;ˌe;ˈe;i;ˌi;ˈi} > {ə;ˌə;ˈə;ɨ;ˌɨ;ˈɨ} / r __
+
+$ R51 Simplification of [rr] to [r]  $$PG: 115, 141
+$ Pardess: rr > [-rep]  (D2: trill > flap)
+r > ɾ
+
+$ R52A Deaffrication of voiced alveolar affricate: [d͡z] > [z]  $$PG: 116, 141
+$ Pardess: [+del rel,+ant,+voice] > [-del rel]
+$ NOTE: symbols - z also needs [+cont] (and has delrel 0) in DiaSim.
+d͡z > z
+
+$ R52B Deaffrication of voiced palatal affricate: [d͡ʒ] > [ʒ] before [o] or [u] (V47)  $$PG: 116, 141
+$ Pardess: [-son,+del rel,-ant] > [+cont] / __ V[+round]
+$ NOTE: the formula omits [+voice], but the title, the examples (ǰóku > žóku, aǰutáre > ažutáre) and
+$ the DR outcome (t͡ʃ stays before o/u) restrict it to the voiced affricate, so the voiced symbol is used.
+$ NOTE: Pardess's remark here that "R57A and R57B applied only in the Daco-Romanian dialects ...
+$ the southern dialects have retained [dz] and [ǰ]" can only refer to R52A and R52B.
+d͡ʒ > ʒ / __ [+syl,+round]
+
+$ R53A Monophthongization of [e̯a] after [ʃ] or [t͡s] (sporadically)  $$PG: 117, 141
+$ Pardess: e̯a > a / {š;ts} __   (še̯ápte > šápte, še̯árpe > šárpe, tse̯árə > tsárə)
+$ NOTE: written as loss of the glide, which leaves the stress on the a. SPORADIC.
+$ ORDER: Pardess: R53A must precede (bleed) R53B, otherwise *šepte, *šerpe.
+e̯ > ∅ / {ʃ;t͡s} __ [+syl,+lo]
+
+$ R53B Monophthongization of [e̯a] before a syllable containing [e] (V65)  $$PG: 117-118, 141
+$ Pardess: e̯a > e / __ $ Co e   (me̯áse > mése, ve̯áde > véde, pe̯áne > péne)
+$ NOTE: the glide is deleted and the a (which keeps its stress) becomes e. Pardess's $ (syllable
+$ boundary) is implicit: the e must follow the a after any consonants.
+$ NOTE: Pardess discusses 16th-century spellings: Vasiliu takes e and e̯a to have been in free
+$ variation here, with e winning after the 16th c.
+$ ORDER: Pardess: "The final syllable -re of Romanian infinitives must have been deleted prior to the
+$ application of R56. Otherwise, the diphthong [e̯a] in verbs like 'a bea', 'a putea', etc., would
+$ have monophthongized giving *bere > *a be." Since it is e̯a > e that is at stake, this must mean
+$ before R53B. The infinitive truncation has no rule number and is morphological - not encoded.
+$FIXED: "Co" rendered ([+cons])+ instead of ([+cons])*. Pardess's context is "__ $ Co e", with the
+$ syllable boundary between the diphthong and Co, and every example has at least one consonant
+$ there (me̯áse, le̯áʒe, ve̯áde, ste̯ále, pe̯áne, dze̯áče, be̯áre). With *, hiatus sequences e̯a e
+$ would also monophthongize. (Same correction as in the user's June 2026 gold annotation for R53B.)
+$ DiaSim-tested: me̯áse > mése, ve̯áde > véde, and e̯ˈa e is left alone.
+e̯ [+syl,+lo] > ∅ [-lo] / __ ([+cons])+ [+syl,+front,-hi,-lo]
+
+$ R54 Delateralization of [ʎ] (V61, V64)  $$PG: 118, 141
+$ NOTE: Pardess: AR and MR keep ʎ (CL GALLINA >> AR, MR gəʎínə).
+ʎ > j
+
+$ R55 Denasalization of [ɲ] (V60)  $$PG: 119, 141
+$ Pardess: [+son,-ant,+cor] > [-nas,-cons,-lat]
+$ NOTE: symbols - DiaSim ɲ is [-cor] (Pardess's input matrix would not match it) and the output is j.
+$ NOTE: DR buni, bani, cîini etc. are back-formations from the singular (Pardess).
+ɲ > j
+
+$ R56 Loss of yod before [i]  $$PG: 119, 141
+$ NOTE: any stress grade of i (byíne > bíne, fáčetsyi > fáčetsi).
+j > ∅ / __ [+syl,+hi,+front]
+
+$ R57 [ye̯a] > [ya]  $$PG: 119-120, 141
+$ Pardess's formula: e > ∅ / y __ a. The examples (pye̯átrə > pyátrə, ye̯árbə > yárbə) show that
+$ the e is the glide e̯.
+e̯ > ∅ / j __ [+syl,+lo]
+
+$ R58 Assimilation: word-final [ə] > [e] after [i]  $$PG: 120, 141
+$ Pardess: ə > [-back] / i __ #   (pəlăría > pəlăríe, kutíə > kutíe)
+$ NOTE: written as ə > e (D6); i of any stress grade.
+ə > e / [+syl,+hi,+front] __ #
+
+$ R59A Devoicing of word-final [u] and [i] except after a consonant plus a liquid (V27a,b)  $$PG: 120-121, 141
+$ Pardess: V[+high] > [-voice] / X __ #, where X is not the sequence consonant + liquid.
+$ Examples: lúpu > lúpw̥, brádu > brádw̥, vékyu > vékyw̥, lúpi > lúpj̥, fáčetsi > fáčetsj̥;
+$ but lúkru, péntru, ámplu, áflu remain.
+$ NOTE: Pardess writes the outputs as devoiced GLIDES (w̥, y̥). w̥ = ʍ (defined in symbolDefs);
+$ y̥ = j̥, which assumes DiaSim's voiceless diacritic ̥ can be applied to j (the diacritic file
+$ could not be read in this session; please verify).
+$ NOTE: DiaSim has no negation, so "X is not C + liquid" is written as four positive cases:
+$ after an obstruent (i), a nasal (ii), a glide (iii), or a liquid NOT preceded by a consonant (iv).
+$ A preceding vowel is not included: in Pardess's derivation (Ch. 7, p. 130) lúpii does not undergo R59A
+$ but R59C. Only the unstressed (plain) u, i are affected.
+{u;i} > {ʍ;j̥} / [-son] __ #
+{u;i} > {ʍ;j̥} / [+nas,+cons] __ #
+{u;i} > {ʍ;j̥} / [-syl,-cons] __ #
+{u;i} > {ʍ;j̥} / {#;[-cons]} [+cons,+son,-nas] __ #
+
+$ R59B Loss of word-final voiceless [w]  $$PG: 121, 141
+$ Pardess: w̥ > ∅   (kúyw̥ > kúy, vékyw̥ > véky, kálw̥ > kál, kálulw̥ > kálul)
+$ NOTE: Pardess: also to some degree in MR and IR, after the split (Vasiliu).
+$ ORDER: after R59A.
+ʍ > ∅
+
+$ R59C Word-final [ii] > [i]  $$PG: 121, 141
+i i > i / __ #
+
+$ R60 Loss of final [l] of m sg definite article  $$PG: 121-122, 141
+$ COMMENT-ONLY: Pardess: l > ∅ / __ # "in m sg definite article" (kálul > DR calul [kálu]); he
+$ attributes it to reanalysis of calului as calu + lui - morphologically conditioned.
+

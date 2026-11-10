@@ -1,0 +1,427 @@
+$ oct26-hebrew-extractor-cfr.txt
+$ [CORRECTED by the extraction critic, Oct 2026 -- see "oct26-extrcritic-Hebrew-report.txt". Every change
+$  is marked "$FIXED:" immediately above it; nothing else was altered. Verified in DiaSim (-symbols
+$  symbolDefs-hebrew.csv -diacrit): the file parses and simulates, and single-rule tests were run on
+$  Suchard's own examples.]
+$ DiaSim cascade: Proto-Northwest-Semitic > Proto-Canaanite > Proto-Hebrew > Proto-Jewish Hebrew > Masoretic (Tiberian) Hebrew
+$ Source: Suchard, Benjamin D. 2023. Historical Grammar of Hebrew (course syllabus), Leiden University.
+$   (file: suchard_hebrew_syllabus.pdf; printed page numbers = PDF page numbers)
+$ REQUIRES symbolDefs-hebrew.csv (= DiaSim gamma symbolDefs.csv + 5 ejective rows; see E2).
+$
+$ CONVENTIONS OF THIS FILE
+$ - Identifiers are Suchard's own rule numbers (2.1 ... 5.11). Changes he describes in prose without a
+$   number get the number of their section plus a letter label, e.g. "5.1.1a", and are marked
+$   UNNUMBERED.
+$ - $$PG: = page(s) in the syllabus.
+$ - Rules are in Suchard's order EXCEPT where his own dating statements require a different chronology
+$   (marked "MOVED:" with the reason).
+$ - "ORDER:" = ordering constraints Suchard states; "NOTE:" = rule-specific translation decisions.
+$ - Morphosyntactic/analogical developments (his sections x.2) are kept as COMMENT-ONLY entries.
+$
+$ GENERAL EXECUTIVE DECISIONS
+$ E1. Suchard's transcription -> IPA/DiaSim symbols (his Table 1.1, p. 4):
+$       ˀ = ʔ ; h = h ; ḥ = ħ ; ˁ = ʕ ; ḫ = x ; ġ = ɣ ; ś = ɬ ; š = ʃ ; y = j ; g = ɡ ; r = r ;
+$       ṭ = tʼ ; q = kʼ ; ˢs = t͡s ; ᵈz = d͡z ; ᵗṣ (later written ṣ) = t͡sʼ ; θ̣ = t͡θʼ ; ṣ́ = t͡ɬʼ ;
+$       ε = ɛ ; ə = ə ; ā̊ = ɔː ; macron = ː ; acute accent = primary stress (ˈ, [+prim]).
+$       Spirants of 5.7: ḇ = v, ḡ = ɣ, ḏ = ð, ḵ = x, p̄ = f, ṯ = θ.
+$ E2. Ejectives ("emphatics") are [+cg] consonants. As the emphatics are not in DiaSim's
+$     symbolDefs.csv, symbolDefs-hebrew.csv adds: tʼ (t +cg), kʼ (k +cg), t͡sʼ (t͡s +cg),
+$     t͡θʼ (θ with -cont,+delrel,+cg), t͡ɬʼ (ɬ with -cont,+delrel,+cg). Everything else is unchanged gamma.
+$ E3. Geminates (and Suchard's "long" consonants) = two identical segments (b b), not Cː.
+$ E4. DiaSim has no syllables. "Open syllable" = the vowel is followed by #, by another vowel, or by one
+$     non-syllabic + a vowel; "closed" = followed by [-syl] + {[-syl] or #}. Glides j, w count as
+$     consonants, as in Suchard ("29 consonantal phonemes" incl. w, y). Suchard's $ (syllable boundary)
+$     is rendered with these contexts.
+$ E5. Stress is assigned by 2.5; the input lexicon is assumed unstressed (Suchard: PNWS stress cannot be
+$     reconstructed). Plain vowel symbols (a, e, o, aː ...) are the UNSTRESSED ones, so symbol rules on
+$     them only hit unstressed vowels. Secondary stress is not used.
+$ E6. "Prosodic word" = DiaSim word. Proclitics (Suchard joins them with a hyphen) must be joined to
+$     their host in the lexicon. Pausal (utterance-final) forms cannot be distinguished; 4.2 is comment-only.
+$ E7. DiaSim has no negation. Negative conditions are written as follows:
+$     (a) "two DIFFERENT consonants" / "not a geminate": one line per distinguishing feature, using a
+$         negative alpha (C1 [αF] vs C2 [-αF]), or, where that would multiply lines, a revert line using
+$         identity alphas (one distinct variable per feature);
+$     (b) "except after w and o" (2.8): a temporary protect symbol, ɑː, which occurs nowhere else
+$         and is restored at once.
+$ E8. Gutturals = ʔ h ħ ʕ plus the velar fricatives x ɣ (Suchard's definition, p. 10 fn. 4) until they
+$     merge (5.6). For "not after/adjacent to a guttural", non-guttural consonants =
+$     {[+ant];[+cor];[+cons,-cont];[+nas];j;w}.
+
+$ ===================================================================================================
+$ INPUT: Proto-Northwest-Semitic (ch. 1, pp. 3-12): consonants as Table 1.1; vowels a aː i iː u uː.
+$ ===================================================================================================
+
+$ ===================================================================================================
+$ CHAPTER 2. PROTO-CANAANITE (pp. 13-15)
+$ ===================================================================================================
+
+$FIXED (stage placement): rules 2.1-2.3 (consonant mergers) are MOVED from here to just after the
+$ =Proto-Canaanite stage line below. Suchard (p.13) states that these "are probably not Proto-Canaanite
+$ developments per se, but later, areal changes, affecting the Iron Age Canaanite languages", and that
+$ they "do not interact with the vocalic changes". Placed here, they made the Proto-Canaanite stage
+$ show the merged consonant system, contrary to Suchard's periodization.
+
+$ 2.4 i and u shift to e and o; word-finally, u (or o) seems to have yielded e  $$PG: 13
+$ NOTE: short vowels only. Word-final u > e is applied first, so it does not pass through o.
+u > e / __ #
+{i;u} > {e;o}
+
+$ 2.5 The stress falls on the penultimate syllable of every prosodic word  $$PG: 14
+$ NOTE: line (ii) stresses the only vowel of a monosyllable (implied).
+[+syl] > [+stres,+prim] / __ ([-syl])* [+syl] ([-syl])* #
+[+syl] > [+stres,+prim] / # ([-syl])* __ ([-syl])* #
+
+$ 2.6 Vˀ$ > V̄$: syllable-final ˀ is lost with lengthening of the preceding vowel  $$PG: 14
+$ ORDER: before 2.8 (the ā so created also shifts to ō).
+[+syl] ʔ > [+long] ∅ / __ {[-syl];#}
+
+$ 2.7 Unstressed o > e when adjacent to a bilabial consonant  $$PG: 14
+$ NOTE: bilabials = Suchard's bilabial column (p, b, m, w) = [-syl,+lab].
+$ ORDER: before 2.8 (removes some o that would block the Canaanite Shift).
+o > e / [-syl,+lab] __
+o > e / __ [-syl,+lab]
+
+$ 2.8 Canaanite Shift: ā > ō, except in syllables after w and o  $$PG: 14
+$ NOTE: (i)-(ii) protect ā after w and after o (+ at most one consonant) with the temporary ɑː (E7b);
+$ (iii) shifts every other ā, stressed or unstressed; (iv) restores the protected ones.
+{aː;ˈaː} > {ɑː;ˈɑː} / w __
+{aː;ˈaː} > {ɑː;ˈɑː} / [+syl,-hi,-lo,+round] ([-syl]) __
+{aː;ˈaː} > {oː;ˈoː}
+{ɑː;ˈɑː} > {aː;ˈaː}
+
+$ 2.9 Unstressed ō > ū in non-initial syllables  $$PG: 14
+$ NOTE: Suchard: in many cases ō was analogically restored - LEXICAL, not encoded.
+oː > uː / [+syl] ([-syl])* __
+
+$ 2.10 Triphthong contraction: V̆1wV2 and V̆1yV2 > V̄2  $$PG: 14-15
+$ NOTE: the result has the quality of V2. Line (i) keeps the stress when it was on V1; line (ii) is the
+$ general case (V2's own stress is kept).
+[+syl,-long,+prim] [-syl,-cons,+hi] [+syl] > ∅ ∅ [+long,+stres,+prim]
+[+syl,-long] [-syl,-cons,+hi] [+syl] > ∅ ∅ [+long]
+
+$ 2.11 V̄C$ > V̆C$: long vowels in closed syllables are shortened  $$PG: 14-15
+$ Exception (fn. 8): not when closed by a geminate (bāttīma).
+$ NOTE: line (i) = word-final closed syllable; lines (ii)ff. = the vowel is followed by two consonants
+$ that differ in at least one feature (E7a).
+$ ORDER: after 2.10 (shortens its products in closed syllables: qāmta > qámta).
+[+syl,+long] > [-long] / __ [-syl] #
+[+syl,+long] > [-long] / __ [-syl,αson] [-syl,-αson]
+[+syl,+long] > [-long] / __ [-syl,αcons] [-syl,-αcons]
+[+syl,+long] > [-long] / __ [-syl,αcont] [-syl,-αcont]
+[+syl,+long] > [-long] / __ [-syl,αlat] [-syl,-αlat]
+[+syl,+long] > [-long] / __ [-syl,αnas] [-syl,-αnas]
+[+syl,+long] > [-long] / __ [-syl,αstrid] [-syl,-αstrid]
+[+syl,+long] > [-long] / __ [-syl,αvoi] [-syl,-αvoi]
+[+syl,+long] > [-long] / __ [-syl,αsg] [-syl,-αsg]
+[+syl,+long] > [-long] / __ [-syl,αcg] [-syl,-αcg]
+[+syl,+long] > [-long] / __ [-syl,αant] [-syl,-αant]
+[+syl,+long] > [-long] / __ [-syl,αcor] [-syl,-αcor]
+[+syl,+long] > [-long] / __ [-syl,αlab] [-syl,-αlab]
+[+syl,+long] > [-long] / __ [-syl,αhi] [-syl,-αhi]
+[+syl,+long] > [-long] / __ [-syl,αlo] [-syl,-αlo]
+[+syl,+long] > [-long] / __ [-syl,αback] [-syl,-αback]
+[+syl,+long] > [-long] / __ [-syl,αfront] [-syl,-αfront]
+
+$ 2.2.1-2.2.3 Morphosyntactic developments  $$PG: 15
+$ COMMENT-ONLY:
+$ - new 1sg independent pronouns ˀánī, ˀanṓkī (contamination with suffixed pronouns);
+$ - dual/plural nunation replaced by mimation (Hebrew, Phoenician);
+$ - 3f.pl./1pl. perfect -ā/-nā > -ū/-nū by 2.8; 1sg perfect -tu replaced by -tī;
+$ - after the Canaanite Shift, word-final t of the 3f.sg. perfect -at lost with compensatory lengthening
+$   (> -ā) - morphologically restricted;
+$ - a > e in the first syllable of the D- and C-stem perfect ("probably due to a minor sound change",
+$   restricted to those forms): qeṭṭel-, heqṭel-;
+$ - C-stem prefix conjugation -saqṭel- > -haqṭel- (analogy), then h lost (yaqṭel-);
+$ - the infinitive construct (qṭul-um ...) possibly a Proto-Canaanite innovation.
+
+$ EXERCISE 3 (p. 35) mentions further changes "not yet mentioned" in the chapters:
+$ "h is elided before a short, word-final vowel ... -īhu > -īw and -ahu > -ō; also, stressed word-final
+$ -ī > -ē." COMMENT-ONLY: no position in the chronology is given, and taken literally they conflict
+$ with 2.4 (final u > e) and 2.9 (unstressed non-initial ō > ū) - e.g. -ahu > -ō must follow 2.9 but
+$ act on a final u that 2.4 has already turned into e. Left for Clayton to decide.
+$FIXED (note added, critic): the conflict is real and can be stated precisely. These ARE regular sound
+$ changes for Suchard ("Due to sound change..."), so they belong in the cascade once placed. For
+$ raˀsahu > rōšō (stress on the suffix) the h-elision must FOLLOW 2.5 (eliding first would put the
+$ penult stress on raˀ-). For -īhu > -īw and -ahu > -ō it must act on a word-final u, i.e. PRECEDE
+$ 2.4's word-final u > e, which itself precedes 2.5. Both cannot hold, unless 2.4's final u > e (which
+$ Suchard hedges: "seems to have") did not apply to the 3m.sg. suffix -hu. Not encoded: the choice
+$ is the user's.
+
+=Proto-Canaanite
+
+$FIXED (stage placement): 2.1-2.3 MOVED here from the start of chapter 2 (see the note there): per
+$ Suchard these are post-Proto-Canaanite, Iron Age areal changes. They come first after the stage, so the
+$ consonant lists of 3.1 and 3.8 (which assume the merged inventory) are unaffected.
+$ 2.1 Interdentals shift to alveolars: θ ð θ̣ > s z tṣ; the emphatic lateral ṣ́ also > tṣ  $$PG: 13
+$ NOTE: Suchard: ṣ́ > tṣ "maybe not yet at this point in time"; see 4.1 (ṣ́ > ṣ "if still preserved").
+$ It is encoded here; the 4.1 line for it is then vacuous.
+$ ORDER: 2.1 feeds 2.2 (s from θ also > š).
+{θ;ð;t͡θʼ;t͡ɬʼ} > {s;z;t͡sʼ;t͡sʼ}
+
+$ 2.2 s, both original and from θ, shifts to š  $$PG: 13
+$ ORDER: before 2.3 (s from ˢs does not become š).
+s > ʃ
+
+$ 2.3 The affricates ˢs and ᵈz (but not ᵗṣ) become fricatives, s and z  $$PG: 13
+{t͡s;d͡z} > {s;z}
+
+$ ===================================================================================================
+$ CHAPTER 3. PROTO-HEBREW (pp. 16-19)
+$ ===================================================================================================
+
+$ 3.1 n before another consonant assimilates to that consonant  $$PG: 16
+$ MOVED: see after 3.5 below. Suchard (p. 22, Philippi's Law) states that the lowering é > ε before two
+$ different consonants (5.1) applied BEFORE n-assimilation (bént > bέnt > bέtt), and 5.1's own exception
+$ (fn. 10, not in the first syllable of polysyllabic words) only lets bént through once it is
+$ monosyllabic, i.e. after the second apocope (3.5).
+
+$ 3.2 First apocope: unstressed, word-final a and e are deleted  $$PG: 16
+$ NOTE: plain a, e = unstressed short (E5).
+$ ORDER: after 2.10 (Suchard).
+$FIXED (DiaSim format): "{a;e} > ∅" does not parse -- a two-member disjunction must map onto a
+$ two-member disjunction. DiaSim aborted the whole cascade here ("mismatch in the number of disjunctions
+$ of source segs and disjunctions of dest segs"). Corrected to {∅;∅}.
+{a;e} > {∅;∅} / __ #
+
+$ 3.3 Word-final m is lost after unstressed vowels  $$PG: 16
+$ ORDER: Suchard: probably before 3.4 (orthographic evidence).
+m > ∅ / [+syl,-stres] __ #
+
+$ 3.9 Diphthong contraction: aw > ō, stressed and unstressed, except when followed by w  $$PG: 18
+$ MOVED: Suchard (p. 18): "the contraction of *aw preceded tonic lengthening" (3.4).
+$ NOTE: "except in a few very specific environments" - not specified; not encoded. "Not followed by
+$ w" = followed by # or by any segment other than w ([+cons], a non-labial [-cons], or a vowel).
+{a w;ˈa w} > {oː;ˈoː} / __ {#;[+cons];[-cons,-lab];[+syl]}
+
+$ 3.4 Tonic lengthening: stressed short vowels in open syllables become long, except when followed by a
+$     long vowel  $$PG: 16-17
+$ NOTE: vowels in syllables closed by the first apocope do not lengthen (qaṭál) - follows from E4.
+[+syl,-long,+prim] > [+long] / __ ([-syl]) [+syl,-long]
+[+syl,-long,+prim] > [+long] / __ #
+
+$ 3.5 Second apocope: new cases of unstressed, word-final a and e are deleted  $$PG: 17
+$FIXED (DiaSim format): "{a;e} > ∅" does not parse -- a two-member disjunction must map onto a
+$ two-member disjunction. DiaSim aborted the whole cascade here ("mismatch in the number of disjunctions
+$ of source segs and disjunctions of dest segs"). Corrected to {∅;∅}.
+{a;e} > {∅;∅} / __ #
+
+$ 5.1 Philippi's Law (a): éC1C2 > έC1C2 in medial and word-final syllables  $$PG: 22
+$ MOVED here from ch. 5: Suchard: "Already at the Proto-Hebrew stage, stressed *e was slightly lowered
+$ to *ε when occurring before two different consonants", before n-assimilation (3.1); see the note at 3.1.
+$ Exception (fn. 10): not in the first syllable of polysyllabic words (qédmā, léknā).
+$ NOTE: (i) non-initial syllable; (ii) monosyllable; (iii) undoes the lowering before a geminate, since
+$ only DIFFERENT consonants condition it (E7a; no ɛ existed before this rule).
+ˈe > ˈɛ / [+syl] ([-syl])* __ [-syl] [-syl]
+ˈe > ˈɛ / # ([-syl])* __ [-syl] [-syl] ([-syl])* #
+ˈɛ > ˈe / __ [-syl,αson,βcons,γcont,δlat,εnas,ζstrid,ηvoi,θsg,ιcg,κant,λcor,μlab,νhi,ξlo,οback,πfront] [-syl,αson,βcons,γcont,δlat,εnas,ζstrid,ηvoi,θsg,ιcg,κant,λcor,μlab,νhi,ξlo,οback,πfront]
+
+$ 3.1 n-assimilation (placed here; see the MOVED note above)  $$PG: 16
+$ NOTE: written as one pair per consonant of the inventory at this stage (a feature-matrix output
+$ cannot copy a whole consonant reliably).
+{n p;n b;n t;n d;n k;n ɡ;n ʔ;n tʼ;n kʼ;n t͡sʼ;n s;n z;n ʃ;n ħ;n ʕ;n h;n x;n ɣ;n ɬ;n l;n m;n r;n w;n j} > {p p;b b;t t;d d;k k;ɡ ɡ;ʔ ʔ;tʼ tʼ;kʼ kʼ;t͡sʼ t͡sʼ;s s;z z;ʃ ʃ;ħ ħ;ʕ ʕ;h h;x x;ɣ ɣ;ɬ ɬ;l l;m m;r r;w w;j j}
+
+$ 3.10 ay > ē, except when followed by y or in word-final syllables  $$PG: 18
+$ NOTE: listed after 3.9 by Suchard; "the contraction of *ay postdates the second apocope (3.5)" -
+$ it stays after 3.5 here. "Not word-final syllable" = a vowel follows later in the word; "not followed
+$ by y" = the next segment is a consonant other than j ([+cons], [-son] ʔ h, or [+lab] w).
+{a j;ˈa j} > {eː;ˈeː} / __ {[+cons];[-son];[+lab]} ([-syl])* [+syl]
+
+$ 3.6a UNNUMBERED: pretonic reduction of e and o  $$PG: 17
+$ Suchard: "*e and *o had previously been reduced or deleted in pretonic syllables, except when
+$ preceding *a (but were later analogically restored before morpheme boundaries)": zerṓˁ > zərṓˁ.
+$ NOTE: rendered as reduction to ə ("or deleted" not encoded); "preceding a" = the stressed vowel is a/ā,
+$ i.e. [+lo]. The analogical restorations are LEXICAL.
+$FIXED (note added): consequence not previously noted. Because the restoration "before morpheme
+$ boundaries" is not modelled, this line removes the very e/o that Suchard's own examples of 3.7/3.8
+$ need. ˁamoqīḿ > ˁamoqqīḿ (3.8) comes out as *ˁaməqīm (DiaSim-tested), and kōhenīḿ ends up *kōhənīm
+$ here. Only e/o before a stressed a/ā reach 3.7/3.8. If the input lexicon marks suffix boundaries with
+$ "+", the restoration could be encoded as "no reduction before C+"; the lexicon conventions are the
+$ user's to set.
+$ ORDER: before 3.6-3.8 ("previously").
+{e;o} > {ə;ə} / __ ([-syl]) [+syl,+prim,-lo]
+
+$ 3.6 Pretonic lengthening of a: a > ā in open syllables directly preceding the stress  $$PG: 17
+a > aː / __ ([-syl]) [+syl,+prim]
+
+$ 3.7 e > ē in open syllables directly preceding the stress, except when directly preceded by a heavy
+$     syllable  $$PG: 17
+$ NOTE: "not preceded by a heavy syllable" = word-initial syllable, or the preceding syllable ends in a
+$ short vowel (light CV̆).
+e > eː / # ([-syl])* __ ([-syl]) [+syl,+prim]
+e > eː / [+syl,-long] [-syl] __ ([-syl]) [+syl,+prim]
+
+$ 3.8 oC > oCC in open syllables directly preceding the stress, except when directly preceded by a
+$     heavy syllable  $$PG: 17
+$ NOTE: gemination written with consonant lists (an inserted segment cannot be a feature matrix).
+{p;b;t;d;k;ɡ;ʔ;tʼ;kʼ;t͡sʼ;s;z;ʃ;ħ;ʕ;h;x;ɣ;ɬ;l;m;n;r;w;j} > {p p;b b;t t;d d;k k;ɡ ɡ;ʔ ʔ;tʼ tʼ;kʼ kʼ;t͡sʼ t͡sʼ;s s;z z;ʃ ʃ;ħ ħ;ʕ ʕ;h h;x x;ɣ ɣ;ɬ ɬ;l l;m m;n n;r r;w w;j j} / # ([-syl])* o __ [+syl,+prim]
+{p;b;t;d;k;ɡ;ʔ;tʼ;kʼ;t͡sʼ;s;z;ʃ;ħ;ʕ;h;x;ɣ;ɬ;l;m;n;r;w;j} > {p p;b b;t t;d d;k k;ɡ ɡ;ʔ ʔ;tʼ tʼ;kʼ kʼ;t͡sʼ t͡sʼ;s s;z z;ʃ ʃ;ħ ħ;ʕ ʕ;h h;x x;ɣ ɣ;ɬ ɬ;l l;m m;n n;r r;w w;j j} / [+syl,-long] [-syl] o __ [+syl,+prim]
+
+$ 3.2.1-3.2.2 Morphosyntactic developments  $$PG: 18-19
+$ COMMENT-ONLY:
+$ - collapse of the case system; genitive/oblique forms generalized (-áym, -īḿ; pḗ, śādḗ, zḗ);
+$ - rise of the definite article haC- and nota objecti ˀōt-/ˀet-;
+$ - feminine absolute -āt > -ā (word-final t lost; construct -at keeps t) - morphologically restricted;
+$FIXED (note qualified): Suchard's own account of this loss is PROSODIC: "*t was preserved in the
+$   construct ending *-at because it was not prosodically in word-final position". If -āt# occurs only in
+$   this suffix at this stage (the f.pl. is -ōt), it could be encoded as "t > ∅ / aː __ #". Flagged for the
+$   user rather than encoded.
+$ - stress shift to the ultima "in several very specific circumstances" (jussive/imperfect merger);
+$ - prefix vowel raising ya- > ye- (fientive G), na- > ne- (N-stem perfect/participle) - "minor sound
+$   change", morphologically restricted;
+$ - C-stem heqṭél > heqṭīl, yaqṭél > yaqṭīl by analogy with II-weak forms;
+$ - consecutive imperfect way-yeqṭól; participial present.
+
+=Proto-Hebrew
+
+$ ===================================================================================================
+$ CHAPTER 4. PROTO-JEWISH HEBREW (pp. 20-21)
+$ ===================================================================================================
+
+$ 4.1 Loss of the lateral fricative(s): ś merges with s (< ˢs); if ṣ́ was still preserved, it merges
+$     with ṣ  $$PG: 20
+$ NOTE: the t͡ɬʼ line is vacuous if 2.1 already merged it (see 2.1).
+{ɬ;t͡ɬʼ} > {s;t͡sʼ}
+
+$ 4.2 Pausal lengthening: in utterance-final words, stressed short vowels are lengthened  $$PG: 20
+$ COMMENT-ONLY: utterance position is not available to DiaSim (E6). Pausal forms would need a separate
+$ lexicon column / cascade branch with [+syl,-long,+prim] > [+long] here, which also blocks 4.3.
+
+$ 4.3 Short stress shift: the stress shifts from a short vowel in an open syllable to a directly
+$     following vowel  $$PG: 20
+$ NOTE: two steps: (i) stress the next vowel; (ii) unstress the short open-syllable vowel before it.
+$ ORDER: blocked by pausal lengthening (4.2) in pausal forms.
+[+syl] > [+stres,+prim] / [+syl,-long,+prim] ([-syl]) __
+[+syl,-long,+prim] > [-stres,-prim] / __ ([-syl]) [+syl,+prim]
+
+$ 4.4 Reduction: unstressed short V > ə in open syllables  $$PG: 20
+$ Exceptions: after gutturals short vowels were usually retained (-> ḥaṭep vowels); fn. 9: o in
+$ word-initial syllables was preserved (qodāšīḿ, ṣorī́).
+$ NOTE: (i) unrounded short vowels after a non-guttural (E8) or word-initially; (ii) rounded short
+$ vowels only in non-initial syllables. The ḥaṭep realizations (whose quality "does not always
+$ correspond" to the original) are not modelled: the retained vowels are left as they are.
+[+syl,-long,-stres,-round] > ə / {#;[+syl];[+ant];[+cor];[+cons,-cont];[+nas];j;w} __ {#;[+syl];[-syl] [+syl]}
+$FIXED: Suchard's fn. 9 exempts only *o in word-initial syllables ("*o in word-initial syllables was
+$ preserved"). Line (ii) extended the exemption to every rounded short vowel, so a word-initial short u
+$ (e.g. from 2.11 shortening) was wrongly kept. Now: u reduces under the same conditions as line (i),
+$ and only o has the non-initial restriction (DiaSim-tested: qodāšīḿ keeps o, kumā́ > kəmā́).
+u > ə / {#;[+syl];[+ant];[+cor];[+cons,-cont];[+nas];j;w} __ {#;[+syl];[-syl] [+syl]}
+o > ə / [+syl] ([-syl])* {[+ant];[+cor];[+cons,-cont];[+nas];j;w} __ {#;[+syl];[-syl] [+syl]}
+
+$ 4.2 (section) Morphosyntactic developments  $$PG: 21
+$ COMMENT-ONLY: obsolescence of the consecutive imperfect; perfect for any past; relative ˀašer > šeC-.
+
+=Proto-Jewish Hebrew
+
+$ ===================================================================================================
+$ CHAPTER 5. MASORETIC HEBREW (pp. 22-24)
+$ ===================================================================================================
+
+$ 5.1.1a UNNUMBERED: changes in vowel quality of unstressed e and o  $$PG: 22
+$ Suchard: e > i in pretonic syllables, except when adjacent to a guttural ("and even then sometimes,
+$ especially before geminates" - not encoded); elsewhere e > ε. o > u before most geminates, > ɔ
+$ elsewhere. (yeqṭól > yiqṭól; wayyḗred > wayyḗrεd; kollṓ > kullṓ; godlṓ > gɔdlṓ)
+$ NOTE: pretonic = the next vowel is the stressed one. "Most geminates" -> all geminates (identity
+$ alphas, E7a).
+e > i / {#;[+syl];[+ant];[+cor];[+cons,-cont];[+nas];j;w} __ {[+ant];[+cor];[+cons,-cont];[+nas];j;w} ([-syl]) [+syl,+prim]
+e > ɛ
+o > u / __ [-syl,αson,βcons,γcont,δlat,εnas,ζstrid,ηvoi,θsg,ιcg,κant,λcor,μlab,νhi,ξlo,οback,πfront] [-syl,αson,βcons,γcont,δlat,εnas,ζstrid,ηvoi,θsg,ιcg,κant,λcor,μlab,νhi,ξlo,οback,πfront]
+o > ɔ
+
+$ 5.1.1b UNNUMBERED: in the Babylonian and Tiberian reading traditions, ā was backed to ā̊  $$PG: 22
+$ NOTE: ā̊ = ɔː (Tiberian qameṣ). Applies to all ā existing at this point; ā created later by 5.4/5.5
+$ stays a.
+$FIXED (note added): this placement decides outputs, and Suchard gives no date for the backing. As
+$ placed here, the compensatory ā of 5.4 stays [aː]; e.g. the article before a geminate guttural
+$ comes out haːʔɔːdɔ́ːm (DiaSim-tested), where Tiberian has qameṣ (hā̊-). Placing it after 5.4/5.5a
+$ would fix that, but would then wrongly back the lengthened vowel of guttural segolates (5.5:
+$ náˁr > nāˁar, Tiberian pataḥ naʕar). Neither order fits both; left as extracted, flagged for the user.
+{aː;ˈaː} > {ɔː;ˈɔː}
+
+$ 5.1 Philippi's Law (a)  $$PG: 22
+$ MOVED: encoded after 3.5 above (Proto-Hebrew), per Suchard's dating.
+
+$ 5.2 Philippi's Law (b): έC$ > áC$ (stressed ε in a closed syllable > a)  $$PG: 22
+ˈɛ > ˈa / __ [-syl] {#;[-syl]}
+
+$ 5.3 Word-finally, C1C1 > C1  $$PG: 22-23
+[-syl,αson,βcons,γcont,δlat,εnas,ζstrid,ηvoi,θsg,ιcg,κant,λcor,μlab,νhi,ξlo,οback,πfront] > ∅ / [-syl,αson,βcons,γcont,δlat,εnas,ζstrid,ηvoi,θsg,ιcg,κant,λcor,μlab,νhi,ξlo,οback,πfront] __ #
+
+$ 5.4 V̆G1G1 > V̄G1: geminated gutturals and r are simplified in all positions, with compensatory
+$     lengthening  $$PG: 22-23
+$ NOTE: Suchard: the voiceless fricatives ḫ ḥ h "seem to have been preserved as geminates for longer";
+$ no separate stage is given, so all are encoded here.
+[+syl,-long] ʔ ʔ > [+long] ʔ ∅
+[+syl,-long] h h > [+long] h ∅
+[+syl,-long] ħ ħ > [+long] ħ ∅
+[+syl,-long] ʕ ʕ > [+long] ʕ ∅
+[+syl,-long] x x > [+long] x ∅
+[+syl,-long] ɣ ɣ > [+long] ɣ ∅
+[+syl,-long] r r > [+long] r ∅
+
+$ 5.5 Segolization: word-finally, V̆G1C2 > V̄G1aC2; V̆yC > V̄yiC; other V̆C1C2 > V̄C1εC2  $$PG: 22-23
+$ NOTE: the [-syl] slots in the outputs leave those consonants unchanged. C1 ≠ C2 is guaranteed
+$ because 5.3 has removed final geminates.
+$ ORDER: after 5.3.
+[+syl,-long] ʔ ∅ [-syl] > [+long] ʔ a [-syl] / __ #
+[+syl,-long] h ∅ [-syl] > [+long] h a [-syl] / __ #
+[+syl,-long] ħ ∅ [-syl] > [+long] ħ a [-syl] / __ #
+[+syl,-long] ʕ ∅ [-syl] > [+long] ʕ a [-syl] / __ #
+[+syl,-long] x ∅ [-syl] > [+long] x a [-syl] / __ #
+[+syl,-long] ɣ ∅ [-syl] > [+long] ɣ a [-syl] / __ #
+[+syl,-long] j ∅ [-syl] > [+long] j i [-syl] / __ #
+[+syl,-long] [-syl] ∅ [-syl] > [+long] [-syl] ɛ [-syl] / __ #
+
+$ 5.5a UNNUMBERED: ā in a newly opened syllable assimilated to a following ε  $$PG: 23
+$ (qáṭl > qɛ̄́ṭεl; cf. qéṭl > qḗṭεl, qóṭl > qṓṭεl)
+{aː;ˈaː} > {ɛː;ˈɛː} / __ [-syl] ɛ
+
+$ 5.6 ḫ > ḥ, ġ > ˁ  $$PG: 23
+$ ORDER: after 5.4/5.5 (which still treat them as gutturals); before 5.7 (whose k > ḵ creates a new x).
+{x;ɣ} > {ħ;ʕ}
+
+$ 5.7 Begadkephat spirantization: postvocalic, non-geminated b g d k p t > ḇ ḡ ḏ ḵ p̄ ṯ  $$PG: 23
+$ NOTE: (i) spirantizes every postvocalic stop; (ii) reverts the first half of a geminate (E7a). No
+$ v ɣ ð x f θ exist before this rule (ɣ, x merged in 5.6), so the reverts only hit its own outputs.
+{b;ɡ;d;k;p;t} > {v;ɣ;ð;x;f;θ} / [+syl] __
+v > b / __ b
+ɣ > ɡ / __ ɡ
+ð > d / __ d
+x > k / __ k
+f > p / __ p
+θ > t / __ t
+
+$ 5.8 Schwa is deleted when directly preceded by an open syllable  $$PG: 23
+$ (məlәḵē > məlḵē; dəḇərē > dəḇrē)
+ə > ∅ / [+syl] [-syl] __
+
+$ 5.9 Schwa in a closed syllable shifts to a when adjacent to a guttural or before r, l or n; elsewhere
+$     it shifts to i  $$PG: 24
+$ (məlḵē > malḵē; dəḇrē > diḇrē)
+$ NOTE: gutturals here = ʔ h ħ ʕ (after 5.6).
+ə > a / {ʔ;h;ħ;ʕ} __ [-syl] {[-syl];#}
+ə > a / __ {ʔ;h;ħ;ʕ;r;l;n} {[-syl];#}
+ə > i / __ [-syl] {[-syl];#}
+
+$ 5.10 Schwa is inserted between two word-initial consonants  $$PG: 24
+∅ > ə / # [-syl] __ [-syl]
+
+$ 5.11 All stressed short vowels are lengthened  $$PG: 24
+[+syl,-long,+stres] > [+long]
+
+$ 5.1.5a UNNUMBERED: Tiberian dissimilation of a to i in the first syllable of maqṭal- nouns and
+$     phonetically similar forms; not before geminates or nasals or adjacent to gutturals  $$PG: 24
+$ NOTE: TENTATIVE - "maqṭal- nouns and phonetically similar forms" is a pattern, not a phonological
+$ context. Encoded as # m a C C V with C non-nasal and non-guttural ([+cons,-nas,-lo]; ʔ h are
+$ [-cons]); line (ii) reverts it before a geminate (E7a). Placement: Suchard mentions it last and gives
+$ no date.
+$FIXED (note added): the "#m" proxy also hits any word beginning ma + CCV, not only maqṭal- nouns.
+$ It is also inconsistent with this file's own policy: the other pattern-restricted "minor sound
+$ changes" (2.2.3 D/C-stem a > e, 3.2.2 ya- > ye-) are comment-only. Kept, as tentative, for the user
+$ to decide.
+a > i / # m __ [+cons,-nas,-lo] [-syl] [+syl]
+i > a / # m __ [-syl,αson,βcons,γcont,δlat,εnas,ζstrid,ηvoi,θsg,ιcg,κant,λcor,μlab,νhi,ξlo,οback,πfront] [-syl,αson,βcons,γcont,δlat,εnas,ζstrid,ηvoi,θsg,ιcg,κant,λcor,μlab,νhi,ξlo,οback,πfront]
+
+$ 5.2.1 Spread of -ā  $$PG: 24
+$ COMMENT-ONLY: 2m.sg. -ā (qāṭáltā, -ḵā) and f.pl. imperfect -nā by analogy with ˀattā, hennā.
+
+$ OUTPUT: Masoretic (Tiberian) Biblical Hebrew.

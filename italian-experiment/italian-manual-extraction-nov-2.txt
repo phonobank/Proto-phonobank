@@ -1,0 +1,195 @@
+$=Classical Latin
+
+$$ NOTATION:
+    $ rules indicated by page number, then letters starting at a. 
+    $ alternatively, by their section, then letters starting from a
+
+    $ since Maiden treats AE OE AU as /ai/ /oi/ ( really -/j/) and /aw/ respectively, so does tihs document. 
+
+$ 3.1a loss of h. Pan-Romance 
+h > ∅ 
+
+$ 5a gliding of unstressed i and u in hiatus 
+[+syl,+hi,-stres] > [-syl] / __ [+syl]
+
+$ 3.3c tl / kl: Counterbled by 3.3a. He doesn't mention, but this is practically pan-Romance 
+t > k / __ l 
+
+= Proto-Romance 
+
+$ 4.4d TENTATIVE "tendency" of aw >a before syllable with u (which later passes to /o/); all listed cases have a velar before it
+    $ as presently formulated, counterbled by 2.1a
+    $TENTATIVE!
+w > ∅ / [+lo] __ ([+cons])* [+back,+cons] [+hi,+back,+syl]
+
+$ 2.1a / 29a non-low short vowels opened: i e u o to e ɛ o ɔ; via tensing
+[+syl,-long,-lo,ɩhi] > [-hi,ɩtense] 
+
+$ 2.1b distinctive vowel length is lost 
+[+syl] > [-long]
+
+$ 2.2a AE and OE to ɛ and e respectively, "merged with ... reflexes of .. sort [e] and long [eː]"
+[+syl,alo,-around,-hi] [-syl,-cons,+front] > [+front,-back,-lab,-round,-atense,-lo] ∅
+
+$ 3.4a k , g palatalized before front vowels. Fed by 2.2a. 
+{k;ɡ} > {t͡ʃ;d͡ʒ} / __ [+syl,+front]
+
+$ 3.2a syllable initial w- to v- 
+w > v / # ((@)* [-syl]) __ 
+
+$ 3.2b intervocalic -b- to -β-. Counting post-diphthongal as "intervocalic", hence prior [-cons] not [+syl]. 
+b > β / [-cons] __ [+syl]
+
+= Proto-West-Romance
+
+
+$ 2.3a unstressed ɛ and ɔ merge with reflexes of long mid vowels
+     $can use the following simple rule bc these are the only lax vowels
+[-prim] > [+tense]
+
+$ 3.2c merger of β into V. Bled in some contexts after r. 
+    $ cases: nervvm > nerbo , seruat > serva... 
+β > v
+
+$ 3.3b sl > skl. Counterbled by 3.3a. 
+∅ > k / s __ l 
+
+    $5.2d regular stj > ʃt͡ʃ > ʃʃ, first step. Notably, shared with Romanian in outcomes, but in parallel. Old Italian used -sci- for this likely indicating ʃt͡ʃ
+        $angostia > angoʃʃa , osteum > <uscio > uʃʃo
+s t j > ʃ t͡ʃ
+
+
+    $ gj > d͡ʒ is consistent, but outcome sof kj tj dj have "dual outcomes... one of the more intricate and problematic chapters of Italian historical phonology"
+        $ kj (> t͡ʃ ) > t͡s -- fakjɔ́lu > fattswɔːlo, kalkja > kaltsa , -akju > attso, accio (doublets -- -azzo may be northern?) ; vs bilaŋkja > bilaɲt͡ʃa
+            $howver lakju to lattʃu , fakjo to fattʃo 
+        $ otherwise tj to t͡ʃ -- kaptjare, komintjo, ekskwartjo, gottja. vs noptje > nottse, tertju > terttso 
+            $ but it's "principally where a prior consonant precedes" (i.e. not the d) and is the sole outcome after s. 
+                $he does NOT mean a consonant produced by gemination.  However he does list the etymologically geminate gottja .
+    $5.2.f to produce this effect, tj to kj after a consonant, BEFORE pre-yod gemination 8.1a 
+    $5.2e
+        $ likewise with dj
+            $ overwhelmingly d͡ʒ, exclusively so word-inital
+        $ p54-55 dz may be attribued to loans from northern dialects
+            $Central and Southern Italian varieties generally have tj give t͡s or t͡ʃ, but merge dj with gj in outocmes
+
+
+$ 8.1a Italo-Romance (and Sardinian) gemination of consonants before j, w. 
+    $ in Maiden's formulation, precedes palatalization of ʎ 5.2a -- alternatively can have the lj > ʎʎ but this isn't what happend
+        $ even though gemination regular lost, not in Western Romance proper: aqua > Fr eau, Sp agua vs Italian acqua etc. 
+    $ counterbled by 5.1a, 
+        $likely counterfed by 4.2a 
+{p;b;m;t;d;n;l;r;k,ɡ} > {p p;b b;m m;t t;d d;n n;l l;r r;k k;ɡ ɡ} / __ [+hi,-syl,-cons]
+
+
+
+$ 5.2a palatalization of consonants by j-- palatal coalescence. 
+    $ some whole clusters palatalized: nnj, ngj, nkj 
+    $ but ddj > dd͡z , ttj > tt͡s
+    $Tentatively counterbled by 5.1a 
+    $ mentions it occurs quite early -- second century -- but the formulation here is Italo-Romance... TODO revise?
+        $ for s (> sʲ) > ʃ : 
+            $feeds 5.2b, 5.2c.
+            $ reflexes of sj in ʒ and d͡ʒ likely largely from Gallo-Italic in some views
+                $ though there is some dispute of this. 
+                $ "tendency" to lenite, or imitation of northern (Gallo-Italic) speech
+{n j;n n j;l j;l l j;d j;t j;s j;n ɡ j;ŋ ɡ j;ɡ j;n k j;ŋ k j;k j;r j} > {ɲ;ɲ ɲ;ʎ;ʎ ʎ;d͡ʒ;t͡s;ʃ;ɲ d͡ʒ;ɲ d͡ʒ;d d͡ʒ;ɲ t͡ʃ;ɲ t͡ʃ;t t͡ʃ;rʲ}
+
+
+$ 5.1a loss of w after a (non-velar) consonant; after kw preserved before a, gw preserved. 
+    $Counterbleeds 8.1a
+w > ∅ / [+cons,-back] __
+
+$ 5.1b loss of w between k and non-low elements
+    $Counterfeeds velar palatalization 3.4a
+    $Counterfed by 4.3a
+w > ∅ / k __ [-lo] 
+
+$ 5.1c initial w (largely from Germanic) to gw. Bled by 3.2a. Counterfed by 4.2a (uovo etc -- though this might not be clear from the prose in that section alone)
+∅ > ɡ / # __ w 
+
+$ 3.1b loss of h from Germanic 
+h > ∅
+
+$ 5.1d unstressed u,o > w before unround (he doesn't make it clear it's not so specific as ku,ko > kw / __ front vowel --- that's more what he explicitly says.)
+[-stres,+round] > w / __ [+syl,-round]
+
+$ 4.2a stressed open syllable diphthongization. Also seen in Gallo-Romance, and Gallo-Italic of Emilia, Liguria and Po plain
+    $p37 -- ɔ may not have diphthongized natively in Tuscan
+{ˈɛ;ˈɔ} > {j ˈɛ;w ˈɔ} / __ [-syl] [+syl]
+
+$ 3.5a Italo-Romance s > z before voiced consonant. Bled by and counterbleeds 3.3b
+s > z / __ [+cons,+voi]
+
+$ 4.3a jɛ wɔ > i u before vowels other than [i] . Feeds at least one instance of i > j in ego > io. 
+{j ˈɛ;w ˈɔ} > {ˈi;ˈu} / __ {[+syl,-hi];[+syl,+hi,+round]} 
+
+$TODO PARABOLA > PARAWLA RULE
+
+$ 4.4b *unstressed* aw to o 
+    $4.4c unstressed aw to u -- uccello, udite. "Sometimes". 
+        $Conditioning unclear. Leaving out for now.
+[+lo,-prim] w > o ∅
+
+= Proto-Italo-Romance
+
+
+
+$ 3.3a Italo-Romance l > j post-obstruent(?)-- he says tautosyllabic which may effectively mean this
+    $in Abruzzo, post-Italo-Romance: limited to kl/gl in Abruzzo
+    $fed by syncope 4.5.4.1
+l > j / [-son] __ 
+
+$ 4.4a aw > ɔ; does not apply to Abruzzo and north Campania southwards
+    $ counterfeeds 4.2a , fed by aβ > aw in PARABOLA etc. 
+[+lo,+syl] w > [+lab,+round,-front,+back,-lo,-tense] ∅
+
+$ 5.2f Italo-Romance rʲ to Tuscan j 
+    $-- vs. r most elsewhere in Italo-Romance (Calabrian/Lucanian/Neapolitan/Pugliese have occasional jr outcome like inWest Romance and Gallo-Italic)
+rʲ > j 
+
+$ 4.6.5a Tuscan prostetic I
+∅ > i / # __ s [+cons]
+
+$ 5.2b assimilation of consonants to following palatalized s
+[+cons] > ʃ / __ ʃ
+
+= Proto-Tuscan 
+
+$ 4.6.1a pretonic o raises to u "sometimes" (TODO: clarify)
+o > u / __ (@)* [+prim]
+
+$ 4.6.1b pretonic and unstressed monosyllablic e to i. Stressed/unstressed doublets di/de, mi/me etc.
+e > i / # (([-syl])* [-prim] ([-syl])*) __ 
+
+$4.6.2a rounding/backing of prelabial unstressed i,e
+[-prim,-lo] > [+back,-front,+lab,+round] / __ [+cons,+lab]
+
+$4.6.3a unstressed ar > er. Case of parlerò, margherita-- seems to be excluded, either on basis of being countertonic, initial, not pretonic, or in closed syllables. Unclear which. All examples of it occurring are pretonic, oepn, non-initial...
+    $going with open syll and non-initial TODO may need to revise. 
+a > e / [+syl] (@)* __ r [-cons] 
+
+$ 4.6.4 syncope -- too "sometimes" -y generally; aphaeresis understood as analogical. 
+
+$ 4.6.4.1 penultimate proparoxytone syncope "cannot be accounted for ... [by] regular sound chagne"
+
+$ 3.3b "low" Tuscan ggj, ʎʎ } > ɟɟ
+{ɡ ɡ j;ʎ ʎ} > {ɟ ɟ;ɟ ɟ}
+
+$ 4.5a anaphonesis before NK
+[+syl,+tense,-lo] > [+hi] / __ [+nas] [+back,+cons]
+
+$ 4.5b front vowel analophonesis before ɲ ʎ, and skj. For skj, fed by 3.3b -> 3.3a
+[+syl,+tense,-lo,+front] > [+hi] / __ {[+front,+son,+cons];s k j}
+
+= Old Florentine
+
+$ 5.2e ʃt͡ʃ > ʃ ʃ -- uscio  , angoscia s
+t͡ʃ > ʃ / ʃ __ 
+
+$ 5.2c intervocalic ʃ < sj, to t͡ʃ. May have been motivated by hypercorrection
+ʃ > t͡ʃ / [-cons] __ [-cons]
+
+$ 4.6.5b loss of prosthetic i, carrying with it certain cases of etymological i -- historia > storia, instrumentum > strumento. Not in Corsican and some Western varieties
+i > ∅ / # __ s [+cons]
+
+$= Modern Italian

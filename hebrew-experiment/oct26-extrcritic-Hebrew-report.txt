@@ -1,0 +1,145 @@
+================================================================================
+CRITIC REPORT: "oct26-hebrew-extractor-cfr.txt" against Suchard (2023), Historical
+Grammar of Hebrew (syllabus, suchard_hebrew_syllabus.pdf), and the DiaSim format
+(symbolDefs-hebrew.csv)
+Corrected cascade: "oct26-extrcritic-corrected-suchard-Hebrew.txt"
+(every change there is marked "$FIXED:")
+================================================================================
+
+METHOD
+- Source check: the PDF is Suchard's own syllabus (title page: Benjamin D. Suchard,
+  Leiden University, 2023). Its UTF-8 text layer is clean, including the diacritics.
+  I read the whole phonology (Ch.1 Table 1.1, Ch.2-5, pp.3-24) and the exercises
+  (pp.33-36).
+- Symbols: symbolDefs-hebrew.csv was diffed against DiaSim gamma symbolDefs.csv.
+  It is identical except for the five ejective rows E2 describes (tʼ kʼ t͡sʼ t͡θʼ
+  t͡ɬʼ), and those rows match Suchard's IPA values in Table 1.1.
+- E1 (transcription -> IPA) checked against Table 1.1: correct throughout.
+- Feature classes used in contexts (gutturals, non-gutturals, bilabials, glides,
+  "not followed by y/w") checked against the actual symbolDefs rows: correct.
+- DiaSim (-symbols symbolDefs-hebrew.csv -diacrit):
+  (a) the whole cascade, on a small lexicon of Suchard's examples;
+  (b) single-rule test files built from Suchard's own example pairs, for 2.4-2.11,
+      2.5, 3.4/3.9, 3.6a-3.8, 3.10, 4.3/4.4, 5.1, 5.1.1/5.2, 5.5/5.5a, 5.7-5.9, and
+      for every fix;
+  (c) the corrected file re-run end to end.
+- Page citations: all checked; all correct.
+
+OVERALL
+This is a careful extraction:
+- Rule numbers are Suchard's own.
+- Unnumbered prose changes are encoded and labelled.
+- Moves out of presentation order are justified from Suchard's own dating
+  statements (3.9 before 3.4; 5.1 back into Proto-Hebrew, before 3.1).
+- Negative conditions are written as positive cases or reverts.
+- The temporary protect symbol in 2.8 is a clean device.
+- Stress is kept through every metathesis and contraction.
+- Insertions use symbol lists, never feature matrices.
+- Most of Suchard's examples derive correctly in the single-rule tests: 2.8, 2.10,
+  2.11, 3.4, 3.9, 3.10, 4.3, 4.4, 5.1, 5.1.1, 5.2, 5.5, 5.5a, 5.7-5.9.
+
+But the file as delivered DOES NOT RUN (A1). There is also one stage-placement
+error (B1), one unnoted over-extension (C1), and several consequences needing a note
+(D).
+
+--------------------------------------------------------------------------------
+A. DIASIM FORMAT
+--------------------------------------------------------------------------------
+A1. 3.2 (first apocope) and 3.5 (second apocope): "{a;e} > ∅ / __ #".
+    A two-member disjunction cannot map onto a bare ∅. DiaSim aborts the whole
+    cascade at parse time ("mismatch in the number of disjunctions of source segs
+    and disjunctions of dest segs"), so no word could be simulated.
+    FIXED: {a;e} > {∅;∅} / __ #   (both rules).
+No other parse errors, runtime errors or undefined output symbols occurred.
+
+--------------------------------------------------------------------------------
+B. STAGES
+--------------------------------------------------------------------------------
+B1. 2.1-2.3 (interdentals > alveolars, s > š, ts/dz > s/z) sat BEFORE
+    =Proto-Canaanite.
+    Suchard (p.13) says these "are probably not Proto-Canaanite developments per
+    se, but later, areal changes, affecting the Iron Age Canaanite languages".
+    He adds that they "do not interact with the vocalic changes". Placed there, the
+    Proto-Canaanite stage showed the post-merger consonant system.
+    FIXED: moved, unchanged, to just after =Proto-Canaanite (before 3.1). Nothing in
+    Ch.2 refers to the merged consonants, and the consonant lists of 3.1/3.8
+    already assume the merged inventory.
+The other stage boundaries follow Suchard's chapters:
+  PNWS input > Proto-Canaanite > Proto-Hebrew > Proto-Jewish Hebrew > Masoretic.
+The two cross-chapter moves are both stated by Suchard and are correct:
+  - 5.1 into Proto-Hebrew ("Already at the Proto-Hebrew stage..."), before 3.1;
+  - 3.9 before 3.4.
+
+--------------------------------------------------------------------------------
+C. RULE CONTENT
+--------------------------------------------------------------------------------
+C1. 4.4 (reduction), line (ii) -- unnoted over-extension of a source exception.
+    Suchard's fn.9 exempts only *o in word-initial syllables. The extraction
+    exempted every rounded short vowel, so a word-initial short u (e.g. from 2.11
+    shortening) was wrongly preserved.
+    FIXED: u now reduces under the same conditions as line (i); only o keeps the
+    non-initial restriction. Tested: qodāšīḿ keeps its o; kumā́ > kəmā́.
+
+--------------------------------------------------------------------------------
+D. NOTES ADDED (rule lines unchanged; each needs the user's decision)
+--------------------------------------------------------------------------------
+D1. 3.6a vs 3.7/3.8.
+    The pretonic reduction of e/o (not before a) runs unconditionally, since the
+    "analogical restoration before morpheme boundaries" is not modelled. It
+    therefore removes the e/o that Suchard's own 3.7/3.8 examples need: ˁamoqīḿ >
+    ˁamoqqīḿ comes out as *ˁaməqīm (tested), and kōhenīḿ as *kōhənīm. Only e/o
+    before a stressed a/ā ever reach 3.7/3.8.
+    Possible fix: if the lexicon marked suffix boundaries with "+", "no reduction
+    before C+" would encode the restoration.
+D2. 5.1.1b (ā > ā̊) placement.
+    Suchard gives no date. As placed (first in Ch.5), the compensatory ā of 5.4
+    stays [aː] (tested: the article before a geminate guttural comes out
+    haːʔɔːdɔ́ːm, where Tiberian has qameṣ). Placing it later would instead back the
+    lengthened vowel of guttural segolates (5.5 náˁr > nāˁar; Tiberian pataḥ).
+    Neither order fits both.
+D3. Exercise 3's unplaced changes (h-elision before a final short vowel; final
+    stressed -ī > -ē).
+    The extractor rightly flagged these rather than guessing. They are regular
+    sound changes for Suchard, so they should be encoded once placed. I sharpened
+    the conflict: the elision must follow 2.5 (raˀsahu > rōšō keeps the stress on
+    the suffix), but must act on a final u, i.e. precede 2.4's word-final u > e.
+    Both cannot hold unless 2.4 (hedged by Suchard: "seems to have") is taken not
+    to apply to the suffix -hu.
+D4. 3.2.1 feminine -āt > -ā is listed as "morphologically restricted", but
+    Suchard's explanation is prosodic (t lost in prosodic word-final position,
+    kept in the construct -at). If -āt# occurs only in that suffix at this stage,
+    it could be encoded as t > ∅ / aː __ #.
+D5. 5.1.5a (maqṭal- dissimilation) is encoded with a "#m a C C V" proxy. That hits
+    any ma-CCV word, and it is inconsistent with the file's own comment-only
+    treatment of the other pattern-restricted "minor sound changes" (2.2.3, 3.2.2).
+    Kept, as the extractor marked it tentative.
+
+--------------------------------------------------------------------------------
+E. CHECKED AND CONFIRMED (no change)
+--------------------------------------------------------------------------------
+E-decisions E1-E8; rules 2.1-2.11 (content), 3.1, 3.3, 3.4, 3.6, 3.7, 3.8, 3.9,
+3.10, 4.1, 4.2 (comment-only), 4.3, 4.4 line (i), 5.1, 5.1.1a, 5.1.1b, 5.2, 5.3,
+5.4, 5.5, 5.5a, 5.6, 5.7, 5.8, 5.9, 5.10, 5.11, and all comment-only
+morphosyntactic entries.
+
+Points worth recording:
+- 2.5: penultimate stress, and stress on monosyllables. Tested on kalbum,
+  dabarum, qaṭala, raˀš, yaqṭulūna.
+- 2.11: the per-feature negative-alpha lines correctly shorten before two
+  different consonants and spare geminates (bāttīma).
+- 3.1 after 5.1 after 3.5: the extractor's reasoning is right. Suchard's bént >
+  bέnt > bέtt needs Philippi before n-assimilation, and his first-syllable
+  exception only lets bént through once mimation is gone and the second apocope
+  has made it monosyllabic.
+- 5.7: the revert lines correctly keep geminate stops as stops.
+- The whole cascade derives Suchard-style outputs, e.g. kalbum > kɛ́ːlɛv,
+  dabarum > dɔːvɔ́ːr, bintum > báːθ, ṣídqum > ṣɛ́ːðɛkʼ.
+
+--------------------------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------------------------
+Format (blocking):        3.2, 3.5             -> fixed
+Stage placement:          2.1-2.3              -> moved after =Proto-Canaanite
+Unnoted over-extension:   4.4 (ii)             -> fixed
+Notes for user decisions: 3.6a/3.8, 5.1.1b, Exercise-3 changes, -āt > -ā, 5.1.5a
+Pages:                    all correct

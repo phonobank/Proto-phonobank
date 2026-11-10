@@ -1,0 +1,29 @@
+$DiaSim CFR-debugged (partially) ruleset to generate Hawaiian from Proto-Polynesian
+
+$f > w to dissimilate from other nonsonorant continuants, except if round vowel intervenes. Shared with Rarotongan?
+f > w / __ [+syl,-round] [+cont,-son]
+
+r > l 
+
+$vowels reduce to i in a h __ # ? However consider omitting as there is but two examples
+[+syl] > i / a h __ #
+
+$ ʔ and h are effaced except (a) word-finally, (b) with /i/ between them and the word-boundary. Handle this by fronting htem. Consider removing this exception as there are only three examples. However, the ʔ > k aspect is shared with Rarotongan 
+{ʔ;h} > {k;s} / __ (i) #
+[-cons,-son] > ∅ 
+
+ŋ > n
+k > ʔ 
+t > k
+[+cont,-son] > h
+
+$secondary h-loss. Spurious? 
+h > ∅ / h u __
+
+[+syl,βfront,ɣhi,ðlo] [+syl,βfront,ɣhi,ðlo] > [+long] ∅
+[+syl,βfront,ɣhi,ðlo] [+syl,βfront,ɣhi,ðlo] > [+long] ∅
+
+$/a/ seems to lengthen before back elements (w, k) -- wa:wae, la:kou, ma:kolukolu, ka:kou. This happens after t becomes k. Seems to require a voewl then vowel or res. cons afterward. May be spurious. 
+a > [+long] / __ [+back,-syl] [+syl] [+son]
+
+

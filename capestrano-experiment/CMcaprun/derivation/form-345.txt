@@ -1,0 +1,12 @@
+Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 345:
+#kˌanˈiːliam# >>> *#kanˈijːa# ( GOLD : #kanːˈijːa#) :
+k ˌa n ˈiː l i a m 
+*#kˌanˈiːljam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#kˌanˈiːljam#
+*#kˌanˈiljam# | 27 : [+syl] > [-long,-splng] 
+*#kˌanˈiʎːam# | 30 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#kˌanˈiʎːa# | 34 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˌanˈiʎːa#
+*#kˌanˈijːa# | 110 : {ʎ;ʎː} > {j;jː} 
+*#kanˈijːa# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kanˈijːa#

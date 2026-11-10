@@ -1,0 +1,176 @@
+================================================================================
+CRITIC REPORT: "oct26-italian-extractor-cfr.txt" against Maiden (1995/2013), A
+Linguistic History of Italian, ch. 2 "History of the sound system" (pp. 24-91),
+and the DiaSim format (gamma symbolDefs.csv)
+Corrected cascade: "oct26-extrcritic-corrected-maiden-Italian.txt"
+(every change there is marked "$FIXED:")
+================================================================================
+
+METHOD
+- Source check: the PDF is Maiden's book (Longman/Routledge). Its OCR text layer is clean
+  for the prose but garbles the IPA. I read all of ch. 2 including its notes (pp. 24-91;
+  PDF page = printed + 19, as the extractor says).
+- Symbols and features checked against the gamma symbolDefs.csv rows and the diacritics
+  file (ˈ = +stres,+prim; ː = +long).
+- DiaSim (default symbols, -diacrit). Test files are in tests/italian/ (see its README):
+  (a) maiden-examples.lex: 132 of Maiden's own Latin > Italian pairs. Words for which he
+      states an irregularity are left out. Vowel length and some IPA are my transcriptions,
+      as the README says;
+  (b) probes.lex: 13 constructed probes of side effects;
+  (c) each format error was found by bisecting the cascade until it parsed;
+      extraction-parsefix-only.txt is the extraction with only those lines fixed, to measure
+      the rest.
+- Page citations: spot-checked throughout; correct except two over-citations (E).
+
+OVERALL
+The architecture is good:
+- Topic-ordered sections are re-sequenced by Maiden's dating statements and Proto-Romance
+  forms, and each placement is justified.
+- Sporadic, analogical and non-standard changes are kept as comments with pages, so
+  nothing he describes is lost.
+- Negative conditions are handled with care: the r-exception to lengthening, no
+  palatalization before -e < -as, no back-vowel anaphonesis before palatals.
+- The M10c metathesis by a three-position rule is clever and works.
+- Many rules derive Maiden's examples correctly: yod palatalization (except dj), velar
+  palatalization, SOSD, aw, kw, rw, gn, gr, ns, l > j, final -as/-es, metathesis.
+
+But:
+- The file as delivered DOES NOT RUN (A).
+- With only the parse errors fixed it gets 87% of Maiden's examples. 15 misses are real
+  errors: wrong rule order (C1, C2), a rule bled by an earlier rule (C3), contexts that
+  exclude the source's own examples (C4-C6), and two rules and one "gap" that Maiden does
+  describe (D).
+- Corrected: 98.5%. The two remaining misses are the extractor's own disclosed items
+  (cielo, già).
+
+--------------------------------------------------------------------------------
+A. DIASIM FORMAT (each one blocking: DiaSim aborts the whole cascade at parse time)
+--------------------------------------------------------------------------------
+A1. M5.2c "[+cons] s j > ʃ ʃ ∅" -> "illegitimate phone symbol". A ∅ cannot sit inside a
+    multi-segment destination alongside phones.
+    FIXED: "[+cons] > ʃ / __ s j", followed by the existing "s j > ʃ". Same output
+    (roveʃˈʃare).
+A2. M4.2 (SOSD) and M1.3 (vowel length): a disjunction nested inside a context
+    disjunction, "{...;[-son] {r;l} [+syl]}" -> "disjunction closer not found". DiaSim
+    disjunctions cannot nest.
+    FIXED: flattened to "{...;[-son] r [+syl];[-son] l [+syl]}". Same meaning.
+No other parse or runtime errors, and no undefined output symbols.
+
+--------------------------------------------------------------------------------
+B. STAGES
+--------------------------------------------------------------------------------
+B1. M3.2 (b > v intervocalic) and M8.1d (w > v initial/intervocalic) sat after
+    =Proto-Romance.
+    Maiden dates both to Proto-Romance: b "gave [v] in common Proto-Romance" (p. 30), and
+    w was strengthened "already in common Proto-Romance" (p. 70). His Proto-Romance forms
+    have the v: *ˈvinja, *ˈvɛnjo, *ˈvedjo, *ˈvolwi (pp. 47-53), *laˈvare (p. 70),
+    *ˈbev(e)re (p. 70).
+    FIXED: both moved, unchanged, to just before =Proto-Romance. No output change.
+Confirmed: the other placements match Maiden's asterisked Proto-Romance forms. Syncope
+before l and tl > kl are before the stage (*ˈfibla, *ˈveklu). Lengthening is before it
+(column "P-R lengthening" of (36)). Yod and velar palatalization, SOSD and aw come after
+it (*ˈfakjo, *ˈkena, *ˈpɛde, *ˈawka).
+
+--------------------------------------------------------------------------------
+C. RULE CONTENT (output-changing; all tested on Maiden's examples)
+--------------------------------------------------------------------------------
+C1. M4.3b + M4.5 (anaphonesis) placed AFTER velar palatalization (M6.1b).
+    Anaphonesis before nasal + velar needs the velar, but M6.1b had already made
+    UINCIT, STRINGIT into *ˈvent͡ʃe, *ˈstrend͡ʒe. Maiden's own table (12), p. 34, has
+    ˈstriŋgo but ˈstrind͡ʒi, ˈstrind͡ʒe. His n. 27 (p. 86) dates this anaphonesis to
+    "around the late fourth century", before fifth-century velar palatalization (p. 57).
+    FIXED: M4.3b and M4.5 moved to just after M3.3c (before M6.1b). M4.3b still precedes
+    M4.5, as LONGU(M) > *ˈlongu > ˈlungo needs (n. 25). The move also makes M4.3b blind to
+    ɔ < aw, matching "[ɔ] from Latin short O" (p. 40).
+C2. M5.3 (gn > ɲɲ) before anaphonesis, which raises e before ɲ.
+    LIGNU(M) came out *ˈliɲɲo for Maiden's ˈleɲɲo (p. 56). He limits front anaphonesis to
+    ɲ, ʎ "derived from Proto-Romance [nj] and [lj]" (p. 42).
+    FIXED: M5.3 moved after M4.5 (still before M8.2a, which would make g n > n n).
+    Tested: legno, segno, cognato; gramigna and famiglia still raise.
+C3. M2.2 (OE > e): input "ˈo j", but M2.1a had already turned stressed short O into ɔ, so
+    the rule never matched. POENA(M) came out *ˈpɔjna for ˈpeːna (p. 29).
+    FIXED: "ˈo j" -> "ˈɔ j".
+C4. M5.2h (dj): "d j > d͡z / [+cons] __" was ordered first. In an intervocalic geminate
+    d d j (from M8.1b), the first d counts as the "preceding consonant". So EVERY
+    intervocalic dj got d͡z (SEDEO > *ˈsɛdd͡zo, UIDEO > *ˈvedd͡zo), the opposite of
+    Maiden's "usually [dd͡ʒ]" (p. 53).
+    FIXED: "d d j > d͡ʒ d͡ʒ" first.
+C5. M8.1b line (ii): m, n lengthened before l, contrary to Maiden's examples (obstruents
+    only). His PLAN(U)LA > pialla, SPIN(U)LA > spilla (p. 72) need a short n to
+    assimilate; they came out *ˈpjanlla, *ˈspinlla.
+    FIXED: m, n removed from line (ii).
+C6. M4.6.4.1a (syncope before l) required "l V #". Inflectional -t/-s are still present
+    at that stage, so verb forms failed: MISCULAT > *ˈmeskola, where Maiden has mischia
+    (p. 42).
+    FIXED: "l [+syl] ([+cons]) #". It is still the penultimate vowel.
+C7. M4.2 (SOSD) listed "#" as an open-syllable context. Maiden says diphthongization is
+    blocked in oxytones ("no 'no'; però; ciò", pp. 74-75).
+    FIXED: "#" removed. (No tested word changed.)
+
+--------------------------------------------------------------------------------
+D. MISSING COVERAGE (regular changes Maiden states, absent from the extraction)
+--------------------------------------------------------------------------------
+D1. Final -s after unstressed o (and i): the extraction left final s unchanged ("GAP ...
+    Maiden ... does not discuss the final s of -US"). That claim is wrong:
+    - Final s is the one Latin final obstruent kept, and it "subsequently yielded [i]"
+      (p. 77).
+    - "No native word ... terminates in a consonant" (p. 77).
+    - ASINOS "should have yielded *?ˈasinui, then *?ˈasinu" (p. 81).
+    - MANU:S > OTuscan mano (p. 81).
+    - His outputs LATUS > ˈlaːto (p. 74) and NEC+MINUS > nemˈmeːno (p. 71) need it.
+    As delivered, these came out *ˈlaːtos, *nemˈmeːnos, *ˈtɛmpos.
+    FIXED: M12 now has "s > j / [+syl] __ #" and "{a j;e j;i j;o j} > {e;i;i;o} / __ #".
+    The comment-only GAP line was corrected.
+D2. Proto-Romance stress shift, n. 5 (p. 85): "In CL sequences of stressed I or E +
+    unstressed vowel, the accent shifted in Proto-Romance to the second vowel FILIOLU(M) >
+    *fiˈljɔlu". Without it, FILIOLU(M) came out *filˈeːolo.
+    ADDED before M5. It is restricted to a non-final second vowel, because Maiden's
+    *ˈmjɛa < MEA (p. 40) keeps the stress (NOTE in the file). Tested: fiʎˈʎwɔːlo; mia
+    unchanged.
+D3. Onglide loss after a complex onset ending in r, n. 14 (p. 86): "OTuscan brieve;
+    truova > breve; trova". Without it, BREUE(M), PROBAT came out *ˈbrjɛːve, *ˈprwɔːva.
+    ADDED after M4.4: "{j;w} > {∅;∅} / [-son] r __ {ˈɛ;ˈɔ}".
+D4. Comment-only entries added:
+    - n. 60 (p. 89): lengthening of b before r, as in labbro and febbre.
+    - n. 5: the INTEGRU(M) > intero stress shift, which Maiden only cross-references.
+
+--------------------------------------------------------------------------------
+E. NOTES ADDED (rule lines unchanged)
+--------------------------------------------------------------------------------
+E1. M10a: Maiden says final m survived as n "only in SOME monosyllables". The rule gives
+    n to every monosyllable; già was flagged by the extractor, and others will follow.
+E2. M4.6.5 (loss of initial i before sC) never fires on Maiden's own examples. HISTORIA and
+    INSTRUMENTU(M) have short I > e by M2.1b, and his istoria, istrumento are learned
+    forms. It is not widened to e, which would wrongly hit estate, esso, essere.
+E3. M12: -TIS lost its s early (n. 74, AMATIS > amate). This is morphological and not
+    encoded, so -TIS forms end in -i (probe: portati).
+E4. Pages: M3.2 "30-31" -> 30; M4.3b "40-41" -> 40 (both sections end on the first page).
+For the user's decision: the extractor's disclosed GAP of a glide after a palatal(ized)
+consonant (cielo ˈt͡ʃɛːlo, p. 29, also mogliera). Maiden states no absorption rule, but his
+own output for CAELU(M) needs one. Encoding "j > ∅ / [-ant,+cor,+delrel] __ ˈɛ" (and for ʎ)
+would fix it. I left it, since he gives no rule.
+
+--------------------------------------------------------------------------------
+F. CHECKED AND CONFIRMED (no change)
+--------------------------------------------------------------------------------
+E1-E7 and the conventions:
+- t͡s t͡s for Maiden's [tts] is a disclosed convention.
+- Muta cum liquida as an onset matches p. 25.
+- a is [+front] in symbolDefs, so front-vowel contexts need -lo (E7).
+Rules confirmed on Maiden's examples:
+  M3.1, M10a/b, M9, M5 glides, M2.1a-c, M3.3a, M8.1a, M8.1b (i), M5.1a-c, M5.2a-g, M5.2i,
+  M3.3b-c, M6.1a-b, M6.1.2a-c, M8.2a-b, M8.1e, M4.2 (open-syllable contexts), M4.3a,
+  M4.4, M4.6.1, M4.6.3, M3.5, M10c, M12 (-as, -es, stressed), M1.3.
+All comment-only judgments agree with Maiden's own wording ("sporadic", "a tendency",
+"doublets", "analogical", "not entered the literary language").
+
+--------------------------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------------------------
+Format (blocking):        M5.2c; M4.2 and M1.3 (nested disjunction)  -> fixed
+Stage placement:          M3.2, M8.1d -> moved before =Proto-Romance
+Ordering:                 anaphonesis vs. velar palatalization (C1); gn (C2); dj (C4)
+Bled by earlier rule:     M2.2 OE (C3)
+Context errors:           M8.1b nasals (C5), syncope final C (C6), SOSD # (C7)
+Missing / false GAP:      final -s after o (D1); stress shift (D2); onglide loss (D3)
+Accuracy on Maiden's 132 examples: unrunnable -> (parse fixes only) 87% -> 98.5%

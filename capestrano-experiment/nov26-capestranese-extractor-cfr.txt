@@ -1,0 +1,388 @@
+$ nov26-capestranese-extractor-cfr.txt
+$ DiaSim cascade: Classical Latin > Vulgar Latin > Capestranese (Abruzzo, prov. L'Aquila)
+$ Source: Fontecchio, Giovanni. 1975. From Latin to Capestranese: A Diachronic Study of a Phonological
+$   Development. PhD diss., Louisiana State University. (file: FROM_LATIN_TO_CAPESTRANESE_A_.pdf;
+$   UMI microfilm, OCR text layer; read from page images; printed page = PDF page - 11).
+$   Chapters III (phonology, pp. 35-48), IV (diachronic development, pp. 49-95), V (conclusions, pp. 96-102).
+$   Uses the standard gamma symbolDefs.csv.
+$
+$ CONVENTIONS OF THIS FILE
+$ - Fontecchio's chapter IV is organized by Latin sound and position (tonic vowels, initial consonants,
+$   medial clusters ...), stating CORRESPONDENCES, not ordered rules. Each correspondence he states as
+$   regular is encoded. Identifiers are F + his section label (e.g. F-Tonic-ĕ, F-Med-c, F-Yod-nj);
+$   $$PG: gives printed pages.
+$ - ORDER: Fontecchio says (p. 50) "Because of the lack of documents to show the existence of stages and
+$   establish a chronology for them, all intermediate forms are conjectured". Ordering here therefore
+$   follows (i) the few dates he gives (syncope "roughly between the second and fourth centuries", p. 87;
+$   b/v "by the third century", pp. 61, 71; palatalization of velars "by the seventh century", p. 99) and
+$   (ii) his Vulgar Latin intermediate forms. Where an order is forced by feeding/bleeding, "ORDER:" says so.
+$ - Correspondences he calls unpredictable, sporadic, analogical, lexical or morphological, or that have no
+$   majority outcome, are COMMENT-ONLY (listed at the end with pages). Where he gives a majority figure or
+$   a first/main outcome, that outcome is encoded and the other noted.
+$
+$ GENERAL EXECUTIVE DECISIONS
+$ E1. Input = Classical Latin in IPA with vowel length (ː) and stress (ˈ) marked, accusative for nouns
+$     (Fontecchio's convention, p. 50). AE, OE, AU = a j, o j, a w; consonantal I, U = j, w; QU = k w;
+$     X = k s; r = r.
+$ E2. Fontecchio's Capestranese symbols (pp. 35-45) -> IPA: ć = t͡ʃ; z = t͡s; ẓ (z with subscript) = d͡z;
+$     ʒ (his ʃ-shaped [dʒ] symbol) = d͡ʒ; ś = ʃ; ñ = ɲ; æ = æ; e (schwa) = ə; double letters = geminates
+$     written as two identical segments (t t, t͡ʃ t͡ʃ ...). Final unstressed a is phonetically [ɐ] and l
+$     has [ɫ]-like allophones (p. 37, 44) - allophonic, not encoded. [z] occurs only as an allophone of /s/
+$     before nasals and voiced stops (p. 44) and inside d͡z.
+$ E3. Vulgar Latin vowels: ẹ = e, ę = ɛ, ọ = o, ǫ = ɔ (p. 97 chart).
+$ E4. DiaSim has no syllables or secondary stress. "Initial vowels" = word-initial vowels (vowel-initial
+$     words, p. 59); "pretonic" = the syllable directly before the stress; "posttonic non-final" = between
+$     the stress and the final vowel; plain vowel symbols are unstressed.
+$ E5. Primary vs secondary (post-syncope) medial clusters, which Fontecchio distinguishes (pp. 79-90),
+$     cannot be told apart once syncope has applied. The rules below follow the outcome common to both; the
+$     few divergences (primary bl > bbl, primary rk > rt͡ʃ vs secondary r'k > rd͡ʒ) are noted.
+
+$ ===================================================================================================
+$ I. CLASSICAL LATIN > VULGAR LATIN
+$ ===================================================================================================
+
+$ F-Init-h Loss of [h]  $$PG: 64-65
+$ "It was lost entirely in Romance and leaves no trace in its development to Capestranese".
+h > ∅
+
+$ F-Yod Unstressed I, E between a consonant and a vowel > yod  $$PG: 90
+$ "The vowels Ĭ and Ĕ of Classical Latin were normally rendered as į [j] in Vulgar Latin when they occurred
+$ between a consonant and a vowel."
+{i;e} > {j;j} / [+cons] __ [+syl]
+
+$ F-Sec Vulgar Latin syncope (2nd-4th c.) of the penultimate vowel before [l]  $$PG: 86-89
+$ Fontecchio: "More often than not the vowel of the penult in proparoxytones remains as ə"; the secondary
+$ clusters he lists are mostly -C'l- (fib'la, mac'la, coag'lu, cop'la, spat'la, spin'la, masc'lu, ong'la).
+$ NOTE: TENTATIVE. Only this case is encoded; other syncopes (dom'na, frig'du, sol'du, com'te, van'tare,
+$ lar'du, spir'tu ...) are LEXICAL. The alternative -culum/-gulum > -kwələ, -gwələ (saeculum > sækwələ,
+$ angulum > angwələ, regulam > regwəla; p. 61) is noted, not encoded.
+$ NOTE: an optional final consonant is allowed (Latin -um, -am still end in m at this stage).
+u > ∅ / [+syl,+prim] ([+cons]) [+cons] __ l [+syl] ([+cons]) #
+
+$ F-Med-gm [gm] > [um] > [m]  $$PG: 80
+$ (sagmam > Vulgar Latin sauma > soma, "the u merging with a to > o")
+$ ORDER: before F-Tonic-au, which turns the resulting a w into o.
+ɡ > w / [+syl] __ m
+
+$ F-Tonic-ĭ/ŭ+yod Tonic Ĭ (and Ŭ) before a syllable with yod or a palatal stay high  $$PG: 51, 57, 98
+$ "When followed by a syllable containing yod or a palatal, Classical Latin Ĭ > Vulgar Latin į [ɪ] and is
+$ then raised to Capestranese i" (avaritia > avarizja, consilium > kunzijje, cilium > ćijje, lenticulam >
+$ lendikkja); "The presence of yod in the following syllable tends to maintain Ŭ as u" (puteum > puzze).
+$ NOTE: written as lengthening, so that these vowels then follow Ī, Ū (> i, u) in F-Tonic. "Palatal" for
+$ Ĭ = a following C + l (> kj, etc.); for Ŭ only yod is stated.
+$ ORDER: after F-Yod and F-Sec (which create the yod / C + l); before F-Tonic.
+ˈi > ˈiː / __ ([+cons]) [+cons] {j;l} [+syl]
+ˈu > ˈuː / __ ([+cons]) [+cons] j [+syl]
+
+$ F-Tonic Classical Latin vowels > Vulgar Latin vowel system  $$PG: 51-57, 97
+$ Ī > i; Ĭ, Ē, OE > ẹ (e); Ĕ, AE > ę (ɛ); Ā, Ă > a; Ō, AU > ọ (o); Ŏ > ǫ (ɔ); Ŭ > ọ (o); Ū > u.
+$ "AU [aʊ] is found widespread in Vulgar Latin as o [o] and ǫ [ɔ] but apparently the two sounds merge early
+$ and evolve to o [o]" (aurum > ore, causam > kosa).
+$ Unstressed vowels follow the same mergers before their own reductions (pp. 57-58 chart).
+$ NOTE: (a) stressed short E, O open; (b) short I, U lower; (c) diphthongs, before a consonant or # only
+$ (so that intervocalic j j, a w w are not taken as diphthongs); (d) loss of length.
+$ ORDER: (a) before (b).
+{ˈe;ˈo} > {ˈɛ;ˈɔ}
+{i;ˈi;u;ˈu} > {e;ˈe;o;ˈo}
+{ˈa j;a j;ˈo j;o j;ˈa w;a w} > {ˈɛ;e;ˈe;e;ˈo;o} / __ {[+cons];#}
+[+syl,+long] > [-long]
+
+$ F-Init-v / F-Med-v Latin V [w] > [v]  $$PG: 69, 77
+$ "The initial v- [w], a semiconsonant in Latin, develops consistently as a labiodental [v]"; medial
+$ likewise. QU [kw] (and GU) keep w (p. 67: "The initial qu- [kw] of Latin remains consistently as kw-").
+$ NOTE: "not after a velar" = after #, a vowel, or a [+ant]/[+cor] consonant.
+w > v / {#;[+syl];[+cons,+ant];[+cons,+cor]} __
+
+$ F-Med-b Intervocalic [b] > [v] (73%) (or [bb], 27%)  $$PG: 71-72
+$ "the -b- to -v- development occurs 73% of the time while the -b- to -bb- occurs 27% of the time"
+$ (fabam > fava; habere > avé; scribere > skrive; tabulam > tavəla; but debitum > debbətə, tributum >
+$ tribbutə). The majority outcome is encoded.
+$ ORDER: after F-Sec (fib'la keeps b).
+b > v / [+syl] __ [+syl]
+
+$ F-Fin Final consonants  $$PG: 61, 94-95, 100
+$ "All final consonants of Latin fell" (civitas > ćivəta, caput > kapə, frater > fratə, lumen > lumə).
+$ "In monosyllables final -s may have vocalized to [j] which fell after raising the preceding vowel":
+$ nos > *noj > nu; vos > vu; illas > *las > *laj > le.
+$ NOTE: TENTATIVE (Fontecchio presents the monosyllable development as a hypothesis). Lines (i)-(iii) =
+$ monosyllables; line (iv) = all other final consonants.
+s > j / # ([-syl])* [+syl] __ #
+[+syl,+back,-lo] j > [+hi] ∅ / __ #
+[+syl,+lo] j > [-lo] ∅ / __ #
+[+cons] > ∅ / __ #
+
+=Vulgar Latin
+
+$ ===================================================================================================
+$ II. VULGAR LATIN > CAPESTRANESE
+$ ===================================================================================================
+
+$ F-Yod-kj [kj] merges with [tj]  $$PG: 90, 93
+$ "after the dentals t, d, s, and c which in this environment merges early with t" (condicionem >
+$ condicione > kundizjone).
+k j > t j
+
+$ F-Yod Medial clusters ending in yod  $$PG: 90-94
+$ Generalizations (p. 93-94): after r, st and the labials b, p, v, m the yod remains (b also geminates);
+$ after t, d, s (and c < t) "the yod provides a dental or palatal sibilant release" (and absorbs s);
+$ clusters with a nasal (lnj, mbj, ndj, ngj, nj) > ɲ; lj > j.
+$ ORDER: the specific multi-consonant clusters first.
+$
+$ (i) nasal clusters + yod > ɲ (balneum > bbañe; cambiare > kañá; verecundiam > vrevoña; spongiam >
+$ spuña; vineam > viña)
+{l n j;m b j;n d j;n ɡ j;n j} > {ɲ;ɲ;ɲ;ɲ;ɲ}
+$ (ii) [ntj] > [nd͡z]; [mptj] and [ncj] > [nd͡ʒ] (antius > anze; comptiare > kunʒá; bilanciam > velanʒa)
+$ NOTE: ncj has already become ntj by F-Yod-kj; Fontecchio gives nd͡ʒ for it but nd͡z for ntj - the
+$ two cannot both be derived after the merger; ntj > nd͡z is encoded and the nd͡ʒ forms are noted.
+{m p t j;n t j} > {n d͡ʒ;n d͡z}
+$ (iii) [rtj] > [rt͡s] (fortiam > forza); [stj] stays (bestiam > bbestja); [scj] [stsj] > [ʃʃ] (fasciam >
+$ faśśa)
+r t j > r t͡s
+s k j > ʃ ʃ
+$ (iv) [lj] > [jj] (alium > ajje): "The cluster -li- loses its liquid feature and becomes -j-"
+l j > j j
+$ (v) [sj] > [ʃ] (caseum > kaśe)
+s j > ʃ
+$ (vi) [tj]: posttonic > [tt͡s] ("zz [t:s]": plateam > pjazza); pretonic > [t͡sj] (partitionem >
+$ partizjone); "in a number of cases apparently pretonic -ti- merged with -di- and > ʒʒ" (rationem >
+$ raʒʒone) - noted, not encoded.
+$ NOTE: both lines need a preceding vowel, so stj (bestja) is untouched, as Fontecchio states.
+t j > t͡s t͡s / [+syl,+prim] __
+t j > t͡s j / [+syl] __
+$ (vii) [dj] > [dd͡z], [dd͡ʒ] or [jj] ("the -di- cluster may develop as an affricate with either an alveolar
+$ or palatal sibilant release, or the d may fall in which case the palatal semivowel exhibits compensatory
+$ lengthening": medium > mæzze, sedeam > seʒʒa, hodie > ojje). No majority is given; the first-listed
+$ outcome is encoded.
+d j > d͡z d͡z / [+syl] __
+$ (viii) [gj] > [dd͡ʒ] (religionem > reliʒʒone)
+ɡ j > d͡ʒ d͡ʒ / [+syl] __
+$ (ix) [bj] > [bbj] (rabiam > rabbja); labials otherwise keep the yod (premium > premje, proprium > propje;
+$ simiam > śimmja with mmj noted)
+b j > b b j / [+syl] __
+
+$ F-Clus-sc [sk] + front vowel > [ʃ] initially, [ʃʃ] medially  $$PG: 70, 84
+$ (scintillam > śindilla; pascere > paśśe). Before a, o, u, sk stays.
+$ ORDER: before the palatalization of k (which would otherwise give s t͡ʃ).
+s k > ʃ / # __ [+syl,+front,-lo]
+s k > ʃ ʃ / [+syl] __ [+syl,+front,-lo]
+
+$ F-Init-c / F-Med-c / F-Med-cc Palatalization of [k] before front vowels  $$PG: 62-63, 72-73, 78, 99
+$ "front vowels tend to palatalize the Latin [k] eventually to the affricate ć- [tʃ]" (centum > ćende,
+$ caelum > ćele, dicere > diće, pacem > paće); -cc- (+e, i) > [t:ʃ] (occidere > aććide).
+$ ORDER: "By the seventh century"; before final-vowel reduction (F-Fin-V), which removes the front vowels.
+{k k;k} > {t͡ʃ t͡ʃ;t͡ʃ} / __ [+syl,+front,-lo]
+
+$ F-Init-g / F-Med-g Palatalization of [g] before front vowels  $$PG: 64, 73-74, 99
+$ Initially g + e, i > [j] (gelare > jela, generum > jenere, genuculum > jenokkje); "In rare cases ... ʒʒ-"
+$ (Germania, gentem, gentilem - "probably ... borrowed from Italian"). Medially "-g- > the affricate ʒʒ-
+$ [d:ʒ]" (regere > ræʒʒe, legere > læʒʒe, paginam > paʒʒena), "in some cases being absorbed by the
+$ following vowel" (noted).
+ɡ > j / # __ [+syl,+front,-lo]
+ɡ > d͡ʒ d͡ʒ / [+syl] __ [+syl,+front,-lo]
+
+$ F-Clus-rc/rg/ng [rk], [rg], [ng] + front vowel > [rt͡ʃ], [rd͡ʒ], [nd͡ʒ]  $$PG: 82, 84
+$ (carcerem > karćele; argentum > arʒende; angelum > anʒele, "in some instances ... ŋj > ñ" as in
+$ plangere > pjañe - noted). NOTE: rk is covered by the palatalization of k above; g after r or a nasal
+$ needs its own line (the medial g line requires a preceding vowel).
+ɡ > d͡ʒ / {r;[+nas,+cons]} __ [+syl,+front,-lo]
+
+$ F-Clus-l Clusters with [l]: the [l] palatalizes to [j]  $$PG: 69-71, 79-90, 100
+$ Initial: bl > bbj (blancum > bbjange); cl > kj; fl > fj; gl > j (glaciem > jaćće); pl > pj;
+$ spl > spj. Medial (primary and secondary): b'l > bbj (fibulam > fibbja); c'l > kkj (maculam > makkja);
+$ ccl > kkj; fl > fj; p'l > ppj (copulam > koppja); pl > ppj (duplum > duppje); g'l > jj (coagulum >
+$ kwajje); ng'l > ɲ (ungulam > oña); n'l > ll (spinulam > spilla); t'l > ll (spatulam > spalla);
+$ sc'l > skj (masculum > maskje); ss'l > ʃʃ (assulam > aśśa, "probably ... analogy").
+$ "Except in -bl- and -tl- which become respectively -bbl- and -ttl-, cluster final l of primary medial
+$ clusters palatalizes to [j]" (obligare > ubbligá, Atlanticum > attlandeke - both learnèd); NOTE: these
+$ two primary exceptions are not encoded (E5).
+$ ORDER: specific clusters first; then gemination of the stop after a vowel; then l > j.
+{ŋ ɡ l;n ɡ l} > {ɲ;ɲ}
+ɡ l > j / # __
+ɡ l > j j
+{n l;t l} > {l l;l l}
+b > b b / # __ l
+{p;b;k} > {p p;b b;k k} / [+syl] __ l
+l > j / [-son] __
+
+$ F-Clus-br / F-Clus-gr [br], [gr]  $$PG: 69-71, 79-80, 86
+$ "initially br- > vr-, medially -br- > -bbr-" (bracae > vrake; librum > libbre); "In the gr- cluster,
+$ the g- is absorbed by the following r" (granum > rane; nigrum > nire). (kr sometimes > gr > r -
+$ craticulam > ratikwəla - SPORADIC, noted.)
+b > v / # __ r
+b > b b / [+syl] __ r
+ɡ > ∅ / __ r
+
+$ F-Clus-3C Three-consonant clusters lose a consonant  $$PG: 82-86, 89
+$ "All Classical Latin primary medial clusters composed of more than three consonantal sounds simplify by
+$ losing the initial sound" (-nstr- > -str-: monstrare > mustrá; -xc- [ksk] > [sk]: excusare > skusá;
+$ -xtr- > -str-; -bst- > -st-); secondary: "Combinations of three consonants are reduced to two by
+$ syncope of the middle consonant. If the middle consonant is s, the first consonant of the cluster falls"
+$ (mp't > nd: computare > kundá; x'd [ksd] > sd > st: buxidam > bbusta).
+$ NOTE: (i) an obstruent or nasal before s + C falls (not r: persicam > pærzeka keeps it); (ii) a stop
+$ between a nasal and a stop falls (mpt, nct > nd: promptus > pronde, sanctum > sande).
+[-son] > ∅ / __ s [+cons]
+[+nas,+cons] > ∅ / __ s [+cons]
+[-son,-cont] > ∅ / [+nas] __ [-son,-cont]
+
+$ F-Clus-Assim Regressive assimilation of stop clusters  $$PG: 79-86
+$ "The medial clusters -bt-, -ct-, and -pt- > -tt-; that is, the first stop ... assimilates to the second,
+$ which as a result exhibits compensatory lengthening" (subtilem > settile; lactem > latte; septem >
+$ sætte); -bs-, -ps-, -x- [ks] > -ss- (absolvere > assolve; ipse > isse; laxare > lassá); -dm- > -mm-
+$ (admittere > ammette); -dv- > -vv- (advertire > avvertí).
+[-son,-cont] > t / __ t
+[-son,-cont] > s / __ s
+[-son,-cont] > m / __ m
+[-son,-cont] > v / __ v
+
+$ F-Clus-gn [gn] > [ɲ]  $$PG: 80
+$ (agnellum > añejje; "possibly through a process whereby [ŋn] > [gn] > [jn] > [nj] > [ɲ]"; ăgnus > ajne
+$ "petrified" - noted)
+{ɡ n;ŋ n} > {ɲ;ɲ}
+
+$ F-Clus-Nasal Nasal clusters  $$PG: 79-86, 88
+$ -mn- > -nn- (somnum > sunne); -mb- > -mm- (lumbum > lumme); -nd- > -nn- (vendere > venne); -nf- > -mb-
+$ (infantilem > mbandile); -nfl- > -mbj-; -nv- > -mm- (in vicem > immeće); -mpl- > -mbj-.
+$ ORDER: -nd- > -nn- and -mb- > -mm- BEFORE the post-nasal voicing below (cantare > kandá, not *kanná).
+m n > n n
+{m b;n d} > {m m;n n}
+{n f;m f} > {m b;m b}
+n v > m m
+
+$ F-Clus-NPlace Nasals take the place of the following consonant  $$PG: 59, 81-82, 89
+$ ("the remaining n ... assimilates with the following sound in the place of articulation, thus it becomes
+$ m before labials, n before dentals and vowels, and ŋ before velars", for the prefix in-, p. 59; the
+$ "compatibility assimilation" of clusters assumes "the place of articulation of the second", p. 89:
+$ com'te > konde)
+[+nas,+cons] > m / __ [+cons,+lab]
+[+nas,+cons] > n / __ [+cons,+ant,+cor]
+[+nas,+cons] > n / __ {t͡ʃ;d͡ʒ}
+[+nas,+cons] > ŋ / __ [+cons,-ant,-cor,+back]
+
+$ F-Clus-NVoice Voicing after nasals  $$PG: 82-83, 85, 89
+$ "Cluster initial nasals which remain after the Vulgar Latin period voice the remaining components of the
+$ cluster" (-nt- > -nd-: cantare > kandá; -nc- > -ŋg-: truncum > tronge; -nc- (+e, i) > [nd͡ʒ]: vincere >
+$ venʒe; -mp- > -mb- (compratu > kombrate); -ns- > -nz- [nd͡z]: mansum > manze).
+$ NOTE: s after a nasal becomes the affricate d͡z ("Since Capestranese has [z] only as part of ẓ [dz], the
+$ *[nz] ... evolves further to -nẓ- [ndz]").
+s > d͡z / [+nas,+cons] __
+{p;t;k;t͡ʃ;t͡s} > {b;d;ɡ;d͡ʒ;d͡z} / [+nas,+cons] __
+
+$ F-Clus-l+C Voicing and epenthesis after [l]; [rs] > [rt͡s]  $$PG: 80-81, 84, 86
+$ "Except in -lp-, cluster initial l voices the rest of the cluster": -lt- > -ld- (saltare > saldá);
+$ -ls- > -ldz- (falsum > falze, also faveze - noted); -lcr- > -lgr- (sepulcrum > sepulgre); -lc- (+a, o, u)
+$ > -lək- "an epenthetic [ə] develops" (calcariam > kaləkara). -rs- > -rz- [rts] (personam > perzona).
+$ NOTE: lc + e, i varies (dulcem > doće, falcem > fauće, calcem > kaveće) - noted, not encoded.
+t > d / l __
+s > d͡z / l __
+k > ɡ / l __ r
+∅ > ə / l __ k [+syl,-front]
+s > t͡s / r __
+
+$ F-Med-ll [-llum] > [-jjə]  $$PG: 78, 54
+$ "-ll- [l:] > -ll- [l:]: bĕllam > bbæella, but -llum [l:um] > -jje [j:e]" (bellum > bbejje; caballum >
+$ kavajje, caballi > kævæjje).
+$ NOTE: written as ll before a final high vowel (after F-Fin, -llum ends in -llu, -lli in -lli).
+$ ORDER: before F-Fin-V.
+l l > j j / __ [+syl,+hi] #
+
+$ F-Med-m [m] lengthens in proparoxytones containing another nasal  $$PG: 75
+$ ("numerum > nummere; hominem > ommene; feminam > fémmena")
+$ NOTE: (i) another nasal precedes; (ii) another nasal follows.
+m > m m / [+nas] (@)* [+syl,+prim] __ [+syl] [-syl] [+syl] #
+m > m m / [+syl,+prim] __ [+syl] [+nas] [+syl] #
+
+$ F-Tonic-Meta Metaphony of the low mid vowels; Ĕ > æ elsewhere  $$PG: 52-56, 97-98
+$ Conclusions (p. 98): "if the final vowel of the word is a, generally Vulgar Latin ę tends to become
+$ Capestranese æ more frequently than it becomes e, and ǫ tends to become ɔ more frequently than it becomes
+$ o. If the final vowel of the Capestranese word is ə, Vulgar Latin ę tends to become Capestranese e more
+$ frequently than æ, and Vulgar Latin ǫ tends to become o more frequently than ɔ."
+$ (bellum > bbejje / bellam > bbæella; coctum > kotte / coctam > kɔtta; grossum > rosse / grossam > rɔssa)
+$ NOTE: TENTATIVE (Fontecchio: "exceptions ... are numerous"; for Ĕ in chapter IV: "unpredictable").
+$ Final vowel a vs. any other final vowel (before F-Fin-V reduces the latter to ə).
+{ˈɛ;ˈɔ} > {ˈe;ˈo} / __ (@)* [+syl,-lo] #
+ˈɛ > ˈæ
+
+$ F-Tonic-Nasal Raising of tonic [e], [o] before a nasal (esp. geminate) + metaphony  $$PG: 56-57, 98
+$ "Vulgar Latin ẹ and ọ, especially if they derive from Classical Latin Ĭ and Ŭ, may be affected by a
+$ following nasal, especially if the nasal is a geminate. The effect is to raise ẹ and ọ to Capestranese
+$ i and u"; for Ŭ before a nasal geminate "affected by metaphony ... o if the final vowel of the word is a
+$ and u otherwise" (fundum > funne, mundum > munne, lumbum > lumme but columnam > kolonna, palumbam >
+$ palomma; longum > lunge / longam > longa).
+$ NOTE: TENTATIVE; encoded for a nasal followed by a consonant, with a non-a final vowel (the metaphonic
+$ condition Fontecchio gives).
+$ ORDER: after F-Clus-Nasal (nd > nn, mb > mm), before F-Fin-V.
+{ˈe;ˈo} > {ˈi;ˈu} / __ [+nas,+cons] [+cons] (@)* [+syl,-lo] #
+
+$ F-Init-V Word-initial vowels fall, except [a]  $$PG: 59
+$ "Except for ā and ă initial vowels fall" (ecclesiam > kjesa; episcopum > veskeve; olivam > liva;
+$ auriculam > rekkja; but agnellum > añejje, admiratum > ammirate). Prefixes ex- > s-, in- > n- (+
+$ place assimilation, F-Clus-NPlace) follow from this rule and the cluster rules.
+[+syl,-stres,-lo] > ∅ / # __
+
+$ F-Pret-yod Pretonic [i], [e] stay [i] if the tonic syllable contains yod  $$PG: 60
+$ (partitionem > partizjone; alleviare > allivjá)
+$ ORDER: before F-Pret.
+{e;i} > {i;i} / [+syl] ([-syl])* __ ([+cons])* j [+syl,+prim]
+
+$ F-Count / F-Pret Unstressed non-final vowels before the stress  $$PG: 57-60
+$ Countertonic (first-syllable) and pretonic non-initial vowels: "Generally pretonic non-initial vowels
+$ bearing weak stress fall or are reduced to ə" (affocare > affəká; carricare > karəká; rasicare > raśəká).
+$ "If the initial vowel is ă or ā, the cardinal vowels Ī, Ă, Ā, Ū ... remain" (adjutare > ajutá; admiratum >
+$ ammirate; adulterium > adulterje; amatorem > amatore). Countertonic scheme (p. 58): Ī > i; Ĭ Ē Ĕ > ə/∅;
+$ Ā Ă > a; Ō Ŏ > ∅/ə; Ū Ŭ > u ("although the exceptions are frequent").
+$ NOTE: (i) unstressed e, o before the stress > ə everywhere (countertonic and pretonic); (ii) other
+$ pretonic non-initial vowels > ə when the word does NOT begin with a vowel (the a- exception);
+$ i, a, u in the first syllable are kept (countertonic scheme). The "fall" (∅) option is not encoded.
+{e;o} > {ə;ə} / __ (@)* [+syl,+prim]
+[+syl,-stres] > ə / # [-syl] (@)* [+syl] ([-syl])* __ ([-syl])* [+syl,+prim]
+
+$ F-Post Posttonic non-final vowels > [ə]  $$PG: 60
+$ "All Classical Latin vowels in posttonic non-final position weaken. Generally they are reduced to ə, but
+$ they may fall altogether to allow the formation of a consonant cluster permissible in Capestranese"
+$ (organum > ɔrgənə; cameram > kambra; civitas > ćivəta; arborem > albere).
+$ NOTE: the "fall" option is lexical (see F-Sec) and not encoded.
+[+syl,-stres] > ə / [+syl,+prim] (@)* __ ([-syl])* [+syl] #
+
+$ F-Fin-V Final unstressed vowels: [a] remains, all others > [ə]  $$PG: 61, 99
+$ "a [a] remains; all other vowels weaken to ə [ə] or [∅]" (auriculam > rekkja; aratrum > aratə;
+$ amatorem > amatorə; vetulum > vekkjə).
+$ ORDER: last among the vowel rules (metaphony and -llum need the original final vowel).
+[+syl,-stres,-lo] > ə / __ #
+
+$ ===================================================================================================
+$ COMMENT-ONLY (unpredictable, sporadic, analogical, lexical or morphological - with pages)
+$ ===================================================================================================
+$ - Tonic Ĕ, Ŏ > e/æ, o/ɔ "unpredictable" beyond the metaphonic tendency (pp. 52-56); rare diphthongs
+$   (decem > dieće, herbam > jærva, heri > jere, mel > mjele) "may indicate the intrusion of a Standard
+$   Italian pattern" (p. 53); bestiam > bbestja / bbæstja (semantic split, p. 53); tenerum > tinnere vs
+$   teneram > ténnera; longum > lunge (upward shifts, pp. 53, 56).
+$ - Tonic A raised to e or æ by a final -Ī (caballi > kævæjje, alteri > etre) - "widespread but
+$   inconsistent" (p. 54).
+$ - Yod in the following syllable raising ę, ǫ > e, o and ẹ, ọ > i, u - "widespread but inconsistent"
+$   (p. 98); only the Ĭ, Ŭ cases stated as regular are encoded.
+$ - Initial b- > bb- or v- "with no apparent discrimination" (pp. 61-62, 71, 99: baronem > bbarone, basium
+$   > bbaśe, bibere > bbeve; but buttem > votte, buccam > vokka; bovem > bbove / vove).
+$ - Medial b > bb (27%, p. 72); p > v "infrequent" (episcopum > veskeve, tropare > treva, p. 76); some verb
+$   forms -pj- > ćć (sapio > saćće, p. 76, 92).
+$ - Initial s- > ś- [ʃ] before front vowels and > z-/ẓ- before back vowels "in a number of words", mostly
+$   Arabic (sirocco, sciroppo, zolfo, zavorra; sic > śi, p. 68); medial s sometimes > ś before Ī, Ĭ
+$   (rasicare > raśəká, quasi > kwaśe, p. 77).
+$ - quem, qui > ke, ki; quinque > ćingwe (dissimilation) (p. 67).
+$ - Initial g- > ʒʒ- in Germania, gentem, gentilem - "probably ... borrowed from Italian" (p. 64).
+$ - Medial g before e, i "in some cases being absorbed by the following vowel" (p. 74).
+$ - Medial n > l by dissimilation (animam > alma) "inconsistent" (p. 75); r > l (arborem > albere, carcerem
+$   > karćele), l > r (cultellum > kurtejje, calculare > karkulá); double metathesis (animalem > alimane)
+$   (pp. 81, 83, 101).
+$ - Metathesis of r into the first syllable (capram > krapa; petram > preta; februarius > frəbbare; pp. 83,
+$   84, 101-102).
+$ - Infinitive -re falls ("In verbs the final -re of the infinitive endings falls", pp. 76, 94) - morphological.
+$ - Suffix -ariu > -are (ferrarium > ferrare, p. 92); -vi- > -j- frequently (caveolam > kajola, p. 93).
+$ - -dj- > ʒʒ, jj (sedia > seʒʒa, hodie > ojje); pretonic -tj- > ʒʒ (rationem > raʒʒone); mj > mmj
+$   (simiam > śimmja); -ncj- > nd͡ʒ (pp. 91-93).
+$ - -lc- + e, i: l vocalized / absorbed / kept / > v + ə (dulcem > doće, falcem > fauće, calcem > kaveće); -ls-
+$   > -vəz- (falsum > faveze) beside -ldz- (pp. 80-81).
+$ - -culum/-gulum > -kwələ, -gwələ (p. 61); syncopes other than -C'l- (pp. 86-89); in secondary clusters r
+$   voices the following consonant (r't > rd: spiritum > spirde; r'c > rd͡ʒ: soricem > sorʒe) whereas
+$   primary rt, rk do not (pp. 88, 90) - not distinguishable once syncope has applied (E5).
+$ - Primary medial -bl- > -bbl- and -tl- > -ttl- (learnèd: ubbligá, attlandeke, p. 79, 84).
+$ - cr- > gr- > r- sometimes (craticulam > ratikwəla, p. 70).
