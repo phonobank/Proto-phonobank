@@ -1,14 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 665:
-#mˈaːrtium# >>> *#mˈaɾtʲjə# ( GOLD : #mˈaɾt͡sə#) :
+#mˈaːrtium# >>> *#mˈaɾtʲə# ( GOLD : #mˈaɾt͡sə#) :
 m ˈaː r t i u m 
 *#mˈaːrtjum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#mˈaːrtjum#
 *#mˈaːrtjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#mˈartjʊm# | 13 : [+syl] > [-long,-splng] 
-*#mˈartʲjʊm# | 21 : t > tʲ / __ j
-*#mˈartʲjʊ# | 32 : [+cons] > ∅ / __ #
-*#mˈartʲju# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈartʲju#
-*#mˈartʲjə# | 85 : [-stres,-lo] > ə 
-*#mˈaɾtʲjə# | 96 : r > ɾ 
-Final form : *#mˈaɾtʲjə#
+*#mˈartʲʊm# | 21 : t j > tʲ 
+*#mˈartʲʊ# | 32 : [+cons] > ∅ / __ #
+*#mˈartʲu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈartʲu#
+*#mˈartʲə# | 85 : [-stres,-lo] > ə 
+*#mˈaɾtʲə# | 96 : r > ɾ 
+Final form : *#mˈaɾtʲə#

@@ -66,7 +66,7 @@ $ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidi
 		$ integrate ICIIIb tj > tsj 
 			$ og: {k t;t} > {t͡ʃː;t͡sʲ} / __ j 
 	$ MANUAL FIX -- first this passes to tʲ because this patterns as palatal non-strident in avaritia in A1
-t > tʲ / __ j 
+t j > tʲ  
 	$ MANUAL FIX -- then stop + tʲ > t͡ʃː -- not just -ctj- but also -ptj- 
 [-cont] tʲ > t͡ʃː 
 
@@ -413,7 +413,9 @@ $ LIXe ˌa ˌi ˌu retained after initial a. Bleeds LIXf
 [-prim,αlo,-αhi] > [+stres] / # [+lo] ([-syl])* __
 
 $ LXa non-tonic i retained before syllable with yod in onset. partizjone, allivjá. Bleeds LIXf
-i > ˌi / __ ([-syl])* j
+	$ MANUAL FIX -- instead, works before any non-strident palatal asyllabic.  
+$OG, FONTECCHIO: i > ˌi / __ ([-syl])* j
+i > ˌi / __ ([-syl])* [+front,-strid,-syl]
 
 $ LIXf -- all atonic vowels to ə except a. Includes  unstressed finals LXb
 [-stres,-lo] > ə
@@ -458,6 +460,10 @@ $ XVa, LVIIIc -- unstressed vocalism limited to i a u ə; surrounding varieties 
 
 $ XVIIa Capestranese loses ʎ, presumably to j?
 {ʎ;ʎː} > {j;jː}
+
+$ MANUAL FIX A5 -- ɲː shortens, it seems 
+ɲː > ɲ
+
 
 $ XVIIb Capestranese ɛ to æ
 	$ removed. already handled

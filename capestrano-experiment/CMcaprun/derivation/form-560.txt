@@ -1,5 +1,5 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 560:
-#pˈuːlicem# >>> *#pˈuləcə# ( GOLD : #pˈovəd͡ʒə#) :
+#pˈuːlicem# >>> *#pˈulicə# ( GOLD : #pˈovəd͡ʒə#) :
 p ˈuː l i c e m 
 Proto-Romance stage form : *#pˈuːlicem#
 *#pˈuːlɪcɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -8,5 +8,7 @@ Proto-Romance stage form : *#pˈuːlicem#
 *#pˈulicɛ# | 32 : [+cons] > ∅ / __ #
 *#pˈulice# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#pˈulice#
-*#pˈuləcə# | 85 : [-stres,-lo] > ə 
-Final form : *#pˈuləcə#
+*#pˈulˌice# | 84 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
+*#pˈulˌicə# | 85 : [-stres,-lo] > ə 
+*#pˈulicə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#pˈulicə#

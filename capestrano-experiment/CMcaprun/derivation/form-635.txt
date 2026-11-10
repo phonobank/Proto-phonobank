@@ -1,13 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 635:
-#fˈortiam# >>> *#fˈɔɾtʲja# ( GOLD : #fˈɔɾt͡sa#) :
+#fˈortiam# >>> *#fˈɔɾtʲa# ( GOLD : #fˈɔɾt͡sa#) :
 f ˈo r t i a m 
 *#fˈortjam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#fˈortjam#
 *#fˈɔrtjam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈɔrtʲjam# | 21 : t > tʲ / __ j
-*#fˈɔrtʲja# | 32 : [+cons] > ∅ / __ #
-*#fˈɞˤrtʲja# | 50 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#fˈɔrtʲja# | 54 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#fˈɔrtʲja#
-*#fˈɔɾtʲja# | 96 : r > ɾ 
-Final form : *#fˈɔɾtʲja#
+*#fˈɔrtʲam# | 21 : t j > tʲ 
+*#fˈɔrtʲa# | 32 : [+cons] > ∅ / __ #
+*#fˈɞˤrtʲa# | 50 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#fˈɔrtʲa# | 54 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#fˈɔrtʲa#
+*#fˈɔɾtʲa# | 96 : r > ɾ 
+Final form : *#fˈɔɾtʲa#

@@ -1,5 +1,5 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 287:
-#ˌaɡnˈellum# >>> *#aɲːˈejːə# ( GOLD : #anˈejːə#) :
+#ˌaɡnˈellum# >>> *#aɲˈejːə# ( GOLD : #anˈejːə#) :
 ˌa ɡ n ˈe l l u m 
 Proto-Romance stage form : *#ˌaɡnˈellum#
 *#ˌaɡnˈɛllʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -13,5 +13,6 @@ Proto-South-Italo-Romance stage form : *#ˌaɲːˈelːu#
 *#ˌaɲːˈeʎːu# | 74 : lː > ʎː / __ [+hi]
 *#ˌaɲːˈeʎːə# | 85 : [-stres,-lo] > ə 
 *#ˌaɲːˈejːə# | 99 : {ʎ;ʎː} > {j;jː} 
-*#aɲːˈejːə# | 102 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#aɲːˈejːə#
+*#ˌaɲˈejːə# | 100 : ɲː > ɲ 
+*#aɲˈejːə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#aɲˈejːə#

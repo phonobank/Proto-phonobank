@@ -19,7 +19,7 @@ k w > k / # __ ( @ )* k w
 l > lˠ / __ k [-cons]
 d [+lab,+cons] > ∅ [+long]
 {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-t > tʲ / __ j
+t j > tʲ 
 [-cont] tʲ > t͡ʃː
 {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
 [+hi,-son] [+cor,-son] > ∅ [+long]
@@ -82,7 +82,7 @@ s > ʃ / # __ [+hi,+front]
 ˌo > ˌu / __ ( [+cons] )* [+hi]
 [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
 [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-i > ˌi / __ ( [-syl] )* j
+i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
 [-stres,-lo] > ə 
 [-prim,-lo] > ∅ / # __
 ɡ > ∅ / # __ r
@@ -98,6 +98,7 @@ r > ɾ
 ˌu > ə / __ [+lab,+strid]
 [-prim,-hi,-lo] > ə 
 {ʎ;ʎː} > {j;jː} 
+ɲː > ɲ 
 [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
 j > i / [+lat] __
 [-prim] > [-stres,-prim,+syl,+son] 
