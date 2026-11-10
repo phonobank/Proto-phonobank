@@ -1,12 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 403:
-#komparˈaː# >>> *#kəmbaɾˈa# ( GOLD : #kəmbɾˈa#) :
+#komparˈaː# >>> *#kəmbɾˈa# ( GOLD : #kəmbɾˈa#) :
 k o m p a r ˈaː 
 Proto-Romance stage form : *#komparˈaː#
 *#kɔmparˈaː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#kɔmparˈa# | 27 : [+syl] > [-long,-splng] 
-*#komparˈa# | 53 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#komparˈa#
-*#kəmparˈa# | 92 : [-stres,-lo] > ə 
-*#kəmbarˈa# | 95 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kəmbaɾˈa# | 103 : r > ɾ 
-Final form : *#kəmbaɾˈa#
+*#kɔmprˈa# | 39 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
+*#komprˈa# | 55 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#komprˈa#
+*#kəmprˈa# | 94 : [-stres,-lo] > ə 
+*#kəmbrˈa# | 97 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kəmbɾˈa# | 105 : r > ɾ 
+Final form : *#kəmbɾˈa#

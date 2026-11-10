@@ -1,12 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 413:
-#kˈubitum# >>> *#kˈovətə# ( GOLD : #vˈutə#) :
+#kˈubitum# >>> *#kˈovtə# ( GOLD : #vˈutə#) :
 k ˈu b i t u m 
 Proto-Romance stage form : *#kˈubitum#
 *#kˈʊbɪtʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#kˈʊbɪtʊ# | 34 : [+cons] > ∅ / __ #
-*#kˈʊbɪtu# | 53 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˈobetu# | 60 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˈovetu# | 68 : b > v / @ __
-Proto-South-Italo-Romance stage form : *#kˈovetu#
-*#kˈovətə# | 92 : [-stres,-lo] > ə 
-Final form : *#kˈovətə#
+*#kˈʊbtʊ# | 40 : [+hi,-stres] > ∅ / [+round,+syl] ( [+son,-syl] ) [+lab,-syl,-long] __ [nnas,nvoi,+cor,-front] [+syl]
+*#kˈʊbtu# | 55 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˈobtu# | 62 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈovtu# | 70 : b > v / @ __
+Proto-South-Italo-Romance stage form : *#kˈovtu#
+*#kˈovtə# | 94 : [-stres,-lo] > ə 
+Final form : *#kˈovtə#

@@ -5,10 +5,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˈuŋɡulam#
 *#ˈʊŋɡʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈʊŋɡʊla# | 34 : [+cons] > ∅ / __ #
-*#ˈʊŋɡla# | 44 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
-*#ˈʊŋʎːa# | 45 : ɡ l > ʎː 
-*#ˈoŋʎːa# | 56 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#ˈʊŋɡla# | 46 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
+*#ˈʊŋʎːa# | 47 : ɡ l > ʎː 
+*#ˈoŋʎːa# | 58 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
 Proto-South-Italo-Romance stage form : *#ˈoŋʎːa#
-*#ˈoɲːa# | 77 : [+nas,-lab] [+front,-syl,+voi] > ɲː
-*#ˈoɲa# | 107 : ɲː > ɲ 
+*#ˈoɲːa# | 79 : [+nas,-lab] [+front,-syl,+voi] > ɲː
+*#ˈoɲa# | 109 : ɲː > ɲ 
 Final form : *#ˈoɲa#

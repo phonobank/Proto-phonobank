@@ -36,8 +36,10 @@ s > j / # ( [-syl] )* [+syl] ( [-syl] ) __ #
 [+cons] > ∅ / __ #
 [+cons] [-son] > [-long,-splng] [-long,-splng]
 l > r / __ [-cont] ( @ )* [+lat]
-r > l / __ b ( @ )* r
 m > mː / # ( [+lab] ) [-cons,-lo] __ [+syl] [+cons] [+syl] #
+[-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
+[+hi,-stres] > ∅ / [+round,+syl] ( [+son,-syl] ) [+lab,-syl,-long] __ [nnas,nvoi,+cor,-front] [+syl]
+r > l / __ b ( @ )* r
 ∅ > ə / lˠ __
 lˠ > w / __ ( ə ) t͡ʃ
 lˠ > l 

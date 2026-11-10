@@ -1,5 +1,5 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 702:
-#ˌawaːrˈitiam# >>> *#avaɾˈit͡sːa# ( GOLD : #avaɾˈit͡sja#) :
+#ˌawaːrˈitiam# >>> *#ɾˈit͡sːa# ( GOLD : #avaɾˈit͡sja#) :
 ˌa w aː r ˈi t i a m 
 *#ˌawaːrˈitjam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˌawaːrˈitjam#
@@ -9,9 +9,11 @@ Proto-Romance stage form : *#ˌawaːrˈitjam#
 *#ˌawarˈitʲːam# | 27 : [+syl] > [-long,-splng] 
 *#ˌawarˈit͡sːam# | 28 : tʲː > t͡sː 
 *#ˌawarˈit͡sːa# | 34 : [+cons] > ∅ / __ #
-*#ˌavarˈit͡sːa# | 47 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#ˌavarˈit͡sːa#
-*#ˌavˌarˈit͡sːa# | 91 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌavˌaɾˈit͡sːa# | 103 : r > ɾ 
-*#avaɾˈit͡sːa# | 110 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#avaɾˈit͡sːa#
+*#ˌawrˈit͡sːa# | 39 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
+*#ˌowrˈit͡sːa# | 65 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+Proto-South-Italo-Romance stage form : *#ˌowrˈit͡sːa#
+*#ˌorˈit͡sːa# | 83 : w > ∅ / [+round] __ [+cons]
+*#ˌurˈit͡sːa# | 91 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#rˈit͡sːa# | 95 : [-prim,-lo] > ∅ / # __
+*#ɾˈit͡sːa# | 105 : r > ɾ 
+Final form : *#ɾˈit͡sːa#

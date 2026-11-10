@@ -162,16 +162,35 @@ $ LXXIXe semi-bandaid -- degeminate geminates in clusters, except when second el
 $ LXXXId lt, lk to rt, rk if there's lateral later in word. Bleeds LXXXf. FIX -- this also happens to lp -- scalpellum > ʃkarpejjə. Just assume all stops at this point.
 l > r / __ [-cont] (@)* [+lat] 
 
-$ LXXXIIId rb to lb if there's a later r
-r > l / __ b (@)* r 
-
 $LXXVa gemination of m before in proparoxytones with another nasal involved -- hominem numerum, inimicum, femina
 	$ bleeds A12
 $m > mː / [+nas] [+syl] __ [+syl] [+cons] [+syl] #
 $m > mː / __ [+syl] [+nas] [+syl] #
-	$ executive decision    -- FIX -- just any proparoxytones, with initial labial if they have any labial.
+	$ executive decision    -- MANUAL FIX -- just any proparoxytones, with initial labial if they have any labial.
 			$ not after lo.
 m > mː / # ([+lab]) [-cons,-lo] __ [+syl] [+cons] [+syl] #
+
+$ MANUAL FIX A12 deletions in l/m/f Clab __ r contexts. 
+	$ not for mː -- numerum > nummërë, admirātum > ammiratë
+	$ counterfed by LXXXIIId for arborem > albërë. 
+	$ prior syllable canțt be front (non-low) : vipera > vipëra , exmerāre > smëra 
+	$ affected: sufferīre, iūniperum? , aperīre, camera, comparāre, comparātum, opera, offerīre
+[-prim] > ∅ / [+syl,alo,afront] ([+cont,llat,-llab]) [-syl,+lab,-long] __ r [+syl]
+
+
+$ MANUAL FIX A13 unstressed high vowels deleted in Vround (m/l) Clab,-long __ t/n V 
+	$ domina > donna, computare > cundar, cubitu > vutë, volvita > vota, comitem > condë
+		$ not for mː : hominem > ommënë etc. 
+[+hi,-stres] > ∅ / [+round,+syl] ( [+son,-syl] ) [+lab,-syl,-long] __ [nnas,nvoi,+cor,-front] [+syl]
+
+
+	$ not if postlabial consonant is sonorant: inebriacone, reflatare , inflammare , inflorire, aplpliare, appretiare, africa, explanare 
+	$ doesn't apply to w :L cīvitās > civəta
+	$ not if coronal has sonorant beforehand: advertire, infantilem, respondere, carbonarium, raphanellum
+
+
+$ LXXXIIId rb to lb if there's a later r
+r > l / __ b (@)* r 
 
 $ LXXXf ɫk > ɫək insertion.
 ∅ > ə / lˠ __ 
