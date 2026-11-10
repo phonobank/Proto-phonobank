@@ -1,0 +1,12 @@
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 462:
+#wˈidua# >>> *#ɡˈedvə# ( GOLD : #vˈedeva#) :
+w ˈi d u a 
+*#wˈidwa# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#wˈidwa#
+*#wˈɪdwa# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɪdva# | 29 : w > v / __ [-cons]
+*#vˈedva# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˈedva#
+*#vˈedvə# | 70 : [-stres] > ə 
+*#ɡˈedvə# | 84 : [+lab,+cont,-syl] > ɡ / # __
+Final form : *#ɡˈedvə#

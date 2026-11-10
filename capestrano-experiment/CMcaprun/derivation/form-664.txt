@@ -1,0 +1,15 @@
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 664:
+#mˈelius# >>> *#ɡˈejːə# ( GOLD : #mˈejːə#) :
+m ˈe l i u s 
+*#mˈeljus# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#mˈeljus#
+*#mˈɛljʊs# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛljʊ# | 16 : [+cons] > ∅ / __ #
+*#mˈeljo# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˈeʎːo# | 48 : l j > ʎː 
+*#mːˈeʎːo# | 56 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#mːˈeʎːo#
+*#mːˈeʎːə# | 70 : [-stres] > ə 
+*#mːˈejːə# | 83 : {ʎ;ʎː} > {j;jː} 
+*#ɡˈejːə# | 84 : [+lab,+cont,-syl] > ɡ / # __
+Final form : *#ɡˈejːə#

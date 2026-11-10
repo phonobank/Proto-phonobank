@@ -1,0 +1,16 @@
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 644:
+#ˌinfˈakiam# >>> *#ɡ?2ˈat͡ʃjə# ( GOLD : #mbˈat͡ʃːa#) :
+ˌi n f ˈa k i a m 
+*#ˌimfˈakiam# | 0 : n > m / __ [+lab,+cons]
+*#ˌimfˈakjam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˌimfˈakjam#
+*#ˌɪmfˈakjam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪmfˈakja# | 16 : [+cons] > ∅ / __ #
+*#ˌɪmfˈat͡ʃja# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#ˌemfˈat͡ʃja# | 30 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#ˌemfˈat͡ʃja#
+*#ˌemfˈat͡ʃjə# | 70 : [-stres] > ə 
+*#mfˈat͡ʃjə# | 71 : [-prim,-lo] > ∅ / # __
+*#m?2ˈat͡ʃjə# | 73 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
+*#ɡ?2ˈat͡ʃjə# | 84 : [+lab,+cont,-syl] > ɡ / # __
+Final form : *#ɡ?2ˈat͡ʃjə#

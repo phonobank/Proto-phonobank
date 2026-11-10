@@ -1,0 +1,16 @@
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 299:
+#ˌawaːrˈitiam# >>> *#avaɾˈitjə# ( GOLD : #avarˈit͡sja#) :
+ˌa w aː r ˈi t i a m 
+*#ˌawaːrˈitjam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˌawaːrˈitjam#
+*#ˌawaːrˈɪtjam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌawarˈɪtjam# | 7 : [+syl] > [-long,-splng] 
+*#ˌawarˈɪtja# | 16 : [+cons] > ∅ / __ #
+*#ˌavarˈɪtja# | 29 : w > v / __ [-cons]
+*#ˌavarˈitja# | 32 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
+Proto-South-Italo-Romance stage form : *#ˌavarˈitja#
+*#ˌavˌarˈitja# | 68 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌavˌarˈitjə# | 70 : [-stres] > ə 
+*#ˌavˌaɾˈitjə# | 80 : r > ɾ 
+*#avaɾˈitjə# | 86 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#avaɾˈitjə#

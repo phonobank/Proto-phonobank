@@ -1,0 +1,14 @@
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 255:
+#ˌadultˈerium# >>> *#adəldˈeɾjə# ( GOLD : #adultˈerjə#) :
+ˌa d u l t ˈe r i u m 
+*#ˌadultˈerjum# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˌadultˈerjum#
+*#ˌadʊltˈɛrjʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌadʊltˈɛrjʊ# | 16 : [+cons] > ∅ / __ #
+*#ˌadoltˈerjo# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌadoltˈerjo#
+*#ˌadəltˈerjə# | 70 : [-stres] > ə 
+*#ˌadəldˈerjə# | 74 : [-voi,-lab] > [+voi,-cont,+cons,0tense] / [+lat] __
+*#ˌadəldˈeɾjə# | 80 : r > ɾ 
+*#adəldˈeɾjə# | 86 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#adəldˈeɾjə#

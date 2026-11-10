@@ -1,0 +1,17 @@
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 506:
+#ˌoblˌiɡˈaː# >>> *#bːjəɡˈa# ( GOLD : #ubːliɡˈa#) :
+ˌo b l ˌi ɡ ˈaː 
+Proto-Romance stage form : *#ˌoblˌiɡˈaː#
+*#ˌɔblˌɪɡˈaː# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔblˌɪɡˈa# | 7 : [+syl] > [-long,-splng] 
+*#ˌɔblˌeɡˈa# | 30 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌoblˌeɡˈa# | 31 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌobʎˌeɡˈa# | 47 : l > ʎ / [-son,-cor] __
+*#ˌobːʎˌeɡˈa# | 49 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+Proto-South-Italo-Romance stage form : *#ˌobːʎˌeɡˈa#
+*#ˌubːʎˌeɡˈa# | 66 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#ˌubːʎeɡˈa# | 67 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌubːʎəɡˈa# | 70 : [-stres] > ə 
+*#bːʎəɡˈa# | 71 : [-prim,-lo] > ∅ / # __
+*#bːjəɡˈa# | 83 : {ʎ;ʎː} > {j;jː} 
+Final form : *#bːjəɡˈa#

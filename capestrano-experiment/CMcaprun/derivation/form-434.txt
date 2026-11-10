@@ -1,0 +1,17 @@
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 434:
+#ɡˌenˈestram# >>> *#jənˈɛstɾə# ( GOLD : #jenˈestra#) :
+ɡ ˌe n ˈe s t r a m 
+Proto-Romance stage form : *#ɡˌenˈestram#
+*#ɡˌɛnˈɛstram# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˌɛnˈɛstram# | 10 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛnˈɛstram# | 11 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+*#ɡˌɛnˈɛstra# | 16 : [+cons] > ∅ / __ #
+*#jˌɛnˈɛstra# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#jˌenˈɛstra# | 30 : [+stres,-prim,+front,-tense] > ˌe 
+*#jˌenˈæstra# | 35 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#jˌenˈɛstra# | 39 : [+lo,-tense] > [-lo] 
+Proto-South-Italo-Romance stage form : *#jˌenˈɛstra#
+*#jˌenˈɛstrə# | 70 : [-stres] > ə 
+*#jˌenˈɛstɾə# | 80 : r > ɾ 
+*#jənˈɛstɾə# | 82 : [-prim,-hi,-lo] > ə 
+Final form : *#jənˈɛstɾə#

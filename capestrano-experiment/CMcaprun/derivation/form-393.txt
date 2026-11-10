@@ -1,0 +1,20 @@
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 393:
+#kˌondikiˈoːnem# >>> *#kunːit͡sjˈonə# ( GOLD : #kundit͡sjˈonə#) :
+k ˌo n d i k i ˈoː n e m 
+*#kˌondikjˈoːnem# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#kˌondikjˈoːnem#
+*#kˌɔndɪkjˈoːnɛm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔndɪkjˈonɛm# | 7 : [+syl] > [-long,-splng] 
+*#kˌɔndɪkjˈonɛ# | 16 : [+cons] > ∅ / __ #
+*#kˌɔndɪt͡ʃjˈonɛ# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#kˌondɪt͡ʃjˈonɛ# | 31 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌondit͡ʃjˈonɛ# | 32 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
+*#kˌondit͡ʃjˈone# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌonːit͡ʃjˈone# | 41 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#kˌonːit͡sjˈone# | 53 : [+delrel,-voi] > [+ant,-distr,-front,-hi,-round,+cor] / __ j [+round]
+Proto-South-Italo-Romance stage form : *#kˌonːit͡sjˈone#
+*#kˌunːit͡sjˈone# | 66 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌunːˌit͡sjˈone# | 69 : i > ˌi / __ ( [-syl] )* j
+*#kˌunːˌit͡sjˈonə# | 70 : [-stres] > ə 
+*#kunːit͡sjˈonə# | 86 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kunːit͡sjˈonə#

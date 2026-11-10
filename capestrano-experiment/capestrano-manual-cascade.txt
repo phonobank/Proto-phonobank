@@ -61,7 +61,7 @@ $ LXXIXe semi-bandaid -- degeminate geminates in clusters, except when second el
 [+cons] [-son] > [-long] [-long] 
 
 $ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidism. Counterbled by ɛ metaphony LIIc, and by reduction to schwa. Attributed to 2nd century on page 72. Affrication of g attributed to be as early as 1st century on page 74. 
-{k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː,d͡ʒː} / __ [+front,-lo,-cons] 
+{k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons] 
 		$ integrate ICIb and ICIc ktj phenomena
 k t > t͡ʃː / __ j 
 
@@ -200,16 +200,16 @@ $ LIVd ag > aw, feeding LIIc
 ɡ > w / __ m
 
 $ LIVc aw > o. FIX -- only preconsonantal
-[+lo] w > [+back,-front,-lo,+lab,+round] ∅ / ___ [+cons]
+[+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 
 $ LVXXb nj to ɲ
-n j > ɲ
+n j > ɲ 
 
 $ LXXXIb pl and pr to ppl , ppr unless initial syllable. Counterbled by LVXIXb
 p > pː / [+syl] (@)* __ [+son,+cor,-nas] 
 
 $LXXVIIIa -- apply geminations. Must come after LVIIa. 
-{t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡s;;d͡zː;ŋː;ɲː;ʎː}
+{t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː}
 
 $ LVXIXb palatalization of postobstruental l. Fed by syncope in fibula > fibbja case. No evidence of this occurring for corronals, evidence it does NOT occur for tl 
 	$ FIX -- goes to ʎ, not j , at this time.
@@ -221,7 +221,7 @@ $ LXIVa -- lj to ʎʎ; have inferred from other Italo-Romance and etc.
 l j > ʎː 
 
 $ LXIXd bj to bbj and LXXIXa br and bl to bbr and bbl Fed by LVXIXb. Bleeds LXXc
-b > bː / __ ̪[rcor,-rfront,+son,-nas,-syl] 
+b > bː / __ [rcor,-rfront,+son,-nas,-syl] 
 
 $ LXXc medial b to v. TODO will need to debug. Merger attributed to begin in midst of "confusion" in third century CE> 
 b > v / @ __ 
@@ -253,9 +253,14 @@ $m > mː / __ [+syl] [+nas] [+syl] #
 	$ executive decision    -- FIX -- just any proparoxytones! humidum vomita- 
 m > mː /  __ [+syl] [+cons] [+syl] #
 
+
 =Proto-South-Italo-Romance
 
 $ undated changes presented as specific 
+
+$ MANUAL FIX -- ow > o preconsonantal
+w > ∅ / [+round] __ [+cons]
+
 
 $LXXVIIIb ll to ʎː in -um 
 $lː > jː / __ u #
@@ -341,7 +346,7 @@ $ XVa, LVIIIc -- unstressed vocalism limited to i a u ə; surrounding varieties 
 
 
 $ XVIIa Capestranese loses ʎ, presumably to j?
-{ʎ;ʎː} > {j;j:}
+{ʎ;ʎː} > {j;jː}
 
 $ XVIIb Capestranese ɛ to æ
 	$ removed. already handled

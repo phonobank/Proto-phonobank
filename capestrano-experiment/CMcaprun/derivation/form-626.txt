@@ -1,0 +1,15 @@
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 626:
+#fˈiːbulam# >>> *#ɡˈibːjə# ( GOLD : #fˈibːja#) :
+f ˈiː b u l a m 
+Proto-Romance stage form : *#fˈiːbulam#
+*#fˈiːbʊlam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈibʊlam# | 7 : [+syl] > [-long,-splng] 
+*#fˈibʊla# | 16 : [+cons] > ∅ / __ #
+*#fˈibla# | 28 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+*#fˈibʎa# | 47 : l > ʎ / [-son,-cor] __
+*#fˈibːʎa# | 49 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+Proto-South-Italo-Romance stage form : *#fˈibːʎa#
+*#fˈibːʎə# | 70 : [-stres] > ə 
+*#fˈibːjə# | 83 : {ʎ;ʎː} > {j;jː} 
+*#ɡˈibːjə# | 84 : [+lab,+cont,-syl] > ɡ / # __
+Final form : *#ɡˈibːjə#

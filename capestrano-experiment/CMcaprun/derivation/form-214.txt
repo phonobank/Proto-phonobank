@@ -1,0 +1,17 @@
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 214:
+#ˌinˌeːbriaːkˈoːnem# >>> *#nəbːɾjəkˈonə# ( GOLD : #mbriakˈonə#) :
+ˌi n ˌeː b r i aː k ˈoː n e m 
+*#ˌinˌeːbrjaːkˈoːnem# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˌinˌeːbrjaːkˈoːnem#
+*#ˌɪnˌeːbrjaːkˈoːnɛm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪnˌebrjakˈonɛm# | 7 : [+syl] > [-long,-splng] 
+*#ˌɪnˌebrjakˈonɛ# | 16 : [+cons] > ∅ / __ #
+*#ˌenˌebrjakˈonɛ# | 30 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenˌebrjakˈone# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌenˌebːrjakˈone# | 49 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+Proto-South-Italo-Romance stage form : *#ˌenˌebːrjakˈone#
+*#ˌenebːrjakˈone# | 67 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌenəbːrjəkˈonə# | 70 : [-stres] > ə 
+*#nəbːrjəkˈonə# | 71 : [-prim,-lo] > ∅ / # __
+*#nəbːɾjəkˈonə# | 80 : r > ɾ 
+Final form : *#nəbːɾjəkˈonə#
