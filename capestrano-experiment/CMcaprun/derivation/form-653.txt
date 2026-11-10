@@ -1,13 +1,10 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 653:
-#mˌeritˈaː# >>> *#məɾətˈa# ( GOLD : #məɾdˈa#) :
-m ˌe r i t ˈaː 
-Proto-Romance stage form : *#mˌeritˈaː#
-*#mˌɛrɪtˈaː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɛrɪtˈa# | 13 : [+syl] > [-long,-splng] 
-*#mˌerɪtˈa# | 46 : [+stres,-prim,+front,-tense] > ˌe 
-*#mˌeretˈa# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌeretˈa#
-*#mˌerətˈa# | 85 : [-stres,-lo] > ə 
-*#mˌeɾətˈa# | 96 : r > ɾ 
-*#məɾətˈa# | 98 : [-prim,-hi,-lo] > ə 
-Final form : *#məɾətˈa#
+#mˌanduːkˈaː# >>> *#manːəkˈa# ( GOLD : #maɲˈa#) :
+m ˌa n d uː k ˈaː 
+Proto-Romance stage form : *#mˌanduːkˈaː#
+*#mˌandukˈa# | 13 : [+syl] > [-long,-splng] 
+*#mˌanːukˈa# | 57 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#mˌanːukˈa#
+*#mˌanːəkˈa# | 86 : [-stres,-lo] > ə 
+*#manːəkˈa# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#manːəkˈa#

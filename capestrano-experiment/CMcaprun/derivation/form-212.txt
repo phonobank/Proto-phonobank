@@ -5,15 +5,15 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌinˌeːbrjaːkˈoːnem#
 *#ˌɪnˌeːbrjaːkˈoːnɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɪnˌebrjakˈonɛm# | 13 : [+syl] > [-long,-splng] 
-*#ˌɪnˌebrʲakˈonɛm# | 26 : r j > rʲ 
-*#ˌɪnˌebrʲakˈonɛ# | 32 : [+cons] > ∅ / __ #
-*#ˌenˌebrʲakˈonɛ# | 46 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenˌebrʲakˈone# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌenˌevrʲakˈone# | 63 : b > v / @ __
+*#ˌɪnˌebrʲakˈonɛm# | 28 : r j > rʲ 
+*#ˌɪnˌebrʲakˈonɛ# | 33 : [+cons] > ∅ / __ #
+*#ˌenˌebrʲakˈonɛ# | 47 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenˌebrʲakˈone# | 54 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌenˌevrʲakˈone# | 64 : b > v / @ __
 Proto-South-Italo-Romance stage form : *#ˌenˌevrʲakˈone#
-*#ˌenˌevrjakˈone# | 71 : rʲ > r j / [+cons] __
-*#ˌenevrjakˈone# | 82 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌenəvrjakˈonə# | 85 : [-stres,-lo] > ə 
-*#nəvrjakˈonə# | 86 : [-prim,-lo] > ∅ / # __
-*#nəvɾjakˈonə# | 96 : r > ɾ 
+*#ˌenˌevrjakˈone# | 72 : rʲ > r j / [+cons] __
+*#ˌenevrjakˈone# | 83 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌenəvrjakˈonə# | 86 : [-stres,-lo] > ə 
+*#nəvrjakˈonə# | 87 : [-prim,-lo] > ∅ / # __
+*#nəvɾjakˈonə# | 97 : r > ɾ 
 Final form : *#nəvɾjakˈonə#

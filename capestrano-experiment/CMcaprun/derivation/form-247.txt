@@ -5,13 +5,13 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌadrjˈaːtikum#
 *#ˌadrjˈaːtɪkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌadrjˈatɪkʊm# | 13 : [+syl] > [-long,-splng] 
-*#ˌadrjˈatikʊm# | 25 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌadrʲˈatikʊm# | 26 : r j > rʲ 
-*#ˌadrʲˈatikʊ# | 32 : [+cons] > ∅ / __ #
-*#ˌadrʲˈatiku# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌadrjˈatikʊm# | 26 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌadrʲˈatikʊm# | 28 : r j > rʲ 
+*#ˌadrʲˈatikʊ# | 33 : [+cons] > ∅ / __ #
+*#ˌadrʲˈatiku# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌadrʲˈatiku#
-*#ˌadrjˈatiku# | 71 : rʲ > r j / [+cons] __
-*#ˌadrjˈatəkə# | 85 : [-stres,-lo] > ə 
-*#ˌadɾjˈatəkə# | 96 : r > ɾ 
-*#adɾjˈatəkə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌadrjˈatiku# | 72 : rʲ > r j / [+cons] __
+*#ˌadrjˈatəkə# | 86 : [-stres,-lo] > ə 
+*#ˌadɾjˈatəkə# | 97 : r > ɾ 
+*#adɾjˈatəkə# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#adɾjˈatəkə#

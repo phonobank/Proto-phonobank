@@ -1,14 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 311:
-#hˈerbam# >>> *#ˈæɾva# ( GOLD : #jˈæɾva#) :
-h ˈe r b a m 
-*#ˈerbam# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˈerbam#
-*#ˈɛrbam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɛrba# | 32 : [+cons] > ∅ / __ #
-*#ˈærba# | 50 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˈærva# | 63 : b > v / @ __
-Proto-South-Italo-Romance stage form : *#ˈærva#
-*#ˈærvˌa# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈæɾvˌa# | 96 : r > ɾ 
-*#ˈæɾva# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈæɾva#
+#hˌankhˈoːram# >>> *#aŋɡˈoɾa# ( GOLD : #aŋɡˈoɾa#) :
+h ˌa n k h ˈoː r a m 
+*#hˌaŋkhˈoːram# | 1 : n > ŋ / __ [+back,+cons]
+*#ˌaŋkˈoːram# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˌaŋkˈoːram#
+*#ˌaŋkˈoram# | 13 : [+syl] > [-long,-splng] 
+*#ˌaŋkˈora# | 33 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˌaŋkˈora#
+*#ˌaŋɡˈora# | 89 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ˌaŋɡˈoɾa# | 97 : r > ɾ 
+*#aŋɡˈoɾa# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#aŋɡˈoɾa#

@@ -1,13 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 315:
-#hˈaːmum# >>> *#ˈamə# ( GOLD : #ˈamə#) :
-h ˈaː m u m 
-*#ˈaːmum# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˈaːmum#
-*#ˈaːmʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈamʊm# | 13 : [+syl] > [-long,-splng] 
-*#ˈamʊ# | 32 : [+cons] > ∅ / __ #
-*#ˈamu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈamu#
-*#ˈamˌu# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈamə# | 91 : [-prim,-lo] > ə / __ #
-Final form : *#ˈamə#
+#hˈodieː# >>> *#ˈod͡ʒə# ( GOLD : #ˈojːə#) :
+h ˈo d i eː 
+*#ˈodieː# | 4 : h > ∅ 
+*#ˈodjeː# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˈodjeː#
+*#ˈɔdjeː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔdje# | 13 : [+syl] > [-long,-splng] 
+*#ˈɔd͡ʒe# | 24 : {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
+*#ˈod͡ʒe# | 54 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈod͡ʒe#
+*#ˈod͡ʒə# | 86 : [-stres,-lo] > ə 
+Final form : *#ˈod͡ʒə#

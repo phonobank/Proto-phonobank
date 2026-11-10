@@ -4,12 +4,12 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌanimˈaːlem#
 *#ˌanɪmˈaːlɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌanɪmˈalɛm# | 13 : [+syl] > [-long,-splng] 
-*#ˌanimˈalɛm# | 25 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌanimˈalɛ# | 32 : [+cons] > ∅ / __ #
-*#ˌanimˈale# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌanimːˈale# | 69 : m > mː / __ [+syl] [+cons] [+syl] #
+*#ˌanimˈalɛm# | 26 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌanimˈalɛ# | 33 : [+cons] > ∅ / __ #
+*#ˌanimˈale# | 54 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌanimːˈale# | 70 : m > mː / __ [+syl] [+cons] [+syl] #
 Proto-South-Italo-Romance stage form : *#ˌanimːˈale#
-*#ˌanˌimːˈale# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌanˌimːˈalə# | 85 : [-stres,-lo] > ə 
-*#animːˈalə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌanˌimːˈale# | 84 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌanˌimːˈalə# | 86 : [-stres,-lo] > ə 
+*#animːˈalə# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#animːˈalə#

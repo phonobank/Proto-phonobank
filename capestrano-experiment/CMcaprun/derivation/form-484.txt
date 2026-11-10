@@ -1,11 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 484:
-#ˈuːmida# >>> *#ˈumːəda# ( GOLD : #ˈumːəda#) :
-ˈuː m i d a 
-Proto-Romance stage form : *#ˈuːmida#
-*#ˈuːmɪda# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈumɪda# | 13 : [+syl] > [-long,-splng] 
-*#ˈumeda# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˈumːeda# | 69 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#ˈumːeda#
-*#ˈumːəda# | 85 : [-stres,-lo] > ə 
-Final form : *#ˈumːəda#
+#ˈumbram# >>> *#ˈomːɾa# ( GOLD : #ˈombɾa#) :
+ˈu m b r a m 
+Proto-Romance stage form : *#ˈumbram#
+*#ˈʊmbram# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈʊmbra# | 33 : [+cons] > ∅ / __ #
+*#ˈombra# | 52 : ˈʊ > ˈo / __ @ @
+*#ˈomːra# | 57 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#ˈomːra#
+*#ˈomːɾa# | 97 : r > ɾ 
+Final form : *#ˈomːɾa#

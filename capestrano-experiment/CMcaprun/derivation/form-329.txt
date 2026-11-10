@@ -1,11 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 329:
-#krˌepˈaː# >>> *#kɾəpˈa# ( GOLD : #kɾəpˈa#) :
-k r ˌe p ˈaː 
-Proto-Romance stage form : *#krˌepˈaː#
-*#krˌɛpˈaː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#krˌɛpˈa# | 13 : [+syl] > [-long,-splng] 
-*#krˌepˈa# | 46 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#krˌepˈa#
-*#kɾˌepˈa# | 96 : r > ɾ 
-*#kɾəpˈa# | 98 : [-prim,-hi,-lo] > ə 
-Final form : *#kɾəpˈa#
+#krˌaːtˈiːkulam# >>> *#kɾatˈikwəla# ( GOLD : #ɾatˈikwəla#) :
+k r ˌaː t ˈiː k u l a m 
+Proto-Romance stage form : *#krˌaːtˈiːkulam#
+*#krˌaːtˈiːkʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˌatˈikʊlam# | 13 : [+syl] > [-long,-splng] 
+*#krˌatˈikʊla# | 33 : [+cons] > ∅ / __ #
+*#krˌatˈikwʊla# | 42 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#krˌatˈikwula# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#krˌatˈikwula#
+*#krˌatˈikwəla# | 86 : [-stres,-lo] > ə 
+*#kɾˌatˈikwəla# | 97 : r > ɾ 
+*#kɾatˈikwəla# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kɾatˈikwəla#

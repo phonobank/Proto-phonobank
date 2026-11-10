@@ -66,9 +66,12 @@ $ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidi
 		$ integrate ICIIIb tj > tsj 
 			$ og: {k t;t} > {t͡ʃː;t͡sʲ} / __ j 
 	$ MANUAL FIX -- first this passes to tʲ because this patterns as palatal non-strident in avaritia in A1
-t j > tʲ  
+t j > tʲː
 	$ MANUAL FIX -- then stop + tʲ > t͡ʃː -- not just -ctj- but also -ptj- 
-[-cont] tʲ > t͡ʃː 
+[-cont] tʲː > t͡ʃː 
+
+	$ MANUAL FIX A7 -- tʲː reverts to tj after sː bestja , kristjenə 
+s tʲː > s t j 
 
 $ LXXIIIa ,LXXIIIb dj and gj variously to jj dzː or d͡ʒː , he's indecisvie... 
 $ gj dj etc go to d͡ʒ -- EXECUTIVE DECISION -- dj > zz cases (e.g. mæzzə) seem to be likely Tuscan loans. 
@@ -102,15 +105,15 @@ $ MANUAL FIX RULE A1 -- ˈɪ appears to tense back to ˈi before peripheral non-
 	$ This also resembles the Classical Proto-Albanian i-tensing rule...
 [+hi,+front,+syl] > [+tense] / __ ([+cor]) [-syl,blab,-bhi,-strid]
 
+$ MANUAL FIX A6 -- tʲː > t͡sː here or some point after 
+tʲː > t͡sː
+
 $ ICIIr.i -- rj > rʲ, returning to rj later, except in arju 
 r j > rʲ 
 
-$ LVXXb nj to ɲ
+$ LVXXb nj to ɲ; shortened later. 
 $ combine with LXIVa -- lj to ʎʎ; have inferred from other Italo-Romance and etc.
-
-n j > ɲ 
-
-l j > ʎː 
+[+cor,+son] j > [-cor,-ant,+hi,+front,+long] ∅
 
 $ ICIIIa sj > ʃ; not lengthened. 
 s j > ʃ 
@@ -334,8 +337,9 @@ $ ICIa : -cj- , now -t͡ʃ- , goes > -t͡sj-
 $t͡ʃ > t͡s / @ __ j
 	$exec decision -- FIX -- only before o; applies also to t͡ʃː 
 		$combining mwith ICIc ctj to t͡sːj in ktjōne (now ttj) 
-		$ affected : fractiōnem > frazzjone , condicionem > kundizjone
+		$ affected : fractiōnem t͡ʃː > frazzjone , condicionem t͡ʃ > kundizjone
 		$ not : aciarium , falciare
+			$ sharing fate of secondary tʲː in partitsjone, kunditsjone, avaritsja 
 t͡ʃː > t͡s j / __ [+round]
 
 $ ICIɲ -- mbi, ngj , ndj ,ndzj > ɲ. Counterfed by LXId

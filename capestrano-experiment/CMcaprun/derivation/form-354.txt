@@ -1,15 +1,17 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 354:
-#kˈalkem# >>> *#kˈavət͡ʃə# ( GOLD : #kˈavət͡ʃə#) :
-k ˈa l k e m 
-Proto-Romance stage form : *#kˈalkem#
-*#kˈalkɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈalˠkɛm# | 18 : l > lˠ / __ k [-cons]
-*#kˈalˠt͡ʃɛm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#kˈalˠt͡ʃɛ# | 32 : [+cons] > ∅ / __ #
-*#kˈalˠət͡ʃɛ# | 37 : ∅ > ə / lˠ __
-*#kˈawət͡ʃɛ# | 38 : lˠ > w / __ ( ə ) t͡ʃ
-*#kˈavət͡ʃɛ# | 43 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#kˈavət͡ʃe# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈavət͡ʃe#
-*#kˈavət͡ʃə# | 85 : [-stres,-lo] > ə 
-Final form : *#kˈavət͡ʃə#
+#kalkˈaːneum# >>> *#kaləkˈaɲə# ( GOLD : #kaləkˈaɲə#) :
+k a l k ˈaː n e u m 
+*#kalkˈaːnjum# | 10 : e > j / __ [+back]
+Proto-Romance stage form : *#kalkˈaːnjum#
+*#kalkˈaːnjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kalkˈanjʊm# | 13 : [+syl] > [-long,-splng] 
+*#kalˠkˈanjʊm# | 18 : l > lˠ / __ k [-cons]
+*#kalˠkˈaɲːʊm# | 29 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#kalˠkˈaɲːʊ# | 33 : [+cons] > ∅ / __ #
+*#kalˠəkˈaɲːʊ# | 38 : ∅ > ə / lˠ __
+*#kaləkˈaɲːʊ# | 40 : lˠ > l 
+*#kaləkˈaɲːu# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kaləkˈaɲːu#
+*#kaləkˈaɲːə# | 86 : [-stres,-lo] > ə 
+*#kaləkˈaɲə# | 101 : ɲː > ɲ 
+Final form : *#kaləkˈaɲə#

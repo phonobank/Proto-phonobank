@@ -5,11 +5,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˈaːljum#
 *#ˈaːljʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈaljʊm# | 13 : [+syl] > [-long,-splng] 
-*#ˈaʎːʊm# | 28 : l j > ʎː 
-*#ˈaʎːʊ# | 32 : [+cons] > ∅ / __ #
-*#ˈaʎːu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈaʎːʊm# | 29 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#ˈaʎːʊ# | 33 : [+cons] > ∅ / __ #
+*#ˈaʎːu# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˈaʎːu#
-*#ˈaʎːˌu# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈaʎːə# | 91 : [-prim,-lo] > ə / __ #
-*#ˈajːə# | 99 : {ʎ;ʎː} > {j;jː} 
+*#ˈaʎːˌu# | 84 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈaʎːə# | 92 : [-prim,-lo] > ə / __ #
+*#ˈajːə# | 100 : {ʎ;ʎː} > {j;jː} 
 Final form : *#ˈajːə#

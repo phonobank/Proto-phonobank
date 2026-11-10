@@ -4,15 +4,15 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌaɡnˈellum#
 *#ˌaɡnˈɛllʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌajnˈɛllʊm# | 15 : [+back,+cons] > j / __ n
-*#ˌajnˈɛllʊ# | 32 : [+cons] > ∅ / __ #
-*#ˌajnˈɛllu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌaɲːˈɛllu# | 49 : j n > ɲː / __ [+front,-lo,+syl]
-*#ˌaɲːˈellu# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌaɲːˈelːu# | 60 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ˌajnˈɛllʊ# | 33 : [+cons] > ∅ / __ #
+*#ˌajnˈɛllu# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌaɲːˈɛllu# | 50 : j n > ɲː / __ [+front,-lo,+syl]
+*#ˌaɲːˈellu# | 54 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌaɲːˈelːu# | 61 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#ˌaɲːˈelːu#
-*#ˌaɲːˈeʎːu# | 74 : lː > ʎː / __ [+hi]
-*#ˌaɲːˈeʎːə# | 85 : [-stres,-lo] > ə 
-*#ˌaɲːˈejːə# | 99 : {ʎ;ʎː} > {j;jː} 
-*#ˌaɲˈejːə# | 100 : ɲː > ɲ 
-*#aɲˈejːə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌaɲːˈeʎːu# | 75 : lː > ʎː / __ [+hi]
+*#ˌaɲːˈeʎːə# | 86 : [-stres,-lo] > ə 
+*#ˌaɲːˈejːə# | 100 : {ʎ;ʎː} > {j;jː} 
+*#ˌaɲˈejːə# | 101 : ɲː > ɲ 
+*#aɲˈejːə# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#aɲˈejːə#

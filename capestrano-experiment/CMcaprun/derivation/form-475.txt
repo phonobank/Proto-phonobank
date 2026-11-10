@@ -1,13 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 475:
-#wˈolwita# >>> *#ɡˈɔlvəta# ( GOLD : #vˈota#) :
-w ˈo l w i t a 
-Proto-Romance stage form : *#wˈolwita#
-*#wˈɔlwɪta# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɔlvɪta# | 43 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈɞˤlvɪta# | 50 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#vˈɞˤlveta# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#vˈɔlveta# | 54 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#vˈɔlveta#
-*#vˈɔlvəta# | 85 : [-stres,-lo] > ə 
-*#ɡˈɔlvəta# | 101 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
-Final form : *#ɡˈɔlvəta#
+#wˈoːkem# >>> *#ɡˈot͡ʃə# ( GOLD : #vˈot͡ʃə#) :
+w ˈoː k e m 
+Proto-Romance stage form : *#wˈoːkem#
+*#wˈoːkɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈokɛm# | 13 : [+syl] > [-long,-splng] 
+*#wˈot͡ʃɛm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#wˈot͡ʃɛ# | 33 : [+cons] > ∅ / __ #
+*#vˈot͡ʃɛ# | 44 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈot͡ʃe# | 54 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˈot͡ʃe#
+*#vˈot͡ʃə# | 86 : [-stres,-lo] > ə 
+*#ɡˈot͡ʃə# | 102 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+Final form : *#ɡˈot͡ʃə#
