@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 316:
-#hˈerbam# >>> *#ˈɛɾva# ( GOLD : #jˈæɾva#) :
+#hˈerbam# >>> *#ˈæɾva# ( GOLD : #jˈæɾva#) :
 h ˈe r b a m 
 *#ˈerbam# | 4 : h > ∅ 
 Proto-Romance stage form : *#ˈerbam#
 *#ˈɛrbam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈɛrba# | 16 : [+cons] > ∅ / __ #
 *#ˈærba# | 37 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˈɛrba# | 41 : [+lo,-tense] > [-lo] 
-*#ˈɛrva# | 52 : b > v / @ __
-Proto-South-Italo-Romance stage form : *#ˈɛrva#
-*#ˈɛɾva# | 82 : r > ɾ 
-Final form : *#ˈɛɾva#
+*#ˈærva# | 52 : b > v / @ __
+Proto-South-Italo-Romance stage form : *#ˈærva#
+*#ˈærvˌa# | 70 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈæɾvˌa# | 82 : r > ɾ 
+*#ˈæɾva# | 88 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈæɾva#

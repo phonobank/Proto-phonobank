@@ -1,13 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 11:
-#tˈeneram# >>> *#tˈɛnəɾa# ( GOLD : #tˈenːəɾa#) :
+#tˈeneram# >>> *#tˈænəɾa# ( GOLD : #tˈenːəɾa#) :
 t ˈe n e r a m 
 Proto-Romance stage form : *#tˈeneram#
 *#tˈɛnɛram# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#tˈɛnɛra# | 16 : [+cons] > ∅ / __ #
 *#tˈænɛra# | 37 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 *#tˈænera# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#tˈɛnera# | 41 : [+lo,-tense] > [-lo] 
-Proto-South-Italo-Romance stage form : *#tˈɛnera#
-*#tˈɛnəra# | 72 : [-stres,-lo] > ə 
-*#tˈɛnəɾa# | 82 : r > ɾ 
-Final form : *#tˈɛnəɾa#
+Proto-South-Italo-Romance stage form : *#tˈænera#
+*#tˈænəra# | 72 : [-stres,-lo] > ə 
+*#tˈænəɾa# | 82 : r > ɾ 
+Final form : *#tˈænəɾa#

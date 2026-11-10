@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 231:
-#ˈedera# >>> *#ˈɛdəɾa# ( GOLD : #ˈedeɾa#) :
+#ˈedera# >>> *#ˈædəɾa# ( GOLD : #ˈedeɾa#) :
 ˈe d e r a 
 Proto-Romance stage form : *#ˈedera#
 *#ˈɛdɛra# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈædɛra# | 37 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 *#ˈædera# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˈɛdera# | 41 : [+lo,-tense] > [-lo] 
-Proto-South-Italo-Romance stage form : *#ˈɛdera#
-*#ˈɛdəra# | 72 : [-stres,-lo] > ə 
-*#ˈɛdəɾa# | 82 : r > ɾ 
-Final form : *#ˈɛdəɾa#
+Proto-South-Italo-Romance stage form : *#ˈædera#
+*#ˈædəra# | 72 : [-stres,-lo] > ə 
+*#ˈædəɾa# | 82 : r > ɾ 
+Final form : *#ˈædəɾa#

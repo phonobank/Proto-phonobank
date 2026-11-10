@@ -1,14 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 131:
-#nˈebulam# >>> *#nˈɛbːja# ( GOLD : #nˈebːja#) :
+#nˈebulam# >>> *#nˈæbːja# ( GOLD : #nˈebːja#) :
 n ˈe b u l a m 
 Proto-Romance stage form : *#nˈebulam#
 *#nˈɛbʊlam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#nˈɛbʊla# | 16 : [+cons] > ∅ / __ #
 *#nˈɛbla# | 28 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
 *#nˈæbla# | 37 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#nˈɛbla# | 41 : [+lo,-tense] > [-lo] 
-*#nˈɛbʎa# | 49 : l > ʎ / [-son,-cor] __
-*#nˈɛbːʎa# | 51 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
-Proto-South-Italo-Romance stage form : *#nˈɛbːʎa#
-*#nˈɛbːja# | 85 : {ʎ;ʎː} > {j;jː} 
-Final form : *#nˈɛbːja#
+*#nˈæbʎa# | 49 : l > ʎ / [-son,-cor] __
+*#nˈæbːʎa# | 51 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+Proto-South-Italo-Romance stage form : *#nˈæbːʎa#
+*#nˈæbːja# | 85 : {ʎ;ʎː} > {j;jː} 
+Final form : *#nˈæbːja#
