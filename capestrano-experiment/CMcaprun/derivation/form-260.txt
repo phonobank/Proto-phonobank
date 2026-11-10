@@ -5,10 +5,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˈaŋɡulum#
 *#ˈaŋɡʊlʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈaŋɡʊlʊ# | 34 : [+cons] > ∅ / __ #
-*#ˈaŋɡwʊlʊ# | 43 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
-*#ˈaŋɡwulu# | 50 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈaŋɡwʊlʊ# | 44 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#ˈaŋɡwulu# | 51 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˈaŋɡwulu#
-*#ˈaŋɡwˌulu# | 87 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈaŋɡwˌulə# | 88 : [-stres,-lo] > ə 
-*#ˈaŋɡwulə# | 106 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˈaŋɡwˌulu# | 88 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈaŋɡwˌulə# | 89 : [-stres,-lo] > ə 
+*#ˈaŋɡwulə# | 107 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#ˈaŋɡwulə#

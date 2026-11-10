@@ -178,11 +178,15 @@ $ LXXXe -- FIX, manual inferred -- wək to wk after stressed vowel -- dulcem fal
 	$Bleeds LXXVIIa. 
 ə > ∅ / [-blab] [+prim,blab] w __ k
 
+$ MANUAL FIX A9 -- kʊl, kr > gl, gr in particular conditions
+	$ picrum macrum cuniculus butticulus
+{k ʊ l;k r} > {ɡ l;ɡ r} / [+cons,-cor] ( [+hi,+round] ( [+cor] )* ) [+syl,-round] __
+
 $ LXIa final kulV- gulV (now with ʊ per LIb/ LIIb/ LVIIIa/ LVIa)> kwəlV, gwəlV; w insertion, counterfed by LIXf reduction to ə 
 $FONTECCHIO VERSION: ∅ > w / [-cont,+back] __ ʊ [+lat] [+syl] #
 
-	$ MANUAL FIX: appears to happen before ɔ too -- ficora > fikwəra . Just treating it as happening before non-tonic round vowels rather than just ʊ
-∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] # 
+	$ MANUAL FIX: appears to happen before ɔr too -- ficora > fikwəra . Just treating it as happening before non-tonic round vowels rather than just ʊ
+∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] # 
 		$needs to be in k/g o/u l V- finals -- not in columna > kolonːa. etc. 
 
 
@@ -194,7 +198,7 @@ $ LXXVIIa medial w to v, if prevocalic
 w > v / # ((@)* [+son]) __ [-cons]
 
 	$ MANUAL FIX w lost in gw if there's w or u in prior syllable -- 
-		$ungula , coagula, rukəla, karrukəla, mokkəla 
+		$ungula , coagula, rukəla, karrukəla, mokkəla < mʊkkʊla
 	$ TODO WRITE ABOUT !!
 		$ bled by LXXVIIa -- viduva 
 w > ∅ / [+hi,+round] ([-cons]) ([+cons])+ __
@@ -230,13 +234,12 @@ $ TODO HERE remaining secondary clusters to account for per Fontecchio
 	$ mat(ū)tīnum 
 	$ sōricem; spiːritu ; comitem
 		$solidum
-	$ lenticula, auricula, cunīculum, vetulum, vetula  > veculum 
+	$ lenticula, auricula, cunīculum,  
 		$ not craticula , calcula , saeculum, picculum , morriculum 
 	$ iuniperum ßß iunipelum
 	$ in(ˌe)briacōne, in(i)bernum -- feeds nb > mb > mm 
-	$ alawdula
 	$ v(e)recundia
-	$ irund(i)nella 
+	$ hirund(i)nella 
 		$ maybe hit: leporem, laridum , cerebellum, or(o)logium 
 		$ anima : alma
 		$ alter(um) : atrə ; alterī > etrə
