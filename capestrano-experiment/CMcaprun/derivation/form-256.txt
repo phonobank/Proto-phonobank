@@ -1,15 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 256:
-#ˌanimˈaːlem# >>> *#animːˈalə# ( GOLD : #alimˈanə#) :
+#ˌanimˈaːlem# >>> *#animˈalə# ( GOLD : #alimˈanə#) :
 ˌa n i m ˈaː l e m 
 Proto-Romance stage form : *#ˌanimˈaːlem#
 *#ˌanɪmˈaːlɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌaniːmˈaːlɛm# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
 *#ˌanimˈalɛm# | 27 : [+syl] > [-long,-splng] 
 *#ˌanimˈalɛ# | 34 : [+cons] > ∅ / __ #
-*#ˌanimːˈalɛ# | 39 : m > mː / @ __ [+syl] [+cons] [+syl] #
-*#ˌanimːˈale# | 60 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌanimːˈale#
-*#ˌanˌimːˈale# | 91 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌanˌimːˈalə# | 92 : [-stres,-lo] > ə 
-*#animːˈalə# | 110 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#animːˈalə#
+*#ˌanimˈale# | 60 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌanimˈale#
+*#ˌanˌimˈale# | 91 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌanˌimˈalə# | 92 : [-stres,-lo] > ə 
+*#animˈalə# | 110 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#animˈalə#

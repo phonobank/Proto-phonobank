@@ -1,13 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 305:
-#ˌamˈaːtum# >>> *#amːˈatə# ( GOLD : #amˈatə#) :
+#ˌamˈaːtum# >>> *#amˈatə# ( GOLD : #amˈatə#) :
 ˌa m ˈaː t u m 
 Proto-Romance stage form : *#ˌamˈaːtum#
 *#ˌamˈaːtʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌamˈatʊm# | 27 : [+syl] > [-long,-splng] 
 *#ˌamˈatʊ# | 34 : [+cons] > ∅ / __ #
-*#ˌamːˈatʊ# | 39 : m > mː / @ __ [+syl] [+cons] [+syl] #
-*#ˌamːˈatu# | 53 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌamːˈatu#
-*#ˌamːˈatə# | 92 : [-stres,-lo] > ə 
-*#amːˈatə# | 110 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#amːˈatə#
+*#ˌamˈatu# | 53 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌamˈatu#
+*#ˌamˈatə# | 92 : [-stres,-lo] > ə 
+*#amˈatə# | 110 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#amˈatə#
