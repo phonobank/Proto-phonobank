@@ -16,8 +16,6 @@ h > ∅
 $ LXVb gliding of i and u in hiatus 
 [+hi,-prim] > [-syl] / __ [+syl]
 
-
-
 = Proto-Romance
 
 $ LIb, LIIb, LVIIIa, LVIa etc non-low vowels have quantity distinction become tenseness quality distinction, temporarily. Like Albanian, Capestranese has conditions where ɪ and ʊ revert to i and u, but eː and oː do not raise to i and u, largely involving posterior palatality.
@@ -51,12 +49,21 @@ $ LXXIXc, LXXXIIIa, LXXXV Italo-Romance kt, bt, pt to tt and ps, ks to ss
 		${b s;b t} > {s s;t t}
 [-cont,-cor] [+cor,-voi] > ∅ [+long]
 
+$ ICIVb final s to j in monosyllables tentatively. Bleeds ICIVa
+s > j / # ([-syl])* [+syl] ([-syl]) __ #
+
+$ ICIVa elimination of all word final consonantals. Bled by ICIVb
+[+cons] > ∅ / __ #
+[+cons] > ∅ / __ #
+
 $ LXXIXe semi-bandaid -- degeminate geminates in clusters, except when second element is a sonorant [e.g. allowing bbr etc.]
 	$ bst > st not sst etc; mpt , nct > nt , later to nd ,etc.
 [+cons] [-son] > [-long] [-long] 
 
-$ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidism. Counterbled by ɛ metaphony LIIc, and by reduction to schwa. Attributed to 2nd century on page.. something.
+$ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidism. Counterbled by ɛ metaphony LIIc, and by reduction to schwa. Attributed to 2nd century on page 72. Affrication of g attributed to be as early as 1st century on page 74. 
 {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː,d͡ʒː} / __ [+front,-lo,-cons] 
+		$ integrate ICIb and ICIc ktj phenomena
+k t > t͡ʃː / __ j 
 
 $ LXXXId lt, lk to rt, rk if there's lateral later in word. Bleeds LXXXf. FIX -- this also happens to lp -- scalpellum > ʃkarpejjə. Just assume all stops at this point.
 l > r / __ [-cont] (@)* [+lat] 
@@ -76,17 +83,64 @@ lˠ > l
 $ LXXXe -- FIX, manual inferred -- wək to wk after stressed vowel -- dulcem falcem -- if there is labiality on it or beforehand. Bleeds LXXVIIa. 
 ə > ∅ / [-blab] [+prim,blab] w __ k
 
+$ LXIa kulV- gulV > kwəlV, gwəlV; w insertion, counterfed by LIXf reduction to ə 
+∅ > w / [-cont,+back] __ u [+lat] [+syl] #
+
+$ LXXXVIIa bVl > bl in unknown conditions, feeding LVXIXb and LXIXd to produce bbj (fibbja, nebbja). Attributed to "roughly between the second and fourth centuries CE". MANUAL INFERENCE, FIX --it's after (non-low) front vowels $ NOT: nūbila , tabula, turbulare
+	$ FIX -- MANUAL INFERENCE -- this context could also apply for frīgidus, > friddu. Broadened. TODO may need to debug. Bled by LXIa for rēgula > regwəla.
+		$ not before voiceless: dēbitum > debbətə
+		$ may be affected: digitum to ditə, digitōnem > ditonə
+[-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+
 $ LXXVIIa medial w to v, if prevocalic
 	$ subsumed -- LXIXa initial w to v
 		$w > v / # __
 w > v / __ [-cons]
+
+$ TODO HERE remaining secondary clusters to account for per Fontecchio
+	$ LXXXVIIc
+
+	$ būksida
+	$ off(ˌe)rˈiː > uffrí; aperˈī to apri ; suff(ˌe)rˈī > səffri, opera > opra 
+	$ cubitum : vutə, volvita : vota
+	$ coagulum > kwajjə; ungula; spīnula
+			$ alaudula 
+	$ camera; domina; dóm(i)nula 
+		$ not: hominem, femina 
+	$ computare; manducare; vanitāre; meritāre 
+		$ sanctufranciscum
+		$ not : dominica, septimana, vomitā
+	$ comparatum, comparˈā 	$ parab(o)lare
+	$ par(a)blare
+	$ mat(ū)tīnum 
+	$ sōricem; spiːritu ; comitem
+		$solidum
+	$ lenticula, auricula, cunīculum, vetulum, vetula  > veculum 
+		$ not craticula , calcula , saeculum, picculum , morriculum 
+	$ iuniperum ßß iunipelum
+	$ in(ˌe)briacōne, in(i)bernum -- feeds nb > mb > mm 
+	$ alawdula
+	$ v(e)recundia
+	$ irund(i)nella 
+		$ maybe hit: leporem, laridum , cerebellum, or(o)logium 
+		$ anima : alma
+		$ alter(um) : atrə ; alterī > etrə
+	
+			$ misc exclusion : sedecim , suffocā > səffəkˈa, littera, lacrima, lucertula, ra̍sica, inimīcu, ignoranta, edera, episcopum, atlanticu, adriˈaticu, animalem, arborem, africa, cititas, cimicem, carricā, carcerem > kart͡ʃələ, carbonarium, cap(i)sterium , capti(a)torem, cond(i)cionem, cons(o)brīnum, cons(ū)tūra, generum, quindecim , quinquecentum, viperam , umida , organum, professiōnem (? may be loan), piscātōrem, persica, pec(o)rārium, part(ī)tionem , pag(i)na, populī, basil(i̠)cam , fatiga , fiasciatura, medicum, maxillāre, māchina, māchinˈā, morsicā, mulinārium
+
+					$ not before high ū >ju : erūcula , guttula, asinum 
+		$ not before i ? ː populī to popələ
+		$ not medaited by consonant : calcula 	
+		$ not after voiced : tabula nūbila incūdula > nkudəla etc
+			$ and-or not after front : rēgula
+		$ not after non-low front: tepidum , saeculum, picculum , morriculum 
+		$ not before r , or not to e : socerum, socera, 
 
 $ LVIIIa countertonic ɪ and ɛ to e
 [+stres,-prim,+front,-tense] > ˌe 
 
 $ LVIIIb countertonic ɔ and ʊ tense to o and u
 [+stres,-prim,+round] > [+tense]
-
 
 $ LIc (stressed?) ɪ raises back to i "when followed by a syllable containing yod or a palatal". Not shared with West Romance but shared with Italo-Romance (and Albano-Latin?): consilium > Ital consiglio, Sic cunzigghiu, Alb këshill, vs. Venetan conséjo, Sp consejo, French conseil, Friul consei, Cat consell. ; cilium > ital ciglio, Sic cicgghiu, (Pied sign, Rom zida, French cil) vs Romansch tschegl, Venet cegia, Emilian zejja, Port celha, Sp cejo etc. ; leenticula > Ital lenticchia vs Sp lenteja, etc. French has it sometimes before ʎ separately. But Capestrano doesn't have it in auriculam > rekkja, or piscem > peʃʃe, or vicncere > vend͡ʒe (is this a french loan? from vindicare?) 
 	$ fed by iotation and/or yod coalescence-- avaritia, consiliu, ciliu
@@ -123,6 +177,18 @@ $ LVIId and LId ɪ and ʊ, unless raised, and ɛ and ɔ unless metathesized, pas
 $ we're working with ɔ not ɒ-tense -- BANDAID 
 [+lo,-tense] > [-lo]
 
+$ LXXXVIIb -- further deletions -- FIX; MANUAL INFERENCE -- unstressed u/ʊ lost (per LVIIIb, it's u) in á,ɔ́,ó (not uǃ) C̥* __ l a,o,u. 
+		$ bled by LId 
+	$ examples -- macula : makkja; masculum; assula; spatula; copula, genuculum > jənˈokːjə, oculum, peduculum > pədokːjə 
+		$ not before high ū >ju : erūcula , guttula, asinum 
+		$ not before i ? ː populī to popələ
+		$ not medaited by consonant : calcula 	
+		$ not after voiced : tabula nūbila incūdula > nkudəla etc
+			$ and-or not after front : rēgula
+		$ not after non-low front: tepidum , saeculum, picculum , morriculum 
+		$ not before r , or not to e : socerum, socera, 
+u > ∅ / [+stres,alo,-around] ([-voi])+ __ l [-stres,ælo,-æround]
+
 $ XXXIa nd to nn, argued to be due to Oscan influence. 
 $d > n / n __ 
 	$ LVIIb -- this applies to mp to mm too. 
@@ -154,14 +220,32 @@ $ LXXXVa -- bl to bbl in obliga, but this is an isolated case, exec decis to not
 $ LXIVa -- lj to ʎʎ; have inferred from other Italo-Romance and etc.
 l j > ʎː 
 
-$ LXIXd bj to bbj and LXXIXa br and bl to bbr and bbl Fed by LVXIXb
+$ LXIXd bj to bbj and LXXIXa br and bl to bbr and bbl Fed by LVXIXb. Bleeds LXXc
 b > bː / __ ̪[rcor,-rfront,+son,-nas,-syl] 
 
-$ LXXc medial b to v. TODO will need to debug. 
-b > v
+$ LXXc medial b to v. TODO will need to debug. Merger attributed to begin in midst of "confusion" in third century CE> 
+b > v / @ __ 
 
 $LXXb sce sci to ʃ. Fed by LXIIc.
 s t͡ʃ > ʃ 
+
+$ICIb and ICIc -- ttj ; ctj to t͡ʃːj
+tː > t͡ʃː / __ j
+
+$ ICIa : -cj- , now -t͡ʃj, goes > -t͡sj-
+$t͡ʃ > t͡s / @ __ j
+	$exec decision -- FIX -- only before o
+		$combining mwith ICIc ctj to t͡sːj in ktjōne (now ttj) 
+		$ affected : fractiōnem > frazzjone , condicionem > kundizjone
+		$ not : aciarium , falciare
+[+delrel,-voi] > [+ant,-distr,-front,-hi,-round] / __ j [+round]
+
+$ ICIɲ -- mbi, ngj , ndj ,ndzj > ɲ. Counterfed by LXId
+[+nas,-lab] [-cont,+voi] j > ɲ
+
+$ ICIʎ lɲ > ɲ 
+l > ∅ / __ ɲ
+
 
 $LXXVa gemination of m before in proparoxytones with another nasal involved -- hominem numerum, inimicum, femina
 $m > mː / [+nas] [+syl] __ [+syl] [+cons] [+syl] #
@@ -215,8 +299,6 @@ $ LIXe ˌa ˌi ˌu retained after initial a. Bleeds LIXf
 $ LXa non-tonic i retained before syllable with yod in onset. partizjone, allivjá. Bleeds LIXf
 i > ˌi / __ ([-syl])* j
 
-$ LXIa kulV- gulV > kwəlV, gwəlV; w insertion, counterfed by LIXf reduction to ə 
-∅ > w / [-cont,+back] __ u [+lat] [+syl] #
 
 $ LIXf -- all atonic vowels to ə. Includes  unstressed finals LXb
 [-stres] > ə
