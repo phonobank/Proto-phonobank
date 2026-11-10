@@ -3,14 +3,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 k ˌoː n f ˈiː n e m 
 *#kˌoːmfˈiːnem# | 0 : n > m / __ [+lab,+cons]
 Proto-Romance stage form : *#kˌoːmfˈiːnem#
-*#kˌoːmfˈiːnɛm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌomfˈinɛm# | 10 : [+syl] > [-long,-splng] 
-*#kˌomfˈinɛ# | 19 : [+cons] > ∅ / __ #
-*#kˌomfˈine# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌoːmfˈiːnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌomfˈinɛm# | 12 : [+syl] > [-long,-splng] 
+*#kˌomfˈinɛ# | 21 : [+cons] > ∅ / __ #
+*#kˌomfˈine# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#kˌomfˈine#
-*#kˌumfˈine# | 71 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌumfˈinə# | 75 : [-stres,-lo] > ə 
-*#kˌumb͡vˈinə# | 78 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kˌumbˈinə# | 79 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
-*#kumbˈinə# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
+*#kˌumfˈine# | 73 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌumfˈinə# | 77 : [-stres,-lo] > ə 
+*#kˌumb͡vˈinə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kˌumbˈinə# | 81 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#kumbˈinə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#kumbˈinə#

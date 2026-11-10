@@ -2,12 +2,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #kˌampˈaːnem# >>> *#kambˈanə# ( GOLD : #kambˈanə#) :
 k ˌa m p ˈaː n e m 
 Proto-Romance stage form : *#kˌampˈaːnem#
-*#kˌampˈaːnɛm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌampˈanɛm# | 10 : [+syl] > [-long,-splng] 
-*#kˌampˈanɛ# | 19 : [+cons] > ∅ / __ #
-*#kˌampˈane# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌampˈaːnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌampˈanɛm# | 12 : [+syl] > [-long,-splng] 
+*#kˌampˈanɛ# | 21 : [+cons] > ∅ / __ #
+*#kˌampˈane# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#kˌampˈane#
-*#kˌampˈanə# | 75 : [-stres,-lo] > ə 
-*#kˌambˈanə# | 78 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kambˈanə# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
+*#kˌampˈanə# | 77 : [-stres,-lo] > ə 
+*#kˌambˈanə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kambˈanə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#kambˈanə#

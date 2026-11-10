@@ -1,9 +1,8 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 459:
-#wˈiːta# >>> *#ɡˈita# ( GOLD : #vˈiːta#) :
+#wˈiːta# >>> *#vˈita# ( GOLD : #vˈiːta#) :
 w ˈiː t a 
 Proto-Romance stage form : *#wˈiːta#
-*#wˈita# | 10 : [+syl] > [-long,-splng] 
-*#vˈita# | 32 : w > v / __ [-cons]
+*#wˈita# | 12 : [+syl] > [-long,-splng] 
+*#vˈita# | 34 : w > v / __ [-cons]
 Proto-South-Italo-Romance stage form : *#vˈita#
-*#ɡˈita# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-Final form : *#ɡˈita#
+Final form : *#vˈita#

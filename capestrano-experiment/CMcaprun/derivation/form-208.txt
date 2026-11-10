@@ -1,13 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 208:
 #jˈuːnium# >>> *#jˈuɲə# ( GOLD : #d͡ʒˈuɲə#) :
 j ˈuː n i u m 
-*#jˈuːnjum# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#jˈuːnjum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#jˈuːnjum#
-*#jˈuːnjʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˈunjʊm# | 10 : [+syl] > [-long,-splng] 
-*#jˈunjʊ# | 19 : [+cons] > ∅ / __ #
-*#jˈunjo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#jˈuɲo# | 49 : n j > ɲ 
+*#jˈuːnjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˈunjʊm# | 12 : [+syl] > [-long,-splng] 
+*#jˈunjʊ# | 21 : [+cons] > ∅ / __ #
+*#jˈunjo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#jˈuɲo# | 51 : n j > ɲ 
 Proto-South-Italo-Romance stage form : *#jˈuɲo#
-*#jˈuɲə# | 75 : [-stres,-lo] > ə 
+*#jˈuɲə# | 77 : [-stres,-lo] > ə 
 Final form : *#jˈuɲə#

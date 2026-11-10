@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 483:
-#wˌolˈaː# >>> *#ɡəlˈa# ( GOLD : #vəlˈa#) :
+#wˌolˈaː# >>> *#vəlˈa# ( GOLD : #vəlˈa#) :
 w ˌo l ˈaː 
 Proto-Romance stage form : *#wˌolˈaː#
-*#wˌɔlˈaː# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɔlˈa# | 10 : [+syl] > [-long,-splng] 
-*#vˌɔlˈa# | 32 : w > v / __ [-cons]
-*#vˌolˈa# | 36 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#wˌɔlˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌɔlˈa# | 12 : [+syl] > [-long,-splng] 
+*#vˌɔlˈa# | 34 : w > v / __ [-cons]
+*#vˌolˈa# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˌolˈa#
-*#vəlˈa# | 88 : [-prim,-hi,-lo] > ə 
-*#ɡəlˈa# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-Final form : *#ɡəlˈa#
+*#vəlˈa# | 90 : [-prim,-hi,-lo] > ə 
+Final form : *#vəlˈa#

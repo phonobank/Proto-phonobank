@@ -1,13 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 471:
-#wˈentum# >>> *#ɡˈendə# ( GOLD : #vˈendə#) :
+#wˈentum# >>> *#vˈendə# ( GOLD : #vˈendə#) :
 w ˈe n t u m 
 Proto-Romance stage form : *#wˈentum#
-*#wˈɛntʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈɛntʊ# | 19 : [+cons] > ∅ / __ #
-*#vˈɛntʊ# | 32 : w > v / __ [-cons]
-*#vˈento# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˈɛntʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈɛntʊ# | 21 : [+cons] > ∅ / __ #
+*#vˈɛntʊ# | 34 : w > v / __ [-cons]
+*#vˈento# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˈento#
-*#vˈentə# | 75 : [-stres,-lo] > ə 
-*#vˈendə# | 78 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#ɡˈendə# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-Final form : *#ɡˈendə#
+*#vˈentə# | 77 : [-stres,-lo] > ə 
+*#vˈendə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#vˈendə#

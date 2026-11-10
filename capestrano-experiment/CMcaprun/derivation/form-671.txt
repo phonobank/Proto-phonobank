@@ -1,13 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 671:
 #mˌaːtˈeriam# >>> *#matˈæɾja# ( GOLD : #matˈæɾja#) :
 m ˌaː t ˈe r i a m 
-*#mˌaːtˈerjam# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#mˌaːtˈerjam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#mˌaːtˈerjam#
-*#mˌaːtˈɛrjam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌatˈɛrjam# | 10 : [+syl] > [-long,-splng] 
-*#mˌatˈɛrja# | 19 : [+cons] > ∅ / __ #
-*#mˌatˈærja# | 40 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#mˌaːtˈɛrjam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌatˈɛrjam# | 12 : [+syl] > [-long,-splng] 
+*#mˌatˈɛrja# | 21 : [+cons] > ∅ / __ #
+*#mˌatˈærja# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 Proto-South-Italo-Romance stage form : *#mˌatˈærja#
-*#mˌatˈæɾja# | 86 : r > ɾ 
-*#matˈæɾja# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
+*#mˌatˈæɾja# | 88 : r > ɾ 
+*#matˈæɾja# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#matˈæɾja#

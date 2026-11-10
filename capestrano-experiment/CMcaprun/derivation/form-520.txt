@@ -1,13 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 520:
 #prˈoprium# >>> *#pɾˈopːɾjə# ( GOLD : #pɾˈɔpjə#) :
 p r ˈo p r i u m 
-*#prˈoprjum# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#prˈoprjum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#prˈoprjum#
-*#prˈɔprjʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#prˈɔprjʊ# | 19 : [+cons] > ∅ / __ #
-*#prˈoprjo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#prˈopːrjo# | 50 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
+*#prˈɔprjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#prˈɔprjʊ# | 21 : [+cons] > ∅ / __ #
+*#prˈoprjo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#prˈopːrjo# | 52 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
 Proto-South-Italo-Romance stage form : *#prˈopːrjo#
-*#prˈopːrjə# | 75 : [-stres,-lo] > ə 
-*#pɾˈopːɾjə# | 86 : r > ɾ 
+*#prˈopːrjə# | 77 : [-stres,-lo] > ə 
+*#pɾˈopːɾjə# | 88 : r > ɾ 
 Final form : *#pɾˈopːɾjə#

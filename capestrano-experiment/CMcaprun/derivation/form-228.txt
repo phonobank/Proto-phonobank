@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 228:
-#iˌoːˈanneːs# >>> *#jəˈanːə# ( GOLD : #juwˈanə#) :
+#iˌoːˈanneːs# >>> *#jwːˈanːə# ( GOLD : #juwˈanə#) :
 i ˌoː ˈa n n eː s 
-*#jˌoːˈanneːs# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#jˌoːˈanneːs#
-*#jˌoˈannes# | 10 : [+syl] > [-long,-splng] 
-*#jˌoˈanne# | 19 : [+cons] > ∅ / __ #
-*#jˌoˈanːe# | 46 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#jˌoˈanːe#
-*#jˌoˈanːə# | 75 : [-stres,-lo] > ə 
-*#jəˈanːə# | 88 : [-prim,-hi,-lo] > ə 
-Final form : *#jəˈanːə#
+*#iˌuːˈanneːs# | 8 : [-prim,-lo] > [+hi] / __ [+lo]
+*#jwːˈanneːs# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#jwːˈanneːs#
+*#jwːˈannes# | 12 : [+syl] > [-long,-splng] 
+*#jwːˈanne# | 21 : [+cons] > ∅ / __ #
+*#jwːˈanːe# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#jwːˈanːe#
+*#jwːˈanːə# | 77 : [-stres,-lo] > ə 
+Final form : *#jwːˈanːə#

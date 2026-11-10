@@ -3,14 +3,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 ˌi n f ˈo s s a m 
 *#ˌimfˈossam# | 0 : n > m / __ [+lab,+cons]
 Proto-Romance stage form : *#ˌimfˈossam#
-*#ˌɪmfˈɔssam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪmfˈɔssa# | 19 : [+cons] > ∅ / __ #
-*#ˌemfˈɔssa# | 35 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌemfˈɞˤssa# | 40 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˌemfˈɔssa# | 44 : [+lo,-tense,+round] > [-lo] 
-*#ˌemfˈɔsːa# | 51 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ˌɪmfˈɔssam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪmfˈɔssa# | 21 : [+cons] > ∅ / __ #
+*#ˌemfˈɔssa# | 37 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌemfˈɞˤssa# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌemfˈɔssa# | 46 : [+lo,-tense,+round] > [-lo] 
+*#ˌemfˈɔsːa# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#ˌemfˈɔsːa#
-*#mfˈɔsːa# | 76 : [-prim,-lo] > ∅ / # __
-*#mb͡vˈɔsːa# | 78 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbˈɔsːa# | 79 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#mfˈɔsːa# | 78 : [-prim,-lo] > ∅ / # __
+*#mb͡vˈɔsːa# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbˈɔsːa# | 81 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
 Final form : *#mbˈɔsːa#

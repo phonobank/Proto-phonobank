@@ -1,14 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 272:
 #ˈaːlium# >>> *#ˈajːə# ( GOLD : #ˈajːə#) :
 ˈaː l i u m 
-*#ˈaːljum# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#ˈaːljum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˈaːljum#
-*#ˈaːljʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaljʊm# | 10 : [+syl] > [-long,-splng] 
-*#ˈaljʊ# | 19 : [+cons] > ∅ / __ #
-*#ˈaljo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˈaʎːo# | 53 : l j > ʎː 
+*#ˈaːljʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈaljʊm# | 12 : [+syl] > [-long,-splng] 
+*#ˈaljʊ# | 21 : [+cons] > ∅ / __ #
+*#ˈaljo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈaʎːo# | 55 : l j > ʎː 
 Proto-South-Italo-Romance stage form : *#ˈaʎːo#
-*#ˈaʎːə# | 75 : [-stres,-lo] > ə 
-*#ˈajːə# | 89 : {ʎ;ʎː} > {j;jː} 
+*#ˈaʎːə# | 77 : [-stres,-lo] > ə 
+*#ˈajːə# | 91 : {ʎ;ʎː} > {j;jː} 
 Final form : *#ˈajːə#

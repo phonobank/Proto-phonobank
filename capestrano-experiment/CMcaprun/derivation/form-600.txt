@@ -2,12 +2,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #bˈowem# >>> *#ɡˈovə# ( GOLD : #vˈovə#) :
 b ˈo w e m 
 Proto-Romance stage form : *#bˈowem#
-*#bˈɔwɛm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˈɔwɛ# | 19 : [+cons] > ∅ / __ #
-*#bˈɔvɛ# | 32 : w > v / __ [-cons]
-*#bˈove# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#bˈɔwɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˈɔwɛ# | 21 : [+cons] > ∅ / __ #
+*#bˈɔvɛ# | 34 : w > v / __ [-cons]
+*#bˈove# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#bˈove#
-*#bˈovə# | 75 : [-stres,-lo] > ə 
-*#vˈovə# | 83 : b > v / # __ [+prim,+round] [+cons] [+syl]
-*#ɡˈovə# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+*#bˈovə# | 77 : [-stres,-lo] > ə 
+*#vˈovə# | 85 : b > v / # __ [+prim,+round] [+cons] [+syl]
+*#ɡˈovə# | 92 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
 Final form : *#ɡˈovə#

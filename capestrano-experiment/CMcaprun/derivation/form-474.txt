@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 474:
-#wˈetula# >>> *#ɡˈætəla# ( GOLD : #vˈækːja#) :
+#wˈetula# >>> *#vˈætəla# ( GOLD : #vˈækːja#) :
 w ˈe t u l a 
 Proto-Romance stage form : *#wˈetula#
-*#wˈɛtʊla# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɛtʊla# | 32 : w > v / __ [-cons]
-*#vˈætʊla# | 40 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#vˈætola# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˈɛtʊla# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛtʊla# | 34 : w > v / __ [-cons]
+*#vˈætʊla# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#vˈætola# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˈætola#
-*#vˈætəla# | 75 : [-stres,-lo] > ə 
-*#ɡˈætəla# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-Final form : *#ɡˈætəla#
+*#vˈætəla# | 77 : [-stres,-lo] > ə 
+Final form : *#vˈætəla#

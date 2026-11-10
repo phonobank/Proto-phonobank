@@ -2,16 +2,16 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ˌoblˌiɡˈaː# >>> *#bːjəɡˈa# ( GOLD : #ubːliɡˈa#) :
 ˌo b l ˌi ɡ ˈaː 
 Proto-Romance stage form : *#ˌoblˌiɡˈaː#
-*#ˌɔblˌɪɡˈaː# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɔblˌɪɡˈa# | 10 : [+syl] > [-long,-splng] 
-*#ˌɔblˌeɡˈa# | 35 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌoblˌeɡˈa# | 36 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌobʎˌeɡˈa# | 52 : l > ʎ / [-son,-cor] __
-*#ˌobːʎˌeɡˈa# | 54 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+*#ˌɔblˌɪɡˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔblˌɪɡˈa# | 12 : [+syl] > [-long,-splng] 
+*#ˌɔblˌeɡˈa# | 37 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌoblˌeɡˈa# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌobʎˌeɡˈa# | 54 : l > ʎ / [-son,-cor] __
+*#ˌobːʎˌeɡˈa# | 56 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
 Proto-South-Italo-Romance stage form : *#ˌobːʎˌeɡˈa#
-*#ˌubːʎˌeɡˈa# | 71 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#ˌubːʎeɡˈa# | 72 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌubːʎəɡˈa# | 75 : [-stres,-lo] > ə 
-*#bːʎəɡˈa# | 76 : [-prim,-lo] > ∅ / # __
-*#bːjəɡˈa# | 89 : {ʎ;ʎː} > {j;jː} 
+*#ˌubːʎˌeɡˈa# | 73 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#ˌubːʎeɡˈa# | 74 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌubːʎəɡˈa# | 77 : [-stres,-lo] > ə 
+*#bːʎəɡˈa# | 78 : [-prim,-lo] > ∅ / # __
+*#bːjəɡˈa# | 91 : {ʎ;ʎː} > {j;jː} 
 Final form : *#bːjəɡˈa#

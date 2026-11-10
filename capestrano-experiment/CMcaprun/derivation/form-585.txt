@@ -1,10 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 585:
-#bˈalneum# >>> *#bˈalnəə# ( GOLD : #bːˈaɲə#) :
+#bˈalneum# >>> *#bˈaɲə# ( GOLD : #bːˈaɲə#) :
 b ˈa l n e u m 
-Proto-Romance stage form : *#bˈalneum#
-*#bˈalnɛʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˈalnɛʊ# | 19 : [+cons] > ∅ / __ #
-*#bˈalneo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#bˈalneo#
-*#bˈalnəə# | 75 : [-stres,-lo] > ə 
-Final form : *#bˈalnəə#
+*#bˈalnjum# | 9 : e > j / __ [+back]
+Proto-Romance stage form : *#bˈalnjum#
+*#bˈalnjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˈalnjʊ# | 21 : [+cons] > ∅ / __ #
+*#bˈalnjo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#bˈalɲo# | 51 : n j > ɲ 
+*#bˈaɲo# | 62 : l > ∅ / __ ɲ
+Proto-South-Italo-Romance stage form : *#bˈaɲo#
+*#bˈaɲə# | 77 : [-stres,-lo] > ə 
+Final form : *#bˈaɲə#

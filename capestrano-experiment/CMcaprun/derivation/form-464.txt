@@ -1,13 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 464:
-#wˈiːnum# >>> *#ɡˈinə# ( GOLD : #vˈinə#) :
+#wˈiːnum# >>> *#vˈinə# ( GOLD : #vˈinə#) :
 w ˈiː n u m 
 Proto-Romance stage form : *#wˈiːnum#
-*#wˈiːnʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈinʊm# | 10 : [+syl] > [-long,-splng] 
-*#wˈinʊ# | 19 : [+cons] > ∅ / __ #
-*#vˈinʊ# | 32 : w > v / __ [-cons]
-*#vˈino# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˈiːnʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈinʊm# | 12 : [+syl] > [-long,-splng] 
+*#wˈinʊ# | 21 : [+cons] > ∅ / __ #
+*#vˈinʊ# | 34 : w > v / __ [-cons]
+*#vˈino# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˈino#
-*#vˈinə# | 75 : [-stres,-lo] > ə 
-*#ɡˈinə# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-Final form : *#ɡˈinə#
+*#vˈinə# | 77 : [-stres,-lo] > ə 
+Final form : *#vˈinə#

@@ -2,13 +2,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #klˈaːwem# >>> *#kjˈavə# ( GOLD : #cˈave#) :
 k l ˈaː w e m 
 Proto-Romance stage form : *#klˈaːwem#
-*#klˈaːwɛm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#klˈawɛm# | 10 : [+syl] > [-long,-splng] 
-*#klˈawɛ# | 19 : [+cons] > ∅ / __ #
-*#klˈavɛ# | 32 : w > v / __ [-cons]
-*#klˈave# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kʎˈave# | 52 : l > ʎ / [-son,-cor] __
+*#klˈaːwɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#klˈawɛm# | 12 : [+syl] > [-long,-splng] 
+*#klˈawɛ# | 21 : [+cons] > ∅ / __ #
+*#klˈavɛ# | 34 : w > v / __ [-cons]
+*#klˈave# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kʎˈave# | 54 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#kʎˈave#
-*#kʎˈavə# | 75 : [-stres,-lo] > ə 
-*#kjˈavə# | 89 : {ʎ;ʎː} > {j;jː} 
+*#kʎˈavə# | 77 : [-stres,-lo] > ə 
+*#kjˈavə# | 91 : {ʎ;ʎː} > {j;jː} 
 Final form : *#kjˈavə#

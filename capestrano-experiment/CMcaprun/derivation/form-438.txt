@@ -2,12 +2,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ɡˈelum# >>> *#jˈelə# ( GOLD : #jˈelə#) :
 ɡ ˈe l u m 
 Proto-Romance stage form : *#ɡˈelum#
-*#ɡˈɛlʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˈɛlʊm# | 13 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˈɛlʊm# | 14 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-*#ɡˈɛlʊ# | 19 : [+cons] > ∅ / __ #
-*#jˈɛlʊ# | 22 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#jˈelo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ɡˈɛlʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˈɛlʊm# | 15 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˈɛlʊm# | 16 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+*#ɡˈɛlʊ# | 21 : [+cons] > ∅ / __ #
+*#jˈɛlʊ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#jˈelo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#jˈelo#
-*#jˈelə# | 75 : [-stres,-lo] > ə 
+*#jˈelə# | 77 : [-stres,-lo] > ə 
 Final form : *#jˈelə#

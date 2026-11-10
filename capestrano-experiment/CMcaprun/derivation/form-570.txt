@@ -2,11 +2,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #pˈuːlicem# >>> *#pˈuləcə# ( GOLD : #pˈovəd͡ʒə#) :
 p ˈuː l i c e m 
 Proto-Romance stage form : *#pˈuːlicem#
-*#pˈuːlɪcɛm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈulɪcɛm# | 10 : [+syl] > [-long,-splng] 
-*#pˈulɪcɛ# | 19 : [+cons] > ∅ / __ #
-*#pˈulicɛ# | 37 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
-*#pˈulice# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˈuːlɪcɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈulɪcɛm# | 12 : [+syl] > [-long,-splng] 
+*#pˈulɪcɛ# | 21 : [+cons] > ∅ / __ #
+*#pˈulicɛ# | 39 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
+*#pˈulice# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#pˈulice#
-*#pˈuləcə# | 75 : [-stres,-lo] > ə 
+*#pˈuləcə# | 77 : [-stres,-lo] > ə 
 Final form : *#pˈuləcə#

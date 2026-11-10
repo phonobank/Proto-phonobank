@@ -1,14 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 363:
 #kˌalkˈaːriam# >>> *#kaləkˈaɾja# ( GOLD : #kaləkˈaɾa#) :
 k ˌa l k ˈaː r i a m 
-*#kˌalkˈaːrjam# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#kˌalkˈaːrjam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#kˌalkˈaːrjam#
-*#kˌalkˈarjam# | 10 : [+syl] > [-long,-splng] 
-*#kˌalˠkˈarjam# | 15 : l > lˠ / __ k [-cons]
-*#kˌalˠkˈarja# | 19 : [+cons] > ∅ / __ #
-*#kˌalˠəkˈarja# | 26 : ∅ > ə / lˠ __
-*#kˌaləkˈarja# | 28 : lˠ > l 
+*#kˌalkˈarjam# | 12 : [+syl] > [-long,-splng] 
+*#kˌalˠkˈarjam# | 17 : l > lˠ / __ k [-cons]
+*#kˌalˠkˈarja# | 21 : [+cons] > ∅ / __ #
+*#kˌalˠəkˈarja# | 28 : ∅ > ə / lˠ __
+*#kˌaləkˈarja# | 30 : lˠ > l 
 Proto-South-Italo-Romance stage form : *#kˌaləkˈarja#
-*#kˌaləkˈaɾja# | 86 : r > ɾ 
-*#kaləkˈaɾja# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
+*#kˌaləkˈaɾja# | 88 : r > ɾ 
+*#kaləkˈaɾja# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#kaləkˈaɾja#

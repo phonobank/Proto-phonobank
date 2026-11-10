@@ -21,6 +21,9 @@ $ shared with French and Albano-Romance it seems éolu > eólu etc.
 [+prim,+front] o > [-stres] ˈo / __ l [-stres] 
 
 $ LXVb gliding of i and u in hiatus 
+	$ FIX, MANUAL -- gliding of ea eo eu and oa too 
+[-prim,-lo] > [+hi] / __ [+lo]
+e > j / __ [+back]
 [+hi,-prim] > [-syl] / __ [+syl]
 
 = Proto-Romance
@@ -365,8 +368,10 @@ $ˈɛ > ˈæ
 
 $ XVIIc Capestranese has onset ŋ but unclear how this developed from the prose
 
-$ XVIIe initial v/w to g. TODO debug this.
-[+lab,+cont,-syl,+voi,-nas] > ɡ / # __ 
+$ XVIIe initial v/w to g. 
+	$ MANUAL FIX -- always before round vowels.
+	$ TODO debug this.
+[+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl] 
 
 $ XXXVIIa implicit (?) -- j revocalizes after laterals
 j > i / [+lat] __

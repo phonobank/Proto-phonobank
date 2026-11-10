@@ -1,14 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 484:
-#wˌolaːrˈelːa# >>> *#ɡəlaɾˈelːa# ( GOLD : #vəlaɾˈælːa#) :
+#wˌolaːrˈelːa# >>> *#vəlaɾˈelːa# ( GOLD : #vəlaɾˈælːa#) :
 w ˌo l aː r ˈe lː a 
 Proto-Romance stage form : *#wˌolaːrˈelːa#
-*#wˌɔlaːrˈɛlːa# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɔlarˈɛlːa# | 10 : [+syl] > [-long,-splng] 
-*#vˌɔlarˈɛlːa# | 32 : w > v / __ [-cons]
-*#vˌolarˈɛlːa# | 36 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vˌolarˈelːa# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˌɔlaːrˈɛlːa# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌɔlarˈɛlːa# | 12 : [+syl] > [-long,-splng] 
+*#vˌɔlarˈɛlːa# | 34 : w > v / __ [-cons]
+*#vˌolarˈɛlːa# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vˌolarˈelːa# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˌolarˈelːa#
-*#vˌolaɾˈelːa# | 86 : r > ɾ 
-*#vəlaɾˈelːa# | 88 : [-prim,-hi,-lo] > ə 
-*#ɡəlaɾˈelːa# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-Final form : *#ɡəlaɾˈelːa#
+*#vˌolaɾˈelːa# | 88 : r > ɾ 
+*#vəlaɾˈelːa# | 90 : [-prim,-hi,-lo] > ə 
+Final form : *#vəlaɾˈelːa#

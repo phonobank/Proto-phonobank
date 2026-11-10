@@ -2,12 +2,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #prˈae̯mium# >>> *#pɾˈemjə# ( GOLD : #pɾˈemjə#) :
 p r ˈa e̯ m i u m 
 *#prˈɛmium# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,-cons,-lat,+cont,0delrel] ∅
-*#prˈɛmjum# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#prˈɛmjum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#prˈɛmjum#
-*#prˈɛmjʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#prˈɛmjʊ# | 19 : [+cons] > ∅ / __ #
-*#prˈemjo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#prˈɛmjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#prˈɛmjʊ# | 21 : [+cons] > ∅ / __ #
+*#prˈemjo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#prˈemjo#
-*#prˈemjə# | 75 : [-stres,-lo] > ə 
-*#pɾˈemjə# | 86 : r > ɾ 
+*#prˈemjə# | 77 : [-stres,-lo] > ə 
+*#pɾˈemjə# | 88 : r > ɾ 
 Final form : *#pɾˈemjə#

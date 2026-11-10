@@ -1,10 +1,9 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 476:
-#wˈespa# >>> *#ɡˈæspa# ( GOLD : #vˈæspa#) :
+#wˈespa# >>> *#vˈæspa# ( GOLD : #vˈæspa#) :
 w ˈe s p a 
 Proto-Romance stage form : *#wˈespa#
-*#wˈɛspa# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɛspa# | 32 : w > v / __ [-cons]
-*#vˈæspa# | 40 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#wˈɛspa# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛspa# | 34 : w > v / __ [-cons]
+*#vˈæspa# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 Proto-South-Italo-Romance stage form : *#vˈæspa#
-*#ɡˈæspa# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-Final form : *#ɡˈæspa#
+Final form : *#vˈæspa#

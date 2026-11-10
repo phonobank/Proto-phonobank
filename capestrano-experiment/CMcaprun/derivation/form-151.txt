@@ -1,14 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 151:
 #lˈilium# >>> *#lˈijːə# ( GOLD : #d͡ʒˈijːə#) :
 l ˈi l i u m 
-*#lˈiljum# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#lˈiljum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#lˈiljum#
-*#lˈɪljʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˈɪljʊ# | 19 : [+cons] > ∅ / __ #
-*#lˈiljʊ# | 37 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
-*#lˈiljo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#lˈiʎːo# | 53 : l j > ʎː 
+*#lˈɪljʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈɪljʊ# | 21 : [+cons] > ∅ / __ #
+*#lˈiljʊ# | 39 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
+*#lˈiljo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#lˈiʎːo# | 55 : l j > ʎː 
 Proto-South-Italo-Romance stage form : *#lˈiʎːo#
-*#lˈiʎːə# | 75 : [-stres,-lo] > ə 
-*#lˈijːə# | 89 : {ʎ;ʎː} > {j;jː} 
+*#lˈiʎːə# | 77 : [-stres,-lo] > ə 
+*#lˈijːə# | 91 : {ʎ;ʎː} > {j;jː} 
 Final form : *#lˈijːə#

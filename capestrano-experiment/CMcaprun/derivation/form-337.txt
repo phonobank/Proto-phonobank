@@ -2,14 +2,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #krˌaːtˈikulam# >>> *#kɾatˈekja# ( GOLD : #ɾatˈikwəla#) :
 k r ˌaː t ˈi k u l a m 
 Proto-Romance stage form : *#krˌaːtˈikulam#
-*#krˌaːtˈɪkʊlam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#krˌatˈɪkʊlam# | 10 : [+syl] > [-long,-splng] 
-*#krˌatˈɪkʊla# | 19 : [+cons] > ∅ / __ #
-*#krˌatˈɪkla# | 31 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#krˌatˈekla# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#krˌatˈekʎa# | 52 : l > ʎ / [-son,-cor] __
+*#krˌaːtˈɪkʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˌatˈɪkʊlam# | 12 : [+syl] > [-long,-splng] 
+*#krˌatˈɪkʊla# | 21 : [+cons] > ∅ / __ #
+*#krˌatˈɪkla# | 33 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+*#krˌatˈekla# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#krˌatˈekʎa# | 54 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#krˌatˈekʎa#
-*#kɾˌatˈekʎa# | 86 : r > ɾ 
-*#kɾˌatˈekja# | 89 : {ʎ;ʎː} > {j;jː} 
-*#kɾatˈekja# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
+*#kɾˌatˈekʎa# | 88 : r > ɾ 
+*#kɾˌatˈekja# | 91 : {ʎ;ʎː} > {j;jː} 
+*#kɾatˈekja# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#kɾatˈekja#

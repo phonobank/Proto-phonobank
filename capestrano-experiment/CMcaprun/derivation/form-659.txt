@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 659:
 #mˈedium# >>> *#mˈed͡ʒə# ( GOLD : #mˈæd͡zːə#) :
 m ˈe d i u m 
-*#mˈedjum# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#mˈedjum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#mˈedjum#
-*#mˈɛdjʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɛdjʊ# | 19 : [+cons] > ∅ / __ #
-*#mˈedjo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛdjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛdjʊ# | 21 : [+cons] > ∅ / __ #
+*#mˈedjo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#mˈedjo#
-*#mˈed͡ʒo# | 68 : {d j;dː j;ɡ j;ɡː j} > {d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
-*#mˈed͡ʒə# | 75 : [-stres,-lo] > ə 
+*#mˈed͡ʒo# | 70 : {d j;dː j;ɡ j;ɡː j} > {d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
+*#mˈed͡ʒə# | 77 : [-stres,-lo] > ə 
 Final form : *#mˈed͡ʒə#

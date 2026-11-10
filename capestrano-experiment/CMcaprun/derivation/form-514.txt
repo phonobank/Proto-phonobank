@@ -2,13 +2,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #plˈumbum# >>> *#pjˈomːə# ( GOLD : #pjˈumːə#) :
 p l ˈu m b u m 
 Proto-Romance stage form : *#plˈumbum#
-*#plˈʊmbʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#plˈʊmbʊ# | 19 : [+cons] > ∅ / __ #
-*#plˈombʊ# | 41 : ˈʊ > ˈo / __ @ @
-*#plˈombo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#plˈomːo# | 46 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#pʎˈomːo# | 52 : l > ʎ / [-son,-cor] __
+*#plˈʊmbʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#plˈʊmbʊ# | 21 : [+cons] > ∅ / __ #
+*#plˈombʊ# | 43 : ˈʊ > ˈo / __ @ @
+*#plˈombo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#plˈomːo# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#pʎˈomːo# | 54 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#pʎˈomːo#
-*#pʎˈomːə# | 75 : [-stres,-lo] > ə 
-*#pjˈomːə# | 89 : {ʎ;ʎː} > {j;jː} 
+*#pʎˈomːə# | 77 : [-stres,-lo] > ə 
+*#pjˈomːə# | 91 : {ʎ;ʎː} > {j;jː} 
 Final form : *#pjˈomːə#

@@ -1,14 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 165:
-#lˌakweˈoːrem# >>> *#lakvəˈoɾə# ( GOLD : #lat͡ʃːˈɔɾə#) :
+#lˌakweˈoːrem# >>> *#lakvjˈoɾə# ( GOLD : #lat͡ʃːˈɔɾə#) :
 l ˌa k w e ˈoː r e m 
-Proto-Romance stage form : *#lˌakweˈoːrem#
-*#lˌakwɛˈoːrɛm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˌakwɛˈorɛm# | 10 : [+syl] > [-long,-splng] 
-*#lˌakwɛˈorɛ# | 19 : [+cons] > ∅ / __ #
-*#lˌakvɛˈorɛ# | 32 : w > v / __ [-cons]
-*#lˌakveˈore# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#lˌakveˈore#
-*#lˌakvəˈorə# | 75 : [-stres,-lo] > ə 
-*#lˌakvəˈoɾə# | 86 : r > ɾ 
-*#lakvəˈoɾə# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#lakvəˈoɾə#
+*#lˌakwjˈoːrem# | 9 : e > j / __ [+back]
+Proto-Romance stage form : *#lˌakwjˈoːrem#
+*#lˌakwjˈoːrɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˌakwjˈorɛm# | 12 : [+syl] > [-long,-splng] 
+*#lˌakwjˈorɛ# | 21 : [+cons] > ∅ / __ #
+*#lˌakvjˈorɛ# | 34 : w > v / __ [-cons]
+*#lˌakvjˈore# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#lˌakvjˈore#
+*#lˌakvjˈorə# | 77 : [-stres,-lo] > ə 
+*#lˌakvjˈoɾə# | 88 : r > ɾ 
+*#lakvjˈoɾə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#lakvjˈoɾə#

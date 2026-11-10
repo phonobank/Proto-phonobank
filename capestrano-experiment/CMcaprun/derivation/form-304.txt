@@ -1,15 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 304:
 #ˌapprˌetiˈaː# >>> *#appːɾətjˈa# ( GOLD : #apːɾət͡sːˈa#) :
 ˌa p p r ˌe t i ˈaː 
-*#ˌapprˌetjˈaː# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#ˌapprˌetjˈaː# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˌapprˌetjˈaː#
-*#ˌapprˌɛtjˈaː# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌapprˌɛtjˈa# | 10 : [+syl] > [-long,-splng] 
-*#ˌapprˌetjˈa# | 35 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌappːrˌetjˈa# | 50 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
+*#ˌapprˌɛtjˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌapprˌɛtjˈa# | 12 : [+syl] > [-long,-splng] 
+*#ˌapprˌetjˈa# | 37 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌappːrˌetjˈa# | 52 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
 Proto-South-Italo-Romance stage form : *#ˌappːrˌetjˈa#
-*#ˌappːretjˈa# | 72 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌappːrətjˈa# | 75 : [-stres,-lo] > ə 
-*#ˌappːɾətjˈa# | 86 : r > ɾ 
-*#appːɾətjˈa# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌappːretjˈa# | 74 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌappːrətjˈa# | 77 : [-stres,-lo] > ə 
+*#ˌappːɾətjˈa# | 88 : r > ɾ 
+*#appːɾətjˈa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#appːɾətjˈa#

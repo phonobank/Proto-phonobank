@@ -1,13 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 477:
-#wˌaːnitˈaː# >>> *#ɡanətˈa# ( GOLD : #vandˈa#) :
+#wˌaːnitˈaː# >>> *#vanətˈa# ( GOLD : #vandˈa#) :
 w ˌaː n i t ˈaː 
 Proto-Romance stage form : *#wˌaːnitˈaː#
-*#wˌaːnɪtˈaː# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌanɪtˈa# | 10 : [+syl] > [-long,-splng] 
-*#vˌanɪtˈa# | 32 : w > v / __ [-cons]
-*#vˌanetˈa# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˌaːnɪtˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌanɪtˈa# | 12 : [+syl] > [-long,-splng] 
+*#vˌanɪtˈa# | 34 : w > v / __ [-cons]
+*#vˌanetˈa# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˌanetˈa#
-*#vˌanətˈa# | 75 : [-stres,-lo] > ə 
-*#ɡˌanətˈa# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-*#ɡanətˈa# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ɡanətˈa#
+*#vˌanətˈa# | 77 : [-stres,-lo] > ə 
+*#vanətˈa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vanətˈa#

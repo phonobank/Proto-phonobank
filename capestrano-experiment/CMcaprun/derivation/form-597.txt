@@ -2,10 +2,10 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #bˈonam# >>> *#ɡˈona# ( GOLD : #bːˈona#) :
 b ˈo n a m 
 Proto-Romance stage form : *#bˈonam#
-*#bˈɔnam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˈɔna# | 19 : [+cons] > ∅ / __ #
-*#bˈona# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#bˈɔnam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˈɔna# | 21 : [+cons] > ∅ / __ #
+*#bˈona# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#bˈona#
-*#vˈona# | 83 : b > v / # __ [+prim,+round] [+cons] [+syl]
-*#ɡˈona# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+*#vˈona# | 85 : b > v / # __ [+prim,+round] [+cons] [+syl]
+*#ɡˈona# | 92 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
 Final form : *#ɡˈona#

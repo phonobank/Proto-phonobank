@@ -3,12 +3,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 ˌiː n f l a m m ˈaː 
 *#ˌiːmflammˈaː# | 0 : n > m / __ [+lab,+cons]
 Proto-Romance stage form : *#ˌiːmflammˈaː#
-*#ˌimflammˈa# | 10 : [+syl] > [-long,-splng] 
-*#ˌimflamːˈa# | 46 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#ˌimfʎamːˈa# | 52 : l > ʎ / [-son,-cor] __
+*#ˌimflammˈa# | 12 : [+syl] > [-long,-splng] 
+*#ˌimflamːˈa# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˌimfʎamːˈa# | 54 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌimfʎamːˈa#
-*#mfʎamːˈa# | 76 : [-prim,-lo] > ∅ / # __
-*#mb͡vʎamːˈa# | 78 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbʎamːˈa# | 79 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
-*#mbjamːˈa# | 89 : {ʎ;ʎː} > {j;jː} 
+*#mfʎamːˈa# | 78 : [-prim,-lo] > ∅ / # __
+*#mb͡vʎamːˈa# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbʎamːˈa# | 81 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#mbjamːˈa# | 91 : {ʎ;ʎː} > {j;jː} 
 Final form : *#mbjamːˈa#

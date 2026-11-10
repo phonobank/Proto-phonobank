@@ -1,15 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 468:
-#wˌestˈiːtum# >>> *#ɡəstˈitə# ( GOLD : #vəstˈitə#) :
+#wˌestˈiːtum# >>> *#vəstˈitə# ( GOLD : #vəstˈitə#) :
 w ˌe s t ˈiː t u m 
 Proto-Romance stage form : *#wˌestˈiːtum#
-*#wˌɛstˈiːtʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɛstˈitʊm# | 10 : [+syl] > [-long,-splng] 
-*#wˌɛstˈitʊ# | 19 : [+cons] > ∅ / __ #
-*#vˌɛstˈitʊ# | 32 : w > v / __ [-cons]
-*#vˌestˈitʊ# | 35 : [+stres,-prim,+front,-tense] > ˌe 
-*#vˌestˈito# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˌɛstˈiːtʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌɛstˈitʊm# | 12 : [+syl] > [-long,-splng] 
+*#wˌɛstˈitʊ# | 21 : [+cons] > ∅ / __ #
+*#vˌɛstˈitʊ# | 34 : w > v / __ [-cons]
+*#vˌestˈitʊ# | 37 : [+stres,-prim,+front,-tense] > ˌe 
+*#vˌestˈito# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˌestˈito#
-*#vˌestˈitə# | 75 : [-stres,-lo] > ə 
-*#vəstˈitə# | 88 : [-prim,-hi,-lo] > ə 
-*#ɡəstˈitə# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
-Final form : *#ɡəstˈitə#
+*#vˌestˈitə# | 77 : [-stres,-lo] > ə 
+*#vəstˈitə# | 90 : [-prim,-hi,-lo] > ə 
+Final form : *#vəstˈitə#

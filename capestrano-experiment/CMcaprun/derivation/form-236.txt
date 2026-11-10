@@ -1,15 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 236:
 #ˌekklˈeːsiam# >>> *#kːjˈesja# ( GOLD : #kjˈesa#) :
 ˌe k k l ˈeː s i a m 
-*#ˌekklˈeːsjam# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#ˌekklˈeːsjam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˌekklˈeːsjam#
-*#ˌɛkklˈeːsjam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɛkklˈesjam# | 10 : [+syl] > [-long,-splng] 
-*#ˌɛkklˈesja# | 19 : [+cons] > ∅ / __ #
-*#ˌekklˈesja# | 35 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌekːlˈesja# | 51 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-*#ˌekːʎˈesja# | 52 : l > ʎ / [-son,-cor] __
+*#ˌɛkklˈeːsjam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛkklˈesjam# | 12 : [+syl] > [-long,-splng] 
+*#ˌɛkklˈesja# | 21 : [+cons] > ∅ / __ #
+*#ˌekklˈesja# | 37 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌekːlˈesja# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ˌekːʎˈesja# | 54 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌekːʎˈesja#
-*#kːʎˈesja# | 76 : [-prim,-lo] > ∅ / # __
-*#kːjˈesja# | 89 : {ʎ;ʎː} > {j;jː} 
+*#kːʎˈesja# | 78 : [-prim,-lo] > ∅ / # __
+*#kːjˈesja# | 91 : {ʎ;ʎː} > {j;jː} 
 Final form : *#kːjˈesja#

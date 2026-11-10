@@ -2,12 +2,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #rˌaːsikˈaː# >>> *#ɾaʃəkˈa# ( GOLD : #ɾaʃəkˈa#) :
 r ˌaː s i k ˈaː 
 Proto-Romance stage form : *#rˌaːsikˈaː#
-*#rˌaːsɪkˈaː# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#rˌasɪkˈa# | 10 : [+syl] > [-long,-splng] 
-*#rˌasekˈa# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˌaːsɪkˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌasɪkˈa# | 12 : [+syl] > [-long,-splng] 
+*#rˌasekˈa# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#rˌasekˈa#
-*#rˌaʃekˈa# | 69 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#rˌaʃəkˈa# | 75 : [-stres,-lo] > ə 
-*#ɾˌaʃəkˈa# | 86 : r > ɾ 
-*#ɾaʃəkˈa# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
+*#rˌaʃekˈa# | 71 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#rˌaʃəkˈa# | 77 : [-stres,-lo] > ə 
+*#ɾˌaʃəkˈa# | 88 : r > ɾ 
+*#ɾaʃəkˈa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#ɾaʃəkˈa#

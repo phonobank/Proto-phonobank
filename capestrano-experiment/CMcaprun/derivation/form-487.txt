@@ -2,12 +2,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #wˈulpem# >>> *#ɡˈolpə# ( GOLD : #vˈolpə#) :
 w ˈu l p e m 
 Proto-Romance stage form : *#wˈulpem#
-*#wˈʊlpɛm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈʊlpɛ# | 19 : [+cons] > ∅ / __ #
-*#vˈʊlpɛ# | 32 : w > v / __ [-cons]
-*#vˈolpɛ# | 41 : ˈʊ > ˈo / __ @ @
-*#vˈolpe# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˈʊlpɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈʊlpɛ# | 21 : [+cons] > ∅ / __ #
+*#vˈʊlpɛ# | 34 : w > v / __ [-cons]
+*#vˈolpɛ# | 43 : ˈʊ > ˈo / __ @ @
+*#vˈolpe# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˈolpe#
-*#vˈolpə# | 75 : [-stres,-lo] > ə 
-*#ɡˈolpə# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+*#vˈolpə# | 77 : [-stres,-lo] > ə 
+*#ɡˈolpə# | 92 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
 Final form : *#ɡˈolpə#

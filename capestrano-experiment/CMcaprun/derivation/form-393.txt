@@ -1,20 +1,20 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 393:
 #kˌondikiˈoːnem# >>> *#kunːit͡sjˈonə# ( GOLD : #kundit͡sjˈonə#) :
 k ˌo n d i k i ˈoː n e m 
-*#kˌondikjˈoːnem# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#kˌondikjˈoːnem# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#kˌondikjˈoːnem#
-*#kˌɔndɪkjˈoːnɛm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɔndɪkjˈonɛm# | 10 : [+syl] > [-long,-splng] 
-*#kˌɔndɪkjˈonɛ# | 19 : [+cons] > ∅ / __ #
-*#kˌɔndɪt͡ʃjˈonɛ# | 22 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#kˌondɪt͡ʃjˈonɛ# | 36 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌondit͡ʃjˈonɛ# | 37 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
-*#kˌondit͡ʃjˈone# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˌonːit͡ʃjˈone# | 46 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#kˌonːit͡sjˈone# | 58 : [+delrel,-voi] > [+ant,-distr,-front,-hi,-round,+cor] / __ j [+round]
+*#kˌɔndɪkjˈoːnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔndɪkjˈonɛm# | 12 : [+syl] > [-long,-splng] 
+*#kˌɔndɪkjˈonɛ# | 21 : [+cons] > ∅ / __ #
+*#kˌɔndɪt͡ʃjˈonɛ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#kˌondɪt͡ʃjˈonɛ# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌondit͡ʃjˈonɛ# | 39 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
+*#kˌondit͡ʃjˈone# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌonːit͡ʃjˈone# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#kˌonːit͡sjˈone# | 60 : [+delrel,-voi] > [+ant,-distr,-front,-hi,-round,+cor] / __ j [+round]
 Proto-South-Italo-Romance stage form : *#kˌonːit͡sjˈone#
-*#kˌunːit͡sjˈone# | 71 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌunːˌit͡sjˈone# | 74 : i > ˌi / __ ( [-syl] )* j
-*#kˌunːˌit͡sjˈonə# | 75 : [-stres,-lo] > ə 
-*#kunːit͡sjˈonə# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
+*#kˌunːit͡sjˈone# | 73 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌunːˌit͡sjˈone# | 76 : i > ˌi / __ ( [-syl] )* j
+*#kˌunːˌit͡sjˈonə# | 77 : [-stres,-lo] > ə 
+*#kunːit͡sjˈonə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#kunːit͡sjˈonə#
