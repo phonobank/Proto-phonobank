@@ -1,14 +1,10 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 605:
-#fˈiːlium# >>> *#fˈijːə# ( GOLD : #fˈijːə#) :
-f ˈiː l i u m 
-*#fˈiːljum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#fˈiːljum#
-*#fˈiːljʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈiljʊm# | 27 : [+syl] > [-long,-splng] 
-*#fˈiʎːʊm# | 30 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#fˈiʎːʊ# | 34 : [+cons] > ∅ / __ #
-*#fˈiʎːu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˈiʎːu#
-*#fˈiʎːə# | 86 : [-stres,-lo] > ə 
-*#fˈijːə# | 100 : {ʎ;ʎː} > {j;jː} 
-Final form : *#fˈijːə#
+#fˈiːkora# >>> *#fˈikɾa# ( GOLD : #fˈikwəɾa#) :
+f ˈiː k o r a 
+Proto-Romance stage form : *#fˈiːkora#
+*#fˈiːkɔra# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈikɔra# | 27 : [+syl] > [-long,-splng] 
+*#fˈikra# | 44 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+Proto-South-Italo-Romance stage form : *#fˈikra#
+*#fˈikɾa# | 97 : r > ɾ 
+Final form : *#fˈikɾa#

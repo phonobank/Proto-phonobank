@@ -1,13 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 478:
-#ˈunɡulam# >>> *#ˈoŋɡwəla# ( GOLD : #ˈoɲa#) :
-ˈu n ɡ u l a m 
-*#ˈuŋɡulam# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#ˈuŋɡulam#
-*#ˈʊŋɡʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈʊŋɡʊla# | 34 : [+cons] > ∅ / __ #
-*#ˈʊŋɡwʊla# | 43 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
-*#ˈʊŋɡwula# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈoŋɡwula# | 53 : ˈʊ > ˈo / __ @ @
-Proto-South-Italo-Romance stage form : *#ˈoŋɡwula#
-*#ˈoŋɡwəla# | 86 : [-stres,-lo] > ə 
-Final form : *#ˈoŋɡwəla#
+#ˌurtˈiːka# >>> *#ɾtˈika# ( GOLD : #aɾdˈika#) :
+ˌu r t ˈiː k a 
+Proto-Romance stage form : *#ˌurtˈiːka#
+*#ˌʊrtˈiːka# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌʊrtˈika# | 27 : [+syl] > [-long,-splng] 
+*#ˌurtˈika# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌurtˈika#
+*#rtˈika# | 87 : [-prim,-lo] > ∅ / # __
+*#ɾtˈika# | 97 : r > ɾ 
+Final form : *#ɾtˈika#

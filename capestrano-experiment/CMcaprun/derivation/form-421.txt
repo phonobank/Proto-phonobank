@@ -1,16 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 421:
-#ɡˌentˈiːlem# >>> *#d͡ʒːəndˈilə# ( GOLD : #d͡ʒːəndˈilə#) :
-ɡ ˌe n t ˈiː l e m 
-Proto-Romance stage form : *#ɡˌentˈiːlem#
-*#ɡˌɛntˈiːlɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˌɛntˈiːlɛm# | 15 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#d͡ʒːˌɛntˈiːlɛm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#d͡ʒːˌɛntˈilɛm# | 27 : [+syl] > [-long,-splng] 
-*#d͡ʒːˌɛntˈilɛ# | 34 : [+cons] > ∅ / __ #
-*#d͡ʒːˌentˈilɛ# | 48 : [+stres,-prim,+front,-tense] > ˌe 
-*#d͡ʒːˌentˈile# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#d͡ʒːˌentˈile#
-*#d͡ʒːˌentˈilə# | 86 : [-stres,-lo] > ə 
-*#d͡ʒːˌendˈilə# | 89 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#d͡ʒːəndˈilə# | 99 : [-prim,-hi,-lo] > ə 
-Final form : *#d͡ʒːəndˈilə#
+#ɡˌenˈestram# >>> *#jənˈæstɾa# ( GOLD : #jenˈestɾa#) :
+ɡ ˌe n ˈe s t r a m 
+Proto-Romance stage form : *#ɡˌenˈestram#
+*#ɡˌɛnˈɛstram# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˌɛnˈɛstram# | 15 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛnˈɛstram# | 16 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+*#jˌɛnˈɛstram# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#jˌɛnˈɛstra# | 34 : [+cons] > ∅ / __ #
+*#jˌenˈɛstra# | 48 : [+stres,-prim,+front,-tense] > ˌe 
+*#jˌenˈæstra# | 52 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+Proto-South-Italo-Romance stage form : *#jˌenˈæstra#
+*#jˌenˈæstɾa# | 97 : r > ɾ 
+*#jənˈæstɾa# | 99 : [-prim,-hi,-lo] > ə 
+Final form : *#jənˈæstɾa#

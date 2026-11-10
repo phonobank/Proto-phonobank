@@ -1,11 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 262:
-#ˈalter# >>> *#ˈaldə# ( GOLD : #ˈatɾə#) :
-ˈa l t e r 
-Proto-Romance stage form : *#ˈalter#
-*#ˈaltɛr# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaltɛ# | 34 : [+cons] > ∅ / __ #
-*#ˈalte# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈalte#
-*#ˈaltə# | 86 : [-stres,-lo] > ə 
-*#ˈaldə# | 91 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
-Final form : *#ˈaldə#
+#ˈalteriː# >>> *#ˈaldəɾə# ( GOLD : #ˈetɾə#) :
+ˈa l t e r iː 
+Proto-Romance stage form : *#ˈalteriː#
+*#ˈaltɛriː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈaltɛri# | 27 : [+syl] > [-long,-splng] 
+*#ˈalteri# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈalteri#
+*#ˈaltərə# | 86 : [-stres,-lo] > ə 
+*#ˈaldərə# | 91 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
+*#ˈaldəɾə# | 97 : r > ɾ 
+Final form : *#ˈaldəɾə#

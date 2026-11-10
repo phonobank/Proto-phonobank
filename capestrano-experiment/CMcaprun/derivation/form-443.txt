@@ -1,12 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 443:
-#kwˌadraɡˈinta# >>> *#kwadɾajˈenda# ( GOLD : #kwaɾˈanta#) :
-k w ˌa d r a ɡ ˈi n t a 
-Proto-Romance stage form : *#kwˌadraɡˈinta#
-*#kwˌadraɡˈɪnta# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kwˌadrajˈɪnta# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#kwˌadrajˈenta# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kwˌadrajˈenta#
-*#kwˌadrajˈenda# | 89 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kwˌadɾajˈenda# | 97 : r > ɾ 
-*#kwadɾajˈenda# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kwadɾajˈenda#
+#kwˈantoː# >>> *#kwˈandə# ( GOLD : #kwˈandə#) :
+k w ˈa n t oː 
+Proto-Romance stage form : *#kwˈantoː#
+*#kwˈanto# | 27 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#kwˈanto#
+*#kwˈantə# | 86 : [-stres,-lo] > ə 
+*#kwˈandə# | 89 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#kwˈandə#

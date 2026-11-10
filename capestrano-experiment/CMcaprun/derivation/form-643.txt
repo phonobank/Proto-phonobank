@@ -1,13 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 643:
-#mˈedikum# >>> *#mˈedəkə# ( GOLD : #mˈedəkə#) :
-m ˈe d i k u m 
-Proto-Romance stage form : *#mˈedikum#
-*#mˈɛdɪkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɛdiːkʊm# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#mˈɛdikʊm# | 27 : [+syl] > [-long,-splng] 
-*#mˈɛdikʊ# | 34 : [+cons] > ∅ / __ #
-*#mˈɛdiku# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˈediku# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈediku#
-*#mˈedəkə# | 86 : [-stres,-lo] > ə 
-Final form : *#mˈedəkə#
+#medˈullum# >>> *#mədˈojːə# ( GOLD : #mədˈujːə#) :
+m e d ˈu l l u m 
+Proto-Romance stage form : *#medˈullum#
+*#mɛdˈʊllʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mɛdˈʊllʊ# | 34 : [+cons] > ∅ / __ #
+*#mɛdˈʊllu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mɛdˈollu# | 53 : ˈʊ > ˈo / __ @ @
+*#medˈollu# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#medˈolːu# | 61 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#medˈolːu#
+*#medˈoʎːu# | 75 : lː > ʎː / __ [+hi]
+*#mədˈoʎːə# | 86 : [-stres,-lo] > ə 
+*#mədˈojːə# | 100 : {ʎ;ʎː} > {j;jː} 
+Final form : *#mədˈojːə#

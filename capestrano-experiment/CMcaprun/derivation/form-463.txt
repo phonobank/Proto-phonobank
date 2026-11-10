@@ -1,11 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 463:
-#wˈetula# >>> *#vˈætːla# ( GOLD : #vˈækːja#) :
-w ˈe t u l a 
-Proto-Romance stage form : *#wˈetula#
-*#wˈɛtʊla# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈɛtla# | 26 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
-*#vˈɛtla# | 45 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈætla# | 52 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#vˈætla#
-*#vˈætːla# | 79 : t > tː / __ l
-Final form : *#vˈætːla#
+#wˈespa# >>> *#vˈæspa# ( GOLD : #vˈæspa#) :
+w ˈe s p a 
+Proto-Romance stage form : *#wˈespa#
+*#wˈɛspa# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛspa# | 45 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈæspa# | 52 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+Proto-South-Italo-Romance stage form : *#vˈæspa#
+Final form : *#vˈæspa#

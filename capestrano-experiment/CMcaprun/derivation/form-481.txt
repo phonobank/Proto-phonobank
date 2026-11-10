@@ -1,13 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 481:
-#ˈursum# >>> *#ˈoɾt͡sə# ( GOLD : #ˈuɾt͡sə#) :
-ˈu r s u m 
-Proto-Romance stage form : *#ˈursum#
-*#ˈʊrsʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈʊrsʊ# | 34 : [+cons] > ∅ / __ #
-*#ˈʊrsu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈorsu# | 53 : ˈʊ > ˈo / __ @ @
-Proto-South-Italo-Romance stage form : *#ˈorsu#
-*#ˈort͡su# | 78 : s > t͡s / r __
-*#ˈort͡sə# | 86 : [-stres,-lo] > ə 
-*#ˈoɾt͡sə# | 97 : r > ɾ 
-Final form : *#ˈoɾt͡sə#
+#ˈuːmida# >>> *#ˈumːəda# ( GOLD : #ˈumːəda#) :
+ˈuː m i d a 
+Proto-Romance stage form : *#ˈuːmida#
+*#ˈuːmɪda# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈumɪda# | 27 : [+syl] > [-long,-splng] 
+*#ˈumeda# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈumːeda# | 70 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#ˈumːeda#
+*#ˈumːəda# | 86 : [-stres,-lo] > ə 
+Final form : *#ˈumːəda#

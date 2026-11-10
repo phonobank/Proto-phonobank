@@ -1,11 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 489:
-#ˈoktoː# >>> *#ˈotːə# ( GOLD : #ˈɔtːə#) :
-ˈo k t oː 
-Proto-Romance stage form : *#ˈoktoː#
-*#ˈɔktoː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔtːoː# | 24 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˈɔtːo# | 27 : [+syl] > [-long,-splng] 
-*#ˈotːo# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈotːo#
-*#ˈotːə# | 86 : [-stres,-lo] > ə 
-Final form : *#ˈotːə#
+#ˈokulum# >>> *#ˈokjə# ( GOLD : #ˈɔkːjə#) :
+ˈo k u l u m 
+Proto-Romance stage form : *#ˈokulum#
+*#ˈɔkʊlʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔklʊm# | 26 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
+*#ˈɔklʊ# | 34 : [+cons] > ∅ / __ #
+*#ˈɔklu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈoklu# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈokʎu# | 62 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#ˈokʎu#
+*#ˈokʎə# | 86 : [-stres,-lo] > ə 
+*#ˈokjə# | 100 : {ʎ;ʎː} > {j;jː} 
+Final form : *#ˈokjə#

@@ -1,18 +1,7 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 530:
-#pˌekorˈaːrium# >>> *#pəkɾˈaɾə# ( GOLD : #pəkuɾˈalə#) :
-p ˌe k o r ˈaː r i u m 
-*#pˌekorˈaːrjum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#pˌekorˈaːrjum#
-*#pˌɛkɔrˈaːrjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌɛkɔrˈarjʊm# | 27 : [+syl] > [-long,-splng] 
-*#pˌɛkɔrˈarʲʊm# | 29 : r j > rʲ 
-*#pˌɛkɔrˈarʲʊ# | 34 : [+cons] > ∅ / __ #
-*#pˌɛkrˈarʲʊ# | 44 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#pˌekrˈarʲʊ# | 48 : [+stres,-prim,+front,-tense] > ˌe 
-*#pˌekrˈarʲu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˌekrˈarʲu#
-*#pˌekrˈaru# | 73 : rʲ > r 
-*#pˌekrˈarə# | 86 : [-stres,-lo] > ə 
-*#pˌekɾˈaɾə# | 97 : r > ɾ 
-*#pəkɾˈaɾə# | 99 : [-prim,-hi,-lo] > ə 
-Final form : *#pəkɾˈaɾə#
+#padˈuːla# >>> *#padˈula# ( GOLD : #padˈuɾa#) :
+p a d ˈuː l a 
+Proto-Romance stage form : *#padˈuːla#
+*#padˈula# | 27 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#padˈula#
+Final form : *#padˈula#

@@ -1,13 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 711:
-#kˈoːnflat# >>> *#kˈombja# ( GOLD : #ɡˈomfjə#) :
-k ˈoː n f l a t 
-*#kˈoːmflat# | 0 : n > m / __ [+lab,+cons]
-Proto-Romance stage form : *#kˈoːmflat#
-*#kˈomflat# | 27 : [+syl] > [-long,-splng] 
-*#kˈomfla# | 34 : [+cons] > ∅ / __ #
-*#kˈomfʎa# | 62 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#kˈomfʎa#
-*#kˈomb͡vʎa# | 89 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kˈombʎa# | 90 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
-*#kˈombja# | 100 : {ʎ;ʎː} > {j;jː} 
-Final form : *#kˈombja#
+#kˈorium# >>> *#kˈoɾə# ( GOLD : #kwˈɔjːə#) :
+k ˈo r i u m 
+*#kˈorjum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#kˈorjum#
+*#kˈɔrjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɔrʲʊm# | 29 : r j > rʲ 
+*#kˈɔrʲʊ# | 34 : [+cons] > ∅ / __ #
+*#kˈɔrʲu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˈorʲu# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈorʲu#
+*#kˈoru# | 73 : rʲ > r 
+*#kˈorə# | 86 : [-stres,-lo] > ə 
+*#kˈoɾə# | 97 : r > ɾ 
+Final form : *#kˈoɾə#

@@ -1,11 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 701:
-#rˈuspo# >>> *#ɾˈospə# ( GOLD : #ɾˈuspə#) :
-r ˈu s p o 
-Proto-Romance stage form : *#rˈuspo#
-*#rˈʊspɔ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#rˈʊspo# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#rˈospo# | 53 : ˈʊ > ˈo / __ @ @
-Proto-South-Italo-Romance stage form : *#rˈospo#
-*#rˈospə# | 86 : [-stres,-lo] > ə 
-*#ɾˈospə# | 97 : r > ɾ 
-Final form : *#ɾˈospə#
+#rˌosˈaːria# >>> *#ɾəsˈaɾa# ( GOLD : #ɾusˈaɾja#) :
+r ˌo s ˈaː r i a 
+*#rˌosˈaːrja# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#rˌosˈaːrja#
+*#rˌɔsˈaːrja# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌɔsˈarja# | 27 : [+syl] > [-long,-splng] 
+*#rˌɔsˈarʲa# | 29 : r j > rʲ 
+*#rˌosˈarʲa# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#rˌosˈarʲa#
+*#rˌosˈara# | 73 : rʲ > r 
+*#ɾˌosˈaɾa# | 97 : r > ɾ 
+*#ɾəsˈaɾa# | 99 : [-prim,-hi,-lo] > ə 
+Final form : *#ɾəsˈaɾa#

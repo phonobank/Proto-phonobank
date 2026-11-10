@@ -1,14 +1,10 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 503:
-#plˈumbum# >>> *#pjˈomːə# ( GOLD : #pjˈumːə#) :
-p l ˈu m b u m 
-Proto-Romance stage form : *#plˈumbum#
-*#plˈʊmbʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#plˈʊmbʊ# | 34 : [+cons] > ∅ / __ #
-*#plˈʊmbu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#plˈombu# | 53 : ˈʊ > ˈo / __ @ @
-*#plˈomːu# | 57 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#pʎˈomːu# | 62 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#pʎˈomːu#
-*#pʎˈomːə# | 86 : [-stres,-lo] > ə 
-*#pjˈomːə# | 100 : {ʎ;ʎː} > {j;jː} 
-Final form : *#pjˈomːə#
+#priːmawˈeːra# >>> *#pɾəmavˈeɾa# ( GOLD : #pɾimavˈeɾa#) :
+p r iː m a w ˈeː r a 
+Proto-Romance stage form : *#priːmawˈeːra#
+*#primawˈera# | 27 : [+syl] > [-long,-splng] 
+*#primavˈera# | 45 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#primavˈera#
+*#prəmavˈera# | 86 : [-stres,-lo] > ə 
+*#pɾəmavˈeɾa# | 97 : r > ɾ 
+Final form : *#pɾəmavˈeɾa#

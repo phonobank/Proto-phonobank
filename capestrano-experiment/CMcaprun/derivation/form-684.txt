@@ -1,14 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 684:
-#mˌulɡˈeː# >>> *#mːujːˈe# ( GOLD : #mˈoɲə#) :
-m ˌu l ɡ ˈeː  
-Proto-Romance stage form : *#mˌulɡˈeː#
-*#mˌʊlɡˈeː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌʊljˈeː# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#mˌʊljˈe# | 27 : [+syl] > [-long,-splng] 
-*#mˌʊʎːˈe# | 30 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#mˌuʎːˈe# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mːˌuʎːˈe# | 70 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#mːˌuʎːˈe#
-*#mːˌujːˈe# | 100 : {ʎ;ʎː} > {j;jː} 
-*#mːujːˈe# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#mːujːˈe#
+#mˈukkulum# >>> *#mˈokːwələ# ( GOLD : #mˈokːələ#) :
+m ˈu k k u l u m 
+Proto-Romance stage form : *#mˈukkulum#
+*#mˈʊkkʊlʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈʊkkʊlʊ# | 34 : [+cons] > ∅ / __ #
+*#mˈʊkkwʊlʊ# | 43 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#mˈʊkkwulu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˈokkwulu# | 53 : ˈʊ > ˈo / __ @ @
+*#mˈokːwulu# | 61 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#mˈokːwulu#
+*#mˈokːwələ# | 86 : [-stres,-lo] > ə 
+Final form : *#mˈokːwələ#
