@@ -2,13 +2,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ˌekstˈende# >>> *#stˈenːə# ( GOLD : #stˈænːə#) :
 ˌe k s t ˈe n d e 
 Proto-Romance stage form : *#ˌekstˈende#
-*#ˌɛkstˈɛndɛ# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɛsːtˈɛndɛ# | 14 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
-*#ˌɛstˈɛndɛ# | 18 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#ˌestˈɛndɛ# | 32 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌestˈende# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌestˈenːe# | 43 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˌɛkstˈɛndɛ# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛsːtˈɛndɛ# | 17 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
+*#ˌɛstˈɛndɛ# | 21 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˌestˈɛndɛ# | 35 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌestˈende# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌestˈenːe# | 46 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
 Proto-South-Italo-Romance stage form : *#ˌestˈenːe#
-*#ˌestˈenːə# | 72 : [-stres,-lo] > ə 
-*#stˈenːə# | 73 : [-prim,-lo] > ∅ / # __
+*#ˌestˈenːə# | 75 : [-stres,-lo] > ə 
+*#stˈenːə# | 76 : [-prim,-lo] > ∅ / # __
 Final form : *#stˈenːə#

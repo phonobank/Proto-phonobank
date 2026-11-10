@@ -2,12 +2,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #flˈuːmen# >>> *#fjˈumə# ( GOLD : #fjˈumə#) :
 f l ˈuː m e n 
 Proto-Romance stage form : *#flˈuːmen#
-*#flˈuːmɛn# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#flˈumɛn# | 7 : [+syl] > [-long,-splng] 
-*#flˈumɛ# | 16 : [+cons] > ∅ / __ #
-*#flˈume# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#fʎˈume# | 49 : l > ʎ / [-son,-cor] __
+*#flˈuːmɛn# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#flˈumɛn# | 10 : [+syl] > [-long,-splng] 
+*#flˈumɛ# | 19 : [+cons] > ∅ / __ #
+*#flˈume# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fʎˈume# | 52 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#fʎˈume#
-*#fʎˈumə# | 72 : [-stres,-lo] > ə 
-*#fjˈumə# | 85 : {ʎ;ʎː} > {j;jː} 
+*#fʎˈumə# | 75 : [-stres,-lo] > ə 
+*#fjˈumə# | 89 : {ʎ;ʎː} > {j;jː} 
 Final form : *#fjˈumə#

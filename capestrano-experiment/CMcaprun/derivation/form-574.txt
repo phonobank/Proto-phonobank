@@ -1,13 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 574:
-#brˈakʰium# >>> *#bːɾˈakʰjə# ( GOLD : #vɾˈat͡ʃə#) :
+#brˈakʰium# >>> *#bːɾˈat͡sjə# ( GOLD : #vɾˈat͡ʃə#) :
 b r ˈa kʰ i u m 
-*#brˈakʰjum# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#brˈakʰjum#
-*#brˈakʰjʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#brˈakʰjʊ# | 16 : [+cons] > ∅ / __ #
-*#brˈakʰjo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#bːrˈakʰjo# | 51 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
-Proto-South-Italo-Romance stage form : *#bːrˈakʰjo#
-*#bːrˈakʰjə# | 72 : [-stres,-lo] > ə 
-*#bːɾˈakʰjə# | 82 : r > ɾ 
-Final form : *#bːɾˈakʰjə#
+*#brˈakium# | 6 : [+cons] > [-sg] 
+*#brˈakjum# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#brˈakjum#
+*#brˈakjʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#brˈakjʊ# | 19 : [+cons] > ∅ / __ #
+*#brˈat͡ʃjʊ# | 22 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#brˈat͡ʃjo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#bːrˈat͡ʃjo# | 54 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+*#bːrˈat͡sjo# | 58 : [+delrel,-voi] > [+ant,-distr,-front,-hi,-round,+cor] / __ j [+round]
+Proto-South-Italo-Romance stage form : *#bːrˈat͡sjo#
+*#bːrˈat͡sjə# | 75 : [-stres,-lo] > ə 
+*#bːɾˈat͡sjə# | 86 : r > ɾ 
+Final form : *#bːɾˈat͡sjə#

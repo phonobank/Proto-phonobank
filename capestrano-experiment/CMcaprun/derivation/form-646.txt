@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 646:
 #fˈortiam# >>> *#fˈɔɾtja# ( GOLD : #fˈɔɾt͡sa#) :
 f ˈo r t i a m 
-*#fˈortjam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#fˈortjam# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#fˈortjam#
-*#fˈɔrtjam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈɔrtja# | 16 : [+cons] > ∅ / __ #
-*#fˈɞˤrtja# | 37 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#fˈɔrtja# | 41 : [+lo,-tense,+round] > [-lo] 
+*#fˈɔrtjam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈɔrtja# | 19 : [+cons] > ∅ / __ #
+*#fˈɞˤrtja# | 40 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#fˈɔrtja# | 44 : [+lo,-tense,+round] > [-lo] 
 Proto-South-Italo-Romance stage form : *#fˈɔrtja#
-*#fˈɔɾtja# | 82 : r > ɾ 
+*#fˈɔɾtja# | 86 : r > ɾ 
 Final form : *#fˈɔɾtja#

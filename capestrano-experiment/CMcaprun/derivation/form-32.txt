@@ -2,13 +2,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #dˌeːˌadpˈost# >>> *#dəapːˈo# ( GOLD : #dapˈo#) :
 d ˌeː ˌa d p ˈo s t 
 Proto-Romance stage form : *#dˌeːˌadpˈost#
-*#dˌeːˌadpˈɔst# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˌeˌadpˈɔst# | 7 : [+syl] > [-long,-splng] 
-*#dˌeˌapːˈɔst# | 13 : d [+lab,+cons] > ∅ [+long]
-*#dˌeˌapːˈɔs# | 16 : [+cons] > ∅ / __ #
-*#dˌeˌapːˈɔ# | 17 : [+cons] > ∅ / __ #
-*#dˌeˌapːˈo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#dˌeːˌadpˈɔst# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˌeˌadpˈɔst# | 10 : [+syl] > [-long,-splng] 
+*#dˌeˌapːˈɔst# | 16 : d [+lab,+cons] > ∅ [+long]
+*#dˌeˌapːˈɔs# | 19 : [+cons] > ∅ / __ #
+*#dˌeˌapːˈɔ# | 20 : [+cons] > ∅ / __ #
+*#dˌeˌapːˈo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#dˌeˌapːˈo#
-*#dˌeapːˈo# | 69 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#dəapːˈo# | 84 : [-prim,-hi,-lo] > ə 
+*#dˌeapːˈo# | 72 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#dəapːˈo# | 88 : [-prim,-hi,-lo] > ə 
 Final form : *#dəapːˈo#

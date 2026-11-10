@@ -2,13 +2,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #mˌontˈaːneam# >>> *#məndˈanəa# ( GOLD : #məndˈaɲa#) :
 m ˌo n t ˈaː n e a m 
 Proto-Romance stage form : *#mˌontˈaːneam#
-*#mˌɔntˈaːnɛam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɔntˈanɛam# | 7 : [+syl] > [-long,-splng] 
-*#mˌɔntˈanɛa# | 16 : [+cons] > ∅ / __ #
-*#mˌontˈanɛa# | 33 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˌontˈanea# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˌɔntˈaːnɛam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɔntˈanɛam# | 10 : [+syl] > [-long,-splng] 
+*#mˌɔntˈanɛa# | 19 : [+cons] > ∅ / __ #
+*#mˌontˈanɛa# | 36 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˌontˈanea# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#mˌontˈanea#
-*#mˌontˈanəa# | 72 : [-stres,-lo] > ə 
-*#mˌondˈanəa# | 75 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
-*#məndˈanəa# | 84 : [-prim,-hi,-lo] > ə 
+*#mˌontˈanəa# | 75 : [-stres,-lo] > ə 
+*#mˌondˈanəa# | 78 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#məndˈanəa# | 88 : [-prim,-hi,-lo] > ə 
 Final form : *#məndˈanəa#

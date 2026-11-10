@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 641:
 #fˈakiem# >>> *#fˈat͡ʃjə# ( GOLD : #fˈat͡ʃːə#) :
 f ˈa k i e m 
-*#fˈakjem# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#fˈakjem# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#fˈakjem#
-*#fˈakjɛm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈakjɛ# | 16 : [+cons] > ∅ / __ #
-*#fˈat͡ʃjɛ# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#fˈat͡ʃje# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˈakjɛm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈakjɛ# | 19 : [+cons] > ∅ / __ #
+*#fˈat͡ʃjɛ# | 22 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#fˈat͡ʃje# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#fˈat͡ʃje#
-*#fˈat͡ʃjə# | 72 : [-stres,-lo] > ə 
+*#fˈat͡ʃjə# | 75 : [-stres,-lo] > ə 
 Final form : *#fˈat͡ʃjə#

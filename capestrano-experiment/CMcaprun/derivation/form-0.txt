@@ -2,13 +2,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #trˌiːɡˈintam# >>> *#tɾijˈenda# ( GOLD : #tɾˈentə#) :
 t r ˌiː ɡ ˈi n t a m 
 Proto-Romance stage form : *#trˌiːɡˈintam#
-*#trˌiːɡˈɪntam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#trˌiɡˈɪntam# | 7 : [+syl] > [-long,-splng] 
-*#trˌiɡˈɪnta# | 16 : [+cons] > ∅ / __ #
-*#trˌijˈɪnta# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#trˌijˈenta# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#trˌiːɡˈɪntam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#trˌiɡˈɪntam# | 10 : [+syl] > [-long,-splng] 
+*#trˌiɡˈɪnta# | 19 : [+cons] > ∅ / __ #
+*#trˌijˈɪnta# | 22 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#trˌijˈenta# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#trˌijˈenta#
-*#trˌijˈenda# | 75 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
-*#tɾˌijˈenda# | 82 : r > ɾ 
-*#tɾijˈenda# | 88 : [-prim] > [-stres,-prim,+syl,+son] 
+*#trˌijˈenda# | 78 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#tɾˌijˈenda# | 86 : r > ɾ 
+*#tɾijˈenda# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#tɾijˈenda#

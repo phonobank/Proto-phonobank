@@ -2,15 +2,15 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #bˌilˈankiam# >>> *#ɡəlˈaŋd͡ʒja# ( GOLD : #bilˈand͡ʒɐ#) :
 b ˌi l ˈa n k i a m 
 *#bˌilˈaŋkiam# | 1 : n > ŋ / __ [+back,+cons]
-*#bˌilˈaŋkjam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#bˌilˈaŋkjam# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#bˌilˈaŋkjam#
-*#bˌɪlˈaŋkjam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˌɪlˈaŋkja# | 16 : [+cons] > ∅ / __ #
-*#bˌɪlˈaŋt͡ʃja# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#bˌelˈaŋt͡ʃja# | 32 : [+stres,-prim,+front,-tense] > ˌe 
+*#bˌɪlˈaŋkjam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌɪlˈaŋkja# | 19 : [+cons] > ∅ / __ #
+*#bˌɪlˈaŋt͡ʃja# | 22 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#bˌelˈaŋt͡ʃja# | 35 : [+stres,-prim,+front,-tense] > ˌe 
 Proto-South-Italo-Romance stage form : *#bˌelˈaŋt͡ʃja#
-*#bˌelˈaŋd͡ʒja# | 75 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
-*#vˌelˈaŋd͡ʒja# | 78 : b > v / # __ ( [-prim] ) [+cor,-long] [+lo]
-*#vəlˈaŋd͡ʒja# | 84 : [-prim,-hi,-lo] > ə 
-*#ɡəlˈaŋd͡ʒja# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+*#bˌelˈaŋd͡ʒja# | 78 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#vˌelˈaŋd͡ʒja# | 82 : b > v / # __ ( [-prim] ) [+cor,-long] [+lo]
+*#vəlˈaŋd͡ʒja# | 88 : [-prim,-hi,-lo] > ə 
+*#ɡəlˈaŋd͡ʒja# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
 Final form : *#ɡəlˈaŋd͡ʒja#

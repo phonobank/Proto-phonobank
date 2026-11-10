@@ -1,13 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 691:
 #mˈortuum# >>> *#mˈoɾtvə# ( GOLD : #mˈoɾtə#) :
 m ˈo r t u u m 
-*#mˈortwum# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#mˈortwum# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#mˈortwum#
-*#mˈɔrtwʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɔrtwʊ# | 16 : [+cons] > ∅ / __ #
-*#mˈɔrtvʊ# | 29 : w > v / __ [-cons]
-*#mˈortvo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˈɔrtwʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɔrtwʊ# | 19 : [+cons] > ∅ / __ #
+*#mˈɔrtvʊ# | 32 : w > v / __ [-cons]
+*#mˈortvo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#mˈortvo#
-*#mˈortvə# | 72 : [-stres,-lo] > ə 
-*#mˈoɾtvə# | 82 : r > ɾ 
+*#mˈortvə# | 75 : [-stres,-lo] > ə 
+*#mˈoɾtvə# | 86 : r > ɾ 
 Final form : *#mˈoɾtvə#

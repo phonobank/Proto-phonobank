@@ -2,15 +2,15 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #kˌunˈiːkulum# >>> *#kunˈikjə# ( GOLD : #kunˈijːə#) :
 k ˌu n ˈiː k u l u m 
 Proto-Romance stage form : *#kˌunˈiːkulum#
-*#kˌʊnˈiːkʊlʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌʊnˈikʊlʊm# | 7 : [+syl] > [-long,-splng] 
-*#kˌʊnˈikʊlʊ# | 16 : [+cons] > ∅ / __ #
-*#kˌʊnˈiklʊ# | 28 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#kˌunˈiklʊ# | 33 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌunˈiklo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˌunˈikʎo# | 49 : l > ʎ / [-son,-cor] __
+*#kˌʊnˈiːkʊlʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌʊnˈikʊlʊm# | 10 : [+syl] > [-long,-splng] 
+*#kˌʊnˈikʊlʊ# | 19 : [+cons] > ∅ / __ #
+*#kˌʊnˈiklʊ# | 31 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+*#kˌunˈiklʊ# | 36 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌunˈiklo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌunˈikʎo# | 52 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#kˌunˈikʎo#
-*#kˌunˈikʎə# | 72 : [-stres,-lo] > ə 
-*#kˌunˈikjə# | 85 : {ʎ;ʎː} > {j;jː} 
-*#kunˈikjə# | 88 : [-prim] > [-stres,-prim,+syl,+son] 
+*#kˌunˈikʎə# | 75 : [-stres,-lo] > ə 
+*#kˌunˈikjə# | 89 : {ʎ;ʎː} > {j;jː} 
+*#kunˈikjə# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#kunˈikjə#

@@ -1,15 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 482:
 #wˈoliam# >>> *#ɡˈɔjːa# ( GOLD : #ɡˈulia#) :
 w ˈo l i a m 
-*#wˈoljam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#wˈoljam# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#wˈoljam#
-*#wˈɔljam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈɔlja# | 16 : [+cons] > ∅ / __ #
-*#vˈɔlja# | 29 : w > v / __ [-cons]
-*#vˈɞˤlja# | 37 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#vˈɔlja# | 41 : [+lo,-tense,+round] > [-lo] 
-*#vˈɔʎːa# | 50 : l j > ʎː 
+*#wˈɔljam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈɔlja# | 19 : [+cons] > ∅ / __ #
+*#vˈɔlja# | 32 : w > v / __ [-cons]
+*#vˈɞˤlja# | 40 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#vˈɔlja# | 44 : [+lo,-tense,+round] > [-lo] 
+*#vˈɔʎːa# | 53 : l j > ʎː 
 Proto-South-Italo-Romance stage form : *#vˈɔʎːa#
-*#vˈɔjːa# | 85 : {ʎ;ʎː} > {j;jː} 
-*#ɡˈɔjːa# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+*#vˈɔjːa# | 89 : {ʎ;ʎː} > {j;jː} 
+*#ɡˈɔjːa# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
 Final form : *#ɡˈɔjːa#

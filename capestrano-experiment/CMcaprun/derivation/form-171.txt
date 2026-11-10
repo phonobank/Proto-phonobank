@@ -1,13 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 171:
 #lˈolium# >>> *#lˈojːə# ( GOLD : #jˈɔjːə#) :
 l ˈo l i u m 
-*#lˈoljum# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#lˈoljum# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#lˈoljum#
-*#lˈɔljʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˈɔljʊ# | 16 : [+cons] > ∅ / __ #
-*#lˈoljo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#lˈoʎːo# | 50 : l j > ʎː 
+*#lˈɔljʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈɔljʊ# | 19 : [+cons] > ∅ / __ #
+*#lˈoljo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#lˈoʎːo# | 53 : l j > ʎː 
 Proto-South-Italo-Romance stage form : *#lˈoʎːo#
-*#lˈoʎːə# | 72 : [-stres,-lo] > ə 
-*#lˈojːə# | 85 : {ʎ;ʎː} > {j;jː} 
+*#lˈoʎːə# | 75 : [-stres,-lo] > ə 
+*#lˈojːə# | 89 : {ʎ;ʎː} > {j;jː} 
 Final form : *#lˈojːə#

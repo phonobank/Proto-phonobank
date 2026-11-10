@@ -1,15 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 238:
 #ˌekstraktiˈaː# >>> *#stɾat͡ʃːjˈa# ( GOLD : #stɾat͡ʃːˈa#) :
 ˌe k s t r a k t i ˈaː 
-*#ˌekstraktjˈaː# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#ˌekstraktjˈaː# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˌekstraktjˈaː#
-*#ˌɛkstraktjˈaː# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɛkstraktjˈa# | 7 : [+syl] > [-long,-splng] 
-*#ˌɛsːtratːjˈa# | 14 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
-*#ˌɛstratːjˈa# | 18 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#ˌestratːjˈa# | 32 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌestrat͡ʃːjˈa# | 54 : tː > t͡ʃː / __ j
+*#ˌɛkstraktjˈaː# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛkstraktjˈa# | 10 : [+syl] > [-long,-splng] 
+*#ˌɛsːtratːjˈa# | 17 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
+*#ˌɛstratːjˈa# | 21 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˌestratːjˈa# | 35 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌestrat͡ʃːjˈa# | 57 : tː > t͡ʃː / __ j
 Proto-South-Italo-Romance stage form : *#ˌestrat͡ʃːjˈa#
-*#strat͡ʃːjˈa# | 73 : [-prim,-lo] > ∅ / # __
-*#stɾat͡ʃːjˈa# | 82 : r > ɾ 
+*#strat͡ʃːjˈa# | 76 : [-prim,-lo] > ∅ / # __
+*#stɾat͡ʃːjˈa# | 86 : r > ɾ 
 Final form : *#stɾat͡ʃːjˈa#

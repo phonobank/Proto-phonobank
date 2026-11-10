@@ -2,14 +2,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ɡˌenˈestram# >>> *#jənˈæstɾa# ( GOLD : #jenˈestɾa#) :
 ɡ ˌe n ˈe s t r a m 
 Proto-Romance stage form : *#ɡˌenˈestram#
-*#ɡˌɛnˈɛstram# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˌɛnˈɛstram# | 10 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˌɛnˈɛstram# | 11 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-*#ɡˌɛnˈɛstra# | 16 : [+cons] > ∅ / __ #
-*#jˌɛnˈɛstra# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#jˌenˈɛstra# | 32 : [+stres,-prim,+front,-tense] > ˌe 
-*#jˌenˈæstra# | 37 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ɡˌɛnˈɛstram# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˌɛnˈɛstram# | 13 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛnˈɛstram# | 14 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+*#ɡˌɛnˈɛstra# | 19 : [+cons] > ∅ / __ #
+*#jˌɛnˈɛstra# | 22 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#jˌenˈɛstra# | 35 : [+stres,-prim,+front,-tense] > ˌe 
+*#jˌenˈæstra# | 40 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 Proto-South-Italo-Romance stage form : *#jˌenˈæstra#
-*#jˌenˈæstɾa# | 82 : r > ɾ 
-*#jənˈæstɾa# | 84 : [-prim,-hi,-lo] > ə 
+*#jˌenˈæstɾa# | 86 : r > ɾ 
+*#jənˈæstɾa# | 88 : [-prim,-hi,-lo] > ə 
 Final form : *#jənˈæstɾa#

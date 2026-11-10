@@ -2,11 +2,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #wˈoːs# >>> *#ɡˈu# ( GOLD : #vˈu#) :
 w ˈoː s 
 Proto-Romance stage form : *#wˈoːs#
-*#wˈos# | 7 : [+syl] > [-long,-splng] 
-*#wˈoj# | 15 : s > j / # ( [-syl] )* [+syl] ( [-syl] ) __ #
-*#vˈoj# | 29 : w > v / __ [-cons]
-*#vˈuj# | 30 : [+syl,+round] > [+hi] / __ j
-*#vˈu# | 31 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
+*#wˈos# | 10 : [+syl] > [-long,-splng] 
+*#wˈoj# | 18 : s > j / # ( [-syl] )* [+syl] ( [-syl] ) __ #
+*#vˈoj# | 32 : w > v / __ [-cons]
+*#vˈuj# | 33 : [+syl,+round] > [+hi] / __ j
+*#vˈu# | 34 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
 Proto-South-Italo-Romance stage form : *#vˈu#
-*#ɡˈu# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+*#ɡˈu# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
 Final form : *#ɡˈu#

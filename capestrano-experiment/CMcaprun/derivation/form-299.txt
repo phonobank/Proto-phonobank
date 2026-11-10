@@ -1,15 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 299:
 #ˌawaːrˈitiam# >>> *#avaɾˈitja# ( GOLD : #avaɾˈit͡sja#) :
 ˌa w aː r ˈi t i a m 
-*#ˌawaːrˈitjam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#ˌawaːrˈitjam# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˌawaːrˈitjam#
-*#ˌawaːrˈɪtjam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌawarˈɪtjam# | 7 : [+syl] > [-long,-splng] 
-*#ˌawarˈɪtja# | 16 : [+cons] > ∅ / __ #
-*#ˌavarˈɪtja# | 29 : w > v / __ [-cons]
-*#ˌavarˈitja# | 34 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
+*#ˌawaːrˈɪtjam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌawarˈɪtjam# | 10 : [+syl] > [-long,-splng] 
+*#ˌawarˈɪtja# | 19 : [+cons] > ∅ / __ #
+*#ˌavarˈɪtja# | 32 : w > v / __ [-cons]
+*#ˌavarˈitja# | 37 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
 Proto-South-Italo-Romance stage form : *#ˌavarˈitja#
-*#ˌavˌarˈitja# | 70 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌavˌaɾˈitja# | 82 : r > ɾ 
-*#avaɾˈitja# | 88 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌavˌarˈitja# | 73 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌavˌaɾˈitja# | 86 : r > ɾ 
+*#avaɾˈitja# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#avaɾˈitja#

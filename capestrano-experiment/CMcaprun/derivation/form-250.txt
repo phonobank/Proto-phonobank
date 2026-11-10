@@ -2,14 +2,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ˌaddˌormˈiː# >>> *#adːuɾmˈi# ( GOLD : #adːəɾmˈi#) :
 ˌa d d ˌo r m ˈiː 
 Proto-Romance stage form : *#ˌaddˌormˈiː#
-*#ˌaddˌɔrmˈiː# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌaddˌɔrmˈi# | 7 : [+syl] > [-long,-splng] 
-*#ˌaddˌormˈi# | 33 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌadːˌormˈi# | 48 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ˌaddˌɔrmˈiː# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌaddˌɔrmˈi# | 10 : [+syl] > [-long,-splng] 
+*#ˌaddˌormˈi# | 36 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌadːˌormˈi# | 51 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#ˌadːˌormˈi#
-*#ˌadːˌurmˈi# | 68 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#ˌadːurmˈi# | 69 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌadːˌurmˈi# | 70 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌadːˌuɾmˈi# | 82 : r > ɾ 
-*#adːuɾmˈi# | 88 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌadːˌurmˈi# | 71 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#ˌadːurmˈi# | 72 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌadːˌurmˈi# | 73 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌadːˌuɾmˈi# | 86 : r > ɾ 
+*#adːuɾmˈi# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#adːuɾmˈi#

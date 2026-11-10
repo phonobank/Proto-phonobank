@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 194:
-#rˌapʰanˈellum# >>> *#ɾapʰanˈelːə# ( GOLD : #ɾafanˈejːə#) :
+#rˌapʰanˈellum# >>> *#ɾafanˈelːə# ( GOLD : #ɾafanˈejːə#) :
 r ˌa pʰ a n ˈe l l u m 
-Proto-Romance stage form : *#rˌapʰanˈellum#
-*#rˌapʰanˈɛllʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#rˌapʰanˈɛllʊ# | 16 : [+cons] > ∅ / __ #
-*#rˌapʰanˈello# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#rˌapʰanˈelːo# | 48 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#rˌapʰanˈelːo#
-*#rˌapʰanˈelːə# | 72 : [-stres,-lo] > ə 
-*#ɾˌapʰanˈelːə# | 82 : r > ɾ 
-*#ɾapʰanˈelːə# | 88 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ɾapʰanˈelːə#
+*#rˌafanˈellum# | 5 : pʰ > f 
+Proto-Romance stage form : *#rˌafanˈellum#
+*#rˌafanˈɛllʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌafanˈɛllʊ# | 19 : [+cons] > ∅ / __ #
+*#rˌafanˈello# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˌafanˈelːo# | 51 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#rˌafanˈelːo#
+*#rˌafanˈelːə# | 75 : [-stres,-lo] > ə 
+*#ɾˌafanˈelːə# | 86 : r > ɾ 
+*#ɾafanˈelːə# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ɾafanˈelːə#

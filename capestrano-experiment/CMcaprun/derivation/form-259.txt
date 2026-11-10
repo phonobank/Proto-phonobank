@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 259:
 #ˈaskiam# >>> *#ˈaʃja# ( GOLD : #ˈaʃːə#) :
 ˈa s k i a m 
-*#ˈaskjam# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#ˈaskjam# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˈaskjam#
-*#ˈaskja# | 16 : [+cons] > ∅ / __ #
-*#ˈast͡ʃja# | 19 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#ˈaʃja# | 53 : s t͡ʃ > ʃ 
+*#ˈaskja# | 19 : [+cons] > ∅ / __ #
+*#ˈast͡ʃja# | 22 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#ˈaʃja# | 56 : s t͡ʃ > ʃ 
 Proto-South-Italo-Romance stage form : *#ˈaʃja#
-*#ˈaʃjˌa# | 70 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈaʃja# | 88 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˈaʃjˌa# | 73 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈaʃja# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#ˈaʃja#

@@ -2,13 +2,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #wˈeːrum# >>> *#ɡˈeɾə# ( GOLD : #vˈeɾə#) :
 w ˈeː r u m 
 Proto-Romance stage form : *#wˈeːrum#
-*#wˈeːrʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈerʊm# | 7 : [+syl] > [-long,-splng] 
-*#wˈerʊ# | 16 : [+cons] > ∅ / __ #
-*#vˈerʊ# | 29 : w > v / __ [-cons]
-*#vˈero# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˈeːrʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈerʊm# | 10 : [+syl] > [-long,-splng] 
+*#wˈerʊ# | 19 : [+cons] > ∅ / __ #
+*#vˈerʊ# | 32 : w > v / __ [-cons]
+*#vˈero# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˈero#
-*#vˈerə# | 72 : [-stres,-lo] > ə 
-*#vˈeɾə# | 82 : r > ɾ 
-*#ɡˈeɾə# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+*#vˈerə# | 75 : [-stres,-lo] > ə 
+*#vˈeɾə# | 86 : r > ɾ 
+*#ɡˈeɾə# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
 Final form : *#ɡˈeɾə#

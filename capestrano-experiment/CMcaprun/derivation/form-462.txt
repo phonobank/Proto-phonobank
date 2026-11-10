@@ -2,12 +2,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #wˈiːneam# >>> *#ɡˈinəa# ( GOLD : #vˈiɲa#) :
 w ˈiː n e a m 
 Proto-Romance stage form : *#wˈiːneam#
-*#wˈiːnɛam# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈinɛam# | 7 : [+syl] > [-long,-splng] 
-*#wˈinɛa# | 16 : [+cons] > ∅ / __ #
-*#vˈinɛa# | 29 : w > v / __ [-cons]
-*#vˈinea# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˈiːnɛam# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈinɛam# | 10 : [+syl] > [-long,-splng] 
+*#wˈinɛa# | 19 : [+cons] > ∅ / __ #
+*#vˈinɛa# | 32 : w > v / __ [-cons]
+*#vˈinea# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˈinea#
-*#vˈinəa# | 72 : [-stres,-lo] > ə 
-*#ɡˈinəa# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+*#vˈinəa# | 75 : [-stres,-lo] > ə 
+*#ɡˈinəa# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
 Final form : *#ɡˈinəa#

@@ -2,14 +2,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #sˌepˈulkrum# >>> *#səpˈolɡɾə# ( GOLD : #səpˈulɡɾə#) :
 s ˌe p ˈu l k r u m 
 Proto-Romance stage form : *#sˌepˈulkrum#
-*#sˌɛpˈʊlkrʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌɛpˈʊlkrʊ# | 16 : [+cons] > ∅ / __ #
-*#sˌepˈʊlkrʊ# | 32 : [+stres,-prim,+front,-tense] > ˌe 
-*#sˌepˈolkrʊ# | 38 : ˈʊ > ˈo / __ @ @
-*#sˌepˈolkro# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˌɛpˈʊlkrʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌɛpˈʊlkrʊ# | 19 : [+cons] > ∅ / __ #
+*#sˌepˈʊlkrʊ# | 35 : [+stres,-prim,+front,-tense] > ˌe 
+*#sˌepˈolkrʊ# | 41 : ˈʊ > ˈo / __ @ @
+*#sˌepˈolkro# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#sˌepˈolkro#
-*#sˌepˈolkrə# | 72 : [-stres,-lo] > ə 
-*#sˌepˈolɡrə# | 76 : [-voi,-lab] > [+voi,-cont,+cons,0tense] / [+lat] __
-*#sˌepˈolɡɾə# | 82 : r > ɾ 
-*#səpˈolɡɾə# | 84 : [-prim,-hi,-lo] > ə 
+*#sˌepˈolkrə# | 75 : [-stres,-lo] > ə 
+*#sˌepˈolɡrə# | 80 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
+*#sˌepˈolɡɾə# | 86 : r > ɾ 
+*#səpˈolɡɾə# | 88 : [-prim,-hi,-lo] > ə 
 Final form : *#səpˈolɡɾə#

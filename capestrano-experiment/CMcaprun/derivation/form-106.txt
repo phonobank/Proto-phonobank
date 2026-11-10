@@ -1,11 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 106:
-#sˈulpʰur# >>> *#sˈolpʰə# ( GOLD : #t͡sˈolfə#) :
+#sˈulpʰur# >>> *#sˈolfə# ( GOLD : #t͡sˈolfə#) :
 s ˈu l pʰ u r 
-Proto-Romance stage form : *#sˈulpʰur#
-*#sˈʊlpʰʊr# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈʊlpʰʊ# | 16 : [+cons] > ∅ / __ #
-*#sˈolpʰʊ# | 38 : ˈʊ > ˈo / __ @ @
-*#sˈolpʰo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˈolpʰo#
-*#sˈolpʰə# | 72 : [-stres,-lo] > ə 
-Final form : *#sˈolpʰə#
+*#sˈulfur# | 5 : pʰ > f 
+Proto-Romance stage form : *#sˈulfur#
+*#sˈʊlfʊr# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈʊlfʊ# | 19 : [+cons] > ∅ / __ #
+*#sˈolfʊ# | 41 : ˈʊ > ˈo / __ @ @
+*#sˈolfo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˈolfo#
+*#sˈolfə# | 75 : [-stres,-lo] > ə 
+Final form : *#sˈolfə#

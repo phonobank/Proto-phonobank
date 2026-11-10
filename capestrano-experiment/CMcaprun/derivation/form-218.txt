@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 218:
-#ˌiːnflammˈaː# >>> *#m?2jamːˈa# ( GOLD : #mbjamːˈa#) :
+#ˌiːnflammˈaː# >>> *#mbjamːˈa# ( GOLD : #mbjamːˈa#) :
 ˌiː n f l a m m ˈaː 
 *#ˌiːmflammˈaː# | 0 : n > m / __ [+lab,+cons]
 Proto-Romance stage form : *#ˌiːmflammˈaː#
-*#ˌimflammˈa# | 7 : [+syl] > [-long,-splng] 
-*#ˌimflamːˈa# | 43 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#ˌimfʎamːˈa# | 49 : l > ʎ / [-son,-cor] __
+*#ˌimflammˈa# | 10 : [+syl] > [-long,-splng] 
+*#ˌimflamːˈa# | 46 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˌimfʎamːˈa# | 52 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌimfʎamːˈa#
-*#mfʎamːˈa# | 73 : [-prim,-lo] > ∅ / # __
-*#m?2ʎamːˈa# | 75 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
-*#m?2jamːˈa# | 85 : {ʎ;ʎː} > {j;jː} 
-Final form : *#m?2jamːˈa#
+*#mfʎamːˈa# | 76 : [-prim,-lo] > ∅ / # __
+*#mb͡vʎamːˈa# | 78 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbʎamːˈa# | 79 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#mbjamːˈa# | 89 : {ʎ;ʎː} > {j;jː} 
+Final form : *#mbjamːˈa#

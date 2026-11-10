@@ -1,10 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 682:
-#mˈaːkʰina# >>> *#mˈakʰəna# ( GOLD : #mˈad͡ʒena#) :
+#mˈaːkʰina# >>> *#mˈat͡ʃəna# ( GOLD : #mˈad͡ʒena#) :
 m ˈaː kʰ i n a 
-Proto-Romance stage form : *#mˈaːkʰina#
-*#mˈaːkʰɪna# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈakʰɪna# | 7 : [+syl] > [-long,-splng] 
-*#mˈakʰena# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈakʰena#
-*#mˈakʰəna# | 72 : [-stres,-lo] > ə 
-Final form : *#mˈakʰəna#
+*#mˈaːkina# | 6 : [+cons] > [-sg] 
+Proto-Romance stage form : *#mˈaːkina#
+*#mˈaːkɪna# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈakɪna# | 10 : [+syl] > [-long,-splng] 
+*#mˈat͡ʃɪna# | 22 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#mˈat͡ʃena# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈat͡ʃena#
+*#mˈat͡ʃəna# | 75 : [-stres,-lo] > ə 
+Final form : *#mˈat͡ʃəna#

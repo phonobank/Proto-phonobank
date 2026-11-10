@@ -3,12 +3,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 t r ˈu n k u m 
 *#trˈuŋkum# | 1 : n > ŋ / __ [+back,+cons]
 Proto-Romance stage form : *#trˈuŋkum#
-*#trˈʊŋkʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#trˈʊŋkʊ# | 16 : [+cons] > ∅ / __ #
-*#trˈoŋkʊ# | 38 : ˈʊ > ˈo / __ @ @
-*#trˈoŋko# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#trˈʊŋkʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#trˈʊŋkʊ# | 19 : [+cons] > ∅ / __ #
+*#trˈoŋkʊ# | 41 : ˈʊ > ˈo / __ @ @
+*#trˈoŋko# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#trˈoŋko#
-*#trˈoŋkə# | 72 : [-stres,-lo] > ə 
-*#trˈoŋɡə# | 75 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
-*#tɾˈoŋɡə# | 82 : r > ɾ 
+*#trˈoŋkə# | 75 : [-stres,-lo] > ə 
+*#trˈoŋɡə# | 78 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#tɾˈoŋɡə# | 86 : r > ɾ 
 Final form : *#tɾˈoŋɡə#

@@ -13,6 +13,13 @@ $ LIIb ae merges to short e > ɛ
 $ LXVa loss of h
 h > ∅
 
+$ MANUAL FIX, ph > f, other Greek aspirates deaspirated. Seems shared with at least Romanian.
+pʰ > f
+[+cons] > [-sg]
+
+$ shared with French and Albano-Romance it seems éolu > eólu etc.
+[+prim,+front] o > [-stres] ˈo / __ l [-stres] 
+
 $ LXVb gliding of i and u in hiatus 
 [+hi,-prim] > [-syl] / __ [+syl]
 
@@ -318,8 +325,9 @@ $ LXXa, LXXXc gr > r. Not fed by nkr lkr to ngr ngr via XVIId/LIXc.
 ɡ > ∅ / # __ r
 
 $ XVIId LIXc voiceless obstruents after nasals and l to voiced stops. San Francesco as sambranʃiske, aŋgora for aŋkora. Does not feed nd > nn. Includes LXXXIa ls ns to ldz ndz, and LXXXIb lt to ld . p86-- does NOT occur for lp -- or, MANUAL INFERENCE (FIX), lf 
-[-voi] > [+voi,-cont] / [+nas] __
-[-voi,-lab] > [+voi,-cont] / [+lat] __
+[-voi,sstrid] > [+voi,-cont,sdelrel] / [+nas] __
+[+lab,-cont] > [-delrel,-strid] $bandaid
+[-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel] / [+lat] __
 
 
 $ XXXVIa only ə and a (~ ɐ?) in unstressed final position

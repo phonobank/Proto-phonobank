@@ -2,12 +2,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #sˈerpeːns# >>> *#sˈeɾpə# ( GOLD : #sˈeɾpə#) :
 s ˈe r p eː n s 
 Proto-Romance stage form : *#sˈerpeːns#
-*#sˈɛrpeːns# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɛrpens# | 7 : [+syl] > [-long,-splng] 
-*#sˈɛrpen# | 16 : [+cons] > ∅ / __ #
-*#sˈɛrpe# | 17 : [+cons] > ∅ / __ #
-*#sˈerpe# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˈɛrpeːns# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɛrpens# | 10 : [+syl] > [-long,-splng] 
+*#sˈɛrpen# | 19 : [+cons] > ∅ / __ #
+*#sˈɛrpe# | 20 : [+cons] > ∅ / __ #
+*#sˈerpe# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#sˈerpe#
-*#sˈerpə# | 72 : [-stres,-lo] > ə 
-*#sˈeɾpə# | 82 : r > ɾ 
+*#sˈerpə# | 75 : [-stres,-lo] > ə 
+*#sˈeɾpə# | 86 : r > ɾ 
 Final form : *#sˈeɾpə#

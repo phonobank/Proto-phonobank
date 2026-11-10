@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 661:
-#mˈeːnsem# >>> *#mˈen?1ə# ( GOLD : #mˈesə#) :
+#mˈeːnsem# >>> *#mˈend͡zə# ( GOLD : #mˈesə#) :
 m ˈeː n s e m 
 Proto-Romance stage form : *#mˈeːnsem#
-*#mˈeːnsɛm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈensɛm# | 7 : [+syl] > [-long,-splng] 
-*#mˈensɛ# | 16 : [+cons] > ∅ / __ #
-*#mˈense# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˈeːnsɛm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈensɛm# | 10 : [+syl] > [-long,-splng] 
+*#mˈensɛ# | 19 : [+cons] > ∅ / __ #
+*#mˈense# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#mˈense#
-*#mˈensə# | 72 : [-stres,-lo] > ə 
-*#mˈen?1ə# | 75 : [-voi] > [+voi,-cont,+cons,0tense] / [+nas] __
-Final form : *#mˈen?1ə#
+*#mˈensə# | 75 : [-stres,-lo] > ə 
+*#mˈend͡zə# | 78 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#mˈend͡zə#

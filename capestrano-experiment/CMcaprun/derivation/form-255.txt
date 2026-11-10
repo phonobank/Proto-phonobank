@@ -1,14 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 255:
 #ˌadultˈerium# >>> *#adəldˈeɾjə# ( GOLD : #adultˈeɾjə#) :
 ˌa d u l t ˈe r i u m 
-*#ˌadultˈerjum# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#ˌadultˈerjum# | 8 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˌadultˈerjum#
-*#ˌadʊltˈɛrjʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌadʊltˈɛrjʊ# | 16 : [+cons] > ∅ / __ #
-*#ˌadoltˈerjo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌadʊltˈɛrjʊm# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌadʊltˈɛrjʊ# | 19 : [+cons] > ∅ / __ #
+*#ˌadoltˈerjo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌadoltˈerjo#
-*#ˌadəltˈerjə# | 72 : [-stres,-lo] > ə 
-*#ˌadəldˈerjə# | 76 : [-voi,-lab] > [+voi,-cont,+cons,0tense] / [+lat] __
-*#ˌadəldˈeɾjə# | 82 : r > ɾ 
-*#adəldˈeɾjə# | 88 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌadəltˈerjə# | 75 : [-stres,-lo] > ə 
+*#ˌadəldˈerjə# | 80 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
+*#ˌadəldˈeɾjə# | 86 : r > ɾ 
+*#adəldˈeɾjə# | 92 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#adəldˈeɾjə#

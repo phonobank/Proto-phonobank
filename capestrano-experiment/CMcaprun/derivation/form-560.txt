@@ -2,9 +2,9 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #pˈost# >>> *#pˈo# ( GOLD : #pˈɔ#) :
 p ˈo s t 
 Proto-Romance stage form : *#pˈost#
-*#pˈɔst# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɔs# | 16 : [+cons] > ∅ / __ #
-*#pˈɔ# | 17 : [+cons] > ∅ / __ #
-*#pˈo# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˈɔst# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɔs# | 19 : [+cons] > ∅ / __ #
+*#pˈɔ# | 20 : [+cons] > ∅ / __ #
+*#pˈo# | 43 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#pˈo#
 Final form : *#pˈo#

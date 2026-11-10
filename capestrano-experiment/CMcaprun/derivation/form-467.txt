@@ -2,13 +2,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #wˈiːperam# >>> *#ɡˈipːɾa# ( GOLD : #vˈipəɾa#) :
 w ˈiː p e r a m 
 Proto-Romance stage form : *#wˈiːperam#
-*#wˈiːpɛram# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈipɛram# | 7 : [+syl] > [-long,-splng] 
-*#wˈipɛra# | 16 : [+cons] > ∅ / __ #
-*#wˈipra# | 28 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#vˈipra# | 29 : w > v / __ [-cons]
-*#vˈipːra# | 47 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
+*#wˈiːpɛram# | 9 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈipɛram# | 10 : [+syl] > [-long,-splng] 
+*#wˈipɛra# | 19 : [+cons] > ∅ / __ #
+*#wˈipra# | 31 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+*#vˈipra# | 32 : w > v / __ [-cons]
+*#vˈipːra# | 50 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
 Proto-South-Italo-Romance stage form : *#vˈipːra#
-*#vˈipːɾa# | 82 : r > ɾ 
-*#ɡˈipːɾa# | 86 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
+*#vˈipːɾa# | 86 : r > ɾ 
+*#ɡˈipːɾa# | 90 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __
 Final form : *#ɡˈipːɾa#
