@@ -1,11 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 677:
-#mˈakulam# >>> *#mˈakwəla# ( GOLD : #mˈakːja#) :
-m ˈa k u l a m 
-Proto-Romance stage form : *#mˈakulam#
-*#mˈakʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈakʊla# | 29 : [+cons] > ∅ / __ #
-*#mˈakwʊla# | 38 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
-*#mˈakwula# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈakwula#
-*#mˈakwəla# | 79 : [-stres,-lo] > ə 
-Final form : *#mˈakwəla#
+#mˌontˈaːneam# >>> *#məndˈaɲa# ( GOLD : #məndˈaɲa#) :
+m ˌo n t ˈaː n e a m 
+*#mˌontˈaːniam# | 8 : [-prim,-lo] > [+hi] / __ [+lo]
+*#mˌontˈaːnjam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#mˌontˈaːnjam#
+*#mˌɔntˈaːnjam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɔntˈanjam# | 12 : [+syl] > [-long,-splng] 
+*#mˌɔntˈaɲam# | 25 : n j > ɲ 
+*#mˌɔntˈaɲa# | 30 : [+cons] > ∅ / __ #
+*#mˌontˈaɲa# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌontˈaɲa#
+*#mˌondˈaɲa# | 83 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#məndˈaɲa# | 93 : [-prim,-hi,-lo] > ə 
+Final form : *#məndˈaɲa#

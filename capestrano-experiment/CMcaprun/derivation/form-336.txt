@@ -1,10 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 336:
-#krˈypta# >>> *#kɾˈytːa# ( GOLD : #ɾˈɔtːa#) :
-k r ˈy p t a 
-Proto-Romance stage form : *#krˈypta#
-*#krˈʏpta# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#krˈypta# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#krˈytːa# | 27 : [+lab,-son] [+cor,-son] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#krˈytːa#
-*#kɾˈytːa# | 90 : r > ɾ 
-Final form : *#kɾˈytːa#
+#kˈilium# >>> *#t͡ʃˈijːə# ( GOLD : #t͡ʃˈijːə#) :
+k ˈi l i u m 
+*#kˈiljum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#kˈiljum#
+*#kˈɪljʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˈɪljʊm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˈiljʊm# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#t͡ʃˈiʎːʊm# | 26 : l j > ʎː 
+*#t͡ʃˈiʎːʊ# | 30 : [+cons] > ∅ / __ #
+*#t͡ʃˈiʎːu# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#t͡ʃˈiʎːu#
+*#t͡ʃˈiʎːə# | 80 : [-stres,-lo] > ə 
+*#t͡ʃˈijːə# | 94 : {ʎ;ʎː} > {j;jː} 
+Final form : *#t͡ʃˈijːə#

@@ -1,13 +1,16 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 710:
-#kʰrˌiːstiˈaːniː# >>> *#kɾistʲjˈanə# ( GOLD : #kɾistiˈenə#) :
-kʰ r ˌiː s t i ˈaː n iː 
-*#krˌiːstiˈaːniː# | 6 : [+cons] > [-sg] 
-*#krˌiːstjˈaːniː# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#krˌiːstjˈaːniː#
-*#krˌistjˈani# | 12 : [+syl] > [-long,-splng] 
-*#krˌistʲjˈani# | 20 : t > tʲ / __ j
-Proto-South-Italo-Romance stage form : *#krˌistʲjˈani#
-*#krˌistʲjˈanə# | 79 : [-stres,-lo] > ə 
-*#kɾˌistʲjˈanə# | 90 : r > ɾ 
-*#kɾistʲjˈanə# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
+#kʰrˌiːstiˈaːnum# >>> *#kɾistʲjˈanə# ( GOLD : #kɾistiˈanə#) :
+kʰ r ˌiː s t i ˈaː n u m 
+*#krˌiːstiˈaːnum# | 6 : [+cons] > [-sg] 
+*#krˌiːstjˈaːnum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#krˌiːstjˈaːnum#
+*#krˌiːstjˈaːnʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˌistjˈanʊm# | 12 : [+syl] > [-long,-splng] 
+*#krˌistʲjˈanʊm# | 20 : t > tʲ / __ j
+*#krˌistʲjˈanʊ# | 30 : [+cons] > ∅ / __ #
+*#krˌistʲjˈanu# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#krˌistʲjˈanu#
+*#krˌistʲjˈanə# | 80 : [-stres,-lo] > ə 
+*#kɾˌistʲjˈanə# | 91 : r > ɾ 
+*#kɾistʲjˈanə# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#kɾistʲjˈanə#

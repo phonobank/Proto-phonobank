@@ -1,10 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 615:
-#fˈiːkora# >>> *#fˈikɾa# ( GOLD : #fˈiːkwəɾa#) :
-f ˈiː k o r a 
-Proto-Romance stage form : *#fˈiːkora#
-*#fˈiːkɔra# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈikɔra# | 12 : [+syl] > [-long,-splng] 
-*#fˈikra# | 39 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-Proto-South-Italo-Romance stage form : *#fˈikra#
-*#fˈikɾa# | 90 : r > ɾ 
-Final form : *#fˈikɾa#
+#fˈiːbulam# >>> *#fˈibːja# ( GOLD : #fˈibːja#) :
+f ˈiː b u l a m 
+Proto-Romance stage form : *#fˈiːbulam#
+*#fˈiːbʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈibʊlam# | 12 : [+syl] > [-long,-splng] 
+*#fˈibʊla# | 30 : [+cons] > ∅ / __ #
+*#fˈibla# | 40 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+*#fˈibʎa# | 59 : l > ʎ / [-son,-cor] __
+*#fˈibːʎa# | 60 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+Proto-South-Italo-Romance stage form : *#fˈibːʎa#
+*#fˈibːja# | 94 : {ʎ;ʎː} > {j;jː} 
+Final form : *#fˈibːja#

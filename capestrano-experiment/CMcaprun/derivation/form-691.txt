@@ -1,15 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 691:
-#mˌulinˈaːrium# >>> *#mulənˈaɾjə# ( GOLD : #mulinˈaɾə#) :
-m ˌu l i n ˈaː r i u m 
-*#mˌulinˈaːrjum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#mˌulinˈaːrjum#
-*#mˌʊlɪnˈaːrjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌʊlɪnˈarjʊm# | 12 : [+syl] > [-long,-splng] 
-*#mˌʊlɪnˈarjʊ# | 29 : [+cons] > ∅ / __ #
-*#mˌulɪnˈarju# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˌulenˈarju# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌulenˈarju#
-*#mˌulənˈarjə# | 79 : [-stres,-lo] > ə 
-*#mˌulənˈaɾjə# | 90 : r > ɾ 
-*#mulənˈaɾjə# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#mulənˈaɾjə#
+#mˈuːrum# >>> *#mːˈuɾə# ( GOLD : #mˈuɾə#) :
+m ˈuː r u m 
+Proto-Romance stage form : *#mˈuːrum#
+*#mˈuːrʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈurʊm# | 12 : [+syl] > [-long,-splng] 
+*#mˈurʊ# | 30 : [+cons] > ∅ / __ #
+*#mˈuru# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mːˈuru# | 67 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#mːˈuru#
+*#mːˈurə# | 80 : [-stres,-lo] > ə 
+*#mːˈuɾə# | 91 : r > ɾ 
+Final form : *#mːˈuɾə#

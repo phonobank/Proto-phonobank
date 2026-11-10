@@ -1,15 +1,16 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 301:
-#ˌapplˌikˈaː# >>> *#appːjikˈa# ( GOLD : #apːjəkˈa#) :
-ˌa p p l ˌi k ˈaː 
-Proto-Romance stage form : *#ˌapplˌikˈaː#
-*#ˌapplˌɪkˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌapplˌɪkˈa# | 12 : [+syl] > [-long,-splng] 
-*#ˌapplˌikˈa# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌappːlˌikˈa# | 56 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
-*#ˌappːʎˌikˈa# | 58 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌappːʎˌikˈa#
-*#ˌappːʎikˈa# | 76 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌappːʎˌikˈa# | 77 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌappːjˌikˈa# | 93 : {ʎ;ʎː} > {j;jː} 
-*#appːjikˈa# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#appːjikˈa#
+#ˌapprˌetiˈaː# >>> *#appːɾətʲjˈa# ( GOLD : #apːɾət͡sːˈa#) :
+ˌa p p r ˌe t i ˈaː 
+*#ˌapprˌetjˈaː# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˌapprˌetjˈaː#
+*#ˌapprˌɛtjˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌapprˌɛtjˈa# | 12 : [+syl] > [-long,-splng] 
+*#ˌapprˌɛtʲjˈa# | 20 : t > tʲ / __ j
+*#ˌapprˌetʲjˈa# | 44 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌappːrˌetʲjˈa# | 57 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
+Proto-South-Italo-Romance stage form : *#ˌappːrˌetʲjˈa#
+*#ˌappːretʲjˈa# | 77 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌappːrətʲjˈa# | 80 : [-stres,-lo] > ə 
+*#ˌappːɾətʲjˈa# | 91 : r > ɾ 
+*#appːɾətʲjˈa# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#appːɾətʲjˈa#

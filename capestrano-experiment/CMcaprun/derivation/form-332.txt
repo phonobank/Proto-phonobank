@@ -1,11 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 332:
-#krˌeaːtˈuːram# >>> *#kɾjatˈuɾa# ( GOLD : #kɾeatˈuɾa#) :
-k r ˌe aː t ˈuː r a m 
-*#krˌiaːtˈuːram# | 8 : [-prim,-lo] > [+hi] / __ [+lo]
-*#krjaːtˈuːram# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#krjaːtˈuːram#
-*#krjatˈuram# | 12 : [+syl] > [-long,-splng] 
-*#krjatˈura# | 29 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#krjatˈura#
-*#kɾjatˈuɾa# | 90 : r > ɾ 
-Final form : *#kɾjatˈuɾa#
+#krˌepˈaː# >>> *#kɾəpˈa# ( GOLD : #kɾəpˈa#) :
+k r ˌe p ˈaː 
+Proto-Romance stage form : *#krˌepˈaː#
+*#krˌɛpˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˌɛpˈa# | 12 : [+syl] > [-long,-splng] 
+*#krˌepˈa# | 44 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#krˌepˈa#
+*#kɾˌepˈa# | 91 : r > ɾ 
+*#kɾəpˈa# | 93 : [-prim,-hi,-lo] > ə 
+Final form : *#kɾəpˈa#

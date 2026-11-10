@@ -1,15 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 261:
-#ˌanimˈaːlem# >>> *#animːˈalə# ( GOLD : #alimˈanə#) :
-ˌa n i m ˈaː l e m 
-Proto-Romance stage form : *#ˌanimˈaːlem#
-*#ˌanɪmˈaːlɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌanɪmˈalɛm# | 12 : [+syl] > [-long,-splng] 
-*#ˌanimˈalɛm# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌanimˈalɛ# | 29 : [+cons] > ∅ / __ #
-*#ˌanimˈale# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌanimːˈale# | 66 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#ˌanimːˈale#
-*#ˌanˌimːˈale# | 77 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌanˌimːˈalə# | 79 : [-stres,-lo] > ə 
-*#animːˈalə# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#animːˈalə#
+#ˈanimam# >>> *#ˈanima# ( GOLD : #ˈalma#) :
+ˈa n i m a m 
+Proto-Romance stage form : *#ˈanimam#
+*#ˈanɪmam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈanimam# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˈanima# | 30 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈanima#
+*#ˈanˌima# | 78 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈanima# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈanima#

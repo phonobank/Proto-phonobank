@@ -1,6 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 582:
-#bˈasta# >>> *#bˈasta# ( GOLD : #bːˈasta#) :
-b ˈa s t a 
-Proto-Romance stage form : *#bˈasta#
-Proto-South-Italo-Romance stage form : *#bˈasta#
-Final form : *#bˈasta#
+#bˌasˈilikam# >>> *#baʃˈeləka# ( GOLD : #bːaʃˈiləka#) :
+b ˌa s ˈi l i k a m 
+Proto-Romance stage form : *#bˌasˈilikam#
+*#bˌasˈɪlɪkam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌasˈɪlikam# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#bˌasˈɪlika# | 30 : [+cons] > ∅ / __ #
+*#bˌasˈelika# | 51 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#bˌasˈelika#
+*#bˌaʃˈelika# | 74 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#bˌaʃˈeləka# | 80 : [-stres,-lo] > ə 
+*#baʃˈeləka# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#baʃˈeləka#

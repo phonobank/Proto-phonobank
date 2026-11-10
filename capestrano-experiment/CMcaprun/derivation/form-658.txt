@@ -1,8 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 658:
-#mˈeːla# >>> *#mːˈela# ( GOLD : #mˈijːə#) :
-m ˈeː l a 
-Proto-Romance stage form : *#mˈeːla#
-*#mˈela# | 12 : [+syl] > [-long,-splng] 
-*#mːˈela# | 66 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#mːˈela#
-Final form : *#mːˈela#
+#mˌerkˈaːtum# >>> *#məɾkˈatə# ( GOLD : #məɾkˈatə#) :
+m ˌe r k ˈaː t u m 
+Proto-Romance stage form : *#mˌerkˈaːtum#
+*#mˌɛrkˈaːtʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɛrkˈatʊm# | 12 : [+syl] > [-long,-splng] 
+*#mˌɛrkˈatʊ# | 30 : [+cons] > ∅ / __ #
+*#mˌerkˈatʊ# | 44 : [+stres,-prim,+front,-tense] > ˌe 
+*#mˌerkˈatu# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌerkˈatu#
+*#mˌerkˈatə# | 80 : [-stres,-lo] > ə 
+*#mˌeɾkˈatə# | 91 : r > ɾ 
+*#məɾkˈatə# | 93 : [-prim,-hi,-lo] > ə 
+Final form : *#məɾkˈatə#

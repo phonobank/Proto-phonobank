@@ -1,12 +1,8 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 548:
-#pˈaːɡinam# >>> *#pˈajəna# ( GOLD : #pˈad͡ʒːəna#) :
-p ˈaː ɡ i n a m 
-Proto-Romance stage form : *#pˈaːɡinam#
-*#pˈaːɡɪnam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈaɡɪnam# | 12 : [+syl] > [-long,-splng] 
-*#pˈajɪnam# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#pˈajɪna# | 29 : [+cons] > ∅ / __ #
-*#pˈajena# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˈajena#
-*#pˈajəna# | 79 : [-stres,-lo] > ə 
-Final form : *#pˈajəna#
+#pˌaɡˈaː# >>> *#paɡˈa# ( GOLD : #paɡˈa#) :
+p ˌa ɡ ˈaː 
+Proto-Romance stage form : *#pˌaɡˈaː#
+*#pˌaɡˈa# | 12 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#pˌaɡˈa#
+*#paɡˈa# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#paɡˈa#

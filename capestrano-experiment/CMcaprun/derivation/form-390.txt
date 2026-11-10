@@ -1,19 +1,18 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 390:
-#kˌondikiˈoːnem# >>> *#kunːit͡ʃjˈonə# ( GOLD : #kundit͡sjˈonə#) :
-k ˌo n d i k i ˈoː n e m 
-*#kˌondikjˈoːnem# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#kˌondikjˈoːnem#
-*#kˌɔndɪkjˈoːnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɔndɪkjˈonɛm# | 12 : [+syl] > [-long,-splng] 
-*#kˌɔndɪt͡ʃjˈonɛm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#kˌɔndit͡ʃjˈonɛm# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#kˌɔndit͡ʃjˈonɛ# | 29 : [+cons] > ∅ / __ #
-*#kˌondit͡ʃjˈonɛ# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌondit͡ʃjˈone# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˌonːit͡ʃjˈone# | 53 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#kˌonːit͡ʃjˈone#
-*#kˌunːit͡ʃjˈone# | 75 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌunːˌit͡ʃjˈone# | 78 : i > ˌi / __ ( [-syl] )* j
-*#kˌunːˌit͡ʃjˈonə# | 79 : [-stres,-lo] > ə 
-*#kunːit͡ʃjˈonə# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kunːit͡ʃjˈonə#
+#kˌoːnsˈilium# >>> *#kund͡zˈijːə# ( GOLD : #kund͡zˈijːə#) :
+k ˌoː n s ˈi l i u m 
+*#kˌoːnsˈiljum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#kˌoːnsˈiljum#
+*#kˌoːnsˈɪljʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌonsˈɪljʊm# | 12 : [+syl] > [-long,-splng] 
+*#kˌonsˈiljʊm# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#kˌonsˈiʎːʊm# | 26 : l j > ʎː 
+*#kˌonsˈiʎːʊ# | 30 : [+cons] > ∅ / __ #
+*#kˌonsˈiʎːu# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌonsˈiʎːu#
+*#kˌunsˈiʎːu# | 76 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌunsˈiʎːə# | 80 : [-stres,-lo] > ə 
+*#kˌund͡zˈiʎːə# | 83 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kˌund͡zˈijːə# | 94 : {ʎ;ʎː} > {j;jː} 
+*#kund͡zˈijːə# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kund͡zˈijːə#

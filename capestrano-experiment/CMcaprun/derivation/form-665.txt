@@ -1,9 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 665:
-#mˌaːtuːtˈiːna# >>> *#matətˈina# ( GOLD : #mːatˈina#) :
-m ˌaː t uː t ˈiː n a 
-Proto-Romance stage form : *#mˌaːtuːtˈiːna#
-*#mˌatutˈina# | 12 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#mˌatutˈina#
-*#mˌatətˈina# | 79 : [-stres,-lo] > ə 
-*#matətˈina# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#matətˈina#
+#mˈanum# >>> *#mːˈanə# ( GOLD : #mˈanə#) :
+m ˈa n u m 
+Proto-Romance stage form : *#mˈanum#
+*#mˈanʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈanʊ# | 30 : [+cons] > ∅ / __ #
+*#mˈanu# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mːˈanu# | 67 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#mːˈanu#
+*#mːˈanə# | 80 : [-stres,-lo] > ə 
+Final form : *#mːˈanə#

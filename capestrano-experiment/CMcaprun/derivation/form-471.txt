@@ -1,9 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 471:
-#wˈespa# >>> *#vˈæspa# ( GOLD : #vˈæspa#) :
-w ˈe s p a 
-Proto-Romance stage form : *#wˈespa#
-*#wˈɛspa# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɛspa# | 40 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈæspa# | 47 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#vˈæspa#
-Final form : *#vˈæspa#
+#wˌaːnitˈaː# >>> *#vanətˈa# ( GOLD : #vandˈa#) :
+w ˌaː n i t ˈaː 
+Proto-Romance stage form : *#wˌaːnitˈaː#
+*#wˌaːnɪtˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌanɪtˈa# | 12 : [+syl] > [-long,-splng] 
+*#vˌanɪtˈa# | 41 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˌanetˈa# | 51 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˌanetˈa#
+*#vˌanətˈa# | 80 : [-stres,-lo] > ə 
+*#vanətˈa# | 97 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vanətˈa#

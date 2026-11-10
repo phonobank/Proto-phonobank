@@ -1,18 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 391:
-#kˌoːnsˈilium# >>> *#kund͡zˈijːə# ( GOLD : #kund͡zˈijːə#) :
-k ˌoː n s ˈi l i u m 
-*#kˌoːnsˈiljum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#kˌoːnsˈiljum#
-*#kˌoːnsˈɪljʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌonsˈɪljʊm# | 12 : [+syl] > [-long,-splng] 
-*#kˌonsˈiljʊm# | 24 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#kˌonsˈiʎːʊm# | 26 : l j > ʎː 
-*#kˌonsˈiʎːʊ# | 29 : [+cons] > ∅ / __ #
-*#kˌonsˈiʎːu# | 44 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌonsˈiʎːu#
-*#kˌunsˈiʎːu# | 75 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌunsˈiʎːə# | 79 : [-stres,-lo] > ə 
-*#kˌund͡zˈiʎːə# | 82 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kˌund͡zˈijːə# | 93 : {ʎ;ʎː} > {j;jː} 
-*#kund͡zˈijːə# | 96 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kund͡zˈijːə#
+#kˌoːnsobrˈiːnum# >>> *#kənd͡zəbːɾˈinə# ( GOLD : #kund͡zubːɾˈinə#) :
+k ˌoː n s o b r ˈiː n u m 
+Proto-Romance stage form : *#kˌoːnsobrˈiːnum#
+*#kˌoːnsɔbrˈiːnʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌonsɔbrˈinʊm# | 12 : [+syl] > [-long,-splng] 
+*#kˌonsɔbrˈinʊ# | 30 : [+cons] > ∅ / __ #
+*#kˌonsobrˈinu# | 45 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌonsobːrˈinu# | 60 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+Proto-South-Italo-Romance stage form : *#kˌonsobːrˈinu#
+*#kˌonsəbːrˈinə# | 80 : [-stres,-lo] > ə 
+*#kˌond͡zəbːrˈinə# | 83 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kˌond͡zəbːɾˈinə# | 91 : r > ɾ 
+*#kənd͡zəbːɾˈinə# | 93 : [-prim,-hi,-lo] > ə 
+Final form : *#kənd͡zəbːɾˈinə#
