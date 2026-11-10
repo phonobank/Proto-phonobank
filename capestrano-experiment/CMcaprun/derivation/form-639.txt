@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 639:
-#fˈalsum# >>> *#ɡˈal?1ə# ( GOLD : #fˈavət͡sə#) :
+#fˈalsum# >>> *#fˈal?1ə# ( GOLD : #fˈavət͡sə#) :
 f ˈa l s u m 
 Proto-Romance stage form : *#fˈalsum#
 *#fˈalsʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#fˈalsʊ# | 16 : [+cons] > ∅ / __ #
-*#fˈalso# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˈalso# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#fˈalso#
-*#fˈalsə# | 70 : [-stres,-lo] > ə 
-*#fˈal?1ə# | 74 : [-voi,-lab] > [+voi,-cont,+cons,0tense] / [+lat] __
-*#ɡˈal?1ə# | 84 : [+lab,+cont,-syl] > ɡ / # __
-Final form : *#ɡˈal?1ə#
+*#fˈalsə# | 72 : [-stres,-lo] > ə 
+*#fˈal?1ə# | 76 : [-voi,-lab] > [+voi,-cont,+cons,0tense] / [+lat] __
+Final form : *#fˈal?1ə#

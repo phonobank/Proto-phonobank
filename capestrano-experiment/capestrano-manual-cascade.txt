@@ -102,7 +102,7 @@ $ TODO HERE remaining secondary clusters to account for per Fontecchio
 
 	$ būksida
 	$ off(ˌe)rˈiː > uffrí; aperˈī to apri ; suff(ˌe)rˈī > səffri, opera > opra 
-	$ cubitum : vutə, volvita : vota
+	$ cubitum : vutə, volvita : vota: digitum, digitone
 	$ coagulum > kwajjə; ungula; spīnula
 			$ alaudula 
 	$ camera; domina; dóm(i)nula 
@@ -135,6 +135,10 @@ $ TODO HERE remaining secondary clusters to account for per Fontecchio
 			$ and-or not after front : rēgula
 		$ not after non-low front: tepidum , saeculum, picculum , morriculum 
 		$ not before r , or not to e : socerum, socera, 
+
+$ MANUAL, FIX: ɪj > i , ej > e, oj > u, final or before cons. digitone digitu fed by early syncope. Also tres to tre, nos to noi to nu, vos to vu. Not to interfere with gn stuff.
+[+syl,+round] > [+hi] / __ j 
+[+syl,-lo] j > [+tense] ∅ / __ ([+cons,-nas] (@)*) #
 
 $ LVIIIa countertonic ɪ and ɛ to e
 [+stres,-prim,+front,-tense] > ˌe 
@@ -304,7 +308,6 @@ $ LIXe ˌa ˌi ˌu retained after initial a. Bleeds LIXf
 $ LXa non-tonic i retained before syllable with yod in onset. partizjone, allivjá. Bleeds LIXf
 i > ˌi / __ ([-syl])* j
 
-
 $ LIXf -- all atonic vowels to ə except a. Includes  unstressed finals LXb
 [-stres,-lo] > ə
 
@@ -354,8 +357,8 @@ $ˈɛ > ˈæ
 
 $ XVIIc Capestranese has onset ŋ but unclear how this developed from the prose
 
-$ XVIIe initial v/w to g
-[+lab,+cont,-syl] > ɡ / # __ 
+$ XVIIe initial v/w to g. TODO debug this.
+[+lab,+cont,-syl,+voi,-nas] > ɡ / # __ 
 
 $ XXXVIIa implicit (?) -- j revocalizes after laterals
 j > i / [+lat] __

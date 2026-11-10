@@ -4,12 +4,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌapplˌikˈaː#
 *#ˌapplˌɪkˈaː# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌapplˌɪkˈa# | 7 : [+syl] > [-long,-splng] 
-*#ˌapplˌekˈa# | 30 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌappːlˌekˈa# | 45 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
-*#ˌappːʎˌekˈa# | 47 : l > ʎ / [-son,-cor] __
+*#ˌapplˌekˈa# | 32 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌappːlˌekˈa# | 47 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
+*#ˌappːʎˌekˈa# | 49 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌappːʎˌekˈa#
-*#ˌappːʎekˈa# | 67 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌappːʎəkˈa# | 70 : [-stres,-lo] > ə 
-*#ˌappːjəkˈa# | 83 : {ʎ;ʎː} > {j;jː} 
-*#appːjəkˈa# | 86 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌappːʎekˈa# | 69 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌappːʎəkˈa# | 72 : [-stres,-lo] > ə 
+*#ˌappːjəkˈa# | 85 : {ʎ;ʎː} > {j;jː} 
+*#appːjəkˈa# | 88 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#appːjəkˈa#

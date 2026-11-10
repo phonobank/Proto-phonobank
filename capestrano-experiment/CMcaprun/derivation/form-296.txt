@@ -4,11 +4,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌawtˈumnum#
 *#ˌawtˈʊmnʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌawtˈʊmnʊ# | 16 : [+cons] > ∅ / __ #
-*#ˌawtˈomnʊ# | 36 : ˈʊ > ˈo / __ @ @
-*#ˌawtˈomno# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌowtˈomno# | 43 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+*#ˌawtˈomnʊ# | 38 : ˈʊ > ˈo / __ @ @
+*#ˌawtˈomno# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌowtˈomno# | 45 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 Proto-South-Italo-Romance stage form : *#ˌowtˈomno#
-*#ˌotˈomno# | 57 : w > ∅ / [+round] __ [+cons]
-*#ˌotˈomnə# | 70 : [-stres,-lo] > ə 
-*#tˈomnə# | 71 : [-prim,-lo] > ∅ / # __
+*#ˌotˈomno# | 59 : w > ∅ / [+round] __ [+cons]
+*#ˌotˈomnə# | 72 : [-stres,-lo] > ə 
+*#tˈomnə# | 73 : [-prim,-lo] > ∅ / # __
 Final form : *#tˈomnə#

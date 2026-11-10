@@ -28,6 +28,8 @@ lˠ > l
 ∅ > w / [-cont,+back] __ u [+lat] [+syl] #
 [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
 w > v / __ [-cons]
+[+syl,+round] > [+hi] / __ j
+[+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
 [+stres,-prim,+front,-tense] > ˌe 
 [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] )* [+front,-syl]
@@ -82,6 +84,6 @@ r > ɾ
 ˌu > ə / __ [+lab,+strid]
 [-prim,-hi,-lo] > ə 
 {ʎ;ʎː} > {j;jː} 
-[+lab,+cont,-syl] > ɡ / # __
+[+lab,+cont,-syl,+voi,-nas] > ɡ / # __
 j > i / [+lat] __
 [-prim] > [-stres,-prim,+syl,+son] 

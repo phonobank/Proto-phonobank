@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 640:
-#fˌalkiˈaːre# >>> *#ɡavət͡ʃjˈaɾə# ( GOLD : #favəd͡ʒˈa#) :
+#fˌalkiˈaːre# >>> *#favət͡ʃjˈaɾə# ( GOLD : #favəd͡ʒˈa#) :
 f ˌa l k i ˈaː r e 
 *#fˌalkjˈaːre# | 5 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#fˌalkjˈaːre#
@@ -10,10 +10,9 @@ Proto-Romance stage form : *#fˌalkjˈaːre#
 *#fˌalˠət͡ʃjˈarɛ# | 23 : ∅ > ə / lˠ __
 *#fˌawət͡ʃjˈarɛ# | 24 : lˠ > w / __ ( ə ) t͡ʃ
 *#fˌavət͡ʃjˈarɛ# | 29 : w > v / __ [-cons]
-*#fˌavət͡ʃjˈare# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˌavət͡ʃjˈare# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#fˌavət͡ʃjˈare#
-*#fˌavət͡ʃjˈarə# | 70 : [-stres,-lo] > ə 
-*#fˌavət͡ʃjˈaɾə# | 80 : r > ɾ 
-*#ɡˌavət͡ʃjˈaɾə# | 84 : [+lab,+cont,-syl] > ɡ / # __
-*#ɡavət͡ʃjˈaɾə# | 86 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ɡavət͡ʃjˈaɾə#
+*#fˌavət͡ʃjˈarə# | 72 : [-stres,-lo] > ə 
+*#fˌavət͡ʃjˈaɾə# | 82 : r > ɾ 
+*#favət͡ʃjˈaɾə# | 88 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#favət͡ʃjˈaɾə#

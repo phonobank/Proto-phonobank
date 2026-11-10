@@ -4,8 +4,8 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˈasinum#
 *#ˈasɪnʊm# | 6 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈasɪnʊ# | 16 : [+cons] > ∅ / __ #
-*#ˈaseno# | 38 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈaseno# | 40 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˈaseno#
-*#ˈaʃeno# | 64 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#ˈaʃənə# | 70 : [-stres,-lo] > ə 
+*#ˈaʃeno# | 66 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#ˈaʃənə# | 72 : [-stres,-lo] > ə 
 Final form : *#ˈaʃənə#
