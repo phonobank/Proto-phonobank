@@ -1,13 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 557:
-#brˈaːkae̯# >>> *#bːɾˈat͡ʃə# ( GOLD : #vɾˈakə#) :
+#brˈaːkae̯# >>> *#vɾˈat͡ʃə# ( GOLD : #vɾˈakə#) :
 b r ˈaː k a e̯ 
 *#brˈaːkɛː# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
 Proto-Romance stage form : *#brˈaːkɛː#
 *#brˈaːt͡ʃɛː# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
 *#brˈat͡ʃɛ# | 27 : [+syl] > [-long,-splng] 
 *#brˈat͡ʃe# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#bːrˈat͡ʃe# | 63 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
-Proto-South-Italo-Romance stage form : *#bːrˈat͡ʃe#
-*#bːrˈat͡ʃə# | 86 : [-stres,-lo] > ə 
-*#bːɾˈat͡ʃə# | 97 : r > ɾ 
-Final form : *#bːɾˈat͡ʃə#
+Proto-South-Italo-Romance stage form : *#brˈat͡ʃe#
+*#brˈat͡ʃə# | 87 : [-stres,-lo] > ə 
+*#vrˈat͡ʃə# | 94 : b > v / # __ ( [-prim] ) [+cor,-long] [+lo]
+*#vɾˈat͡ʃə# | 98 : r > ɾ 
+Final form : *#vɾˈat͡ʃə#

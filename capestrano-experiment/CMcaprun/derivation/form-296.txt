@@ -1,5 +1,5 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 296:
-#ˌapprˌetiˈaː# >>> *#appːɾət͡sːˈa# ( GOLD : #apːɾət͡sːˈa#) :
+#ˌapprˌetiˈaː# >>> *#apːɾət͡sːˈa# ( GOLD : #apːɾət͡sːˈa#) :
 ˌa p p r ˌe t i ˈaː 
 *#ˌapprˌetjˈaː# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˌapprˌetjˈaː#
@@ -8,10 +8,10 @@ Proto-Romance stage form : *#ˌapprˌetjˈaː#
 *#ˌapprˌɛtʲːˈa# | 27 : [+syl] > [-long,-splng] 
 *#ˌapprˌɛt͡sːˈa# | 28 : tʲː > t͡sː 
 *#ˌapprˌet͡sːˈa# | 48 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌappːrˌet͡sːˈa# | 60 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
-Proto-South-Italo-Romance stage form : *#ˌappːrˌet͡sːˈa#
-*#ˌappːret͡sːˈa# | 83 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌappːrət͡sːˈa# | 86 : [-stres,-lo] > ə 
-*#ˌappːɾət͡sːˈa# | 97 : r > ɾ 
-*#appːɾət͡sːˈa# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#appːɾət͡sːˈa#
+*#ˌapːrˌet͡sːˈa# | 60 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#ˌapːrˌet͡sːˈa#
+*#ˌapːret͡sːˈa# | 85 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌapːrət͡sːˈa# | 87 : [-stres,-lo] > ə 
+*#ˌapːɾət͡sːˈa# | 98 : r > ɾ 
+*#apːɾət͡sːˈa# | 105 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#apːɾət͡sːˈa#

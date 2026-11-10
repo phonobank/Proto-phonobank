@@ -1,14 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 226:
-#ˌimplˈiː# >>> *#mbːjˈi# ( GOLD : #mbjˈi#) :
+#ˌimplˈiː# >>> *#mbjˈi# ( GOLD : #mbjˈi#) :
 ˌi m p l ˈiː 
 Proto-Romance stage form : *#ˌimplˈiː#
 *#ˌɪmplˈiː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌiːmplˈiː# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
 *#ˌimplˈi# | 27 : [+syl] > [-long,-splng] 
-*#ˌimpːlˈi# | 60 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
-*#ˌimpːʎˈi# | 62 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌimpːʎˈi#
-*#mpːʎˈi# | 87 : [-prim,-lo] > ∅ / # __
-*#mbːʎˈi# | 89 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbːjˈi# | 100 : {ʎ;ʎː} > {j;jː} 
-Final form : *#mbːjˈi#
+*#ˌimpʎˈi# | 61 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#ˌimpʎˈi#
+*#mpʎˈi# | 88 : [-prim,-lo] > ∅ / # __
+*#mbʎˈi# | 90 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbjˈi# | 101 : {ʎ;ʎː} > {j;jː} 
+Final form : *#mbjˈi#

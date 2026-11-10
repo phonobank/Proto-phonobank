@@ -5,10 +5,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˌiːmflammˈaː#
 *#ˌimflammˈa# | 27 : [+syl] > [-long,-splng] 
 *#ˌimflamːˈa# | 57 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#ˌimfʎamːˈa# | 62 : l > ʎ / [-son,-cor] __
+*#ˌimfʎamːˈa# | 61 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌimfʎamːˈa#
-*#mfʎamːˈa# | 87 : [-prim,-lo] > ∅ / # __
-*#mb͡vʎamːˈa# | 89 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbʎamːˈa# | 90 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
-*#mbjamːˈa# | 100 : {ʎ;ʎː} > {j;jː} 
+*#mfʎamːˈa# | 88 : [-prim,-lo] > ∅ / # __
+*#mb͡vʎamːˈa# | 90 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbʎamːˈa# | 91 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#mbjamːˈa# | 101 : {ʎ;ʎː} > {j;jː} 
 Final form : *#mbjamːˈa#

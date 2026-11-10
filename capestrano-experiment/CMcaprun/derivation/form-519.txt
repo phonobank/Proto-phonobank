@@ -1,5 +1,5 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 519:
-#pˌedˈukulum# >>> *#pədˈokjə# ( GOLD : #pədˈokːjə#) :
+#pˌedˈukulum# >>> *#pədˈokːjə# ( GOLD : #pədˈokːjə#) :
 p ˌe d ˈu k u l u m 
 Proto-Romance stage form : *#pˌedˈukulum#
 *#pˌɛdˈʊkʊlʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -8,9 +8,10 @@ Proto-Romance stage form : *#pˌedˈukulum#
 *#pˌedˈʊklʊ# | 48 : [+stres,-prim,+front,-tense] > ˌe 
 *#pˌedˈʊklu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 *#pˌedˈoklu# | 53 : ˈʊ > ˈo / __ @ @
-*#pˌedˈokʎu# | 62 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#pˌedˈokʎu#
-*#pˌedˈokʎə# | 86 : [-stres,-lo] > ə 
-*#pədˈokʎə# | 99 : [-prim,-hi,-lo] > ə 
-*#pədˈokjə# | 100 : {ʎ;ʎː} > {j;jː} 
-Final form : *#pədˈokjə#
+*#pˌedˈokʎu# | 61 : l > ʎ / [-son,-cor] __
+*#pˌedˈokːʎu# | 63 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+Proto-South-Italo-Romance stage form : *#pˌedˈokːʎu#
+*#pˌedˈokːʎə# | 87 : [-stres,-lo] > ə 
+*#pədˈokːʎə# | 100 : [-prim,-hi,-lo] > ə 
+*#pədˈokːjə# | 101 : {ʎ;ʎː} > {j;jː} 
+Final form : *#pədˈokːjə#

@@ -1,5 +1,5 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 516:
-#piːpiˈoːnem# >>> *#pipjˈonə# ( GOLD : #pit͡ʃːˈonə#) :
+#piːpiˈoːnem# >>> *#pit͡ʃːˈonə# ( GOLD : #pit͡ʃːˈonə#) :
 p iː p i ˈoː n e m 
 *#piːpjˈoːnem# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#piːpjˈoːnem#
@@ -7,8 +7,9 @@ Proto-Romance stage form : *#piːpjˈoːnem#
 *#pipjˈonɛm# | 27 : [+syl] > [-long,-splng] 
 *#pipjˈonɛ# | 34 : [+cons] > ∅ / __ #
 *#pipjˈone# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pipjˈone#
-*#pˌipjˈone# | 85 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
-*#pˌipjˈonə# | 86 : [-stres,-lo] > ə 
-*#pipjˈonə# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#pipjˈonə#
+*#pˌipjˈone# | 68 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
+*#pˌit͡ʃːˈone# | 69 : [+lab,-cont,-voi] j > t͡ʃː
+Proto-South-Italo-Romance stage form : *#pˌit͡ʃːˈone#
+*#pˌit͡ʃːˈonə# | 87 : [-stres,-lo] > ə 
+*#pit͡ʃːˈonə# | 105 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#pit͡ʃːˈonə#

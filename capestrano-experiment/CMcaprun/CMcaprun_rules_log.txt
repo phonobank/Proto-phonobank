@@ -58,14 +58,16 @@ j n > ɲː / __ [+front,-lo,+syl]
 [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
 ɡ > w / __ m
 [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
 {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 l > ʎ / [-son,-cor] __
-b > bː / __ [rcor,!rfront,+son,-nas,-syl]
+b > bː / [-cons] __ r
+[-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
 b > v / @ __
 s t͡ʃ > ʃ 
 tː > t͡ʃː / __ j
 t͡ʃː > t͡s j / __ [+round]
+i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
+[+lab,-cont,-voi] j > t͡ʃː
 [+nas,-lab] [-cont,+voi] j > ɲ
 l > ∅ / __ ɲ
 m > mː / __ [+syl] [+cons] [+syl] #
@@ -83,7 +85,6 @@ s > ʃ / # __ [+hi,+front]
 ˌo > ˌu / __ ( [+cons] )* [+hi]
 [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
 [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
 [-stres,-lo] > ə 
 [-prim,-lo] > ∅ / # __
 ɡ > ∅ / # __ r

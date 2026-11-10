@@ -3,12 +3,12 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 ˌa k k l ˌaː r ˈaː 
 Proto-Romance stage form : *#ˌakklˌaːrˈaː#
 *#ˌakklˌarˈa# | 27 : [+syl] > [-long,-splng] 
-*#ˌakːlˌarˈa# | 61 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-*#ˌakːʎˌarˈa# | 62 : l > ʎ / [-son,-cor] __
+*#ˌakːlˌarˈa# | 60 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ˌakːʎˌarˈa# | 61 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌakːʎˌarˈa#
-*#ˌakːʎarˈa# | 83 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌakːʎˌarˈa# | 84 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌakːʎˌaɾˈa# | 97 : r > ɾ 
-*#ˌakːjˌaɾˈa# | 100 : {ʎ;ʎː} > {j;jː} 
-*#akːjaɾˈa# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌakːʎarˈa# | 85 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌakːʎˌarˈa# | 86 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌakːʎˌaɾˈa# | 98 : r > ɾ 
+*#ˌakːjˌaɾˈa# | 101 : {ʎ;ʎː} > {j;jː} 
+*#akːjaɾˈa# | 105 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#akːjaɾˈa#

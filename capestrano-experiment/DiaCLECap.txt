@@ -110,7 +110,7 @@ $ LXXXVIIb -- FIX; MANUAL INFERENCE -- accounts for some of the syncope dated to
 	$ bled by loss of distinctive length LIa, LIIa LIVa LIVb
 	$ examples 
 				$ ˈa -- macula > makkja; masculum; spatula; 
-				$ ˈo > ˈɔ : copula, oculum
+				$ ˈo > ˈɔ : oculum (copula is semi-learned )
 				$ ˈu > ˈʊ > ˈo : genuculum > jənˈokːjə, , peduculum > pədokːjə 
 				$ ˈe > ˈɛ : speculum 
 				$ arguably ˈi > ˈɪ : auricula > rek:jə, -- most other cases lengthened!
@@ -308,20 +308,35 @@ $ LIVc aw > o. FIX -- only preconsonantal
 [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 
 
-$ LXXXIb pl and pr to ppl , ppr unless initial syllable. Counterbled by LVXIXb
-p > pː / [+syl] (@)* __ [+son,+cor,-nas] 
-
 $LXXVIIIa -- apply geminations. Must come after LVIIa. 
 {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː}
+
+$ LXXXIb pl and pr to ppl , ppr unless initial syllable. 
+	$OG was Counterbled by LVXIXb
+	$ $ OG p > pː / [+syl] (@)* __ [+son,+cor,-nas] 
+	$ no evidence of pr to ppr -- all cases involve passage of p to b -- iunipelum : jenibbjə , aprilem > abbrilə
+		$ contra-evidence: supra > sopra , leporem >leprə
+	$ now merging into LXIXd 
 
 $ LVXIXb palatalization of postobstruental l. Fed by syncope in fibula > fibbja case. No evidence of this occurring for corronals, evidence it does NOT occur for tl 
 	$ FIX -- goes to ʎ, not j , at this time.
 l > ʎ / [-son,-cor] __ 
 
-$ LXXXVa -- bl to bbl in obliga, but this is an isolated case, exec decis to not make rule 
+$ LXXXVa -- bl to bbl in obliga, but this is an isolated case, 
+	$exec decis to not make rule 
 
-$ LXIXd bj to bbj and LXXIXa br and bl to bbr and bbl Fed by LVXIXb. Bleeds LXXc
-b > bː / __ [rcor,-rfront,+son,-nas,-syl] 
+$ LXXIXa br to bbr . MANUAL FIX -- only post vocalically. 
+b > bː / [-cons] __ r 
+
+$ LXXXIb pl and pr to ppl , ppr unless initial syllable. Merged into LXIXb below.  
+$OG: p > pː / [+syl] (@)* __ [+son,+cor,-nas] 
+$ LXIXd bʎ to bbj and LXXIXbb bl to bbl Fed by LVXIXb. Bleeds LXXc
+$ OG: b > bː / __ [rcor,-rfront,+son,-nas,-syl] 
+	$ LXXIXc -- cl to ccʎ merged in as well
+	$ MANUAL FIX -- triggered by palatality, actually 
+		$ thus fed by LVXIXb
+	$ MANUAL FIX -- this only happens for any of these after tonic vowel -- results in gain 1% acc.
+[-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
 
 $ LXXc medial b to v. TODO will need to debug. Merger attributed to begin in midst of "confusion" in third century CE> 
 b > v / @ __ 
@@ -340,6 +355,17 @@ $t͡ʃ > t͡s / @ __ j
 		$ not : aciarium , falciare
 			$ sharing fate of secondary tʲː in partitsjone, kunditsjone, avaritsja 
 t͡ʃː > t͡s j / __ [+round]
+
+$ LXa non-tonic i retained before syllable with yod in onset. partizjone, allivjá. Bleeds LIXf
+	$ MANUAL FIX -- instead, works before any non-strident palatal asyllabic.  
+$OG, FONTECCHIO: i > ˌi / __ ([-syl])* j
+	$fed by ICIa , counterbled by ICIIp
+i > ˌi / __ ([-syl])* [+front,-strid,-syl]
+
+$ ICIIp -- pj to ćć in "some verbs" . MANUAL FIX -- this is not just verbs: also pipionem > piccione. 
+	$ apparently shared with Neapolitan and Sicilian. 
+	$ counterfeeds ICIa and counterbleeds LXa in pipionem
+[+lab,-cont,-voi] j > t͡ʃː 
 
 $ ICIɲ -- mbi, ngj , ndj ,ndzj > ɲ. Counterfed by LXId
 [+nas,-lab] [-cont,+voi] j > ɲ
@@ -415,10 +441,6 @@ $ LIXd -- noninitial nontonic vowels lose stress (and will soon reduce to ə). C
 $ LIXe ˌa ˌi ˌu retained after initial a. Bleeds LIXf
 [-prim,αlo,-αhi] > [+stres] / # [+lo] ([-syl])* __
 
-$ LXa non-tonic i retained before syllable with yod in onset. partizjone, allivjá. Bleeds LIXf
-	$ MANUAL FIX -- instead, works before any non-strident palatal asyllabic.  
-$OG, FONTECCHIO: i > ˌi / __ ([-syl])* j
-i > ˌi / __ ([-syl])* [+front,-strid,-syl]
 
 $ LIXf -- all atonic vowels to ə except a. Includes  unstressed finals LXb
 [-stres,-lo] > ə
