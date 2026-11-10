@@ -1,12 +1,10 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 268:
-#ˌalˈawdula# >>> *#alˈodəla# ( GOLD : #lˈɔla#) :
-ˌa l ˈa w d u l a 
-Proto-Romance stage form : *#ˌalˈawdula#
-*#ˌalˈawdʊla# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌalˈawdula# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌalˈowdula# | 58 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#ˌalˈowdula#
-*#ˌalˈodula# | 73 : w > ∅ / [+round] __ [+cons]
-*#ˌalˈodəla# | 85 : [-stres,-lo] > ə 
-*#alˈodəla# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#alˈodəla#
+#ˈalbam# >>> *#ˈalva# ( GOLD : #ˈalba#) :
+ˈa l b a m 
+Proto-Romance stage form : *#ˈalbam#
+*#ˈalba# | 32 : [+cons] > ∅ / __ #
+*#ˈalva# | 63 : b > v / @ __
+Proto-South-Italo-Romance stage form : *#ˈalva#
+*#ˈalvˌa# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈalva# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈalva#

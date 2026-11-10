@@ -1,11 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 486:
-#ˈuːmida# >>> *#ˈumːəda# ( GOLD : #ˈumːəda#) :
-ˈuː m i d a 
-Proto-Romance stage form : *#ˈuːmida#
-*#ˈuːmɪda# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈumɪda# | 13 : [+syl] > [-long,-splng] 
-*#ˈumeda# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˈumːeda# | 69 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#ˈumːeda#
-*#ˈumːəda# | 85 : [-stres,-lo] > ə 
-Final form : *#ˈumːəda#
+#ˌolˈiːwam# >>> *#lˈiva# ( GOLD : #lˈiva#) :
+ˌo l ˈiː w a m 
+Proto-Romance stage form : *#ˌolˈiːwam#
+*#ˌɔlˈiːwam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔlˈiwam# | 13 : [+syl] > [-long,-splng] 
+*#ˌɔlˈiwa# | 32 : [+cons] > ∅ / __ #
+*#ˌɔlˈiva# | 43 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#ˌolˈiva# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌolˈiva#
+*#ˌulˈiva# | 81 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#lˈiva# | 86 : [-prim,-lo] > ∅ / # __
+Final form : *#lˈiva#

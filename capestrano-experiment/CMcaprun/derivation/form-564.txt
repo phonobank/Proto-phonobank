@@ -1,15 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 564:
-#brˈakʰium# >>> *#bːɾˈat͡ʃjə# ( GOLD : #vɾˈat͡ʃːə#) :
-b r ˈa kʰ i u m 
-*#brˈakium# | 6 : [+cons] > [-sg] 
-*#brˈakjum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#brˈakjum#
-*#brˈakjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#brˈat͡ʃjʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#brˈat͡ʃjʊ# | 32 : [+cons] > ∅ / __ #
-*#brˈat͡ʃju# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#bːrˈat͡ʃju# | 62 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
-Proto-South-Italo-Romance stage form : *#bːrˈat͡ʃju#
-*#bːrˈat͡ʃjə# | 85 : [-stres,-lo] > ə 
-*#bːɾˈat͡ʃjə# | 96 : r > ɾ 
-Final form : *#bːɾˈat͡ʃjə#
+#bˌilˈankiam# >>> *#vəlˈand͡ʒja# ( GOLD : #vəlˈand͡ʒa#) :
+b ˌi l ˈa n k i a m 
+*#bˌilˈaŋkiam# | 1 : n > ŋ / __ [+back,+cons]
+*#bˌilˈaŋkjam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#bˌilˈaŋkjam#
+*#bˌɪlˈaŋkjam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌɪlˈant͡ʃjam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#bˌɪlˈant͡ʃja# | 32 : [+cons] > ∅ / __ #
+*#bˌelˈant͡ʃja# | 46 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#bˌelˈant͡ʃja#
+*#bˌelˈand͡ʒja# | 88 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#vˌelˈand͡ʒja# | 92 : b > v / # __ ( [-prim] ) [+cor,-long] [+lo]
+*#vəlˈand͡ʒja# | 98 : [-prim,-hi,-lo] > ə 
+Final form : *#vəlˈand͡ʒja#

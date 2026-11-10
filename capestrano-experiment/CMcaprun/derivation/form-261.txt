@@ -1,15 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 261:
-#ˈanɡelum# >>> *#ˈaŋd͡ʒələ# ( GOLD : #ˈand͡ʒələ#) :
-ˈa n ɡ e l u m 
-*#ˈaŋɡelum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#ˈaŋɡelum#
-*#ˈaŋɡɛlʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaŋɡɡɛlʊm# | 16 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ˈaŋd͡ʒːɛlʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#ˈaŋd͡ʒːɛlʊ# | 32 : [+cons] > ∅ / __ #
-*#ˈaŋd͡ʒɛlʊ# | 34 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#ˈaŋd͡ʒɛlu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈaŋd͡ʒelu# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈaŋd͡ʒelu#
-*#ˈaŋd͡ʒələ# | 85 : [-stres,-lo] > ə 
-Final form : *#ˈaŋd͡ʒələ#
+#ˈanɡulum# >>> *#ˈaŋɡwulə# ( GOLD : #ˈaŋɡwələ#) :
+ˈa n ɡ u l u m 
+*#ˈaŋɡulum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˈaŋɡulum#
+*#ˈaŋɡʊlʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈaŋɡʊlʊ# | 32 : [+cons] > ∅ / __ #
+*#ˈaŋɡwʊlʊ# | 41 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#ˈaŋɡwulu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈaŋɡwulu#
+*#ˈaŋɡwˌulu# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈaŋɡwˌulə# | 85 : [-stres,-lo] > ə 
+*#ˈaŋɡwulə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈaŋɡwulə#

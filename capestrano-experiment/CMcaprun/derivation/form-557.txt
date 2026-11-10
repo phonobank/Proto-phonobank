@@ -1,11 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 557:
-#pˈopuliː# >>> *#pˈopələ# ( GOLD : #pˈopələ#) :
-p ˈo p u l iː 
-Proto-Romance stage form : *#pˈopuliː#
-*#pˈɔpʊliː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɔpʊli# | 13 : [+syl] > [-long,-splng] 
-*#pˈɔpuli# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˈopuli# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˈopuli#
-*#pˈopələ# | 85 : [-stres,-lo] > ə 
-Final form : *#pˈopələ#
+#pˈuteum# >>> *#pˈotʲə# ( GOLD : #pˈut͡sːə#) :
+p ˈu t e u m 
+*#pˈutjum# | 10 : e > j / __ [+back]
+Proto-Romance stage form : *#pˈutjum#
+*#pˈʊtjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈʊtʲʊm# | 21 : t j > tʲ 
+*#pˈʊtʲʊ# | 32 : [+cons] > ∅ / __ #
+*#pˈʊtʲu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˈotʲu# | 51 : ˈʊ > ˈo / __ @ @
+Proto-South-Italo-Romance stage form : *#pˈotʲu#
+*#pˈotʲə# | 85 : [-stres,-lo] > ə 
+Final form : *#pˈotʲə#

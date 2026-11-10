@@ -1,15 +1,18 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 438:
-#kwˈiːndeki# >>> *#kwˈinːd͡ʒə# ( GOLD : #kwˈinːet͡ʃ#) :
-k w ˈiː n d e k i 
-*#kwˈiːndjki# | 10 : e > j / __ [+back]
-Proto-Romance stage form : *#kwˈiːndjki#
-*#kwˈiːndjkɪ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kwˈindjkɪ# | 13 : [+syl] > [-long,-splng] 
-*#kwˈindjt͡ʃɪ# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#kwˈind͡ʒt͡ʃɪ# | 23 : {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
-*#kwˈind͡ʒt͡ʃe# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kwˈinːt͡ʃe# | 56 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#kwˈinːt͡ʃe#
-*#kwˈinːt͡ʃə# | 85 : [-stres,-lo] > ə 
-*#kwˈinːd͡ʒə# | 88 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#kwˈinːd͡ʒə#
+#kwˌiːnkwekˈentum# >>> *#t͡ʃiŋɡwjt͡ʃˈendə# ( GOLD : #t͡ʃiŋɡwət͡ʃˈendə#) :
+k w ˌiː n k w e k ˈe n t u m 
+*#kwˌiːŋkwekˈentum# | 1 : n > ŋ / __ [+back,+cons]
+*#kwˌiːŋkwjkˈentum# | 10 : e > j / __ [+back]
+Proto-Romance stage form : *#kwˌiːŋkwjkˈentum#
+*#kwˌiːŋkwjkˈɛntʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kwˌiŋkwjkˈɛntʊm# | 13 : [+syl] > [-long,-splng] 
+*#kˌiŋkwjkˈɛntʊm# | 14 : k w > k / # __ ( @ )* k w
+*#t͡ʃˌiŋkwjt͡ʃˈɛntʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˌiŋkwjt͡ʃˈɛntʊ# | 32 : [+cons] > ∅ / __ #
+*#t͡ʃˌiŋkwjt͡ʃˈɛntu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˌiŋkwjt͡ʃˈentu# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#t͡ʃˌiŋkwjt͡ʃˈentu#
+*#t͡ʃˌiŋkwjt͡ʃˈentə# | 85 : [-stres,-lo] > ə 
+*#t͡ʃˌiŋɡwjt͡ʃˈendə# | 88 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#t͡ʃiŋɡwjt͡ʃˈendə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#t͡ʃiŋɡwjt͡ʃˈendə#

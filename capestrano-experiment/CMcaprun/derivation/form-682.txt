@@ -1,13 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 682:
-#mˌorˈiː# >>> *#mːuɾˈi# ( GOLD : #muɾˈi#) :
-m ˌo r ˈiː 
-Proto-Romance stage form : *#mˌorˈiː#
-*#mˌɔrˈiː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɔrˈi# | 13 : [+syl] > [-long,-splng] 
-*#mˌorˈi# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mːˌorˈi# | 69 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#mːˌorˈi#
-*#mːˌurˈi# | 81 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#mːˌuɾˈi# | 96 : r > ɾ 
-*#mːuɾˈi# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#mːuɾˈi#
+#mˈuskam# >>> *#mˈoska# ( GOLD : #mˈoʃka#) :
+m ˈu s k a m 
+Proto-Romance stage form : *#mˈuskam#
+*#mˈʊskam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈʊska# | 32 : [+cons] > ∅ / __ #
+*#mˈoska# | 51 : ˈʊ > ˈo / __ @ @
+Proto-South-Italo-Romance stage form : *#mˈoska#
+Final form : *#mˈoska#

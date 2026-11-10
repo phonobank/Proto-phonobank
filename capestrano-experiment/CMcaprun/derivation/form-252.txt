@@ -1,16 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 252:
-#ˌadmˌiːrˈaːtum# >>> *#amːiɾˈatə# ( GOLD : #amːiɾˈatə#) :
-ˌa d m ˌiː r ˈaː t u m 
-Proto-Romance stage form : *#ˌadmˌiːrˈaːtum#
-*#ˌadmˌiːrˈaːtʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌadmˌirˈatʊm# | 13 : [+syl] > [-long,-splng] 
-*#ˌamːˌirˈatʊm# | 19 : d [+lab,+cons] > ∅ [+long]
-*#ˌamːˌirˈatʊ# | 32 : [+cons] > ∅ / __ #
-*#ˌamːˌirˈatu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌamːˌirˈatu#
-*#ˌamːirˈatu# | 82 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌamːˌirˈatu# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌamːˌirˈatə# | 85 : [-stres,-lo] > ə 
-*#ˌamːˌiɾˈatə# | 96 : r > ɾ 
-*#amːiɾˈatə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#amːiɾˈatə#
+#ˈassulam# >>> *#ˈasːla# ( GOLD : #ˈaʃːa#) :
+ˈa s s u l a m 
+Proto-Romance stage form : *#ˈassulam#
+*#ˈassʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈassʊla# | 32 : [+cons] > ∅ / __ #
+*#ˈassula# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈassla# | 55 : [-prim,+round] > ∅ / [+stres,alo,!around] [-voi] ( [-voi] )* __ l [-stres,ælo,!æround]
+*#ˈasːla# | 60 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#ˈasːla#
+*#ˈasːlˌa# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈasːla# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈasːla#

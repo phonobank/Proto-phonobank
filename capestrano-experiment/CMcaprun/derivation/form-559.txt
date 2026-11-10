@@ -1,13 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 559:
-#pˈuteum# >>> *#pˈotʲə# ( GOLD : #pˈut͡sːə#) :
-p ˈu t e u m 
-*#pˈutjum# | 10 : e > j / __ [+back]
-Proto-Romance stage form : *#pˈutjum#
-*#pˈʊtjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈʊtʲʊm# | 21 : t j > tʲ 
-*#pˈʊtʲʊ# | 32 : [+cons] > ∅ / __ #
-*#pˈʊtʲu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˈotʲu# | 51 : ˈʊ > ˈo / __ @ @
-Proto-South-Italo-Romance stage form : *#pˈotʲu#
-*#pˈotʲə# | 85 : [-stres,-lo] > ə 
-Final form : *#pˈotʲə#
+#pˌulmˈoːnem# >>> *#pulmːˈonə# ( GOLD : #polmˈonə#) :
+p ˌu l m ˈoː n e m 
+Proto-Romance stage form : *#pˌulmˈoːnem#
+*#pˌʊlmˈoːnɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌʊlmˈonɛm# | 13 : [+syl] > [-long,-splng] 
+*#pˌʊlmˈonɛ# | 32 : [+cons] > ∅ / __ #
+*#pˌulmˈonɛ# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˌulmˈone# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˌulmːˈone# | 69 : m > mː / __ [+syl] [+cons] [+syl] #
+Proto-South-Italo-Romance stage form : *#pˌulmːˈone#
+*#pˌulmːˈonə# | 85 : [-stres,-lo] > ə 
+*#pulmːˈonə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#pulmːˈonə#

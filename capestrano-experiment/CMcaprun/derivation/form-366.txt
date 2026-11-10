@@ -1,17 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 366:
-#kˌarbonˈaːrium# >>> *#kaɾvənˈaɾə# ( GOLD : #kaɾbonˈaːɾə#) :
-k ˌa r b o n ˈaː r i u m 
-*#kˌarbonˈaːrjum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#kˌarbonˈaːrjum#
-*#kˌarbɔnˈaːrjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌarbɔnˈarjʊm# | 13 : [+syl] > [-long,-splng] 
-*#kˌarbɔnˈarʲʊm# | 26 : r j > rʲ 
-*#kˌarbɔnˈarʲʊ# | 32 : [+cons] > ∅ / __ #
-*#kˌarbonˈarʲu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌarvonˈarʲu# | 63 : b > v / @ __
-Proto-South-Italo-Romance stage form : *#kˌarvonˈarʲu#
-*#kˌarvonˈaru# | 72 : rʲ > r 
-*#kˌarvənˈarə# | 85 : [-stres,-lo] > ə 
-*#kˌaɾvənˈaɾə# | 96 : r > ɾ 
-*#kaɾvənˈaɾə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kaɾvənˈaɾə#
+#kˈae̯lum# >>> *#t͡ʃˈelə# ( GOLD : #t͡ʃˈelə#) :
+k ˈa e̯ l u m 
+*#kˈɛlum# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,-cons,-lat,+cont,0delrel] ∅
+Proto-Romance stage form : *#kˈɛlum#
+*#kˈɛlʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˈɛlʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˈɛlʊ# | 32 : [+cons] > ∅ / __ #
+*#t͡ʃˈɛlu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˈelu# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#t͡ʃˈelu#
+*#t͡ʃˈelə# | 85 : [-stres,-lo] > ə 
+Final form : *#t͡ʃˈelə#

@@ -1,14 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 246:
-#ˌatlˈantikum# >>> *#atːlˈandəkə# ( GOLD : #atːlˈandəkə#) :
-ˌa t l ˈa n t i k u m 
-Proto-Romance stage form : *#ˌatlˈantikum#
-*#ˌatlˈantɪkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌatlˈantikʊm# | 25 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌatlˈantikʊ# | 32 : [+cons] > ∅ / __ #
-*#ˌatlˈantiku# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌatlˈantiku#
-*#ˌatːlˈantiku# | 78 : t > tː / __ l
-*#ˌatːlˈantəkə# | 85 : [-stres,-lo] > ə 
-*#ˌatːlˈandəkə# | 88 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#atːlˈandəkə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#atːlˈandəkə#
+#ˌaddˌormˈiː# >>> *#adːuɾmˈi# ( GOLD : #adːəɾmˈi#) :
+ˌa d d ˌo r m ˈiː 
+Proto-Romance stage form : *#ˌaddˌormˈiː#
+*#ˌaddˌɔrmˈiː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌaddˌɔrmˈi# | 13 : [+syl] > [-long,-splng] 
+*#ˌaddˌormˈi# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌadːˌormˈi# | 60 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#ˌadːˌormˈi#
+*#ˌadːˌurmˈi# | 81 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#ˌadːurmˈi# | 82 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌadːˌurmˈi# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌadːˌuɾmˈi# | 96 : r > ɾ 
+*#adːuɾmˈi# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#adːuɾmˈi#

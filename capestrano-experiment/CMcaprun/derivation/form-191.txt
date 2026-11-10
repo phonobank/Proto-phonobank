@@ -1,13 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 191:
-#rˈeːɡulam# >>> *#ɾˈeɡwəla# ( GOLD : #ɾˈeɡwəla#) :
-r ˈeː ɡ u l a m 
-Proto-Romance stage form : *#rˈeːɡulam#
-*#rˈeːɡʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#rˈeɡʊlam# | 13 : [+syl] > [-long,-splng] 
-*#rˈeɡʊla# | 32 : [+cons] > ∅ / __ #
-*#rˈeɡwʊla# | 41 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
-*#rˈeɡwula# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#rˈeɡwula#
-*#rˈeɡwəla# | 85 : [-stres,-lo] > ə 
-*#ɾˈeɡwəla# | 96 : r > ɾ 
-Final form : *#ɾˈeɡwəla#
+#raːdˈiːkum# >>> *#ɾadˈikə# ( GOLD : #ɾˈadəkə#) :
+r aː d ˈiː k u m 
+Proto-Romance stage form : *#raːdˈiːkum#
+*#raːdˈiːkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#radˈikʊm# | 13 : [+syl] > [-long,-splng] 
+*#radˈikʊ# | 32 : [+cons] > ∅ / __ #
+*#radˈiku# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#radˈiku#
+*#radˈikə# | 85 : [-stres,-lo] > ə 
+*#ɾadˈikə# | 96 : r > ɾ 
+Final form : *#ɾadˈikə#

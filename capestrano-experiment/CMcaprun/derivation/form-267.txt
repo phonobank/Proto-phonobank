@@ -1,15 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 267:
-#ˈaːlium# >>> *#ˈajːə# ( GOLD : #ˈajːə#) :
-ˈaː l i u m 
-*#ˈaːljum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#ˈaːljum#
-*#ˈaːljʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaljʊm# | 13 : [+syl] > [-long,-splng] 
-*#ˈaʎːʊm# | 28 : l j > ʎː 
-*#ˈaʎːʊ# | 32 : [+cons] > ∅ / __ #
-*#ˈaʎːu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈaʎːu#
-*#ˈaʎːˌu# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈaʎːə# | 91 : [-prim,-lo] > ə / __ #
-*#ˈajːə# | 99 : {ʎ;ʎː} > {j;jː} 
-Final form : *#ˈajːə#
+#ˌalˈawdula# >>> *#alˈodəla# ( GOLD : #lˈɔla#) :
+ˌa l ˈa w d u l a 
+Proto-Romance stage form : *#ˌalˈawdula#
+*#ˌalˈawdʊla# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌalˈawdula# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌalˈowdula# | 58 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+Proto-South-Italo-Romance stage form : *#ˌalˈowdula#
+*#ˌalˈodula# | 73 : w > ∅ / [+round] __ [+cons]
+*#ˌalˈodəla# | 85 : [-stres,-lo] > ə 
+*#alˈodəla# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#alˈodəla#

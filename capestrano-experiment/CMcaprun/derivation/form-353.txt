@@ -1,10 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 353:
-#kˈanem# >>> *#kˈanə# ( GOLD : #kˈanə#) :
-k ˈa n e m 
-Proto-Romance stage form : *#kˈanem#
-*#kˈanɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈanɛ# | 32 : [+cons] > ∅ / __ #
-*#kˈane# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+#kˈaneːs# >>> *#kˈanə# ( GOLD : #kˈenə#) :
+k ˈa n eː s 
+Proto-Romance stage form : *#kˈaneːs#
+*#kˈanes# | 13 : [+syl] > [-long,-splng] 
+*#kˈane# | 32 : [+cons] > ∅ / __ #
 Proto-South-Italo-Romance stage form : *#kˈane#
 *#kˈanə# | 85 : [-stres,-lo] > ə 
 Final form : *#kˈanə#

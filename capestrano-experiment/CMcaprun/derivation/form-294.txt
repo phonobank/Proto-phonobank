@@ -1,16 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 294:
-#ˌawaːrˈitiam# >>> *#avaɾˈitʲa# ( GOLD : #avaɾˈit͡sja#) :
-ˌa w aː r ˈi t i a m 
-*#ˌawaːrˈitjam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#ˌawaːrˈitjam#
-*#ˌawaːrˈɪtjam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌawarˈɪtjam# | 13 : [+syl] > [-long,-splng] 
-*#ˌawarˈɪtʲam# | 21 : t j > tʲ 
-*#ˌawarˈitʲam# | 25 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌawarˈitʲa# | 32 : [+cons] > ∅ / __ #
-*#ˌavarˈitʲa# | 43 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#ˌavarˈitʲa#
-*#ˌavˌarˈitʲa# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌavˌaɾˈitʲa# | 96 : r > ɾ 
-*#avaɾˈitʲa# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#avaɾˈitʲa#
+#ˌaprˈiːlem# >>> *#apːɾˈilə# ( GOLD : #abːɾˈilə#) :
+ˌa p r ˈiː l e m 
+Proto-Romance stage form : *#ˌaprˈiːlem#
+*#ˌaprˈiːlɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌaprˈilɛm# | 13 : [+syl] > [-long,-splng] 
+*#ˌaprˈilɛ# | 32 : [+cons] > ∅ / __ #
+*#ˌaprˈile# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌapːrˈile# | 59 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
+Proto-South-Italo-Romance stage form : *#ˌapːrˈile#
+*#ˌapːrˈilə# | 85 : [-stres,-lo] > ə 
+*#ˌapːɾˈilə# | 96 : r > ɾ 
+*#apːɾˈilə# | 103 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#apːɾˈilə#

@@ -1,12 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 395:
-#kˈorpus# >>> *#kˈoɾpə# ( GOLD : #kˈoɾpə#) :
-k ˈo r p u s 
-Proto-Romance stage form : *#kˈorpus#
-*#kˈɔrpʊs# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈɔrpʊ# | 32 : [+cons] > ∅ / __ #
-*#kˈɔrpu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˈorpu# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈorpu#
-*#kˈorpə# | 85 : [-stres,-lo] > ə 
-*#kˈoɾpə# | 96 : r > ɾ 
-Final form : *#kˈoɾpə#
+#kˌolˈumnam# >>> *#kəlˈomna# ( GOLD : #kolˈonːa#) :
+k ˌo l ˈu m n a m 
+Proto-Romance stage form : *#kˌolˈumnam#
+*#kˌɔlˈʊmnam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔlˈʊmna# | 32 : [+cons] > ∅ / __ #
+*#kˌolˈʊmna# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌolˈomna# | 51 : ˈʊ > ˈo / __ @ @
+Proto-South-Italo-Romance stage form : *#kˌolˈomna#
+*#kəlˈomna# | 98 : [-prim,-hi,-lo] > ə 
+Final form : *#kəlˈomna#

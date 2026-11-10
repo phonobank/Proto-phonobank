@@ -1,12 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 255:
-#ˈasinum# >>> *#ˈaʃənə# ( GOLD : #ˈasənə#) :
-ˈa s i n u m 
-Proto-Romance stage form : *#ˈasinum#
-*#ˈasɪnʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈasɪnʊ# | 32 : [+cons] > ∅ / __ #
-*#ˈasɪnu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈasenu# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈasenu#
-*#ˈaʃenu# | 79 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#ˈaʃənə# | 85 : [-stres,-lo] > ə 
-Final form : *#ˈaʃənə#
+#ˈantius# >>> *#ˈandʲə# ( GOLD : #ˈand͡zə#) :
+ˈa n t i u s 
+*#ˈantjus# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#ˈantjus#
+*#ˈantjʊs# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈantʲʊs# | 21 : t j > tʲ 
+*#ˈantʲʊ# | 32 : [+cons] > ∅ / __ #
+*#ˈantʲu# | 47 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈantʲu#
+*#ˈantʲˌu# | 83 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈandʲˌu# | 88 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ˈandʲə# | 91 : [-prim,-lo] > ə / __ #
+Final form : *#ˈandʲə#

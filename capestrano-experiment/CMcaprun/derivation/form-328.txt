@@ -1,11 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 328:
-#krˈeːde# >>> *#kɾˈedə# ( GOLD : #kɾˈedə#) :
-k r ˈeː d e 
-Proto-Romance stage form : *#krˈeːde#
-*#krˈeːdɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#krˈedɛ# | 13 : [+syl] > [-long,-splng] 
-*#krˈede# | 53 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#krˈede#
-*#krˈedə# | 85 : [-stres,-lo] > ə 
-*#kɾˈedə# | 96 : r > ɾ 
-Final form : *#kɾˈedə#
+#krˌeaːtˈuːram# >>> *#kɾəatˈuɾa# ( GOLD : #kɾeatˈuɾa#) :
+k r ˌe aː t ˈuː r a m 
+Proto-Romance stage form : *#krˌeaːtˈuːram#
+*#krˌɛaːtˈuːram# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˌɛatˈuram# | 13 : [+syl] > [-long,-splng] 
+*#krˌɛatˈura# | 32 : [+cons] > ∅ / __ #
+*#krˌeatˈura# | 46 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#krˌeatˈura#
+*#kɾˌeatˈuɾa# | 96 : r > ɾ 
+*#kɾəatˈuɾa# | 98 : [-prim,-hi,-lo] > ə 
+Final form : *#kɾəatˈuɾa#
