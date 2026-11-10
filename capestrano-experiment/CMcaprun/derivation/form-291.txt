@@ -3,10 +3,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 ˌa w r ˈi k u l a m 
 Proto-Romance stage form : *#ˌawrˈikulam#
 *#ˌawrˈɪkʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌawrˈikʊlam# | 26 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌawrˈikʊla# | 33 : [+cons] > ∅ / __ #
-*#ˌawrˈikwʊla# | 42 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
-*#ˌawrˈikwula# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌawrˈiːkʊlam# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌawrˈikʊlam# | 27 : [+syl] > [-long,-splng] 
+*#ˌawrˈikʊla# | 34 : [+cons] > ∅ / __ #
+*#ˌawrˈikwʊla# | 43 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#ˌawrˈikwula# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 *#ˌowrˈikwula# | 59 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 Proto-South-Italo-Romance stage form : *#ˌowrˈikwula#
 *#ˌorˈikwula# | 74 : w > ∅ / [+round] __ [+cons]

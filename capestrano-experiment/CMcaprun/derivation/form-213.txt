@@ -4,10 +4,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 *#ˌiŋkˈontraː# | 1 : n > ŋ / __ [+back,+cons]
 Proto-Romance stage form : *#ˌiŋkˈontraː#
 *#ˌɪŋkˈɔntraː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪŋkˈɔntra# | 13 : [+syl] > [-long,-splng] 
-*#ˌiŋkˈɔntra# | 26 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌiŋkˈɞˤntra# | 51 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˌiŋkˈɔntra# | 55 : [+lo,-tense,+round] > [-lo] 
+*#ˌiːŋkˈɔntraː# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌiŋkˈɔntra# | 27 : [+syl] > [-long,-splng] 
+*#ˌiŋkˈɞˤntra# | 52 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌiŋkˈɔntra# | 56 : [+lo,-tense,+round] > [-lo] 
 Proto-South-Italo-Romance stage form : *#ˌiŋkˈɔntra#
 *#ŋkˈɔntra# | 87 : [-prim,-lo] > ∅ / # __
 *#ŋɡˈɔndra# | 89 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __

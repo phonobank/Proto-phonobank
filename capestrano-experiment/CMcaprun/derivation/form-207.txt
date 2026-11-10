@@ -3,11 +3,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 j ˌuː n ˈi p e r u m 
 Proto-Romance stage form : *#jˌuːnˈiperum#
 *#jˌuːnˈɪpɛrʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˌunˈɪpɛrʊm# | 13 : [+syl] > [-long,-splng] 
-*#jˌunˈipɛrʊm# | 26 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#jˌunˈipɛrʊ# | 33 : [+cons] > ∅ / __ #
-*#jˌunˈiprʊ# | 43 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#jˌunˈipru# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˌuːnˈiːpɛrʊm# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#jˌunˈipɛrʊm# | 27 : [+syl] > [-long,-splng] 
+*#jˌunˈipɛrʊ# | 34 : [+cons] > ∅ / __ #
+*#jˌunˈiprʊ# | 44 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+*#jˌunˈipru# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 *#jˌunˈipːru# | 60 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
 Proto-South-Italo-Romance stage form : *#jˌunˈipːru#
 *#jˌunˈipːrə# | 86 : [-stres,-lo] > ə 

@@ -3,10 +3,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 d ˌo m ˈi n i k a m 
 Proto-Romance stage form : *#dˌomˈinikam#
 *#dˌɔmˈɪnɪkam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˌɔmˈɪnikam# | 26 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#dˌɔmˈɪnika# | 33 : [+cons] > ∅ / __ #
-*#dˌomˈɪnika# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dˌomˈenika# | 54 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#dˌɔmˈɪniːkam# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#dˌɔmˈɪnikam# | 27 : [+syl] > [-long,-splng] 
+*#dˌɔmˈɪnika# | 34 : [+cons] > ∅ / __ #
+*#dˌomˈɪnika# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dˌomˈenika# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#dˌomˈenika#
 *#dˌomˈenəka# | 86 : [-stres,-lo] > ə 
 *#dəmˈenəka# | 99 : [-prim,-hi,-lo] > ə 

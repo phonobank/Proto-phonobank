@@ -3,12 +3,12 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 k ˌa l k ˈaː r i a m 
 *#kˌalkˈaːrjam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#kˌalkˈaːrjam#
-*#kˌalkˈarjam# | 13 : [+syl] > [-long,-splng] 
-*#kˌalˠkˈarjam# | 18 : l > lˠ / __ k [-cons]
-*#kˌalˠkˈarʲam# | 28 : r j > rʲ 
-*#kˌalˠkˈarʲa# | 33 : [+cons] > ∅ / __ #
-*#kˌalˠəkˈarʲa# | 38 : ∅ > ə / lˠ __
-*#kˌaləkˈarʲa# | 40 : lˠ > l 
+*#kˌalˠkˈaːrjam# | 17 : l > lˠ / __ k [-cons]
+*#kˌalˠkˈarjam# | 27 : [+syl] > [-long,-splng] 
+*#kˌalˠkˈarʲam# | 29 : r j > rʲ 
+*#kˌalˠkˈarʲa# | 34 : [+cons] > ∅ / __ #
+*#kˌalˠəkˈarʲa# | 39 : ∅ > ə / lˠ __
+*#kˌaləkˈarʲa# | 41 : lˠ > l 
 Proto-South-Italo-Romance stage form : *#kˌaləkˈarʲa#
 *#kˌaləkˈara# | 73 : rʲ > r 
 *#kˌaləkˈaɾa# | 97 : r > ɾ 

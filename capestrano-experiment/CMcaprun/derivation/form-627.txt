@@ -5,9 +5,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 *#ˌimfˈakjam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#ˌimfˈakjam#
 *#ˌɪmfˈakjam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪmfˈat͡ʃjam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#ˌimfˈat͡ʃjam# | 26 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌimfˈat͡ʃja# | 33 : [+cons] > ∅ / __ #
+*#ˌɪmfˈat͡ʃjam# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#ˌiːmfˈat͡ʃjam# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌimfˈat͡ʃjam# | 27 : [+syl] > [-long,-splng] 
+*#ˌimfˈat͡ʃja# | 34 : [+cons] > ∅ / __ #
 Proto-South-Italo-Romance stage form : *#ˌimfˈat͡ʃja#
 *#mfˈat͡ʃja# | 87 : [-prim,-lo] > ∅ / # __
 *#mb͡vˈat͡ʃja# | 89 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __

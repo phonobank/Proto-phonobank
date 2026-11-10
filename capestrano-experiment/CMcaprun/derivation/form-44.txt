@@ -3,10 +3,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 d ˈo m i n a m 
 Proto-Romance stage form : *#dˈominam#
 *#dˈɔmɪnam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈɔmɪna# | 33 : [+cons] > ∅ / __ #
-*#dˈɞˤmɪna# | 51 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#dˈɞˤmena# | 54 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#dˈɔmena# | 55 : [+lo,-tense,+round] > [-lo] 
+*#dˈɔmɪna# | 34 : [+cons] > ∅ / __ #
+*#dˈɞˤmɪna# | 52 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#dˈɞˤmena# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#dˈɔmena# | 56 : [+lo,-tense,+round] > [-lo] 
 *#dˈɔmːena# | 70 : m > mː / __ [+syl] [+cons] [+syl] #
 Proto-South-Italo-Romance stage form : *#dˈɔmːena#
 *#dˈɔmːəna# | 86 : [-stres,-lo] > ə 

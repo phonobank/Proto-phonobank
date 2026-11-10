@@ -3,11 +3,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 w ˌiː k ˈiː n u m 
 Proto-Romance stage form : *#wˌiːkˈiːnum#
 *#wˌiːkˈiːnʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌikˈinʊm# | 13 : [+syl] > [-long,-splng] 
-*#wˌit͡ʃˈinʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#wˌit͡ʃˈinʊ# | 33 : [+cons] > ∅ / __ #
-*#vˌit͡ʃˈinʊ# | 44 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˌit͡ʃˈinu# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#wˌiːt͡ʃˈiːnʊm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#wˌit͡ʃˈinʊm# | 27 : [+syl] > [-long,-splng] 
+*#wˌit͡ʃˈinʊ# | 34 : [+cons] > ∅ / __ #
+*#vˌit͡ʃˈinʊ# | 45 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˌit͡ʃˈinu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˌit͡ʃˈinu#
 *#vˌit͡ʃˈinə# | 86 : [-stres,-lo] > ə 
 *#vit͡ʃˈinə# | 104 : [-prim] > [-stres,-prim,+syl,+son] 

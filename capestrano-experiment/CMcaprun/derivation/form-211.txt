@@ -3,11 +3,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 ˌi n i m ˈiː k u m 
 Proto-Romance stage form : *#ˌinimˈiːkum#
 *#ˌɪnɪmˈiːkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪnɪmˈikʊm# | 13 : [+syl] > [-long,-splng] 
-*#ˌɪnimˈikʊm# | 26 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌɪnimˈikʊ# | 33 : [+cons] > ∅ / __ #
-*#ˌenimˈikʊ# | 47 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenimˈiku# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪniːmˈiːkʊm# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌɪnimˈikʊm# | 27 : [+syl] > [-long,-splng] 
+*#ˌɪnimˈikʊ# | 34 : [+cons] > ∅ / __ #
+*#ˌenimˈikʊ# | 48 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenimˈiku# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 *#ˌenimːˈiku# | 70 : m > mː / __ [+syl] [+cons] [+syl] #
 Proto-South-Italo-Romance stage form : *#ˌenimːˈiku#
 *#ˌenəmːˈikə# | 86 : [-stres,-lo] > ə 

@@ -3,8 +3,9 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 k r ˈy p t a 
 Proto-Romance stage form : *#krˈypta#
 *#krˈʏpta# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#krˈypta# | 26 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#krˈytːa# | 31 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#krˈyːpta# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#krˈypta# | 27 : [+syl] > [-long,-splng] 
+*#krˈytːa# | 32 : [+lab,-son] [+cor,-son] > ∅ [+long]
 Proto-South-Italo-Romance stage form : *#krˈytːa#
 *#kɾˈytːa# | 97 : r > ɾ 
 Final form : *#kɾˈytːa#

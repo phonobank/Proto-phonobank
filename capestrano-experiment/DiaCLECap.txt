@@ -9,8 +9,9 @@ n > ŋ / __ [+back,+cons]
 $ LIIa oe merges to e: "very early"
 [+round,-hi] e̯ > [+front,-back,-round,-lab,+long] ∅
 
-$ LIIb ae merges to short e > ɛ
-[+lo] e̯ > [+front,-back,-lo,-tense] ∅
+$ LIIb ae merges to short e > ɛ.
+	$ MANUAL FIX -- target is actually long ɛː -- which checks out given Albanian outcomes. 
+[+lo] e̯ > [+front,-back,-lo,-tense,+long] ∅
 
 $ LXVa loss of h. In other Romance languages, may be lost medially earlier than later. Unclear what the evidence in Capestranese says, if anything.
 h > ∅
@@ -34,12 +35,8 @@ e > j / __ [+back]
 $ LIb, LIIb, LVIIIa, LVIa etc non-low vowels have quantity distinction become tenseness quality distinction, temporarily. Like Albanian, Capestranese has conditions where ɪ and ʊ revert to i and u, but eː and oː do not raise to i and u, largely involving posterior palatality.
 [-lo,-long,+syl] > [-tense] 
 
-$ LIa, LIIa LIVa LIVb etc -- loss of distinctive vowel length
-[+syl] > [-long] 
-
 $ LXVIIa dissimilatory kw... kw to k ... k. Feeds LXIIc
 k w > k / # __ (@)* k w 
-
 
 $LXXXa Italo-Romance gn /ŋn to jn 
 [+back,+cons] > j / __ n
@@ -103,7 +100,29 @@ $ MANUAL FIX RULE A1 -- ˈɪ appears to tense back to ˈi before peripheral non-
 		$ it is BLED by LXXIXc Italo-Romance kt > tt, so seems to be secondary
 			$ unless we reconceive a pan-Romance kt > xt, which becomes tt in Italo-Romance...
 	$ This also resembles the Classical Proto-Albanian i-tensing rule...
-[+hi,+front,+syl] > [+tense] / __ ([+cor]) [-syl,blab,-bhi,-strid]
+[+hi,+front,+syl] > [+tense,+long] / __ ([+cor]) [-syl,blab,-bhi,-strid]
+
+
+$ LXXXVIIb -- FIX; MANUAL INFERENCE -- accounts for some of the syncope dated to 2nd to 4th cents C.E. 
+	$ deletions of atonic round vowels -- bleeding W insertion 
+	$ atonic u/ʊ lost in V-long (s) T-voi __ l a,o,u.
+		$ C̥ = voiceless consonant.
+	$ bled by loss of distinctive length LIa, LIIa LIVa LIVb
+	$ examples 
+				$ ˈa -- macula > makkja; masculum; spatula; 
+				$ ˈo > ˈɔ : copula, oculum
+				$ ˈu > ˈʊ > ˈo : genuculum > jənˈokːjə, , peduculum > pədokːjə 
+				$ ˈe > ˈɛ : speculum 
+				$ arguably ˈi > ˈɪ : auricula > rek:jə, -- most other cases lengthened!
+			$ not long ɛː -- saeculum
+		$ not after ū > u : erūcula >  ruːkəla, carrūcula > karrukəla  
+				$ not before i ? ː populī to popələ
+		$ not after voiced: rēgula, fragula , calcula, angulu tabula nūbila incūdula > nkudəla tepidum etc. 
+[-prim,+round] > ∅ / [+stres,-long] (s) [-cont,-voi] __ [+lat] [-stres,ælo,-æround]
+
+
+$ LIa, LIIa LIVa LIVb etc -- loss of distinctive vowel length
+[+syl] > [-long] 
 
 $ MANUAL FIX A6 -- tʲː > t͡sː here or some point after 
 tʲː > t͡sː
@@ -170,7 +189,7 @@ $ LXXXVIIa bVl > bl in unknown conditions,
 		$feeds LVXIXb and LXIXd to produce bbj (fibbja, nebbja). 
 			$Attributed to "roughly between the second and fourth centuries CE". 
 	$MANUAL INFERENCE, FIX --it's after (non-low) front vowels $ NOT: nūbila , tabula, turbulare
-	$ FIXș MANUAL INFERENCE -- broaned -- 
+	$ FIX: MANUAL INFERENCE -- broaned -- 
 		$ this context could also apply for frīgidus, > friddu. 
 	$ TODO may need to debug. 
 		$ Bled by LXIa for rēgula > regwəla.
@@ -274,26 +293,6 @@ $ LVIId and LId ɪ and ʊ, unless raised, and ɛ and ɔ unless metathesized, pas
 $ we're working with ɔ not ɒ-tense -- BANDAID 
 [+lo,-tense,+round] > [-lo]
 
-$ LXXXVIIb -- FIX; MANUAL INFERENCE 
-	$ further deletions of atonic round vowels --  
-	$ atonic u/ʊ lost in á,ɔ́,ó (not uǃ) C̥* __ l a,o,u.
-		$ C̥ = voiceless consonant.
-	$ examples 
-				$ a -- macula : makkja; masculum; assula; spatula; 
-				$ ˈo > ˈɔ : copula, oculum
-				$ ˈu > ˈʊ > ˈo : genuculum > jənˈokːjə, , peduculum > pədokːjə 
-				$ arguably ˈi > ˈɪ : auricula > rek:jə, 
-		$ not after ū > u : erūcula >  ruːkəla, carrūcula > karrukəla  
-		$ not if voiced cons involved: calcula
-				$ not before i ? ː populī to popələ
-		$ not after voiced: rēgula, fragula , calcula, angulu etc. 
-		$ unexplained exception: guttula
-		$ not mediated by consonant :  	
-		$ not after voiced : tabula nūbila incūdula > nkudəla etc
-			$ and-or not after front : 
-		$ not after non-low front: tepidum , saeculum, picculum , morriculum 
-		$ not before r , or not to e : socerum, socera, 
-[-prim,+round] > ∅ / [+stres,alo,-around] ([-voi])+ __ l [-stres,ælo,-æround]
 
 $ XXXIa nd to nn, argued to be due to Oscan influence. 
 $d > n / n __ 

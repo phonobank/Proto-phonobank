@@ -3,12 +3,12 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 ɡ ˌe n ˈe s t r a m 
 Proto-Romance stage form : *#ɡˌenˈestram#
 *#ɡˌɛnˈɛstram# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˌɛnˈɛstram# | 16 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˌɛnˈɛstram# | 17 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-*#jˌɛnˈɛstram# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#jˌɛnˈɛstra# | 33 : [+cons] > ∅ / __ #
-*#jˌenˈɛstra# | 47 : [+stres,-prim,+front,-tense] > ˌe 
-*#jˌenˈæstra# | 51 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ɡɡˌɛnˈɛstram# | 15 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛnˈɛstram# | 16 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+*#jˌɛnˈɛstram# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#jˌɛnˈɛstra# | 34 : [+cons] > ∅ / __ #
+*#jˌenˈɛstra# | 48 : [+stres,-prim,+front,-tense] > ˌe 
+*#jˌenˈæstra# | 52 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 Proto-South-Italo-Romance stage form : *#jˌenˈæstra#
 *#jˌenˈæstɾa# | 97 : r > ɾ 
 *#jənˈæstɾa# | 99 : [-prim,-hi,-lo] > ə 

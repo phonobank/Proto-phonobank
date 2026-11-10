@@ -3,13 +3,13 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 f ˈa l k e m 
 Proto-Romance stage form : *#fˈalkem#
 *#fˈalkɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈalˠkɛm# | 18 : l > lˠ / __ k [-cons]
-*#fˈalˠt͡ʃɛm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#fˈalˠt͡ʃɛ# | 33 : [+cons] > ∅ / __ #
-*#fˈalˠət͡ʃɛ# | 38 : ∅ > ə / lˠ __
-*#fˈawət͡ʃɛ# | 39 : lˠ > w / __ ( ə ) t͡ʃ
-*#fˈavət͡ʃɛ# | 44 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#fˈavət͡ʃe# | 54 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˈalˠkɛm# | 17 : l > lˠ / __ k [-cons]
+*#fˈalˠt͡ʃɛm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#fˈalˠt͡ʃɛ# | 34 : [+cons] > ∅ / __ #
+*#fˈalˠət͡ʃɛ# | 39 : ∅ > ə / lˠ __
+*#fˈawət͡ʃɛ# | 40 : lˠ > w / __ ( ə ) t͡ʃ
+*#fˈavət͡ʃɛ# | 45 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#fˈavət͡ʃe# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#fˈavət͡ʃe#
 *#fˈavət͡ʃə# | 86 : [-stres,-lo] > ə 
 Final form : *#fˈavət͡ʃə#

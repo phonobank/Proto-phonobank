@@ -3,11 +3,12 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 l ˌe n t ˈi k u l a m 
 Proto-Romance stage form : *#lˌentˈikulam#
 *#lˌɛntˈɪkʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˌɛntˈikʊlam# | 26 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#lˌɛntˈikʊla# | 33 : [+cons] > ∅ / __ #
-*#lˌɛntˈikwʊla# | 42 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
-*#lˌentˈikwʊla# | 47 : [+stres,-prim,+front,-tense] > ˌe 
-*#lˌentˈikwula# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#lˌɛntˈiːkʊlam# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#lˌɛntˈikʊlam# | 27 : [+syl] > [-long,-splng] 
+*#lˌɛntˈikʊla# | 34 : [+cons] > ∅ / __ #
+*#lˌɛntˈikwʊla# | 43 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#lˌentˈikwʊla# | 48 : [+stres,-prim,+front,-tense] > ˌe 
+*#lˌentˈikwula# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#lˌentˈikwula#
 *#lˌentˈikwəla# | 86 : [-stres,-lo] > ə 
 *#lˌendˈikwəla# | 89 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __

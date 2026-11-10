@@ -3,10 +3,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 p ˈuː l i c e m 
 Proto-Romance stage form : *#pˈuːlicem#
 *#pˈuːlɪcɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈulɪcɛm# | 13 : [+syl] > [-long,-splng] 
-*#pˈulicɛm# | 26 : [+hi,+front,+syl] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#pˈulicɛ# | 33 : [+cons] > ∅ / __ #
-*#pˈulice# | 54 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˈuːliːcɛm# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#pˈulicɛm# | 27 : [+syl] > [-long,-splng] 
+*#pˈulicɛ# | 34 : [+cons] > ∅ / __ #
+*#pˈulice# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#pˈulice#
 *#pˈulˌice# | 85 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
 *#pˈulˌicə# | 86 : [-stres,-lo] > ə 

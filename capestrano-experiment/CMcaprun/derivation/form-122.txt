@@ -3,9 +3,8 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 s p ˈa t u l a m 
 Proto-Romance stage form : *#spˈatulam#
 *#spˈatʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#spˈatʊla# | 33 : [+cons] > ∅ / __ #
-*#spˈatula# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#spˈatla# | 56 : [-prim,+round] > ∅ / [+stres,alo,!around] [-voi] ( [-voi] )* __ l [-stres,ælo,!æround]
+*#spˈatlam# | 26 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
+*#spˈatla# | 34 : [+cons] > ∅ / __ #
 Proto-South-Italo-Romance stage form : *#spˈatla#
 *#spˈatːla# | 79 : t > tː / __ l
 Final form : *#spˈatːla#

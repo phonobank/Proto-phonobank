@@ -3,11 +3,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 f r ˈiː ɡ i d u m 
 Proto-Romance stage form : *#frˈiːɡidum#
 *#frˈiːɡɪdʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#frˈiɡɪdʊm# | 13 : [+syl] > [-long,-splng] 
-*#frˈijɪdʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#frˈijɪdʊ# | 33 : [+cons] > ∅ / __ #
-*#frˈijɪdu# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#frˈijedu# | 54 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#frˈiːjɪdʊm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
+*#frˈijɪdʊm# | 27 : [+syl] > [-long,-splng] 
+*#frˈijɪdʊ# | 34 : [+cons] > ∅ / __ #
+*#frˈijɪdu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#frˈijedu# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#frˈijedu#
 *#frˈijədə# | 86 : [-stres,-lo] > ə 
 *#fɾˈijədə# | 97 : r > ɾ 

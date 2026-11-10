@@ -3,11 +3,11 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 k ˌa p t ˈiː w u m 
 Proto-Romance stage form : *#kˌaptˈiːwum#
 *#kˌaptˈiːwʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌaptˈiwʊm# | 13 : [+syl] > [-long,-splng] 
-*#kˌatːˈiwʊm# | 31 : [+lab,-son] [+cor,-son] > ∅ [+long]
-*#kˌatːˈiwʊ# | 33 : [+cons] > ∅ / __ #
-*#kˌatːˈivʊ# | 44 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#kˌatːˈivu# | 48 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌaptˈiwʊm# | 27 : [+syl] > [-long,-splng] 
+*#kˌatːˈiwʊm# | 32 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#kˌatːˈiwʊ# | 34 : [+cons] > ∅ / __ #
+*#kˌatːˈivʊ# | 45 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#kˌatːˈivu# | 49 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#kˌatːˈivu#
 *#kˌatːˈivə# | 86 : [-stres,-lo] > ə 
 *#katːˈivə# | 104 : [-prim] > [-stres,-prim,+syl,+son] 
