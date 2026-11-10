@@ -92,14 +92,26 @@ lˠ > w / __ (ə) t͡ʃ
 $ LXXXg lˠ reverts to l if not bled by LXXXd. 
 lˠ > l
 
-$ LXXXe -- FIX, manual inferred -- wək to wk after stressed vowel -- dulcem falcem -- if there is labiality on it or beforehand. Bleeds LXXVIIa. 
+$ LXXXe -- FIX, manual inferred -- wək to wk after stressed vowel -- dulcem falcem -- if there is labiality on it or beforehand. 
+	$Bleeds LXXVIIa. 
 ə > ∅ / [-blab] [+prim,blab] w __ k
 
-$ LXIa kulV- gulV > kwəlV, gwəlV; w insertion, counterfed by LIXf reduction to ə 
-∅ > w / [-cont,+back] __ u [+lat] [+syl] #
 
-$ LXXXVIIa bVl > bl in unknown conditions, feeding LVXIXb and LXIXd to produce bbj (fibbja, nebbja). Attributed to "roughly between the second and fourth centuries CE". MANUAL INFERENCE, FIX --it's after (non-low) front vowels $ NOT: nūbila , tabula, turbulare
-	$ FIX -- MANUAL INFERENCE -- this context could also apply for frīgidus, > friddu. Broadened. TODO may need to debug. Bled by LXIa for rēgula > regwəla.
+$ LXIa final kulV- gulV (now with ʊ per LIb/ LIIb/ LVIIIa/ LVIa)> kwəlV, gwəlV; w insertion, counterfed by LIXf reduction to ə 
+$FONTECCHIO VERSION: ∅ > w / [-cont,+back] __ ʊ [+lat] [+syl] #
+
+	$ MANUAL FIX: appears to happen before ɔ too -- ficora > fikwəra . Just treating it as happening before non-tonic round vowels rather than just ʊ
+∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] # 
+		$needs to be in k/g o/u l V- finals -- not in columna > kolonːa. etc. 
+
+$ LXXXVIIa bVl > bl in unknown conditions, 
+		$feeds LVXIXb and LXIXd to produce bbj (fibbja, nebbja). 
+			$Attributed to "roughly between the second and fourth centuries CE". 
+	$MANUAL INFERENCE, FIX --it's after (non-low) front vowels $ NOT: nūbila , tabula, turbulare
+	$ FIXș MANUAL INFERENCE -- broaned -- 
+		$ this context could also apply for frīgidus, > friddu. 
+	$ TODO may need to debug. 
+		$ Bled by LXIa for rēgula > regwəla.
 		$ not before voiceless: dēbitum > debbətə
 		$ may be affected: digitum to ditə, digitōnem > ditonə
 [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
@@ -107,7 +119,10 @@ $ LXXXVIIa bVl > bl in unknown conditions, feeding LVXIXb and LXIXd to produce b
 $ LXXVIIa medial w to v, if prevocalic
 	$ subsumed -- LXIXa initial w to v
 		$w > v / # __
-w > v / __ [-cons]
+		$w > v / __ [-cons]
+	$ MANUAL FIX -- does not happen after obstruents
+w > v / # ((@)* [+son]) __ [-cons]
+
 
 $ TODO HERE remaining secondary clusters to account for per Fontecchio
 	$ LXXXVIIc
@@ -156,7 +171,10 @@ $ LVIIIa countertonic ɪ and ɛ to e
 [+stres,-prim,+front,-tense] > ˌe 
 
 $ LVIIIb countertonic ɔ and ʊ tense to o and u
-[+stres,-prim,+round] > [+tense]
+	$ FONTECCHIO OG 
+	[+stres,-prim,+round] > [+tense]
+	$ MANUAL FIX: broaden to all non-tonic round vowels
+$[-prim,+round] > [+tense]
 
 $ LIc (stressed?) ɪ raises back to i "when followed by a syllable containing yod or a palatal". Not shared with West Romance but shared with Italo-Romance (and Albano-Latin?): consilium > Ital consiglio, Sic cunzigghiu, Alb këshill, vs. Venetan conséjo, Sp consejo, French conseil, Friul consei, Cat consell. ; cilium > ital ciglio, Sic cicgghiu, (Pied sign, Rom zida, French cil) vs Romansch tschegl, Venet cegia, Emilian zejja, Port celha, Sp cejo etc. ; leenticula > Ital lenticchia vs Sp lenteja, etc. French has it sometimes before ʎ separately. But Capestrano doesn't have it in auriculam > rekkja, or piscem > peʃʃe, or vicncere > vend͡ʒe (is this a french loan? from vindicare?) 
 	$ fed by iotation and/or yod coalescence-- avaritia, consiliu, ciliu
@@ -193,8 +211,9 @@ $ LVIId and LId ɪ and ʊ, unless raised, and ɛ and ɔ unless metathesized, pas
 $ we're working with ɔ not ɒ-tense -- BANDAID 
 [+lo,-tense,+round] > [-lo]
 
-$ LXXXVIIb -- further deletions -- FIX; MANUAL INFERENCE -- unstressed u/ʊ lost (per LVIIIb, it's u) in á,ɔ́,ó (not uǃ) C̥* __ l a,o,u. 
-		$ bled by LId 
+$ LXXXVIIb -- FIX; MANUAL INFERENCE 
+	$ further deletions of atonic round vowels --  
+	$ -- unstressed u/ʊ lost (per LVIIIb, it's u) in á,ɔ́,ó (not uǃ) C̥* __ l a,o,u.
 	$ examples -- macula : makkja; masculum; assula; spatula; copula, genuculum > jənˈokːjə, oculum, peduculum > pədokːjə 
 		$ not before high ū >ju : erūcula , guttula, asinum 
 		$ not before i ? ː populī to popələ
@@ -203,7 +222,7 @@ $ LXXXVIIb -- further deletions -- FIX; MANUAL INFERENCE -- unstressed u/ʊ lost
 			$ and-or not after front : rēgula
 		$ not after non-low front: tepidum , saeculum, picculum , morriculum 
 		$ not before r , or not to e : socerum, socera, 
-u > ∅ / [+stres,alo,-around] ([-voi])+ __ l [-stres,ælo,-æround]
+[-prim,+round] > ∅ / [+stres,alo,-around] ([-voi])+ __ l [-stres,ælo,-æround]
 
 $ XXXIa nd to nn, argued to be due to Oscan influence. 
 $d > n / n __ 

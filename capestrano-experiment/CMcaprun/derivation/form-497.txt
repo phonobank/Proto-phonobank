@@ -1,10 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 497:
-#ˈokulum# >>> *#ˈokələ# ( GOLD : #ˈɔkːjə#) :
+#ˈokulum# >>> *#ˈokwələ# ( GOLD : #ˈɔkːjə#) :
 ˈo k u l u m 
 Proto-Romance stage form : *#ˈokulum#
 *#ˈɔkʊlʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈɔkʊlʊ# | 21 : [+cons] > ∅ / __ #
-*#ˈokolo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈokolo#
-*#ˈokələ# | 77 : [-stres,-lo] > ə 
-Final form : *#ˈokələ#
+*#ˈɔkwʊlʊ# | 32 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#ˈokwolo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈokwolo#
+*#ˈokwələ# | 77 : [-stres,-lo] > ə 
+Final form : *#ˈokwələ#

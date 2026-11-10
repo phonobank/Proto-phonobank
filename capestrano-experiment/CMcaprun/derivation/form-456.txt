@@ -1,10 +1,10 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 456:
-#wˈidua# >>> *#vˈedva# ( GOLD : #vˈedeva#) :
+#wˈidua# >>> *#vˈedwa# ( GOLD : #vˈedeva#) :
 w ˈi d u a 
 *#wˈidwa# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
 Proto-Romance stage form : *#wˈidwa#
 *#wˈɪdwa# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɪdva# | 34 : w > v / __ [-cons]
-*#vˈedva# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˈedva#
-Final form : *#vˈedva#
+*#vˈɪdwa# | 34 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈedwa# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˈedwa#
+Final form : *#vˈedwa#

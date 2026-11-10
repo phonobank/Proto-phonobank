@@ -1,11 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 414:
-#kˈoːpulam# >>> *#kˈopəla# ( GOLD : #kˈopːja#) :
+#kˈoːpulam# >>> *#kˈopːja# ( GOLD : #kˈopːja#) :
 k ˈoː p u l a m 
 Proto-Romance stage form : *#kˈoːpulam#
 *#kˈoːpʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#kˈopʊlam# | 12 : [+syl] > [-long,-splng] 
 *#kˈopʊla# | 21 : [+cons] > ∅ / __ #
 *#kˈopola# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈopola#
-*#kˈopəla# | 77 : [-stres,-lo] > ə 
-Final form : *#kˈopəla#
+*#kˈopla# | 47 : [-prim,+round] > ∅ / [+stres,alo,!around] [-voi] ( [-voi] )* __ l [-stres,ælo,!æround]
+*#kˈopːla# | 52 : p > pː / [+syl] ( @ )* __ [+son,+cor,-nas]
+*#kˈopːʎa# | 54 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#kˈopːʎa#
+*#kˈopːja# | 91 : {ʎ;ʎː} > {j;jː} 
+Final form : *#kˈopːja#

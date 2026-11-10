@@ -1,13 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 191:
-#rˈeːɡulam# >>> *#ɾˈeɡja# ( GOLD : #ɾˈeɡwəla#) :
+#rˈeːɡulam# >>> *#ɾˈeɡwəla# ( GOLD : #ɾˈeɡwəla#) :
 r ˈeː ɡ u l a m 
 Proto-Romance stage form : *#rˈeːɡulam#
 *#rˈeːɡʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#rˈeɡʊlam# | 12 : [+syl] > [-long,-splng] 
 *#rˈeɡʊla# | 21 : [+cons] > ∅ / __ #
-*#rˈeɡla# | 33 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#rˈeɡʎa# | 54 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#rˈeɡʎa#
-*#ɾˈeɡʎa# | 88 : r > ɾ 
-*#ɾˈeɡja# | 91 : {ʎ;ʎː} > {j;jː} 
-Final form : *#ɾˈeɡja#
+*#rˈeɡwʊla# | 32 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#rˈeɡwola# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#rˈeɡwola#
+*#rˈeɡwəla# | 77 : [-stres,-lo] > ə 
+*#ɾˈeɡwəla# | 88 : r > ɾ 
+Final form : *#ɾˈeɡwəla#

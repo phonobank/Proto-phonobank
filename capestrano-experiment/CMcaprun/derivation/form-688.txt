@@ -1,16 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 688:
-#mˌorˈikolum# >>> *#məɾˈekjə# ( GOLD : #mərːˈiːkwələ#) :
+#mˌorˈikolum# >>> *#məɾˈekwələ# ( GOLD : #mərːˈiːkwələ#) :
 m ˌo r ˈi k o l u m 
 Proto-Romance stage form : *#mˌorˈikolum#
 *#mˌɔrˈɪkɔlʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#mˌɔrˈɪkɔlʊ# | 21 : [+cons] > ∅ / __ #
-*#mˌɔrˈɪklʊ# | 33 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#mˌorˈɪklʊ# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˌorˈeklo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#mˌorˈekʎo# | 54 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#mˌorˈekʎo#
-*#mˌorˈekʎə# | 77 : [-stres,-lo] > ə 
-*#mˌoɾˈekʎə# | 88 : r > ɾ 
-*#məɾˈekʎə# | 90 : [-prim,-hi,-lo] > ə 
-*#məɾˈekjə# | 91 : {ʎ;ʎː} > {j;jː} 
-Final form : *#məɾˈekjə#
+*#mˌɔrˈɪkwɔlʊ# | 32 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#mˌorˈɪkwɔlʊ# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˌorˈekwolo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌorˈekwolo#
+*#mˌorˈekwələ# | 77 : [-stres,-lo] > ə 
+*#mˌoɾˈekwələ# | 88 : r > ɾ 
+*#məɾˈekwələ# | 90 : [-prim,-hi,-lo] > ə 
+Final form : *#məɾˈekwələ#

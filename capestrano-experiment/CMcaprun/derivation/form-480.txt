@@ -3,7 +3,7 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 w ˈo l w i t a 
 Proto-Romance stage form : *#wˈolwita#
 *#wˈɔlwɪta# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɔlvɪta# | 34 : w > v / __ [-cons]
+*#vˈɔlvɪta# | 34 : w > v / # ( ( @ )* [+son] ) __ [-cons]
 *#vˈɞˤlvɪta# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 *#vˈɞˤlveta# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 *#vˈɔlveta# | 46 : [+lo,-tense,+round] > [-lo] 

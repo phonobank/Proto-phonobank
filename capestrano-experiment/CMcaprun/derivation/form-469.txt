@@ -1,11 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 469:
-#wˈetula# >>> *#vˈætəla# ( GOLD : #vˈækːja#) :
+#wˈetula# >>> *#vˈætːla# ( GOLD : #vˈækːja#) :
 w ˈe t u l a 
 Proto-Romance stage form : *#wˈetula#
 *#wˈɛtʊla# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɛtʊla# | 34 : w > v / __ [-cons]
+*#vˈɛtʊla# | 34 : w > v / # ( ( @ )* [+son] ) __ [-cons]
 *#vˈætʊla# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 *#vˈætola# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˈætola#
-*#vˈætəla# | 77 : [-stres,-lo] > ə 
-Final form : *#vˈætəla#
+*#vˈætla# | 47 : [-prim,+round] > ∅ / [+stres,alo,!around] [-voi] ( [-voi] )* __ l [-stres,ælo,!æround]
+Proto-South-Italo-Romance stage form : *#vˈætla#
+*#vˈætːla# | 69 : t > tː / __ l
+Final form : *#vˈætːla#

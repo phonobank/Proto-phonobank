@@ -1,5 +1,5 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 361:
-#kˌalkulˈaː# >>> *#kaləkəlˈa# ( GOLD : #kaɾkulˈa#) :
+#kˌalkulˈaː# >>> *#kaləkwəlˈa# ( GOLD : #kaɾkulˈa#) :
 k ˌa l k u l ˈaː 
 Proto-Romance stage form : *#kˌalkulˈaː#
 *#kˌalkʊlˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -7,8 +7,9 @@ Proto-Romance stage form : *#kˌalkulˈaː#
 *#kˌalˠkʊlˈa# | 17 : l > lˠ / __ k [-cons]
 *#kˌalˠəkʊlˈa# | 28 : ∅ > ə / lˠ __
 *#kˌaləkʊlˈa# | 30 : lˠ > l 
-*#kˌaləkolˈa# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌaləkolˈa#
-*#kˌaləkəlˈa# | 77 : [-stres,-lo] > ə 
-*#kaləkəlˈa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kaləkəlˈa#
+*#kˌaləkwʊlˈa# | 32 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#kˌaləkwolˈa# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌaləkwolˈa#
+*#kˌaləkwəlˈa# | 77 : [-stres,-lo] > ə 
+*#kaləkwəlˈa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaləkwəlˈa#

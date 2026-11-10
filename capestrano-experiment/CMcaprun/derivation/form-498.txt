@@ -4,7 +4,7 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 Proto-Romance stage form : *#ˈowum#
 *#ˈɔwʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈɔwʊ# | 21 : [+cons] > ∅ / __ #
-*#ˈɔvʊ# | 34 : w > v / __ [-cons]
+*#ˈɔvʊ# | 34 : w > v / # ( ( @ )* [+son] ) __ [-cons]
 *#ˈovo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˈovo#
 *#ˈovə# | 77 : [-stres,-lo] > ə 

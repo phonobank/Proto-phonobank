@@ -1,12 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 234:
-#ˌeːrˈuːkula# >>> *#ɾˈukəla# ( GOLD : #ɾˈuːkəla#) :
+#ˌeːrˈuːkula# >>> *#ɾˈukwəla# ( GOLD : #ɾˈuːkəla#) :
 ˌeː r ˈuː k u l a 
 Proto-Romance stage form : *#ˌeːrˈuːkula#
 *#ˌeːrˈuːkʊla# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌerˈukʊla# | 12 : [+syl] > [-long,-splng] 
-*#ˌerˈukola# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌerˈukola#
-*#ˌerˈukəla# | 77 : [-stres,-lo] > ə 
-*#rˈukəla# | 78 : [-prim,-lo] > ∅ / # __
-*#ɾˈukəla# | 88 : r > ɾ 
-Final form : *#ɾˈukəla#
+*#ˌerˈukwʊla# | 32 : ∅ > w / [-cont,+back] __ [-prim,+round] [+lat] [+syl] #
+*#ˌerˈukwola# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌerˈukwola#
+*#ˌerˈukwəla# | 77 : [-stres,-lo] > ə 
+*#rˈukwəla# | 78 : [-prim,-lo] > ∅ / # __
+*#ɾˈukwəla# | 88 : r > ɾ 
+Final form : *#ɾˈukwəla#

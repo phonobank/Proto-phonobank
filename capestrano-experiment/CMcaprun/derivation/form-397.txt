@@ -3,7 +3,7 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 k ˈo r w u 
 Proto-Romance stage form : *#kˈorwu#
 *#kˈɔrwʊ# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈɔrvʊ# | 34 : w > v / __ [-cons]
+*#kˈɔrvʊ# | 34 : w > v / # ( ( @ )* [+son] ) __ [-cons]
 *#kˈorvo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#kˈorvo#
 *#kˈorvə# | 77 : [-stres,-lo] > ə 
