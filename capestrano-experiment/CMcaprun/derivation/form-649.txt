@@ -1,9 +1,10 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 649:
-#mˌaːtuːtˈiːna# >>> *#matətˈina# ( GOLD : #mːatˈina#) :
+#mˌaːtuːtˈiːna# >>> *#matːˈina# ( GOLD : #matːˈina#) :
 m ˌaː t uː t ˈiː n a 
 Proto-Romance stage form : *#mˌaːtuːtˈiːna#
 *#mˌatutˈina# | 28 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#mˌatutˈina#
-*#mˌatətˈina# | 98 : [-stres,-lo] > ə 
-*#matətˈina# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#matətˈina#
+*#mˌattˈina# | 42 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
+*#mˌatːˈina# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#mˌatːˈina#
+*#matːˈina# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#matːˈina#

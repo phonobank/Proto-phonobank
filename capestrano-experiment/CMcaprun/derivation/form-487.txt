@@ -1,17 +1,16 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 487:
-#ˌoblˌiɡˈaː# >>> *#vjəɡˈa# ( GOLD : #ubːliɡˈa#) :
+#ˌoblˌiɡˈaː# >>> *#vjiɡˈa# ( GOLD : #ubːliɡˈa#) :
 ˌo b l ˌi ɡ ˈaː 
 Proto-Romance stage form : *#ˌoblˌiɡˈaː#
 *#ˌɔblˌɪɡˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɔblˌiːɡˈaː# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
 *#ˌɔblˌiɡˈa# | 28 : [+syl] > [-long,-splng] 
-*#ˌoblˌiɡˈa# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌobʎˌiɡˈa# | 69 : l > ʎ / [-son,-cor] __
-*#ˌovʎˌiɡˈa# | 72 : b > v / [-cons] ( n ) __
+*#ˌoblˌiɡˈa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌobʎˌiɡˈa# | 70 : l > ʎ / [-son,-cor] __
+*#ˌovʎˌiɡˈa# | 73 : b > v / [-cons] ( n ) __
 Proto-South-Italo-Romance stage form : *#ˌovʎˌiɡˈa#
-*#ˌuvʎˌiɡˈa# | 95 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#ˌuvʎiɡˈa# | 96 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌuvʎəɡˈa# | 98 : [-stres,-lo] > ə 
-*#vʎəɡˈa# | 99 : [-prim,-lo] > ∅ / # __
-*#vjəɡˈa# | 112 : {ʎ;ʎː} > {j;jː} 
-Final form : *#vjəɡˈa#
+*#əvʎˌiɡˈa# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#vʎˌiɡˈa# | 87 : ə > ∅ / # __
+*#vjˌiɡˈa# | 117 : {ʎ;ʎː} > {j;jː} 
+*#vjiɡˈa# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vjiɡˈa#

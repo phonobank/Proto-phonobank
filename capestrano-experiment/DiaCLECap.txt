@@ -30,7 +30,7 @@ $ LXVb gliding of i and u in hiatus
 	$ FIX, MANUAL -- gliding of ea eo eu and oa too. Also, any length is lost, but countertonics do not glide if they are long. 
 [-stres,-lo] > [+hi] / __ [+lo]
 [-prim,-lo,-long] > [+hi] / __ [+lo,+stres]
-e > j / __ [+back]
+e > j / __ [+back,-cons]
 [+hi,-prim] > [-syl,-long] / __ [+syl]
 
 = Proto-Romance
@@ -187,10 +187,12 @@ $ MANUAL FIX A13 unstressed high vowels deleted in Vround (m/l) Clab,-long __ t/
 [+hi,-stres] > ∅ / [+round,+syl] ( [+son,-syl] ) [+lab,-syl,-long] __ [nnas,nvoi,+cor,-front] [+syl]
 
 
-	$ not if postlabial consonant is sonorant: inebriacone, reflatare , inflammare , inflorire, aplpliare, appretiare, africa, explanare 
+	$ not if postlabial consonant is sonorant: inebriacone, reflatare , inflammare , inflorire, appliare, appretiare, africa, explanare 
 	$ doesn't apply to w :L cīvitās > civəta
 	$ not if coronal has sonorant beforehand: advertire, infantilem, respondere, carbonarium, raphanellum
 
+$ LXXXVIIc MANUAL FIX A18: deletions of second syllables before t/d/l in certain contexts. Accounts for: spinula, matutinum, orologiu [bleeds aphaeresis], (a)laudula [needs to have aphaeresis first!], solidum, buxeta. 
+[-stres] > ∅ / # ([-syl])* [+syl] ([-syl,-cons]) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl] 
 
 $ LXXXIIId rb to lb if there's a later r
 r > l / __ b (@)* r 
@@ -198,9 +200,9 @@ r > l / __ b (@)* r
 $ LXXXf ɫk > ɫək insertion.
 ∅ > ə / lˠ __ 
 
-$ MANUAL FIX A16 deletion of unstressed vowels in [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
+$ MANUAL FIX A16 deletion of unstressed vowels in [+syl] [+son,glat,gback,-nas] (s) __ [-cont,-back] [+syl]
 	$ accounts for  digitonem, digitum, dulcem, sōricem, spīritum, lāridum, cerebellum, frīgidum, falcem, meritāre
-		 $ should hit calcem, but this seems analogically reversed under the influence of (regularlynot) calcāria, calcula, and calcāneum.
+		 $ should hit calcem, but this seems analogically reversed under the influence of (regularly not) calcāria, calcula, and calcāneum.
 	$ fed by k to t͡ʃ in cases like dulcem, falcem, tec.
 [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
 
@@ -252,43 +254,15 @@ $ LXXXVIIa bVl > bl in unknown conditions,
 	$ FIX: MANUAL INFERENCE -- broadened -- 
 		$ Bled by LXIa for rēgula > regwəla.
 		$ doesn't delete unround elements: rēgala, dēbitum > debbətə, vipera, tepidum 
-			$ only operatesr after prim stress -- pecorariu 
+			$ only operates after prim stress -- pecorariu 
 [-prim,+round] > ∅ / [+prim,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+
 
 $ MANUAL FIX A14 --  post nasal cluster deletions. Various learnedisms are exceptions: anima, animala, atlanticum, condicionem, manica, dominica 
 	$ hits: inebriaconem , inhibernum, vanitare, hirundinella, manduciare(?), 
-[-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __  [+cons,nnas,nson] ( [-syl] )* [+syl]
+[-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __  [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
 
-$ TODO HERE remaining secondary clusters to account for per Fontecchio
-	$ LXXXVIIc
-	$ būksida
-		$ digitum, digitone, frigidum 
-	$  spīnula alaudula orologiu
-		$ not : dominica, septimana, vomitā
-	$solidum, laridum 
-		$ spiːritu ;, meritāre 
-	$ sōricem > sorɪt͡ʃɛ > sord͡ʒə ; falcem > favət͡ʃə > fawt͡ʃə, dˈʊvət͡ʃɛ > do(w)t͡ʃə
-		$ not pulicecm > povəd͡ʒə, sulcum  > suləkə, rasicāre > raʃəkˈa , cimicem : t͡ʃimət͡ʃə, basilica > baʃiləka, medicu > medəkə
-	$ parab(o)lare
-	$ par(a)blare
-	$ mat(ū)tīnum  
-	$ cerebellum > t͡ʃeɾvˈejːə
-	$ v(e)recundia
-		$ maybe hit ; laridum , , or(o)logium 
-		$ anima : alma
-		$ alter(um) : atrə ; alterī > etrə
-	
-			$ misc exclusion : sedecim , suffocā > səffəkˈa, littera, lacrima, lucertula, ra̍sica, inimīcu, ignoranta, edera, episcopum, atlanticu, adriˈaticu, animalem, arborem, africa, cititas, cimicem, carricā, carcerem > kart͡ʃələ, carbonarium, cap(i)sterium , capti(a)torem, cond(i)cionem, cons(o)brīnum, cons(ū)tūra, generum, quindecim , quinquecentum, viperam , umida , organum, professiōnem (? may be loan), piscātōrem, persica, pec(o)rārium, part(ī)tionem , pag(i)na, populī, basil(i̠)cam , fatiga , fiasciatura, medicum, maxillāre, māchina, māchinˈā, morsicā, mulinārium
-						$, guttula, asinum 
-		$ not before high ū >ju : erūcula 
-		$ not before i ? ː populī to popələ
-		$ not medaited by consonant : calcula 	
-		$ not after voiced : tabula nūbila incūdula > nkudəla etc
-			$ and-or not after front : rēgula
-		$ not after non-low front: tepidum , saeculum, picculum , morriculum 
-		$ not before r , or not to e : socerum, socera, 
-
-$ MANUAL, FIX: ɪj > i , ej > e, oj > u, final or before cons. digitone digitu fed by early syncope. Also tres to tre, nos to noi to nu, vos to vu. Not to interfere with gn stuff.
+$ MANUAL, FIX A17: ɪj > i , ej > e, oj > u, final or before cons. digitone digitu fed by early syncope. Also tres to tre, nos to noi to nu, vos to vu. Not to interfere with gn stuff.
 [+syl,+round] > [+hi] / __ j 
 [+syl,-lo] j > [+tense] ∅ / __ ([+cons,-nas] (@)*) #
 
@@ -355,6 +329,8 @@ $ LIVc aw > o. FIX -- only preconsonantal
 
 $LXXVIIIa -- apply geminations. Must come after LVIIa. 
 {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː}
+
+
 
 $ LXXXIb pl and pr to ppl , ppr unless initial syllable. 
 	$OG was Counterbled by LVXIXb
@@ -429,11 +405,22 @@ $ ICIʎ lɲ > ɲ
 l > ∅ / __ ɲ
 
 
-
-
 =Proto-South-Italo-Romance
 
 $ undated changes presented as specific 
+
+$LIXa -- non-low initial non-tonic initial vowels fall in any case
+	$ manual fix -- these don't occur before a non-nasal sonorant followed by another consonant. Now done in two stages. 
+		$ some of this may be shared development
+[-prim,-lo] > ə / # __ {[+son,+cons] [-cons];([+nas]) [-son]}
+
+	$ MANUAL FIX 19 -- onset i "restored" before n Clab,voi : immernë, immetë
+ə > ˌi / __ n [+cons,+lab,+voi] 
+	$ MANUAL FIX 18 -- onset u "restored" before Clab r/l
+ə > ˌu / __ [+cons,+lab] [+cor,+son] 
+
+	$ Resolution of LIXa
+ə > ∅ / # __
 
 $ ICIIa -- Nd͡ʒ , mːj (from mbj, NOT mj -- cambiare > caña, but not praemium or simium or astemium), nj, Nʎ > ɲː 
 	$MANUAL FIX A11 -- handling mː j case. 
@@ -500,9 +487,6 @@ $ LIXe ˌa ˌi ˌu retained after initial a. Bleeds LIXf
 $ LIXf -- all atonic vowels to ə except a. Includes  unstressed finals LXb
 [-stres,-lo] > ə
 
-$LIXa -- non-low initial non-tonic initial vowels fall in any case
-[-prim,-lo] > ∅ / # __
-
 $ LXXa, LXXXc gr > r. Not fed by nkr lkr to ngr ngr via XVIId/LIXc.
 ɡ > ∅ / # __ r
 
@@ -532,7 +516,7 @@ r > ɾ
 $ likely recent changes highly locally specific to Capestrano: 
 
 $ LVIIId -- unclear if relative -- FIX, inferred -- ˌu > ə before f, v 
-ˌu > ə / __ [+lab,+strid] 
+ˌu > ə / @ __ [+lab,+strid] 
 
 $ XVa, LVIIIc -- unstressed vocalism limited to i a u ə; surrounding varieties allow e ɛ o ə [unclear]. Based on example of Italian domenica for Capestranese dəmenəka and Bussi dumenika and Ofena domeneka, it seems the mid vowels become ə. Bussi and Ofena are nearby towns in inland Abruzzo.
 [-prim,-hi,-lo] > ə

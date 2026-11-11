@@ -1,16 +1,14 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 470:
-#ˈuːndekim# >>> *#ˈunːd͡ʒə# ( GOLD : #ˈunːet͡ʃə#) :
+#ˈuːndekim# >>> *#ˈunːət͡ʃə# ( GOLD : #ˈunːet͡ʃə#) :
 ˈuː n d e k i m 
-*#ˈuːndjkim# | 11 : e > j / __ [+back]
-Proto-Romance stage form : *#ˈuːndjkim#
-*#ˈuːndjkɪm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈuːndjt͡ʃɪm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#ˈuːnd͡ʒt͡ʃɪm# | 24 : {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
-*#ˈuːnd͡ʒt͡ʃiːm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˈund͡ʒt͡ʃim# | 28 : [+syl] > [-long,-splng] 
-*#ˈund͡ʒt͡ʃi# | 35 : [+cons] > ∅ / __ #
-*#ˈunːt͡ʃi# | 62 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#ˈunːt͡ʃi#
-*#ˈunːt͡ʃə# | 98 : [-stres,-lo] > ə 
-*#ˈunːd͡ʒə# | 101 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#ˈunːd͡ʒə#
+Proto-Romance stage form : *#ˈuːndekim#
+*#ˈuːndɛkɪm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈuːndɛt͡ʃɪm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#ˈuːndɛt͡ʃiːm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˈundɛt͡ʃim# | 28 : [+syl] > [-long,-splng] 
+*#ˈundɛt͡ʃi# | 35 : [+cons] > ∅ / __ #
+*#ˈunːɛt͡ʃi# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˈunːet͡ʃi# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈunːet͡ʃi#
+*#ˈunːət͡ʃə# | 104 : [-stres,-lo] > ə 
+Final form : *#ˈunːət͡ʃə#

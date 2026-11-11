@@ -1,18 +1,18 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 285:
-#ˌawrˈikulam# >>> *#ɾˈikwəla# ( GOLD : #ɾˈekːja#) :
+#ˌawrˈikulam# >>> *#uɾˈikwəla# ( GOLD : #ɾˈekːja#) :
 ˌa w r ˈi k u l a m 
 Proto-Romance stage form : *#ˌawrˈikulam#
 *#ˌawrˈɪkʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌawrˈiːkʊlam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
 *#ˌawrˈikʊlam# | 28 : [+syl] > [-long,-splng] 
 *#ˌawrˈikʊla# | 35 : [+cons] > ∅ / __ #
-*#ˌawrˈikwʊla# | 50 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#ˌawrˈikwula# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌowrˈikwula# | 67 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+*#ˌawrˈikwʊla# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#ˌawrˈikwula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌowrˈikwula# | 68 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 Proto-South-Italo-Romance stage form : *#ˌowrˈikwula#
-*#ˌorˈikwula# | 87 : w > ∅ / [+round] __ [+cons]
-*#ˌurˈikwula# | 95 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#ˌurˈikwəla# | 98 : [-stres,-lo] > ə 
-*#rˈikwəla# | 99 : [-prim,-lo] > ∅ / # __
-*#ɾˈikwəla# | 109 : r > ɾ 
-Final form : *#ɾˈikwəla#
+*#ˌorˈikwula# | 93 : w > ∅ / [+round] __ [+cons]
+*#ˌurˈikwula# | 101 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#ˌurˈikwəla# | 104 : [-stres,-lo] > ə 
+*#ˌuɾˈikwəla# | 114 : r > ɾ 
+*#uɾˈikwəla# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#uɾˈikwəla#

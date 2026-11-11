@@ -1,5 +1,5 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 702:
-#ˌawaːrˈitiam# >>> *#ɾˈit͡sːa# ( GOLD : #avaɾˈit͡sja#) :
+#ˌawaːrˈitiam# >>> *#uɾˈit͡sːa# ( GOLD : #avaɾˈit͡sja#) :
 ˌa w aː r ˈi t i a m 
 *#ˌawaːrˈitjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#ˌawaːrˈitjam#
@@ -10,10 +10,10 @@ Proto-Romance stage form : *#ˌawaːrˈitjam#
 *#ˌawarˈit͡sːam# | 29 : tʲː > t͡sː 
 *#ˌawarˈit͡sːa# | 35 : [+cons] > ∅ / __ #
 *#ˌawrˈit͡sːa# | 40 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
-*#ˌowrˈit͡sːa# | 67 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+*#ˌowrˈit͡sːa# | 68 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 Proto-South-Italo-Romance stage form : *#ˌowrˈit͡sːa#
-*#ˌorˈit͡sːa# | 87 : w > ∅ / [+round] __ [+cons]
-*#ˌurˈit͡sːa# | 95 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#rˈit͡sːa# | 99 : [-prim,-lo] > ∅ / # __
-*#ɾˈit͡sːa# | 109 : r > ɾ 
-Final form : *#ɾˈit͡sːa#
+*#ˌorˈit͡sːa# | 93 : w > ∅ / [+round] __ [+cons]
+*#ˌurˈit͡sːa# | 101 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#ˌuɾˈit͡sːa# | 114 : r > ɾ 
+*#uɾˈit͡sːa# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#uɾˈit͡sːa#

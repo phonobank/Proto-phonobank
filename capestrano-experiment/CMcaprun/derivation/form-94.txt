@@ -1,11 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 94:
-#sˈolidum# >>> *#sˈolədə# ( GOLD : #sˈɔldə#) :
+#sˈolidum# >>> *#sˈoldə# ( GOLD : #sˈɔldə#) :
 s ˈo l i d u m 
 Proto-Romance stage form : *#sˈolidum#
 *#sˈɔlɪdʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#sˈɔlɪdʊ# | 35 : [+cons] > ∅ / __ #
-*#sˈɔlɪdu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sˈoledu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˈoledu#
-*#sˈolədə# | 98 : [-stres,-lo] > ə 
-Final form : *#sˈolədə#
+*#sˈɔldʊ# | 42 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
+*#sˈɔldu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sˈoldu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˈoldu#
+*#sˈoldə# | 104 : [-stres,-lo] > ə 
+Final form : *#sˈoldə#

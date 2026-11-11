@@ -1,17 +1,15 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 435:
-#kwˌattuˈordeki# >>> *#kwatːˈoɾd͡ʒt͡ʃə# ( GOLD : #kwatːˈoɾdet͡ʃə#) :
+#kwˌattuˈordeki# >>> *#kwatːˈoɾdət͡ʃə# ( GOLD : #kwatːˈoɾdet͡ʃə#) :
 k w ˌa t t u ˈo r d e k i 
-*#kwˌattuˈordjki# | 11 : e > j / __ [+back]
-*#kwˌattwˈordjki# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kwˌattwˈordjki#
-*#kwˌattwˈɔrdjkɪ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kwˌattwˈɔrdjt͡ʃɪ# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#kwˌattwˈɔrd͡ʒt͡ʃɪ# | 24 : {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
-*#kwˌattˈɔrd͡ʒt͡ʃɪ# | 52 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#kwˌattˈord͡ʒt͡ʃe# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kwˌatːˈord͡ʒt͡ʃe# | 68 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#kwˌatːˈord͡ʒt͡ʃe#
-*#kwˌatːˈord͡ʒt͡ʃə# | 98 : [-stres,-lo] > ə 
-*#kwˌatːˈoɾd͡ʒt͡ʃə# | 109 : r > ɾ 
-*#kwatːˈoɾd͡ʒt͡ʃə# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kwatːˈoɾd͡ʒt͡ʃə#
+*#kwˌattwˈordeki# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kwˌattwˈordeki#
+*#kwˌattwˈɔrdɛkɪ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kwˌattwˈɔrdɛt͡ʃɪ# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#kwˌattˈɔrdɛt͡ʃɪ# | 53 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
+*#kwˌattˈordet͡ʃe# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kwˌatːˈordet͡ʃe# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#kwˌatːˈordet͡ʃe#
+*#kwˌatːˈordət͡ʃə# | 104 : [-stres,-lo] > ə 
+*#kwˌatːˈoɾdət͡ʃə# | 114 : r > ɾ 
+*#kwatːˈoɾdət͡ʃə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kwatːˈoɾdət͡ʃə#

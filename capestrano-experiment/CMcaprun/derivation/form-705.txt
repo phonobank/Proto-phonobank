@@ -1,5 +1,5 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 705:
-#kˌondikiˈoːnem# >>> *#kunːd͡ʒjˈonə# ( GOLD : #kundit͡sjˈonə#) :
+#kˌondikiˈoːnem# >>> *#kunːət͡ʃjˈonə# ( GOLD : #kundit͡sjˈonə#) :
 k ˌo n d i k i ˈoː n e m 
 *#kˌondikjˈoːnem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#kˌondikjˈoːnem#
@@ -8,13 +8,13 @@ Proto-Romance stage form : *#kˌondikjˈoːnem#
 *#kˌɔndiːt͡ʃjˈoːnɛm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
 *#kˌɔndit͡ʃjˈonɛm# | 28 : [+syl] > [-long,-splng] 
 *#kˌɔndit͡ʃjˈonɛ# | 35 : [+cons] > ∅ / __ #
-*#kˌɔndt͡ʃjˈonɛ# | 54 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson] ( [-syl] )* [+syl]
-*#kˌondt͡ʃjˈonɛ# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌonːt͡ʃjˈonɛ# | 62 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#kˌonːt͡ʃjˈone# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌonːt͡ʃjˈone#
-*#kˌunːt͡ʃjˈone# | 95 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌunːt͡ʃjˈonə# | 98 : [-stres,-lo] > ə 
-*#kˌunːd͡ʒjˈonə# | 101 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kunːd͡ʒjˈonə# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kunːd͡ʒjˈonə#
+*#kˌondit͡ʃjˈonɛ# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌonːit͡ʃjˈonɛ# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#kˌonːit͡ʃjˈone# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌonːˌit͡ʃjˈone# | 79 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
+Proto-South-Italo-Romance stage form : *#kˌonːˌit͡ʃjˈone#
+*#kˌunːˌit͡ʃjˈone# | 101 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌunːit͡ʃjˈone# | 102 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#kˌunːət͡ʃjˈonə# | 104 : [-stres,-lo] > ə 
+*#kunːət͡ʃjˈonə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kunːət͡ʃjˈonə#

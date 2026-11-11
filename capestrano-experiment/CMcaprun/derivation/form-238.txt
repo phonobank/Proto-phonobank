@@ -1,15 +1,16 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 238:
-#ˌekskˌutulˈaː# >>> *#skətəlˈa# ( GOLD : #skutulˈa#) :
+#ˌekskˌutulˈaː# >>> *#skutəlˈa# ( GOLD : #skutulˈa#) :
 ˌe k s k ˌu t u l ˈaː 
 Proto-Romance stage form : *#ˌekskˌutulˈaː#
 *#ˌɛkskˌʊtʊlˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɛsːkˌʊtʊlˈaː# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
 *#ˌɛsːkˌʊtʊlˈa# | 28 : [+syl] > [-long,-splng] 
 *#ˌɛskˌʊtʊlˈa# | 37 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#ˌeskˌʊtʊlˈa# | 57 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌeskˌutulˈa# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌeskˌʊtʊlˈa# | 58 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌeskˌutulˈa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌeskˌutulˈa#
-*#ˌeskutulˈa# | 96 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌeskətəlˈa# | 98 : [-stres,-lo] > ə 
-*#skətəlˈa# | 99 : [-prim,-lo] > ∅ / # __
-Final form : *#skətəlˈa#
+*#əskˌutulˈa# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#skˌutulˈa# | 87 : ə > ∅ / # __
+*#skˌutəlˈa# | 104 : [-stres,-lo] > ə 
+*#skutəlˈa# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#skutəlˈa#
