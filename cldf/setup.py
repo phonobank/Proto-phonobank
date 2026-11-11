@@ -17,6 +17,7 @@ setup(
     install_requires=[
         "cldfbench",
         "pycldf",
+        "pyglottolog",
     ],
     extras_require={
         "test": [
