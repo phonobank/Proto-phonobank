@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="cldfbench_phonobank",
-    py_modules=["cldfbench_phonobank"],
+    py_modules=["cldfbench_phonobank", "phonobank_cfr"],
     packages=["phonobank_commands"],
     include_package_data=True,
     zip_safe=False,
@@ -17,6 +17,8 @@ setup(
     install_requires=[
         "cldfbench",
         "pycldf",
+        "pyglottolog",
+        "lingpy",
     ],
     extras_require={
         "test": [

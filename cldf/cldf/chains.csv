@@ -1,0 +1,9 @@
+ID,Source_Language_ID,Target_Language_ID,Raw_File,Source
+maiden1995-italian,latin,italian,maiden1995/oct26-italian-extractor-cfr.txt,maiden1995
+pardess1990-daco-romanian,latin,daco-romanian,pardess1990/oct26-romanian-extractor-cfr.txt,pardess1990
+quechua_cm-quechua-amazonas,proto-quechuan,quechua-amazonas,quechua-cfr/amazonas-cfr-cm.txt,quechua_cm
+quechua_cm-quechua-ancash,proto-quechuan,quechua-ancash,quechua-cfr/ancash-cfr-cm.txt,quechua_cm
+quechua_cm-quechua-ayacucho,proto-quechuan,quechua-ayacucho,quechua-cfr/ayacucho-cfr-cm.txt,quechua_cm
+quechua_cm-quechua-cuzco,proto-quechuan,quechua-cuzco,quechua-cfr/cuzco-cfr-cm.txt,quechua_cm
+quechua_cm-quechua-ecuador,proto-quechuan,quechua-ecuador,quechua-cfr/ecuador-cfr-cm.txt,quechua_cm
+quechua_cm-quechua-junin,proto-quechuan,quechua-junin,quechua-cfr/junin-cfr-cm.txt,quechua_cm

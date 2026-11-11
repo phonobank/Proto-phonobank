@@ -15,10 +15,10 @@ also uses "$ - " bullets, which is why reading starts at the banner.
 
 import re
 
-FILE = "oct26-italian-extractor-cfr.txt"
+FILES = ["oct26-italian-extractor-cfr.txt"]
 SOURCE = "maiden1995"
 
-# Names in the '$ DiaSim cascade:' line -> language IDs in etc/languages.csv.
+# Stage names in the file ('$|', '=' and '~' lines) -> language IDs in etc/languages.csv.
 LANGUAGES = {
     "Classical Latin": "latin",
     "Proto-Romance": "proto-romance",

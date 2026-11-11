@@ -1,3 +1,4 @@
+$| Latin
 $ oct26-romanian-extractor-cfr.txt
 $ DiaSim cascade: Latin > Balkan Romance > Common Romanian > Daco-Romanian
 $ Source: Pardess, David Forbes. 1990. From Latin to Romanian: Phonological Rules. PhD diss., UCLA.
@@ -683,3 +684,4 @@ $ R60 Loss of final [l] of m sg definite article  $$PG: 121-122
 $ COMMENT-ONLY: Pardess: l > ∅ / __ # "in m sg definite article" (kálul > DR calul [kálu]); he
 $ attributes it to reanalysis of calului as calu + lui - morphologically conditioned.
 
+$| Daco-Romanian

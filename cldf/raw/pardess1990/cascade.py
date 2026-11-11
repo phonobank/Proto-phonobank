@@ -7,10 +7,10 @@ under them, which the shared parser handles, so no comment_only() is needed.
 
 import re
 
-FILE = "oct26-romanian-extractor-cfr.txt"
+FILES = ["oct26-romanian-extractor-cfr.txt"]
 SOURCE = "pardess1990"
 
-# Names in the '$ DiaSim cascade:' line -> language IDs in etc/languages.csv.
+# Stage names in the file ('$|', '=' and '~' lines) -> language IDs in etc/languages.csv.
 LANGUAGES = {
     "Latin": "latin",
     "Balkan Romance": "balkan-romance",

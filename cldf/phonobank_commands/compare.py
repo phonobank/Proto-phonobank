@@ -4,8 +4,8 @@ Check whether two cascades give the same results on a lexicon, using DiaSim.
     cldfbench phonobank.compare pardess1990 raw/pardess1990/oct26-romanian-extractor-cfr.txt \\
         --lexicon pardess1990-lexicon.txt --diasim ~/projects/DiaSim
 
-Each cascade is either a cite key (the cascade is written out from the CLDF
-data first) or the path to a cascade file.
+Each cascade is a chain ID or cite key (the cascade is written out from the
+CLDF data first), or the path to a cascade file.
 
 Method (after Clayton Marr's compareCascades in DiaSim's UTILS.py):
     1. Run DiaSim with the first cascade on the lexicon.
@@ -53,11 +53,11 @@ OVERALL_ACCURACY_LABEL = "Overall accuracy:"
 def register(parser):
     parser.add_argument(
         "cascade1",
-        help="cite key, or path to a cascade file",
+        help="chain ID, cite key, or path to a cascade file",
     )
     parser.add_argument(
         "cascade2",
-        help="cite key, or path to a cascade file",
+        help="chain ID, cite key, or path to a cascade file",
     )
     parser.add_argument(
         "--lexicon",
