@@ -1,11 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 176:
-#lˈupum# >>> *#lˈopə# ( GOLD : #lˈupə#) :
-l ˈu p u m 
-Proto-Romance stage form : *#lˈupum#
-*#lˈʊpʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˈʊpʊ# | 21 : [+cons] > ∅ / __ #
-*#lˈopʊ# | 43 : ˈʊ > ˈo / __ @ @
-*#lˈopo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#lˈopo#
-*#lˈopə# | 77 : [-stres,-lo] > ə 
-Final form : *#lˈopə#
+#lˈuːmen# >>> *#lˈumə# ( GOLD : #lˈumə#) :
+l ˈuː m e n 
+Proto-Romance stage form : *#lˈuːmen#
+*#lˈuːmɛn# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈumɛn# | 27 : [+syl] > [-long,-splng] 
+*#lˈumɛ# | 34 : [+cons] > ∅ / __ #
+*#lˈume# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#lˈume#
+*#lˈumə# | 96 : [-stres,-lo] > ə 
+Final form : *#lˈumə#

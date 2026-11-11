@@ -1,9 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 378:
-#kˈapsam# >>> *#kˈaʃːa# ( GOLD : #kˈaʃːa#) :
-k ˈa p s a m 
-Proto-Romance stage form : *#kˈapsam#
-*#kˈasːam# | 19 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
-*#kˈasːa# | 21 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#kˈasːa#
-*#kˈaʃːa# | 71 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-Final form : *#kˈaʃːa#
+#kˌampˈaːnem# >>> *#kambˈanə# ( GOLD : #kambˈanə#) :
+k ˌa m p ˈaː n e m 
+Proto-Romance stage form : *#kˌampˈaːnem#
+*#kˌampˈaːnɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌampˈanɛm# | 27 : [+syl] > [-long,-splng] 
+*#kˌampˈanɛ# | 34 : [+cons] > ∅ / __ #
+*#kˌampˈane# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌampˈane#
+*#kˌampˈanə# | 96 : [-stres,-lo] > ə 
+*#kˌambˈanə# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kambˈanə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kambˈanə#

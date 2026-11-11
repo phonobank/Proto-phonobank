@@ -1,11 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 386:
-#kˌafˈonem# >>> *#kafˈonə# ( GOLD : #kafˈonə#) :
-k ˌa f ˈo n e m 
-Proto-Romance stage form : *#kˌafˈonem#
-*#kˌafˈɔnɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌafˈɔnɛ# | 21 : [+cons] > ∅ / __ #
-*#kˌafˈone# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌafˈone#
-*#kˌafˈonə# | 77 : [-stres,-lo] > ə 
-*#kafˈonə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kafˈonə#
+#kˈorwu# >>> *#kˈoɾvə# ( GOLD : #kˈoɾvə#) :
+k ˈo r w u 
+Proto-Romance stage form : *#kˈorwu#
+*#kˈɔrwʊ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɔrvʊ# | 49 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#kˈɔrvu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˈorvu# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈorvu#
+*#kˈorvə# | 96 : [-stres,-lo] > ə 
+*#kˈoɾvə# | 107 : r > ɾ 
+Final form : *#kˈoɾvə#

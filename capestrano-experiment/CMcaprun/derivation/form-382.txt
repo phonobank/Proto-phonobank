@@ -1,10 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 382:
-#kˈaput# >>> *#kˈapə# ( GOLD : #kˈapə#) :
-k ˈa p u t 
-Proto-Romance stage form : *#kˈaput#
-*#kˈapʊt# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈapʊ# | 21 : [+cons] > ∅ / __ #
-*#kˈapo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈapo#
-*#kˈapə# | 77 : [-stres,-lo] > ə 
-Final form : *#kˈapə#
+#kˌoːnsuːtˈuːram# >>> *#kund͡zətˈuɾa# ( GOLD : #kuʃətˈuɾa#) :
+k ˌoː n s uː t ˈuː r a m 
+Proto-Romance stage form : *#kˌoːnsuːtˈuːram#
+*#kˌonsutˈuram# | 27 : [+syl] > [-long,-splng] 
+*#kˌonsutˈura# | 34 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˌonsutˈura#
+*#kˌunsutˈura# | 93 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌunsətˈura# | 96 : [-stres,-lo] > ə 
+*#kˌund͡zətˈura# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kˌund͡zətˈuɾa# | 107 : r > ɾ 
+*#kund͡zətˈuɾa# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kund͡zətˈuɾa#

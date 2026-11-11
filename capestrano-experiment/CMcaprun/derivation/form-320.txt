@@ -1,13 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 320:
-#hˈodieː# >>> *#ˈod͡ʒə# ( GOLD : #ˈojːə#) :
-h ˈo d i eː 
-*#ˈodieː# | 4 : h > ∅ 
-*#ˈodjeː# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#ˈodjeː#
-*#ˈɔdjeː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔdje# | 12 : [+syl] > [-long,-splng] 
-*#ˈodje# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈodje#
-*#ˈod͡ʒe# | 70 : {d j;dː j;ɡ j;ɡː j} > {d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
-*#ˈod͡ʒə# | 77 : [-stres,-lo] > ə 
-Final form : *#ˈod͡ʒə#
+#krˈeːtam# >>> *#kɾˈeta# ( GOLD : #kɾˈeta#) :
+k r ˈeː t a m 
+Proto-Romance stage form : *#krˈeːtam#
+*#krˈetam# | 27 : [+syl] > [-long,-splng] 
+*#krˈeta# | 34 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#krˈeta#
+*#kɾˈeta# | 107 : r > ɾ 
+Final form : *#kɾˈeta#

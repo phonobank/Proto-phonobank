@@ -1,10 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 497:
-#ˈokulum# >>> *#ˈokələ# ( GOLD : #ˈɔkːjə#) :
-ˈo k u l u m 
-Proto-Romance stage form : *#ˈokulum#
-*#ˈɔkʊlʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔkʊlʊ# | 21 : [+cons] > ∅ / __ #
-*#ˈokolo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈokolo#
-*#ˈokələ# | 77 : [-stres,-lo] > ə 
-Final form : *#ˈokələ#
+#plˈumbum# >>> *#pjˈumːə# ( GOLD : #pjˈumːə#) :
+p l ˈu m b u m 
+Proto-Romance stage form : *#plˈumbum#
+*#plˈʊmbʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#plˈʊmbʊ# | 34 : [+cons] > ∅ / __ #
+*#plˈʊmbu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#plˈʊmːu# | 60 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#plˈumːu# | 61 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
+*#pʎˈumːu# | 67 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#pʎˈumːu#
+*#pʎˈumːə# | 96 : [-stres,-lo] > ə 
+*#pjˈumːə# | 110 : {ʎ;ʎː} > {j;jː} 
+Final form : *#pjˈumːə#

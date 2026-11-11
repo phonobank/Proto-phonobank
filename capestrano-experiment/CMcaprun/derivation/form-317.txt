@@ -1,9 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 317:
-#hˌaːlˈaː# >>> *#alˈa# ( GOLD : #alˈa#) :
-h ˌaː l ˈaː 
-*#ˌaːlˈaː# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˌaːlˈaː#
-*#ˌalˈa# | 12 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#ˌalˈa#
-*#alˈa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#alˈa#
+#klˈaːwum# >>> *#kjˈavə# ( GOLD : #cˈɔvə#) :
+k l ˈaː w u m 
+Proto-Romance stage form : *#klˈaːwum#
+*#klˈaːwʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#klˈawʊm# | 27 : [+syl] > [-long,-splng] 
+*#klˈawʊ# | 34 : [+cons] > ∅ / __ #
+*#klˈavʊ# | 49 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#klˈavu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kʎˈavu# | 67 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#kʎˈavu#
+*#kʎˈavə# | 96 : [-stres,-lo] > ə 
+*#kjˈavə# | 110 : {ʎ;ʎː} > {j;jː} 
+Final form : *#kjˈavə#

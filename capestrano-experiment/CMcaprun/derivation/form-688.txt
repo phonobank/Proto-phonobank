@@ -1,16 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 688:
-#mˌorˈikolum# >>> *#məɾˈekjə# ( GOLD : #mərːˈiːkwələ#) :
-m ˌo r ˈi k o l u m 
-Proto-Romance stage form : *#mˌorˈikolum#
-*#mˌɔrˈɪkɔlʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɔrˈɪkɔlʊ# | 21 : [+cons] > ∅ / __ #
-*#mˌɔrˈɪklʊ# | 33 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#mˌorˈɪklʊ# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˌorˈeklo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#mˌorˈekʎo# | 54 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#mˌorˈekʎo#
-*#mˌorˈekʎə# | 77 : [-stres,-lo] > ə 
-*#mˌoɾˈekʎə# | 88 : r > ɾ 
-*#məɾˈekʎə# | 90 : [-prim,-hi,-lo] > ə 
-*#məɾˈekjə# | 91 : {ʎ;ʎː} > {j;jː} 
-Final form : *#məɾˈekjə#
+#blˈankum# >>> *#bjˈaŋɡə# ( GOLD : #bːjˈaŋɡə#) :
+b l ˈa n k u m 
+*#blˈaŋkum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#blˈaŋkum#
+*#blˈaŋkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#blˈaŋkʊ# | 34 : [+cons] > ∅ / __ #
+*#blˈaŋku# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#bʎˈaŋku# | 67 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#bʎˈaŋku#
+*#bʎˈaŋkə# | 96 : [-stres,-lo] > ə 
+*#bʎˈaŋɡə# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#bjˈaŋɡə# | 110 : {ʎ;ʎː} > {j;jː} 
+Final form : *#bjˈaŋɡə#

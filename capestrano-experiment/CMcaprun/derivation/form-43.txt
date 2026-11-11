@@ -1,12 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 43:
-#dˌomˈinikam# >>> *#dəmˈenəka# ( GOLD : #dəmˈenəka#) :
-d ˌo m ˈi n i k a m 
-Proto-Romance stage form : *#dˌomˈinikam#
-*#dˌɔmˈɪnɪkam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˌɔmˈɪnɪka# | 21 : [+cons] > ∅ / __ #
-*#dˌomˈɪnɪka# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dˌomˈeneka# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#dˌomˈeneka#
-*#dˌomˈenəka# | 77 : [-stres,-lo] > ə 
-*#dəmˈenəka# | 90 : [-prim,-hi,-lo] > ə 
-Final form : *#dəmˈenəka#
+#dˈominam# >>> *#dˈɔmna# ( GOLD : #dˈonːa#) :
+d ˈo m i n a m 
+Proto-Romance stage form : *#dˈominam#
+*#dˈɔmɪnam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˈɔmɪna# | 34 : [+cons] > ∅ / __ #
+*#dˈɔmna# | 40 : [+hi,-stres] > ∅ / [+round,+syl] ( [+son,-syl] ) [+lab,-syl,-long] __ [nnas,nvoi,+cor,-front] [+syl]
+*#dˈɞˤmna# | 62 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#dˈɔmna# | 72 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#dˈɔmna#
+Final form : *#dˈɔmna#

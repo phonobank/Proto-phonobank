@@ -1,12 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 167:
-#lˈabrum# >>> *#lˈabːɾə# ( GOLD : #lˈabːɾə#) :
-l ˈa b r u m 
-Proto-Romance stage form : *#lˈabrum#
-*#lˈabrʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˈabrʊ# | 21 : [+cons] > ∅ / __ #
-*#lˈabro# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#lˈabːro# | 56 : b > bː / __ [rcor,!rfront,+son,-nas,-syl]
-Proto-South-Italo-Romance stage form : *#lˈabːro#
-*#lˈabːrə# | 77 : [-stres,-lo] > ə 
-*#lˈabːɾə# | 88 : r > ɾ 
-Final form : *#lˈabːɾə#
+#lˈampum# >>> *#lˈambə# ( GOLD : #lˈambə#) :
+l ˈa m p u m 
+Proto-Romance stage form : *#lˈampum#
+*#lˈampʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈampʊ# | 34 : [+cons] > ∅ / __ #
+*#lˈampu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#lˈampu#
+*#lˈampə# | 96 : [-stres,-lo] > ə 
+*#lˈambə# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#lˈambə#

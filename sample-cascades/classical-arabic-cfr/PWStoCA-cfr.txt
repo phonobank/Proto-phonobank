@@ -1,0 +1,28 @@
+$ Proto-West-Semitic
+
+$actually a widespread shift in West Semitic, but reversed under analogy in many places.. 
+s > h / # __
+
+=Proto-Central-Semitic
+
+p > f 
+
+$mimation to nunation 
+m > n / [+hi,-stres] __ #
+
+=Proto-Arabian-Central-Semitic
+
+$like between MSA and Ethiopic there is something of a similar motivation to Hebrew but (quite) different details in tripthong leveling here. 
+
+$pretonic reduction in "triphthongs" and resulting monophthongization in favor of the posterior (stressed) element
+[+syl,-stres] [+hi,+son,-syl] [+stres] > ∅ ∅ [+long]
+
+$remaining triphthongs leveled in favor of initial vowel, unless first element is non-low and last element is low (but in practice this means aja is the only low-vowel-final triphthong leveled in this way, since there is now -awa- in this dataset. However the same outcome is expected: cf. Arabic maqam for Hebrew maqōm < ma-qawam. 
+[+syl] [+hi,+son,-syl] [+syl,-lo] > [+long] ∅ ∅
+[+lo] [+hi,+son,-syl] [+lo] > [+long] ∅ ∅
+
+$restraint against superheavy syllables -- long vowels shortened if there is a coda consonatn. Assume prefered single C- onset. It appears this is in fact a PERSISTENT Proto-Central-Semitic rule. 
+[+syl] > [-long] / __ [-syl] {[+cons];#}
+
+$stress not marked in output. 
+[+syl] > [-stres]

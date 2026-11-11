@@ -1,13 +1,10 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 410:
-#komparˈaː# >>> *#kəmbaɾˈa# ( GOLD : #kəmbɾˈa#) :
-k o m p a r ˈaː 
-Proto-Romance stage form : *#komparˈaː#
-*#kɔmparˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kɔmparˈa# | 12 : [+syl] > [-long,-splng] 
-*#kɞˤmparˈa# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#kɔmparˈa# | 46 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#kɔmparˈa#
-*#kəmparˈa# | 77 : [-stres,-lo] > ə 
-*#kəmbarˈa# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kəmbaɾˈa# | 88 : r > ɾ 
-Final form : *#kəmbaɾˈa#
+#ɡlˈandam# >>> *#jːˈanːa# ( GOLD : #ɟˈanːa#) :
+ɡ l ˈa n d a m 
+Proto-Romance stage form : *#ɡlˈandam#
+*#ɡlˈanda# | 34 : [+cons] > ∅ / __ #
+*#ʎːˈanda# | 47 : ɡ l > ʎː 
+*#ʎːˈanːa# | 60 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#ʎːˈanːa#
+*#jːˈanːa# | 110 : {ʎ;ʎː} > {j;jː} 
+Final form : *#jːˈanːa#

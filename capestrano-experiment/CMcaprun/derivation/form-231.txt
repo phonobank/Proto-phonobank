@@ -1,11 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 231:
-#estˈaːte# >>> *#stˈatə# ( GOLD : #iʃtˈatə#) :
-e s t ˈaː t e 
-Proto-Romance stage form : *#estˈaːte#
-*#ɛstˈaːtɛ# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɛstˈatɛ# | 12 : [+syl] > [-long,-splng] 
-*#estˈate# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#estˈate#
-*#əstˈatə# | 77 : [-stres,-lo] > ə 
-*#stˈatə# | 78 : [-prim,-lo] > ∅ / # __
-Final form : *#stˈatə#
+#ˌeːrˈuːkula# >>> *#ɾˈukəla# ( GOLD : #ɾˈukəla#) :
+ˌeː r ˈuː k u l a 
+Proto-Romance stage form : *#ˌeːrˈuːkula#
+*#ˌeːrˈuːkʊla# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌerˈukʊla# | 27 : [+syl] > [-long,-splng] 
+*#ˌerˈukwʊla# | 48 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#ˌerˈukʊla# | 50 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
+*#ˌerˈukula# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌerˈukula#
+*#ˌerˈukəla# | 96 : [-stres,-lo] > ə 
+*#rˈukəla# | 97 : [-prim,-lo] > ∅ / # __
+*#ɾˈukəla# | 107 : r > ɾ 
+Final form : *#ɾˈukəla#

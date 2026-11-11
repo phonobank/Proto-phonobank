@@ -1,12 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 718:
-#t͡sˈukːero# >>> *#t͡sˈot͡ʃːəɾə# ( GOLD : #t͡sˈukːərə#) :
-t͡s ˈu kː e r o 
-Proto-Romance stage form : *#t͡sˈukːero#
-*#t͡sˈʊkːɛrɔ# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#t͡sˈʊt͡ʃːɛrɔ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡sˈot͡ʃːɛrɔ# | 43 : ˈʊ > ˈo / __ @ @
-*#t͡sˈot͡ʃːero# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#t͡sˈot͡ʃːero#
-*#t͡sˈot͡ʃːərə# | 77 : [-stres,-lo] > ə 
-*#t͡sˈot͡ʃːəɾə# | 88 : r > ɾ 
-Final form : *#t͡sˈot͡ʃːəɾə#
+#arsenˈale# >>> *#aɾt͡sənˈalə# ( GOLD : #art͡sənˈalə#) :
+a r s e n ˈa l e 
+Proto-Romance stage form : *#arsenˈale#
+*#arsɛnˈalɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#arsenˈale# | 55 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#arsenˈale#
+*#art͡senˈale# | 78 : s > t͡s / r __
+*#art͡sənˈalə# | 86 : [-stres,-lo] > ə 
+*#aɾt͡sənˈalə# | 97 : r > ɾ 
+Final form : *#aɾt͡sənˈalə#

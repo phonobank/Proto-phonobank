@@ -1,13 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 684:
-#mˈortuam# >>> *#mˈɔɾtva# ( GOLD : #mˈɔɾta#) :
-m ˈo r t u a m 
-*#mˈortwam# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#mˈortwam#
-*#mˈɔrtwam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɔrtwa# | 21 : [+cons] > ∅ / __ #
-*#mˈɔrtva# | 34 : w > v / __ [-cons]
-*#mˈɞˤrtva# | 42 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#mˈɔrtva# | 46 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#mˈɔrtva#
-*#mˈɔɾtva# | 88 : r > ɾ 
-Final form : *#mˈɔɾtva#
+#wˌadaniˈaː# >>> *#vadaɲˈa# ( GOLD : #wadanˈa#) :
+w ˌa d a n i ˈaː 
+*#wˌadanjˈaː# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+Proto-Romance stage form : *#wˌadanjˈaː#
+*#wˌadanjˈa# | 27 : [+syl] > [-long,-splng] 
+*#wˌadaɲːˈa# | 30 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#vˌadaɲːˈa# | 49 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#vˌadaɲːˈa#
+*#vˌadaɲˈa# | 111 : ɲː > ɲ 
+*#vadaɲˈa# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vadaɲˈa#

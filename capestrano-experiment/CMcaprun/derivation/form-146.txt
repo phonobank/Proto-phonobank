@@ -1,12 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 146:
-#nˈukem# >>> *#nˈot͡ʃə# ( GOLD : #nˈot͡ʃə#) :
-n ˈu k e m 
-Proto-Romance stage form : *#nˈukem#
-*#nˈʊkɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#nˈʊkɛ# | 21 : [+cons] > ∅ / __ #
-*#nˈʊt͡ʃɛ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#nˈot͡ʃɛ# | 43 : ˈʊ > ˈo / __ @ @
-*#nˈot͡ʃe# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#nˈot͡ʃe#
-*#nˈot͡ʃə# | 77 : [-stres,-lo] > ə 
-Final form : *#nˈot͡ʃə#
+#nˈuːbila# >>> *#nˈuvəla# ( GOLD : #nˈuvəla#) :
+n ˈuː b i l a 
+Proto-Romance stage form : *#nˈuːbila#
+*#nˈuːbɪla# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#nˈubɪla# | 27 : [+syl] > [-long,-splng] 
+*#nˈubela# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#nˈuvela# | 70 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#nˈuvela#
+*#nˈuvəla# | 96 : [-stres,-lo] > ə 
+Final form : *#nˈuvəla#

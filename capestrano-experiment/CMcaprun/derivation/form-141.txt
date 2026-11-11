@@ -1,13 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 141:
-#innˈowum# >>> *#nːˈovə# ( GOLD : #ɲˈovə#) :
-i n n ˈo w u m 
-Proto-Romance stage form : *#innˈowum#
-*#ɪnnˈɔwʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɪnnˈɔwʊ# | 21 : [+cons] > ∅ / __ #
-*#ɪnnˈɔvʊ# | 34 : w > v / __ [-cons]
-*#ennˈovo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#enːˈovo# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#enːˈovo#
-*#ənːˈovə# | 77 : [-stres,-lo] > ə 
-*#nːˈovə# | 78 : [-prim,-lo] > ∅ / # __
-Final form : *#nːˈovə#
+#nˈoːmen# >>> *#nˈomə# ( GOLD : #nˈomə#) :
+n ˈoː m e n 
+Proto-Romance stage form : *#nˈoːmen#
+*#nˈoːmɛn# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#nˈomɛn# | 27 : [+syl] > [-long,-splng] 
+*#nˈomɛ# | 34 : [+cons] > ∅ / __ #
+*#nˈome# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#nˈome#
+*#nˈomə# | 96 : [-stres,-lo] > ə 
+Final form : *#nˈomə#

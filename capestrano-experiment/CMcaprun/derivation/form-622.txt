@@ -1,16 +1,17 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 622:
-#fˌerrˈaːrium# >>> *#fərːˈaɾjə# ( GOLD : #fərːˈaɾə#) :
-f ˌe r r ˈaː r i u m 
-*#fˌerrˈaːrjum# | 10 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#fˌerrˈaːrjum#
-*#fˌɛrrˈaːrjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˌɛrrˈarjʊm# | 12 : [+syl] > [-long,-splng] 
-*#fˌɛrrˈarjʊ# | 21 : [+cons] > ∅ / __ #
-*#fˌerrˈarjʊ# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#fˌerrˈarjo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#fˌerːˈarjo# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#fˌerːˈarjo#
-*#fˌerːˈarjə# | 77 : [-stres,-lo] > ə 
-*#fˌerːˈaɾjə# | 88 : r > ɾ 
-*#fərːˈaɾjə# | 90 : [-prim,-hi,-lo] > ə 
-Final form : *#fərːˈaɾjə#
+#ˌinfˈossam# >>> *#mbˈɔsːa# ( GOLD : #mbˈosːa#) :
+ˌi n f ˈo s s a m 
+*#ˌimfˈossam# | 0 : n > m / __ [+lab,+cons]
+Proto-Romance stage form : *#ˌimfˈossam#
+*#ˌɪmfˈɔssam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌiːmfˈɔssam# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌimfˈɔssam# | 27 : [+syl] > [-long,-splng] 
+*#ˌimfˈɔssa# | 34 : [+cons] > ∅ / __ #
+*#ˌimfˈɞˤssa# | 62 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌimfˈɞˤsːa# | 66 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ˌimfˈɔsːa# | 72 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#ˌimfˈɔsːa#
+*#mfˈɔsːa# | 97 : [-prim,-lo] > ∅ / # __
+*#mb͡vˈɔsːa# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbˈɔsːa# | 100 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+Final form : *#mbˈɔsːa#

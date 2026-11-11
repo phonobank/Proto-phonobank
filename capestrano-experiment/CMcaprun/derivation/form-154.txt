@@ -1,15 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 154:
-#lˌentˈikulam# >>> *#ləndˈekja# ( GOLD : #ləndˈikːja#) :
-l ˌe n t ˈi k u l a m 
-Proto-Romance stage form : *#lˌentˈikulam#
-*#lˌɛntˈɪkʊlam# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˌɛntˈɪkʊla# | 21 : [+cons] > ∅ / __ #
-*#lˌɛntˈɪkla# | 33 : [-prim] > ∅ / [-cons,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#lˌentˈɪkla# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#lˌentˈekla# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#lˌentˈekʎa# | 54 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#lˌentˈekʎa#
-*#lˌendˈekʎa# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#ləndˈekʎa# | 90 : [-prim,-hi,-lo] > ə 
-*#ləndˈekja# | 91 : {ʎ;ʎː} > {j;jː} 
-Final form : *#ləndˈekja#
+#lˈektum# >>> *#lˈetːə# ( GOLD : #lˈetːə#) :
+l ˈe k t u m 
+Proto-Romance stage form : *#lˈektum#
+*#lˈɛktʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈɛtːʊm# | 24 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#lˈɛtːʊ# | 34 : [+cons] > ∅ / __ #
+*#lˈɛtːu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#lˈetːu# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#lˈetːu#
+*#lˈetːə# | 96 : [-stres,-lo] > ə 
+Final form : *#lˈetːə#

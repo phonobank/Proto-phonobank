@@ -1,13 +1,16 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 671:
-#mˌartˈellum# >>> *#maɾtˈelːə# ( GOLD : #maɾtˈejːə#) :
-m ˌa r t ˈe l l u m 
-Proto-Romance stage form : *#mˌartˈellum#
-*#mˌartˈɛllʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌartˈɛllʊ# | 21 : [+cons] > ∅ / __ #
-*#mˌartˈello# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#mˌartˈelːo# | 53 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#mˌartˈelːo#
-*#mˌartˈelːə# | 77 : [-stres,-lo] > ə 
-*#mˌaɾtˈelːə# | 88 : r > ɾ 
-*#maɾtˈelːə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#maɾtˈelːə#
+#mˌoːrˈikolum# >>> *#muɾˈikwələ# ( GOLD : #mərːˈikwələ#) :
+m ˌoː r ˈi k o l u m 
+Proto-Romance stage form : *#mˌoːrˈikolum#
+*#mˌoːrˈɪkɔlʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌoːrˈiːkɔlʊm# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#mˌorˈikɔlʊm# | 27 : [+syl] > [-long,-splng] 
+*#mˌorˈikɔlʊ# | 34 : [+cons] > ∅ / __ #
+*#mˌorˈikwɔlʊ# | 48 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#mˌorˈikwolu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌorˈikwolu#
+*#mˌurˈikwolu# | 93 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#mˌurˈikwələ# | 96 : [-stres,-lo] > ə 
+*#mˌuɾˈikwələ# | 107 : r > ɾ 
+*#muɾˈikwələ# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#muɾˈikwələ#

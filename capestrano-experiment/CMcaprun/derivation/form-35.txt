@@ -2,10 +2,10 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 #dˈekem# >>> *#dˈet͡ʃə# ( GOLD : #djˈet͡ʃə#) :
 d ˈe k e m 
 Proto-Romance stage form : *#dˈekem#
-*#dˈɛkɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈɛkɛ# | 21 : [+cons] > ∅ / __ #
-*#dˈɛt͡ʃɛ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#dˈet͡ʃe# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#dˈɛkɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˈɛt͡ʃɛm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#dˈɛt͡ʃɛ# | 34 : [+cons] > ∅ / __ #
+*#dˈet͡ʃe# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#dˈet͡ʃe#
-*#dˈet͡ʃə# | 77 : [-stres,-lo] > ə 
+*#dˈet͡ʃə# | 96 : [-stres,-lo] > ə 
 Final form : *#dˈet͡ʃə#

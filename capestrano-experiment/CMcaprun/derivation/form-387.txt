@@ -1,12 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 387:
-#kˈameram# >>> *#kˈamːəɾa# ( GOLD : #kˈambɾa#) :
-k ˈa m e r a m 
-Proto-Romance stage form : *#kˈameram#
-*#kˈamɛram# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈamɛra# | 21 : [+cons] > ∅ / __ #
-*#kˈamera# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˈamːera# | 63 : m > mː / __ [+syl] [+cons] [+syl] #
-Proto-South-Italo-Romance stage form : *#kˈamːera#
-*#kˈamːəra# | 77 : [-stres,-lo] > ə 
-*#kˈamːəɾa# | 88 : r > ɾ 
-Final form : *#kˈamːəɾa#
+#kˈorpus# >>> *#kˈoɾpə# ( GOLD : #kˈoɾpə#) :
+k ˈo r p u s 
+Proto-Romance stage form : *#kˈorpus#
+*#kˈɔrpʊs# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɔrpʊ# | 34 : [+cons] > ∅ / __ #
+*#kˈɔrpu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˈorpu# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈorpu#
+*#kˈorpə# | 96 : [-stres,-lo] > ə 
+*#kˈoɾpə# | 107 : r > ɾ 
+Final form : *#kˈoɾpə#

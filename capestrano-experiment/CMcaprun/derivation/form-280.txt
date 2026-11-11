@@ -1,15 +1,9 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 280:
-#ˌarɡˈentum# >>> *#aɾd͡ʒːˈendə# ( GOLD : #aɾd͡ʒˈendə#) :
-ˌa r ɡ ˈe n t u m 
-Proto-Romance stage form : *#ˌarɡˈentum#
-*#ˌarɡˈɛntʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌarɡɡˈɛntʊm# | 15 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ˌarɡɡˈɛntʊ# | 21 : [+cons] > ∅ / __ #
-*#ˌard͡ʒːˈɛntʊ# | 24 : {k;kː;k k;ɡ;ɡː;ɡ ɡ} > {t͡ʃ;t͡ʃː;t͡ʃː;j;d͡ʒː;d͡ʒː} / __ [+front,-lo,-cons]
-*#ˌard͡ʒːˈento# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌard͡ʒːˈento#
-*#ˌard͡ʒːˈentə# | 77 : [-stres,-lo] > ə 
-*#ˌard͡ʒːˈendə# | 80 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#ˌaɾd͡ʒːˈendə# | 88 : r > ɾ 
-*#aɾd͡ʒːˈendə# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#aɾd͡ʒːˈendə#
+#ˈakwam# >>> *#ˈakwa# ( GOLD : #ˈakːwə#) :
+ˈa k w a m 
+Proto-Romance stage form : *#ˈakwam#
+*#ˈakwa# | 34 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈakwa#
+*#ˈakwˌa# | 95 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈakwa# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈakwa#

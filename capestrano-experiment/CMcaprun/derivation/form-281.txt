@@ -1,13 +1,18 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 281:
-#ˈarborem# >>> *#ˈalvəɾə# ( GOLD : #ˈalbəɾə#) :
-ˈa r b o r e m 
-Proto-Romance stage form : *#ˈarborem#
-*#ˈarbɔrɛm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈarbɔrɛ# | 21 : [+cons] > ∅ / __ #
-*#ˈalbɔrɛ# | 27 : r > l / __ b ( @ )* r
-*#ˈalbore# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˈalvore# | 57 : b > v / @ __
-Proto-South-Italo-Romance stage form : *#ˈalvore#
-*#ˈalvərə# | 77 : [-stres,-lo] > ə 
-*#ˈalvəɾə# | 88 : r > ɾ 
-Final form : *#ˈalvəɾə#
+#ˌaɡnˈellum# >>> *#aɲˈejːə# ( GOLD : #anˈejːə#) :
+ˌa ɡ n ˈe l l u m 
+Proto-Romance stage form : *#ˌaɡnˈellum#
+*#ˌaɡnˈɛllʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌajnˈɛllʊm# | 14 : [+back,+cons] > j / __ n
+*#ˌajnˈɛllʊ# | 34 : [+cons] > ∅ / __ #
+*#ˌajnˈɛllu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌaɲːˈɛllu# | 58 : j n > ɲː / __ [+front,-lo,+syl]
+*#ˌaɲːˈellu# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌaɲːˈelːu# | 66 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#ˌaɲːˈelːu#
+*#ˌaɲːˈeʎːu# | 86 : lː > ʎː / __ [+hi]
+*#ˌaɲːˈeʎːə# | 96 : [-stres,-lo] > ə 
+*#ˌaɲːˈejːə# | 110 : {ʎ;ʎː} > {j;jː} 
+*#ˌaɲˈejːə# | 111 : ɲː > ɲ 
+*#aɲˈejːə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#aɲˈejːə#

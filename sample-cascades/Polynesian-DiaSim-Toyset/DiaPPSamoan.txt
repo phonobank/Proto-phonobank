@@ -1,0 +1,40 @@
+$ This cascade is a DiaSim-made cascade to generate the (limited) Samoan dataset for usage within the codegen4diachrony group. 
+
+
+$ Proto-Polynesian ʔ seems to be deleted everywhere. The one exception is "hair" /lauʔulu/ which is indentical in postulated Proto-Polynesian and Samoan. There appears to be an unexplained possibly secondary ʔ in aʔu "I" < PPolynesian *au which may somehow be related. (Secondary ʔ exists elsewhere as reflex of /k/). 
+ʔ > ∅
+
+$ h to s in some places? 
+$ Commented out -- No, this seems to be spurious.  taha > etasi "one" is a wrong etymology, it is actulaly tasi to tasi. ʔahu > asu "smoke" reflects PMP asu., kaih > ʔais(-ola). 
+$h > s 
+
+$ h to null word initially: hui > ivi
+	$... and medially: ʔuhila > uila "lightning", pehefea  > peːfea "how", ʔuha > ua "rain", mohe > moe "sleep" 
+h > ∅
+
+
+$cf. manawa > manava, wasa >vasa etc. 
+w > v 
+
+$ cf. refu > lefulefu, 
+r > l 
+
+
+$ n seems to share similar behavior with h or ʔ in a __ a #, or at least it shares the same outcomes. (tamana > tamaː "father", tinana > tinaː "mother"). However based on other related langauges this must be very recent as it is basically limited to Samoan. 
+n > ∅ / a __ a #
+
+
+$ identical vowels brought into contact by these losses coalesce into long vowels. 
+[+syl,ɑhi,βlo,ɣround] [+syl,ɑhi,βlo,ɣround] > [+long] ∅
+$ this can apply twice in a row: ma?a?a > ma: "shyashamed(1)"
+[+syl,ɑhi,βlo,ɣround] [+syl,ɑhi,βlo,ɣround] > [+long] ∅
+
+$ but no long vowels before other vowels 
+[+syl] > [-long] / __ [+syl]
+
+
+$ /k/ becomes /ʔ/, creating secondary ʔ after the original one is lost. Ex. katoa > ʔaːtoa, kelekele > ʔeleʔele
+k > ʔ 
+
+$mysterious lengthening of /a/ in [+son,+cons] __ [+cor] V [+lab,+voi]  (may be spurious, but has 5 examples...) s
+a > [+long] / [+son] __ {[+cor];v} [+syl] [+lab,+voi]

@@ -1,17 +1,10 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 313:
-#ˌinhˌiːbˈernum# >>> *#nəvˈeɾnə# ( GOLD : #imːˈeɾnə#) :
-ˌi n h ˌiː b ˈe r n u m 
-*#ˌinˌiːbˈernum# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˌinˌiːbˈernum#
-*#ˌɪnˌiːbˈɛrnʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪnˌibˈɛrnʊm# | 12 : [+syl] > [-long,-splng] 
-*#ˌɪnˌibˈɛrnʊ# | 21 : [+cons] > ∅ / __ #
-*#ˌenˌibˈɛrnʊ# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenˌibˈerno# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌenˌivˈerno# | 57 : b > v / @ __
-Proto-South-Italo-Romance stage form : *#ˌenˌivˈerno#
-*#ˌenivˈerno# | 74 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌenəvˈernə# | 77 : [-stres,-lo] > ə 
-*#nəvˈernə# | 78 : [-prim,-lo] > ∅ / # __
-*#nəvˈeɾnə# | 88 : r > ɾ 
-Final form : *#nəvˈeɾnə#
+#hˈoːram# >>> *#ˈoɾa# ( GOLD : #ˈoɾa#) :
+h ˈoː r a m 
+*#ˈoːram# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˈoːram#
+*#ˈoram# | 27 : [+syl] > [-long,-splng] 
+*#ˈora# | 34 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈora#
+*#ˈoɾa# | 107 : r > ɾ 
+Final form : *#ˈoɾa#

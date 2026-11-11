@@ -1,16 +1,14 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 242:
-#ˌekskˌutulˈaː# >>> *#skətəlˈa# ( GOLD : #skutulˈa#) :
-ˌe k s k ˌu t u l ˈaː 
-Proto-Romance stage form : *#ˌekskˌutulˈaː#
-*#ˌɛkskˌʊtʊlˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɛkskˌʊtʊlˈa# | 12 : [+syl] > [-long,-splng] 
-*#ˌɛsːkˌʊtʊlˈa# | 19 : [-cont,-cor] [+cor,-voi] > ∅ [+long]
-*#ˌɛskˌʊtʊlˈa# | 23 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#ˌeskˌʊtʊlˈa# | 37 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌeskˌutʊlˈa# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌeskˌutolˈa# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌeskˌutolˈa#
-*#ˌeskutolˈa# | 74 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌeskətəlˈa# | 77 : [-stres,-lo] > ə 
-*#skətəlˈa# | 78 : [-prim,-lo] > ∅ / # __
-Final form : *#skətəlˈa#
+#ˌeksmowˈeː# >>> *#sːməvˈe# ( GOLD : #smˈovə#) :
+ˌe k s m o w ˈeː 
+Proto-Romance stage form : *#ˌeksmowˈeː#
+*#ˌɛksmɔwˈeː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛsːmɔwˈeː# | 24 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛsːmɔwˈe# | 27 : [+syl] > [-long,-splng] 
+*#ˌɛsːmɔvˈe# | 49 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#ˌesːmɔvˈe# | 55 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌesːmovˈe# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌesːmovˈe#
+*#ˌesːməvˈe# | 96 : [-stres,-lo] > ə 
+*#sːməvˈe# | 97 : [-prim,-lo] > ∅ / # __
+Final form : *#sːməvˈe#

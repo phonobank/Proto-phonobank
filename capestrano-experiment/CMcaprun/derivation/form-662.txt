@@ -1,10 +1,11 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 662:
-#mˌanduːkˈaː# >>> *#manːəkˈa# ( GOLD : #maɲˈa#) :
-m ˌa n d uː k ˈaː 
-Proto-Romance stage form : *#mˌanduːkˈaː#
-*#mˌandukˈa# | 12 : [+syl] > [-long,-splng] 
-*#mˌanːukˈa# | 48 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#mˌanːukˈa#
-*#mˌanːəkˈa# | 77 : [-stres,-lo] > ə 
-*#manːəkˈa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#manːəkˈa#
+#mˈontem# >>> *#mˈondə# ( GOLD : #mˈondə#) :
+m ˈo n t e m 
+Proto-Romance stage form : *#mˈontem#
+*#mˈɔntɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɔntɛ# | 34 : [+cons] > ∅ / __ #
+*#mˈonte# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈonte#
+*#mˈontə# | 96 : [-stres,-lo] > ə 
+*#mˈondə# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#mˈondə#

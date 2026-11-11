@@ -1,0 +1,24 @@
+$DiaSim CFR-debugged (partially) ruleset to generate Tongan from Proto-Polynesian
+
+$ PPolynesian ʔ is , unlike most elsewhere in Polynesian, generally preserved, but it is still deleted at the onset of final syllables in a __ a , o __ o, and i __ i (eʔe is not in the data.). It does not delete before u, nor does it delete for o unless if the following vowel is prevocalic (foʔou). This effect is cumulative for a at least and perhpas the others too. 
+
+o ʔ o > oː / __ {#;[-syl]}
+[+syl,chi,ɑlo,βround,+front] ʔ [+syl,chi,ɑlo,βround,+front] > [+long] ∅ ∅
+[+syl,chi,ɑlo,βround,+front] ʔ [+syl,chi,ɑlo,βround,+front] > [+long] ∅ ∅
+
+
+$ s is debuccalized. Single exception is masima > ma:sima, which shows the length rule seen in some other Polynesian languages, so this is likely a loan. This alone gives +6% accuracy. 
+s > h 
+
+w > v
+
+$ a > e before continuant i/e continuant. Case of paku -- unclear. 
+a > e / __ [+cont] [+syl,-lo,+front] [+cont]
+
+$ a and au > o and ou before a stop then a round vowel, and then anything but word bound (vAku): k(a>o)toa, l(a > o)u?ulu , tAkoto, mAtu?a  
+a > o / __ (u) [-cont] [+round,+syl] @
+
+$ ohter fate of /a/... thoughts...
+	$ > /o/: k(a>o)toa, l(a > o)u?ulu , tAkoto, mAtu?a -- coloring by subsequent? 
+	$ > /a/: word finally; lalo, tamai , va?e , kake, vaku, vao, mAkunga , mA?unga, tulimanu 
+	$ > /e/: teliŋa (apparent homophone split?! with another talinga though?)) , ?Alelo, pAku, fafine, reŋareŋa 

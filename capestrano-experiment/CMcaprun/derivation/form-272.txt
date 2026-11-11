@@ -1,10 +1,13 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 272:
-#ˈalbam# >>> *#ˈalva# ( GOLD : #ˈalba#) :
-ˈa l b a m 
-Proto-Romance stage form : *#ˈalbam#
-*#ˈalba# | 21 : [+cons] > ∅ / __ #
-*#ˈalva# | 57 : b > v / @ __
-Proto-South-Italo-Romance stage form : *#ˈalva#
-*#ˈalvˌa# | 75 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈalva# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈalva#
+#ˈarborem# >>> *#ˈalbəɾə# ( GOLD : #ˈalbəɾə#) :
+ˈa r b o r e m 
+Proto-Romance stage form : *#ˈarborem#
+*#ˈarbɔrɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈarbɔrɛ# | 34 : [+cons] > ∅ / __ #
+*#ˈalbɔrɛ# | 41 : r > l / __ b ( @ )* r
+*#ˈalborɛ# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈalbore# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈalbore#
+*#ˈalbərə# | 96 : [-stres,-lo] > ə 
+*#ˈalbəɾə# | 107 : r > ɾ 
+Final form : *#ˈalbəɾə#

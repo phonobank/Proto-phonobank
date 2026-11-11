@@ -1,11 +1,12 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 251:
-#ˌadjˌuːtˈaː# >>> *#ad͡ʒutˈa# ( GOLD : #ajutˈa#) :
-ˌa d j ˌuː t ˈaː 
-Proto-Romance stage form : *#ˌadjˌuːtˈaː#
-*#ˌadjˌutˈa# | 12 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#ˌadjˌutˈa#
-*#ˌad͡ʒˌutˈa# | 70 : {d j;dː j;ɡ j;ɡː j} > {d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
-*#ˌad͡ʒutˈa# | 74 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌad͡ʒˌutˈa# | 75 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ad͡ʒutˈa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ad͡ʒutˈa#
+#ˈasinum# >>> *#ˈaʃənə# ( GOLD : #ˈasənə#) :
+ˈa s i n u m 
+Proto-Romance stage form : *#ˈasinum#
+*#ˈasɪnʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈasɪnʊ# | 34 : [+cons] > ∅ / __ #
+*#ˈasɪnu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈasenu# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈasenu#
+*#ˈaʃenu# | 91 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#ˈaʃənə# | 96 : [-stres,-lo] > ə 
+Final form : *#ˈaʃənə#

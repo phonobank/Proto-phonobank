@@ -81,6 +81,7 @@ COGNACY between two etyma can be extracted as the truth value for whether they p
 ## Notation
 
 
+
 For better cohesion and comparability of sound changes stored in Phonobank, it is ideal to minimize differences in representation and retrieval that arise from sources referring to the same phenomena in different ways. 
 E.g. each of the following refers to a sound change that is functionally identical to the others: 
 
@@ -134,6 +135,9 @@ E.g. Pardess has "/ŋn/" for input "/gn/"; this is a rule that could have happen
 The [critic] notes these "good" [infidelities] by listing them in a separate output file. 
 
 ### Signals to critics
+
+For training the critic at this early stage, the following flags are used: "$$!!" signals something should be corrected. "$$:)" signals that the actor made no mistake for the associated rule block. 
+
 
 For training the critic at this early stage, the following flags are used: 
     "$$!!" signals something should be corrected. 

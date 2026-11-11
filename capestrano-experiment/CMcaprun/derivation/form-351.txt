@@ -1,12 +1,15 @@
 Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 351:
-#kˈaːseum# >>> *#kˈasjə# ( GOLD : #kˈaʃə#) :
-k ˈaː s e u m 
-*#kˈaːsjum# | 9 : e > j / __ [+back]
-Proto-Romance stage form : *#kˈaːsjum#
-*#kˈaːsjʊm# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈasjʊm# | 12 : [+syl] > [-long,-splng] 
-*#kˈasjʊ# | 21 : [+cons] > ∅ / __ #
-*#kˈasjo# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈasjo#
-*#kˈasjə# | 77 : [-stres,-lo] > ə 
-Final form : *#kˈasjə#
+#kˌalkulˈaː# >>> *#kaləkwəlˈa# ( GOLD : #kaɾkulˈa#) :
+k ˌa l k u l ˈaː 
+Proto-Romance stage form : *#kˌalkulˈaː#
+*#kˌalkʊlˈaː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌalˠkʊlˈaː# | 17 : l > lˠ / __ k [-cons]
+*#kˌalˠkʊlˈa# | 27 : [+syl] > [-long,-splng] 
+*#kˌalˠəkʊlˈa# | 42 : ∅ > ə / lˠ __
+*#kˌaləkʊlˈa# | 44 : lˠ > l 
+*#kˌaləkwʊlˈa# | 48 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#kˌaləkwulˈa# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌaləkwulˈa#
+*#kˌaləkwəlˈa# | 96 : [-stres,-lo] > ə 
+*#kaləkwəlˈa# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaləkwəlˈa#

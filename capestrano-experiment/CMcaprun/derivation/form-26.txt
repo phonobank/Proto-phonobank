@@ -2,13 +2,12 @@ Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experimen
 #tˌurbulˈaː# >>> *#tuɾvəlˈa# ( GOLD : #tɾəvəlˈa#) :
 t ˌu r b u l ˈaː 
 Proto-Romance stage form : *#tˌurbulˈaː#
-*#tˌʊrbʊlˈaː# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˌʊrbʊlˈa# | 12 : [+syl] > [-long,-splng] 
-*#tˌurbʊlˈa# | 38 : [+stres,-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tˌurbolˈa# | 45 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#tˌurvolˈa# | 57 : b > v / @ __
-Proto-South-Italo-Romance stage form : *#tˌurvolˈa#
-*#tˌurvəlˈa# | 77 : [-stres,-lo] > ə 
-*#tˌuɾvəlˈa# | 88 : r > ɾ 
-*#tuɾvəlˈa# | 94 : [-prim] > [-stres,-prim,+syl,+son] 
+*#tˌʊrbʊlˈaː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#tˌʊrbʊlˈa# | 27 : [+syl] > [-long,-splng] 
+*#tˌurbulˈa# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tˌurvulˈa# | 71 : b > v / [+syl,alo,!atense] r __
+Proto-South-Italo-Romance stage form : *#tˌurvulˈa#
+*#tˌurvəlˈa# | 96 : [-stres,-lo] > ə 
+*#tˌuɾvəlˈa# | 107 : r > ɾ 
+*#tuɾvəlˈa# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#tuɾvəlˈa#
