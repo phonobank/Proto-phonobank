@@ -1,9 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 610:
-#fˌatiːɡˈaː# >>> *#fatəɡˈa# ( GOLD : #fatiˈa#) :
-f ˌa t iː ɡ ˈaː 
-Proto-Romance stage form : *#fˌatiːɡˈaː#
-*#fˌatiɡˈa# | 28 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#fˌatiɡˈa#
-*#fˌatəɡˈa# | 104 : [-stres,-lo] > ə 
-*#fatəɡˈa# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#fatəɡˈa#
+#fˌaskiaːtˈuːra# >>> *#faʃjatˈuɾa# ( GOLD : #faʃːatˈuɾa#) :
+f ˌa s k i aː t ˈuː r a 
+*#fˌaskjaːtˈuːra# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#fˌaskjaːtˈuːra#
+*#fˌast͡ʃjaːtˈuːra# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#fˌast͡ʃjatˈura# | 28 : [+syl] > [-long,-splng] 
+*#fˌaʃjatˈura# | 76 : s t͡ʃ > ʃ 
+Proto-South-Italo-Romance stage form : *#fˌaʃjatˈura#
+*#fˌaʃjatˈuɾa# | 114 : r > ɾ 
+*#faʃjatˈuɾa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#faʃjatˈuɾa#

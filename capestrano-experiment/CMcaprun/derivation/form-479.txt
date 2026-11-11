@@ -1,16 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 479:
-#ˌornˈellum# >>> *#əɾnˈejːə# ( GOLD : #uɾunːˈejːə#) :
-ˌo r n ˈe l l u m 
-Proto-Romance stage form : *#ˌornˈellum#
-*#ˌɔrnˈɛllʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɔrnˈɛllʊ# | 35 : [+cons] > ∅ / __ #
-*#ˌornˈɛllu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌornˈellu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌornˈelːu# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#ˌornˈelːu#
-*#ˌornˈeʎːu# | 94 : lː > ʎː / __ [+hi]
-*#ˌornˈeʎːə# | 104 : [-stres,-lo] > ə 
-*#ˌoɾnˈeʎːə# | 114 : r > ɾ 
-*#əɾnˈeʎːə# | 116 : [-prim,-hi,-lo] > ə 
-*#əɾnˈejːə# | 117 : {ʎ;ʎː} > {j;jː} 
-Final form : *#əɾnˈejːə#
+#ˈorɡanum# >>> *#ˈoɾɡanə# ( GOLD : #ˈɔɾɡənə#) :
+ˈo r ɡ a n u m 
+Proto-Romance stage form : *#ˈorɡanum#
+*#ˈɔrɡanʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔrɡanʊ# | 35 : [+cons] > ∅ / __ #
+*#ˈɔrɡanu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈorɡanu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈorɡanu#
+*#ˈorɡanə# | 104 : [-stres,-lo] > ə 
+*#ˈoɾɡanə# | 114 : r > ɾ 
+Final form : *#ˈoɾɡanə#

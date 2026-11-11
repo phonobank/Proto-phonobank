@@ -1,10 +1,10 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 312:
-#hˈoːram# >>> *#ˈoɾa# ( GOLD : #ˈoɾa#) :
-h ˈoː r a m 
-*#ˈoːram# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˈoːram#
-*#ˈoram# | 28 : [+syl] > [-long,-splng] 
-*#ˈora# | 35 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#ˈora#
-*#ˈoɾa# | 114 : r > ɾ 
-Final form : *#ˈoɾa#
+#klˈaːra# >>> *#kjˈaɾa# ( GOLD : #cˈaɾa#) :
+k l ˈaː r a 
+Proto-Romance stage form : *#klˈaːra#
+*#klˈara# | 28 : [+syl] > [-long,-splng] 
+*#kʎˈara# | 70 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#kʎˈara#
+*#kʎˈaɾa# | 114 : r > ɾ 
+*#kjˈaɾa# | 117 : {ʎ;ʎː} > {j;jː} 
+Final form : *#kjˈaɾa#

@@ -1,16 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 153:
-#lˌentˈikulam# >>> *#ləndˈikwəla# ( GOLD : #ləndˈikːja#) :
-l ˌe n t ˈi k u l a m 
-Proto-Romance stage form : *#lˌentˈikulam#
-*#lˌɛntˈɪkʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˌɛntˈiːkʊlam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#lˌɛntˈikʊlam# | 28 : [+syl] > [-long,-splng] 
-*#lˌɛntˈikʊla# | 35 : [+cons] > ∅ / __ #
-*#lˌɛntˈikwʊla# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#lˌentˈikwʊla# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#lˌentˈikwula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#lˌentˈikwula#
-*#lˌentˈikwəla# | 104 : [-stres,-lo] > ə 
-*#lˌendˈikwəla# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#ləndˈikwəla# | 116 : [-prim,-hi,-lo] > ə 
-Final form : *#ləndˈikwəla#
+#lˈektum# >>> *#lˈetːə# ( GOLD : #lˈetːə#) :
+l ˈe k t u m 
+Proto-Romance stage form : *#lˈektum#
+*#lˈɛktʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈɛtːʊm# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#lˈɛtːʊ# | 35 : [+cons] > ∅ / __ #
+*#lˈɛtːu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#lˈetːu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#lˈetːu#
+*#lˈetːə# | 104 : [-stres,-lo] > ə 
+Final form : *#lˈetːə#

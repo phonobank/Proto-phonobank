@@ -1,9 +1,11 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 319:
-#krˈeːtam# >>> *#kɾˈeta# ( GOLD : #kɾˈeta#) :
-k r ˈeː t a m 
-Proto-Romance stage form : *#krˈeːtam#
-*#krˈetam# | 28 : [+syl] > [-long,-splng] 
-*#krˈeta# | 35 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#krˈeta#
-*#kɾˈeta# | 114 : r > ɾ 
-Final form : *#kɾˈeta#
+#krˈeːde# >>> *#kɾˈedə# ( GOLD : #kɾˈedə#) :
+k r ˈeː d e 
+Proto-Romance stage form : *#krˈeːde#
+*#krˈeːdɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˈedɛ# | 28 : [+syl] > [-long,-splng] 
+*#krˈede# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#krˈede#
+*#krˈedə# | 104 : [-stres,-lo] > ə 
+*#kɾˈedə# | 114 : r > ɾ 
+Final form : *#kɾˈedə#

@@ -1,12 +1,11 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 555:
-#bˈibe# >>> *#bˈivə# ( GOLD : #bːˈevə#) :
-b ˈi b e 
-Proto-Romance stage form : *#bˈibe#
-*#bˈɪbɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˈiːbɛ# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#bˈibɛ# | 28 : [+syl] > [-long,-splng] 
-*#bˈibe# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#bˈive# | 73 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#bˈive#
-*#bˈivə# | 104 : [-stres,-lo] > ə 
-Final form : *#bˈivə#
+#bˈeːstiam# >>> *#bˈestja# ( GOLD : #bːˈestja#) :
+b ˈeː s t i a m 
+*#bˈeːstjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#bˈeːstjam#
+*#bˈeːstʲːam# | 21 : t j > tʲː 
+*#bˈeːstjam# | 23 : s tʲː > s t j 
+*#bˈestjam# | 28 : [+syl] > [-long,-splng] 
+*#bˈestja# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#bˈestja#
+Final form : *#bˈestja#

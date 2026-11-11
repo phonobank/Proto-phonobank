@@ -1,11 +1,13 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 188:
-#rˌeɡalˈaː# >>> *#ɾəɡalˈa# ( GOLD : #ɾəɡalˈa#) :
-r ˌe ɡ a l ˈaː 
-Proto-Romance stage form : *#rˌeɡalˈaː#
-*#rˌɛɡalˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#rˌɛɡalˈa# | 28 : [+syl] > [-long,-splng] 
-*#rˌeɡalˈa# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#rˌeɡalˈa#
-*#ɾˌeɡalˈa# | 114 : r > ɾ 
-*#ɾəɡalˈa# | 116 : [-prim,-hi,-lo] > ə 
-Final form : *#ɾəɡalˈa#
+#rˈeːɡulam# >>> *#ɾˈeɡwəla# ( GOLD : #ɾˈeɡwəla#) :
+r ˈeː ɡ u l a m 
+Proto-Romance stage form : *#rˈeːɡulam#
+*#rˈeːɡʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˈeɡʊlam# | 28 : [+syl] > [-long,-splng] 
+*#rˈeɡʊla# | 35 : [+cons] > ∅ / __ #
+*#rˈeɡwʊla# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#rˈeɡwula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#rˈeɡwula#
+*#rˈeɡwəla# | 104 : [-stres,-lo] > ə 
+*#ɾˈeɡwəla# | 114 : r > ɾ 
+Final form : *#ɾˈeɡwəla#

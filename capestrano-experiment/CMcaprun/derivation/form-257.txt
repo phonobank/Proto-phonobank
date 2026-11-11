@@ -1,12 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 257:
-#ˈalteriː# >>> *#ˈaldəɾə# ( GOLD : #ˈetɾə#) :
-ˈa l t e r iː 
-Proto-Romance stage form : *#ˈalteriː#
-*#ˈaltɛriː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaltɛri# | 28 : [+syl] > [-long,-splng] 
-*#ˈalteri# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈalteri#
-*#ˈaltərə# | 104 : [-stres,-lo] > ə 
-*#ˈaldərə# | 108 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
-*#ˈaldəɾə# | 114 : r > ɾ 
-Final form : *#ˈaldəɾə#
+#ˈaltum# >>> *#ˈaldə# ( GOLD : #ˈavətə#) :
+ˈa l t u m 
+Proto-Romance stage form : *#ˈaltum#
+*#ˈaltʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈaltʊ# | 35 : [+cons] > ∅ / __ #
+*#ˈaltu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈaltu#
+*#ˈaltˌu# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈaldˌu# | 108 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
+*#ˈaldə# | 109 : [-prim,-lo] > ə / __ #
+Final form : *#ˈaldə#

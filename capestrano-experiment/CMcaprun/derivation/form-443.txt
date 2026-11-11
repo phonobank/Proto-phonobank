@@ -1,12 +1,13 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 443:
-#wˈidua# >>> *#vˈedəva# ( GOLD : #vˈedeva#) :
-w ˈi d u a 
-*#wˈiduwa# | 8 : ∅ > w / [+voi,-syl] [+syl,+round] __ [+syl,-round]
-Proto-Romance stage form : *#wˈiduwa#
-*#wˈɪdʊwa# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɪdʊva# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈɪduva# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vˈeduva# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˈeduva#
-*#vˈedəva# | 104 : [-stres,-lo] > ə 
-Final form : *#vˈedəva#
+#wˈiːneam# >>> *#vˈiɲa# ( GOLD : #vˈiɲa#) :
+w ˈiː n e a m 
+*#wˈiːniam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
+*#wˈiːnjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#wˈiːnjam#
+*#wˈinjam# | 28 : [+syl] > [-long,-splng] 
+*#wˈiɲːam# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#wˈiɲːa# | 35 : [+cons] > ∅ / __ #
+*#vˈiɲːa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#vˈiɲːa#
+*#vˈiɲa# | 118 : ɲː > ɲ 
+Final form : *#vˈiɲa#

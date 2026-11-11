@@ -1,13 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 377:
-#kˌampˈaːnem# >>> *#kambˈanə# ( GOLD : #kambˈanə#) :
-k ˌa m p ˈaː n e m 
-Proto-Romance stage form : *#kˌampˈaːnem#
-*#kˌampˈaːnɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌampˈanɛm# | 28 : [+syl] > [-long,-splng] 
-*#kˌampˈanɛ# | 35 : [+cons] > ∅ / __ #
-*#kˌampˈane# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌampˈane#
-*#kˌampˈanə# | 104 : [-stres,-lo] > ə 
-*#kˌambˈanə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kambˈanə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kambˈanə#
+#kˌambiˈaː# >>> *#kaɲˈa# ( GOLD : #kaɲˈa#) :
+k ˌa m b i ˈaː 
+*#kˌambjˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌambjˈaː#
+*#kˌambjˈa# | 28 : [+syl] > [-long,-splng] 
+*#kˌamːjˈa# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#kˌamːjˈa#
+*#kˌaɲːˈa# | 88 : mː [+front,-syl,+voi] > ɲː
+*#kˌaɲˈa# | 118 : ɲː > ɲ 
+*#kaɲˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaɲˈa#

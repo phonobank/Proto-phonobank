@@ -1,13 +1,13 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 129:
-#nepˈoːtetuum# >>> *#nəpˈotətwə# ( GOLD : #nəpˈotətə#) :
-n e p ˈoː t e t u u m 
-*#nepˈoːtetwum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#nepˈoːtetwum#
-*#nɛpˈoːtɛtwʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#nɛpˈotɛtwʊm# | 28 : [+syl] > [-long,-splng] 
-*#nɛpˈotɛtwʊ# | 35 : [+cons] > ∅ / __ #
-*#nɛpˈotɛtwu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#nepˈotetwu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#nepˈotetwu#
-*#nəpˈotətwə# | 104 : [-stres,-lo] > ə 
-Final form : *#nəpˈotətwə#
+#nˈebulam# >>> *#nˈæbːja# ( GOLD : #nˈebːja#) :
+n ˈe b u l a m 
+Proto-Romance stage form : *#nˈebulam#
+*#nˈɛbʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#nˈɛbʊla# | 35 : [+cons] > ∅ / __ #
+*#nˈɛbla# | 54 : [-prim,+round] > ∅ / [+prim,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+*#nˈæbla# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#nˈæbʎa# | 70 : l > ʎ / [-son,-cor] __
+*#nˈæbːʎa# | 72 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+Proto-South-Italo-Romance stage form : *#nˈæbːʎa#
+*#nˈæbːja# | 117 : {ʎ;ʎː} > {j;jː} 
+Final form : *#nˈæbːja#

@@ -1,15 +1,17 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 290:
-#ˌapplˌikˈaː# >>> *#apːjikˈa# ( GOLD : #apːjəkˈa#) :
-ˌa p p l ˌi k ˈaː 
-Proto-Romance stage form : *#ˌapplˌikˈaː#
-*#ˌapplˌɪkˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌapplˌiːkˈaː# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌapplˌikˈa# | 28 : [+syl] > [-long,-splng] 
-*#ˌapːlˌikˈa# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-*#ˌapːʎˌikˈa# | 70 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌapːʎˌikˈa#
-*#ˌapːʎikˈa# | 102 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌapːʎˌikˈa# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌapːjˌikˈa# | 117 : {ʎ;ʎː} > {j;jː} 
-*#apːjikˈa# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#apːjikˈa#
+#ˌapprˌetiˈaː# >>> *#apːɾət͡sːˈa# ( GOLD : #apːɾət͡sːˈa#) :
+ˌa p p r ˌe t i ˈaː 
+*#ˌapprˌetjˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌapprˌetjˈaː#
+*#ˌapprˌɛtjˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌapprˌɛtʲːˈaː# | 21 : t j > tʲː 
+*#ˌapprˌɛtʲːˈa# | 28 : [+syl] > [-long,-splng] 
+*#ˌapprˌɛt͡sːˈa# | 29 : tʲː > t͡sː 
+*#ˌapprˌet͡sːˈa# | 58 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌapːrˌet͡sːˈa# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#ˌapːrˌet͡sːˈa#
+*#ˌapːret͡sːˈa# | 102 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌapːrət͡sːˈa# | 104 : [-stres,-lo] > ə 
+*#ˌapːɾət͡sːˈa# | 114 : r > ɾ 
+*#apːɾət͡sːˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#apːɾət͡sːˈa#

@@ -1,9 +1,10 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 342:
-#kˌantˈaː# >>> *#kandˈa# ( GOLD : #kandˈa#) :
-k ˌa n t ˈaː 
-Proto-Romance stage form : *#kˌantˈaː#
-*#kˌantˈa# | 28 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#kˌantˈa#
-*#kˌandˈa# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kandˈa# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kandˈa#
+#kˌandˈeːlam# >>> *#kanːˈela# ( GOLD : #kanːˈela#) :
+k ˌa n d ˈeː l a m 
+Proto-Romance stage form : *#kˌandˈeːlam#
+*#kˌandˈelam# | 28 : [+syl] > [-long,-splng] 
+*#kˌandˈela# | 35 : [+cons] > ∅ / __ #
+*#kˌanːˈela# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#kˌanːˈela#
+*#kanːˈela# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kanːˈela#

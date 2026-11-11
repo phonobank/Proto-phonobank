@@ -1,15 +1,15 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 209:
-#ˌinsˈinum# >>> *#nd͡zˈenə# ( GOLD : #nd͡zˈinə#) :
-ˌi n s ˈi n u m 
-Proto-Romance stage form : *#ˌinsˈinum#
-*#ˌɪnsˈɪnʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪnsˈɪnʊ# | 35 : [+cons] > ∅ / __ #
-*#ˌensˈɪnʊ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌensˈɪnu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌensˈenu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌensˈenu#
-*#ənsˈenu# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#nsˈenu# | 87 : ə > ∅ / # __
-*#nsˈenə# | 104 : [-stres,-lo] > ə 
-*#nd͡zˈenə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#nd͡zˈenə#
+#ˌinimˈiːkum# >>> *#nəmˈikə# ( GOLD : #nəmːˈikə#) :
+ˌi n i m ˈiː k u m 
+Proto-Romance stage form : *#ˌinimˈiːkum#
+*#ˌɪnɪmˈiːkʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪniːmˈiːkʊm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌɪnimˈikʊm# | 28 : [+syl] > [-long,-splng] 
+*#ˌɪnimˈikʊ# | 35 : [+cons] > ∅ / __ #
+*#ˌenimˈikʊ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenimˈiku# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌenimˈiku#
+*#ənimˈiku# | 83 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#nimˈiku# | 87 : ə > ∅ / # __
+*#nəmˈikə# | 104 : [-stres,-lo] > ə 
+Final form : *#nəmˈikə#

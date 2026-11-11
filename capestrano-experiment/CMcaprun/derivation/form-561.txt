@@ -1,13 +1,13 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 561:
-#bˈaːsium# >>> *#bˈaʃə# ( GOLD : #bːˈaʃə#) :
-b ˈaː s i u m 
-*#bˈaːsjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#bˈaːsjum#
-*#bˈaːsjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˈasjʊm# | 28 : [+syl] > [-long,-splng] 
-*#bˈaʃʊm# | 32 : s j > ʃ 
-*#bˈaʃʊ# | 35 : [+cons] > ∅ / __ #
-*#bˈaʃu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#bˈaʃu#
-*#bˈaʃə# | 104 : [-stres,-lo] > ə 
-Final form : *#bˈaʃə#
+#bˈalneum# >>> *#bˈalɲə# ( GOLD : #bːˈaɲə#) :
+b ˈa l n e u m 
+*#bˈalnjum# | 11 : e > j / __ [+back,-cons]
+Proto-Romance stage form : *#bˈalnjum#
+*#bˈalnjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˈalɲːʊm# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#bˈalɲːʊ# | 35 : [+cons] > ∅ / __ #
+*#bˈalɲːu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#bˈalɲːu#
+*#bˈalɲːə# | 104 : [-stres,-lo] > ə 
+*#bˈalɲə# | 118 : ɲː > ɲ 
+Final form : *#bˈalɲə#

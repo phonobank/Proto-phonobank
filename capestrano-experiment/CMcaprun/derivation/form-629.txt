@@ -1,17 +1,11 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 629:
-#fˈunɡium# >>> *#fˈuɲə# ( GOLD : #fˈuɲə#) :
-f ˈu n ɡ i u m 
-*#fˈuŋɡium# | 1 : n > ŋ / __ [+back,+cons]
-*#fˈuŋɡjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#fˈuŋɡjum#
-*#fˈʊŋɡjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈʊnd͡ʒjʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#fˈʊnd͡ʒjʊ# | 35 : [+cons] > ∅ / __ #
-*#fˈʊnd͡ʒju# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#fˈʊnːju# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#fˈunːju# | 64 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
-Proto-South-Italo-Romance stage form : *#fˈunːju#
-*#fˈuɲːu# | 89 : [+nas,-lab] [+front,-syl,+voi] > ɲː
-*#fˈuɲːə# | 104 : [-stres,-lo] > ə 
-*#fˈuɲə# | 118 : ɲː > ɲ 
-Final form : *#fˈuɲə#
+#fˈuːnem# >>> *#fˈunə# ( GOLD : #fˈunə#) :
+f ˈuː n e m 
+Proto-Romance stage form : *#fˈuːnem#
+*#fˈuːnɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈunɛm# | 28 : [+syl] > [-long,-splng] 
+*#fˈunɛ# | 35 : [+cons] > ∅ / __ #
+*#fˈune# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#fˈune#
+*#fˈunə# | 104 : [-stres,-lo] > ə 
+Final form : *#fˈunə#

@@ -1,19 +1,14 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 223:
-#ˌiɡnoːrˈantem# >>> *#ɲəɾˈandə# ( GOLD : #ɲuɾˈandə#) :
-ˌi ɡ n oː r ˈa n t e m 
-Proto-Romance stage form : *#ˌiɡnoːrˈantem#
-*#ˌɪɡnoːrˈantɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪjnoːrˈantɛm# | 15 : [+back,+cons] > j / __ n
-*#ˌiːjnoːrˈantɛm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌijnorˈantɛm# | 28 : [+syl] > [-long,-splng] 
-*#ˌijnorˈantɛ# | 35 : [+cons] > ∅ / __ #
-*#ˌiɲːorˈantɛ# | 60 : j n > ɲː / [+front,-lo,+syl] __
-*#ˌiɲːorˈante# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌiɲːorˈante#
-*#əɲːorˈante# | 83 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#ɲːorˈante# | 87 : ə > ∅ / # __
-*#ɲːərˈantə# | 104 : [-stres,-lo] > ə 
-*#ɲːərˈandə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#ɲːəɾˈandə# | 114 : r > ɾ 
-*#ɲəɾˈandə# | 118 : ɲː > ɲ 
-Final form : *#ɲəɾˈandə#
+#iˌoːˈanneːs# >>> *#jəvˈanːə# ( GOLD : #juwˈanːə#) :
+i ˌoː ˈa n n eː s 
+*#iˌoːwˈanneːs# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
+*#jˌoːwˈanneːs# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#jˌoːwˈanneːs#
+*#jˌowˈannes# | 28 : [+syl] > [-long,-splng] 
+*#jˌowˈanne# | 35 : [+cons] > ∅ / __ #
+*#jˌovˈanne# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#jˌovˈanːe# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#jˌovˈanːe#
+*#jˌovˈanːə# | 104 : [-stres,-lo] > ə 
+*#jəvˈanːə# | 116 : [-prim,-hi,-lo] > ə 
+Final form : *#jəvˈanːə#

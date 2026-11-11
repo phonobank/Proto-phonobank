@@ -1,14 +1,9 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 164:
-#lˌakweˈoːrem# >>> *#lakwjˈoɾə# ( GOLD : #lat͡ʃːˈɔɾə#) :
-l ˌa k w e ˈoː r e m 
-*#lˌakwjˈoːrem# | 11 : e > j / __ [+back,-cons]
-Proto-Romance stage form : *#lˌakwjˈoːrem#
-*#lˌakwjˈoːrɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˌakwjˈorɛm# | 28 : [+syl] > [-long,-splng] 
-*#lˌakwjˈorɛ# | 35 : [+cons] > ∅ / __ #
-*#lˌakwjˈore# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#lˌakwjˈore#
-*#lˌakwjˈorə# | 104 : [-stres,-lo] > ə 
-*#lˌakwjˈoɾə# | 114 : r > ɾ 
-*#lakwjˈoɾə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#lakwjˈoɾə#
+#lˌawˈaː# >>> *#lavˈa# ( GOLD : #lavˈa#) :
+l ˌa w ˈaː 
+Proto-Romance stage form : *#lˌawˈaː#
+*#lˌawˈa# | 28 : [+syl] > [-long,-splng] 
+*#lˌavˈa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#lˌavˈa#
+*#lavˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#lavˈa#

@@ -1,19 +1,13 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 355:
-#kˌariofˈyllum# >>> *#kaɾəfˈøjːə# ( GOLD : #ɡaɾˈɔfənə#) :
-k ˌa r i o f ˈy l l u m 
-*#kˌarjofˈyllum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌarjofˈyllum#
-*#kˌarjɔfˈʏllʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌarʲɔfˈʏllʊm# | 30 : r j > rʲ 
-*#kˌarʲɔfˈʏllʊ# | 35 : [+cons] > ∅ / __ #
-*#kˌarʲofˈʏllu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌarʲofˈøllu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˌarʲofˈølːu# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#kˌarʲofˈølːu#
-*#kˌarofˈølːu# | 92 : rʲ > r 
-*#kˌarofˈøʎːu# | 94 : lː > ʎː / __ [+hi]
-*#kˌarəfˈøʎːə# | 104 : [-stres,-lo] > ə 
-*#kˌaɾəfˈøʎːə# | 114 : r > ɾ 
-*#kˌaɾəfˈøjːə# | 117 : {ʎ;ʎː} > {j;jː} 
-*#kaɾəfˈøjːə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kaɾəfˈøjːə#
+#kˈarkerem# >>> *#kˈaɾt͡ʃeɾə# ( GOLD : #kˈaɾt͡ʃələ#) :
+k ˈa r k e r e m 
+Proto-Romance stage form : *#kˈarkerem#
+*#kˈarkɛrɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈart͡ʃɛrɛm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#kˈart͡ʃɛrɛ# | 35 : [+cons] > ∅ / __ #
+*#kˈart͡ʃere# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈart͡ʃere#
+*#kˈart͡ʃərə# | 104 : [-stres,-lo] > ə 
+*#kˈaɾt͡ʃəɾə# | 114 : r > ɾ 
+*#kˈaɾt͡ʃeɾə# | 123 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#kˈaɾt͡ʃeɾə#

@@ -1,12 +1,14 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 303:
-#hˈeriː# >>> *#ˈeɾə# ( GOLD : #jˈeɾə#) :
-h ˈe r iː 
-*#ˈeriː# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˈeriː#
-*#ˈɛriː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɛri# | 28 : [+syl] > [-long,-splng] 
-*#ˈeri# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈeri#
-*#ˈerə# | 104 : [-stres,-lo] > ə 
-*#ˈeɾə# | 114 : r > ɾ 
-Final form : *#ˈeɾə#
+#hˈerbam# >>> *#ˈæɾva# ( GOLD : #jˈæɾva#) :
+h ˈe r b a m 
+*#ˈerbam# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˈerbam#
+*#ˈɛrbam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɛrba# | 35 : [+cons] > ∅ / __ #
+*#ˈærba# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˈærva# | 74 : b > v / [+syl,alo,!atense] r __
+Proto-South-Italo-Romance stage form : *#ˈærva#
+*#ˈærvˌa# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈæɾvˌa# | 114 : r > ɾ 
+*#ˈæɾva# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈæɾva#

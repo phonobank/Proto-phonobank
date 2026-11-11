@@ -1,16 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 668:
-#mˌorsikˈaːre# >>> *#muɾt͡səkˈaɾə# ( GOLD : #mot͡ʃːikˈa#) :
-m ˌo r s i k ˈaː r e 
-Proto-Romance stage form : *#mˌorsikˈaːre#
-*#mˌɔrsɪkˈaːrɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɔrsiːkˈaːrɛ# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#mˌɔrsikˈarɛ# | 28 : [+syl] > [-long,-splng] 
-*#mˌorsikˈarɛ# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˌorsikˈare# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌorsikˈare#
-*#mˌort͡sikˈare# | 97 : s > t͡s / r __
-*#mˌurt͡sikˈare# | 101 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#mˌurt͡səkˈarə# | 104 : [-stres,-lo] > ə 
-*#mˌuɾt͡səkˈaɾə# | 114 : r > ɾ 
-*#muɾt͡səkˈaɾə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#muɾt͡səkˈaɾə#
+#mˌorˈiː# >>> *#muɾˈi# ( GOLD : #muɾˈi#) :
+m ˌo r ˈiː 
+Proto-Romance stage form : *#mˌorˈiː#
+*#mˌɔrˈiː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɔrˈi# | 28 : [+syl] > [-long,-splng] 
+*#mˌorˈi# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌorˈi#
+*#mˌurˈi# | 101 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#mˌuɾˈi# | 114 : r > ɾ 
+*#muɾˈi# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#muɾˈi#

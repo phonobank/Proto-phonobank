@@ -24,7 +24,7 @@ $ shared with French and Albano-Romance it seems éolu > eólu etc.
 [+prim,+front] o > [-stres] ˈo / __ l [-stres] 
 
 $ MANUAL FIX 17: -w-  insertion in Cvoi Vround V-round. Evidence in Romanian possibly for àstru(w)icˈāre, perhaps bo(w)ārium,  du(w)ae , -- and pecu(w)īnam, tho it doesn't fit the voicedness of the prior context posited here.
-∅ > w / [+voi,-syl] [+syl,+round] __ [+syl,-round]
+∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
 
 $ LXVb gliding of i and u in hiatus 
 	$ FIX, MANUAL -- gliding of ea eo eu and oa too. Also, any length is lost, but countertonics do not glide if they are long. 
@@ -540,12 +540,18 @@ $ XVIIe initial v/w to g.
 	$ TODO debug this.
 [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl] 
 
+$ MANUAL FIX A20 -- non-tonic after initial j to e before coronal sonorant and schwa otherwise. Handled as passage to schwa feeding A21. Doesn't occur before a palatal element, or non-consonantal -- ianuarius, iumentum, iuniperum, gelare, genuculu, etc. 
+[-prim] > ə / # j __ [+cons,-front]
+
 $ XXXVIIa implicit (?) -- j revocalizes after laterals
 j > i / [+lat] __
 
 
 $BANDAID notational loss of countertonic stress
 [-prim] > [-stres]
+
+$ MANUAL FIX A21 -- schwa to e between palatal and coronal sonorant -- cerebellum, iuniperum, socera, socerum, machina
+ə > e / [+front,-syl] __ [+cor,+son]
 
 $= Modern Capestranese
 

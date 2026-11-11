@@ -1,15 +1,10 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 511:
-#piːpiˈoːnem# >>> *#pit͡ʃːˈonə# ( GOLD : #pit͡ʃːˈonə#) :
-p iː p i ˈoː n e m 
-*#piːpjˈoːnem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#piːpjˈoːnem#
-*#piːpjˈoːnɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pipjˈonɛm# | 28 : [+syl] > [-long,-splng] 
-*#pipjˈonɛ# | 35 : [+cons] > ∅ / __ #
-*#pipjˈone# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#pˌipjˈone# | 79 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
-*#pˌit͡ʃːˈone# | 80 : [+lab,-cont,-voi] j > t͡ʃː
-Proto-South-Italo-Romance stage form : *#pˌit͡ʃːˈone#
-*#pˌit͡ʃːˈonə# | 104 : [-stres,-lo] > ə 
-*#pit͡ʃːˈonə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#pit͡ʃːˈonə#
+#pˈetram# >>> *#pˈætɾa# ( GOLD : #pɾˈeta#) :
+p ˈe t r a m 
+Proto-Romance stage form : *#pˈetram#
+*#pˈɛtram# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛtra# | 35 : [+cons] > ∅ / __ #
+*#pˈætra# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+Proto-South-Italo-Romance stage form : *#pˈætra#
+*#pˈætɾa# | 114 : r > ɾ 
+Final form : *#pˈætɾa#

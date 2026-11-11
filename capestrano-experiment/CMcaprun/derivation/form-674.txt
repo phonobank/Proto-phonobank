@@ -1,17 +1,13 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 674:
-#mˌulinˈaːrium# >>> *#mulənˈaɾə# ( GOLD : #mulinˈaɾə#) :
-m ˌu l i n ˈaː r i u m 
-*#mˌulinˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#mˌulinˈaːrjum#
-*#mˌʊlɪnˈaːrjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌʊlɪnˈarjʊm# | 28 : [+syl] > [-long,-splng] 
-*#mˌʊlɪnˈarʲʊm# | 30 : r j > rʲ 
-*#mˌʊlɪnˈarʲʊ# | 35 : [+cons] > ∅ / __ #
-*#mˌulɪnˈarʲu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˌulenˈarʲu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌulenˈarʲu#
-*#mˌulenˈaru# | 92 : rʲ > r 
-*#mˌulənˈarə# | 104 : [-stres,-lo] > ə 
-*#mˌulənˈaɾə# | 114 : r > ɾ 
-*#mulənˈaɾə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#mulənˈaɾə#
+#mˌulɡˈeː# >>> *#mujːˈe# ( GOLD : #mˈoɲə#) :
+m ˌu l ɡ ˈeː  
+Proto-Romance stage form : *#mˌulɡˈeː#
+*#mˌʊlɡˈeː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌʊljˈeː# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#mˌʊljˈe# | 28 : [+syl] > [-long,-splng] 
+*#mˌʊʎːˈe# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#mˌuʎːˈe# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌuʎːˈe#
+*#mˌujːˈe# | 117 : {ʎ;ʎː} > {j;jː} 
+*#mujːˈe# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#mujːˈe#

@@ -1,11 +1,15 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 632:
-#mˈittem# >>> *#mˈetːə# ( GOLD : #mˈetːə#) :
-m ˈi t t e m 
-Proto-Romance stage form : *#mˈittem#
-*#mˈɪttɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɪttɛ# | 35 : [+cons] > ∅ / __ #
-*#mˈette# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#mˈetːe# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#mˈetːe#
-*#mˈetːə# | 104 : [-stres,-lo] > ə 
-Final form : *#mˈetːə#
+#mˌiniˈattam# >>> *#miɲˈatːa# ( GOLD : #məɲˈatːa#) :
+m ˌi n i ˈa t t a m 
+*#mˌinjˈattam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#mˌinjˈattam#
+*#mˌɪnjˈattam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌiːnjˈattam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#mˌinjˈattam# | 28 : [+syl] > [-long,-splng] 
+*#mˌiɲːˈattam# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#mˌiɲːˈatta# | 35 : [+cons] > ∅ / __ #
+*#mˌiɲːˈatːa# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#mˌiɲːˈatːa#
+*#mˌiɲˈatːa# | 118 : ɲː > ɲ 
+*#miɲˈatːa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#miɲˈatːa#

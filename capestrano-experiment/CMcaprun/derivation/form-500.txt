@@ -1,15 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 500:
-#prˈae̯mium# >>> *#pɾˈemjə# ( GOLD : #pɾˈemjə#) :
-p r ˈa e̯ m i u m 
-*#prˈɛːmium# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
-*#prˈɛːmjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#prˈɛːmjum#
-*#prˈɛːmjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#prˈɛmjʊm# | 28 : [+syl] > [-long,-splng] 
-*#prˈɛmjʊ# | 35 : [+cons] > ∅ / __ #
-*#prˈɛmju# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#prˈemju# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#prˈemju#
-*#prˈemjə# | 104 : [-stres,-lo] > ə 
-*#pɾˈemjə# | 114 : r > ɾ 
-Final form : *#pɾˈemjə#
+#prˈaːtum# >>> *#pɾˈatə# ( GOLD : #pɾˈatə#) :
+p r ˈaː t u m 
+Proto-Romance stage form : *#prˈaːtum#
+*#prˈaːtʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#prˈatʊm# | 28 : [+syl] > [-long,-splng] 
+*#prˈatʊ# | 35 : [+cons] > ∅ / __ #
+*#prˈatu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#prˈatu#
+*#prˈatə# | 104 : [-stres,-lo] > ə 
+*#pɾˈatə# | 114 : r > ɾ 
+Final form : *#pɾˈatə#

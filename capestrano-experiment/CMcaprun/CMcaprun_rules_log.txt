@@ -6,7 +6,7 @@ h > ∅
 pʰ > f 
 [+cons] > [-sg] 
 [+prim,+front] o > [-stres,-prim,+syl,+son] ˈo/ __ l [-stres]
-∅ > w / [+voi,-syl] [+syl,+round] __ [+syl,-round]
+∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
 [-stres,-lo] > [+hi] / __ [+lo]
 [-prim,-lo,-long] > [+hi] / __ [+lo,+stres]
 e > j / __ [+back,-cons]
@@ -118,5 +118,7 @@ r > ɾ
 {ʎ;ʎː} > {j;jː} 
 ɲː > ɲ 
 [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+[-prim] > ə / # j __ [+cons,-front]
 j > i / [+lat] __
 [-prim] > [-stres,-prim,+syl,+son] 
+ə > e / [+front,-syl] __ [+cor,+son]

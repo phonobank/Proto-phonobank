@@ -1,14 +1,9 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 366:
-#kˌaptˈiːwum# >>> *#katːˈivə# ( GOLD : #katːˈivə#) :
-k ˌa p t ˈiː w u m 
-Proto-Romance stage form : *#kˌaptˈiːwum#
-*#kˌaptˈiːwʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌaptˈiwʊm# | 28 : [+syl] > [-long,-splng] 
-*#kˌatːˈiwʊm# | 33 : [+lab,-son] [+cor,-son] > ∅ [+long]
-*#kˌatːˈiwʊ# | 35 : [+cons] > ∅ / __ #
-*#kˌatːˈivʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#kˌatːˈivu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌatːˈivu#
-*#kˌatːˈivə# | 104 : [-stres,-lo] > ə 
-*#katːˈivə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#katːˈivə#
+#kˈapsam# >>> *#kˈaʃːa# ( GOLD : #kˈaʃːa#) :
+k ˈa p s a m 
+Proto-Romance stage form : *#kˈapsam#
+*#kˈasːam# | 33 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#kˈasːa# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˈasːa#
+*#kˈaʃːa# | 99 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+Final form : *#kˈaʃːa#

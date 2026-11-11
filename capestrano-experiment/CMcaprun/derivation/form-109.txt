@@ -1,10 +1,14 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 109:
-#sˈupraː# >>> *#sˈopɾa# ( GOLD : #sˈopɾa#) :
-s ˈu p r aː 
-Proto-Romance stage form : *#sˈupraː#
-*#sˈʊpraː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈʊpra# | 28 : [+syl] > [-long,-splng] 
-*#sˈopra# | 62 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-Proto-South-Italo-Romance stage form : *#sˈopra#
-*#sˈopɾa# | 114 : r > ɾ 
-Final form : *#sˈopɾa#
+#sˌubtˈiːlem# >>> *#sutːˈilə# ( GOLD : #sətːˈilə#) :
+s ˌu b t ˈiː l e m 
+Proto-Romance stage form : *#sˌubtˈiːlem#
+*#sˌʊbtˈiːlɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌʊbtˈilɛm# | 28 : [+syl] > [-long,-splng] 
+*#sˌʊtːˈilɛm# | 33 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#sˌʊtːˈilɛ# | 35 : [+cons] > ∅ / __ #
+*#sˌutːˈilɛ# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sˌutːˈile# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˌutːˈile#
+*#sˌutːˈilə# | 104 : [-stres,-lo] > ə 
+*#sutːˈilə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#sutːˈilə#

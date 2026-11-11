@@ -1,10 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 161:
-#lˌaksˈaː# >>> *#laʃːˈa# ( GOLD : #lasːˈa#) :
-l ˌa k s ˈaː 
-Proto-Romance stage form : *#lˌaksˈaː#
-*#lˌasːˈaː# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#lˌasːˈa# | 28 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#lˌasːˈa#
-*#lˌaʃːˈa# | 99 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#laʃːˈa# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#laʃːˈa#
+#lˈakrimam# >>> *#lˈakɾəma# ( GOLD : #lˈakɾəma#) :
+l ˈa k r i m a m 
+Proto-Romance stage form : *#lˈakrimam#
+*#lˈakrɪmam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈakriːmam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#lˈakrimam# | 28 : [+syl] > [-long,-splng] 
+*#lˈakrima# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#lˈakrima#
+*#lˈakrəma# | 104 : [-stres,-lo] > ə 
+*#lˈakɾəma# | 114 : r > ɾ 
+Final form : *#lˈakɾəma#

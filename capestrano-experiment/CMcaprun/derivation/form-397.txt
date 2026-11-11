@@ -1,14 +1,13 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 397:
-#kˌompˈanio# >>> *#kəmbˈaɲə# ( GOLD : #kəmbˈaɲə#) :
-k ˌo m p ˈa n i o 
-*#kˌompˈanjo# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌompˈanjo#
-*#kˌɔmpˈanjɔ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɔmpˈaɲːɔ# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#kˌompˈaɲːo# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌompˈaɲːo#
-*#kˌompˈaɲːə# | 104 : [-stres,-lo] > ə 
-*#kˌombˈaɲːə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kəmbˈaɲːə# | 116 : [-prim,-hi,-lo] > ə 
-*#kəmbˈaɲə# | 118 : ɲː > ɲ 
-Final form : *#kəmbˈaɲə#
+#komparˈaː# >>> *#kəmbɾˈa# ( GOLD : #kəmbɾˈa#) :
+k o m p a r ˈaː 
+Proto-Romance stage form : *#komparˈaː#
+*#kɔmparˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kɔmparˈa# | 28 : [+syl] > [-long,-splng] 
+*#kɔmprˈa# | 40 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
+*#komprˈa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#komprˈa#
+*#kəmprˈa# | 104 : [-stres,-lo] > ə 
+*#kəmbrˈa# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kəmbɾˈa# | 114 : r > ɾ 
+Final form : *#kəmbɾˈa#

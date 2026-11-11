@@ -1,11 +1,10 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 102:
-#sˈomnum# >>> *#sˈomnə# ( GOLD : #sˈunːə#) :
-s ˈo m n u m 
-Proto-Romance stage form : *#sˈomnum#
-*#sˈɔmnʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɔmnʊ# | 35 : [+cons] > ∅ / __ #
-*#sˈɔmnu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sˈomnu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˈomnu#
-*#sˈomnə# | 104 : [-stres,-lo] > ə 
-Final form : *#sˈomnə#
+#sˌudˈaː# >>> *#sudˈa# ( GOLD : #sudˈa#) :
+s ˌu d ˈaː 
+Proto-Romance stage form : *#sˌudˈaː#
+*#sˌʊdˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌʊdˈa# | 28 : [+syl] > [-long,-splng] 
+*#sˌudˈa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˌudˈa#
+*#sudˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#sudˈa#

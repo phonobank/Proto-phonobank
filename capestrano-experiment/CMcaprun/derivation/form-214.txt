@@ -1,17 +1,15 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 214:
-#ˌinwˈikem# >>> *#imːˈet͡ʃə# ( GOLD : #imːˈet͡ʃə#) :
-ˌi n w ˈi k e m 
-Proto-Romance stage form : *#ˌinwˈikem#
-*#ˌɪnwˈɪkɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪnwˈɪt͡ʃɛm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#ˌɪnwˈɪt͡ʃɛ# | 35 : [+cons] > ∅ / __ #
-*#ˌɪnvˈɪt͡ʃɛ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#ˌenvˈɪt͡ʃɛ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenvˈet͡ʃe# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌenvˈet͡ʃe#
-*#ənvˈet͡ʃe# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#ˌinvˈet͡ʃe# | 85 : ə > ˌi / __ n [+cons,+lab,+voi]
-*#ˌimːˈet͡ʃe# | 96 : n v > mː 
-*#ˌimːˈet͡ʃə# | 104 : [-stres,-lo] > ə 
-*#imːˈet͡ʃə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#imːˈet͡ʃə#
+#ˌiːnflammˈaː# >>> *#mbjamːˈa# ( GOLD : #mbjamːˈa#) :
+ˌiː n f l a m m ˈaː 
+*#ˌiːmflammˈaː# | 0 : n > m / __ [+lab,+cons]
+Proto-Romance stage form : *#ˌiːmflammˈaː#
+*#ˌimflammˈa# | 28 : [+syl] > [-long,-splng] 
+*#ˌimflamːˈa# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˌimfʎamːˈa# | 70 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#ˌimfʎamːˈa#
+*#əmfʎamːˈa# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#mfʎamːˈa# | 87 : ə > ∅ / # __
+*#mb͡vʎamːˈa# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbʎamːˈa# | 107 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#mbjamːˈa# | 117 : {ʎ;ʎː} > {j;jː} 
+Final form : *#mbjamːˈa#

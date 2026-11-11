@@ -1,9 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 458:
-#wˈespa# >>> *#vˈæspa# ( GOLD : #vˈæspa#) :
-w ˈe s p a 
-Proto-Romance stage form : *#wˈespa#
-*#wˈɛspa# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɛspa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈæspa# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#vˈæspa#
-Final form : *#vˈæspa#
+#wˌaːnitˈaː# >>> *#vandˈa# ( GOLD : #vandˈa#) :
+w ˌaː n i t ˈaː 
+Proto-Romance stage form : *#wˌaːnitˈaː#
+*#wˌaːnɪtˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌanɪtˈa# | 28 : [+syl] > [-long,-splng] 
+*#wˌantˈa# | 42 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
+*#vˌantˈa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#vˌantˈa#
+*#vˌandˈa# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#vandˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vandˈa#

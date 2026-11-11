@@ -1,14 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 700:
-#ˌanimˈaːlem# >>> *#animˈalə# ( GOLD : #alimˈanə#) :
-ˌa n i m ˈaː l e m 
-Proto-Romance stage form : *#ˌanimˈaːlem#
-*#ˌanɪmˈaːlɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌaniːmˈaːlɛm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌanimˈalɛm# | 28 : [+syl] > [-long,-splng] 
-*#ˌanimˈalɛ# | 35 : [+cons] > ∅ / __ #
-*#ˌanimˈale# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌanimˈale#
-*#ˌanˌimˈale# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌanˌimˈalə# | 104 : [-stres,-lo] > ə 
-*#animˈalə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#animˈalə#
+#ˈanimam# >>> *#ˈanima# ( GOLD : #ˈalma#) :
+ˈa n i m a m 
+Proto-Romance stage form : *#ˈanimam#
+*#ˈanɪmam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈaniːmam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˈanimam# | 28 : [+syl] > [-long,-splng] 
+*#ˈanima# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈanima#
+*#ˈanˌima# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈanima# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈanima#

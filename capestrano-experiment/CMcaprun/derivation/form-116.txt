@@ -1,7 +1,10 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 116:
-#spˈiːna# >>> *#spˈina# ( GOLD : #spˈina#) :
-s p ˈiː n a 
-Proto-Romance stage form : *#spˈiːna#
-*#spˈina# | 28 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#spˈina#
-Final form : *#spˈina#
+#spˈiːnulam# >>> *#spˈinla# ( GOLD : #spˈilːa#) :
+s p ˈiː n u l a m 
+Proto-Romance stage form : *#spˈiːnulam#
+*#spˈiːnʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#spˈinʊlam# | 28 : [+syl] > [-long,-splng] 
+*#spˈinʊla# | 35 : [+cons] > ∅ / __ #
+*#spˈinla# | 42 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
+Proto-South-Italo-Romance stage form : *#spˈinla#
+Final form : *#spˈinla#

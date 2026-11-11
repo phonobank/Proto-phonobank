@@ -1,12 +1,10 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 538:
-#pˈawkum# >>> *#pˈokə# ( GOLD : #pˈokə#) :
-p ˈa w k u m 
-Proto-Romance stage form : *#pˈawkum#
-*#pˈawkʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈawkʊ# | 35 : [+cons] > ∅ / __ #
-*#pˈawku# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˈowku# | 68 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#pˈowku#
-*#pˈoku# | 93 : w > ∅ / [+round] __ [+cons]
-*#pˈokə# | 104 : [-stres,-lo] > ə 
-Final form : *#pˈokə#
+#pˈost# >>> *#pˈo# ( GOLD : #pˈɔ#) :
+p ˈo s t 
+Proto-Romance stage form : *#pˈost#
+*#pˈɔst# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɔs# | 35 : [+cons] > ∅ / __ #
+*#pˈɔ# | 36 : [+cons] > ∅ / __ #
+*#pˈo# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#pˈo#
+Final form : *#pˈo#

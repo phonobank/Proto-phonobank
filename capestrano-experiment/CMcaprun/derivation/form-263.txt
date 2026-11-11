@@ -1,9 +1,14 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 263:
-#ˌarˈeːna# >>> *#aɾˈena# ( GOLD : #ɾˈena#) :
-ˌa r ˈeː n a 
-Proto-Romance stage form : *#ˌarˈeːna#
-*#ˌarˈena# | 28 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#ˌarˈena#
-*#ˌaɾˈena# | 114 : r > ɾ 
-*#aɾˈena# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#aɾˈena#
+#ˈaːrea# >>> *#ˈaɾa# ( GOLD : #ˈaɾa#) :
+ˈaː r e a 
+*#ˈaːria# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
+*#ˈaːrja# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˈaːrja#
+*#ˈarja# | 28 : [+syl] > [-long,-splng] 
+*#ˈarʲa# | 30 : r j > rʲ 
+Proto-South-Italo-Romance stage form : *#ˈarʲa#
+*#ˈara# | 92 : rʲ > r 
+*#ˈarˌa# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈaɾˌa# | 114 : r > ɾ 
+*#ˈaɾa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈaɾa#

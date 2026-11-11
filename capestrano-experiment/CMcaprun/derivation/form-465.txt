@@ -1,11 +1,13 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 465:
-#wˌolˈaː# >>> *#vəlˈa# ( GOLD : #vəlˈa#) :
-w ˌo l ˈaː 
-Proto-Romance stage form : *#wˌolˈaː#
-*#wˌɔlˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɔlˈa# | 28 : [+syl] > [-long,-splng] 
-*#vˌɔlˈa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˌolˈa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˌolˈa#
-*#vəlˈa# | 116 : [-prim,-hi,-lo] > ə 
-Final form : *#vəlˈa#
+#wˌolaːrˈelːa# >>> *#vəlaɾˈelːa# ( GOLD : #vəlaɾˈælːa#) :
+w ˌo l aː r ˈe lː a 
+Proto-Romance stage form : *#wˌolaːrˈelːa#
+*#wˌɔlaːrˈɛlːa# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌɔlarˈɛlːa# | 28 : [+syl] > [-long,-splng] 
+*#vˌɔlarˈɛlːa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˌolarˈɛlːa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vˌolarˈelːa# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˌolarˈelːa#
+*#vˌolaɾˈelːa# | 114 : r > ɾ 
+*#vəlaɾˈelːa# | 116 : [-prim,-hi,-lo] > ə 
+Final form : *#vəlaɾˈelːa#

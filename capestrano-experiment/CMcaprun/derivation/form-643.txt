@@ -1,12 +1,14 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 643:
-#mˌeritˈaː# >>> *#məɾtˈa# ( GOLD : #məɾdˈa#) :
-m ˌe r i t ˈaː 
-Proto-Romance stage form : *#mˌeritˈaː#
-*#mˌɛrɪtˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɛrɪtˈa# | 28 : [+syl] > [-long,-splng] 
-*#mˌɛrtˈa# | 42 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
-*#mˌertˈa# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#mˌertˈa#
-*#mˌeɾtˈa# | 114 : r > ɾ 
-*#məɾtˈa# | 116 : [-prim,-hi,-lo] > ə 
-Final form : *#məɾtˈa#
+#mˌerkˈaːtum# >>> *#məɾkˈatə# ( GOLD : #məɾkˈatə#) :
+m ˌe r k ˈaː t u m 
+Proto-Romance stage form : *#mˌerkˈaːtum#
+*#mˌɛrkˈaːtʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɛrkˈatʊm# | 28 : [+syl] > [-long,-splng] 
+*#mˌɛrkˈatʊ# | 35 : [+cons] > ∅ / __ #
+*#mˌerkˈatʊ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
+*#mˌerkˈatu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌerkˈatu#
+*#mˌerkˈatə# | 104 : [-stres,-lo] > ə 
+*#mˌeɾkˈatə# | 114 : r > ɾ 
+*#məɾkˈatə# | 116 : [-prim,-hi,-lo] > ə 
+Final form : *#məɾkˈatə#

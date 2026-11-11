@@ -1,11 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 442:
-#wˌidˈeː# >>> *#vədˈe# ( GOLD : #vədˈe#) :
-w ˌi d ˈeː 
-Proto-Romance stage form : *#wˌidˈeː#
-*#wˌɪdˈeː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɪdˈe# | 28 : [+syl] > [-long,-splng] 
-*#vˌɪdˈe# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˌedˈe# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#vˌedˈe#
-*#vədˈe# | 116 : [-prim,-hi,-lo] > ə 
-Final form : *#vədˈe#
+#wˈidua# >>> *#vˈedəva# ( GOLD : #vˈedeva#) :
+w ˈi d u a 
+*#wˈiduwa# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
+Proto-Romance stage form : *#wˈiduwa#
+*#wˈɪdʊwa# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɪdʊva# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈɪduva# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vˈeduva# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˈeduva#
+*#vˈedəva# | 104 : [-stres,-lo] > ə 
+Final form : *#vˈedəva#

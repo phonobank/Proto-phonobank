@@ -1,10 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 343:
-#kˌandˈeːlam# >>> *#kanːˈela# ( GOLD : #kanːˈela#) :
-k ˌa n d ˈeː l a m 
-Proto-Romance stage form : *#kˌandˈeːlam#
-*#kˌandˈelam# | 28 : [+syl] > [-long,-splng] 
-*#kˌandˈela# | 35 : [+cons] > ∅ / __ #
-*#kˌanːˈela# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#kˌanːˈela#
-*#kanːˈela# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kanːˈela#
+#kˌanˈiːliam# >>> *#kanˈijːa# ( GOLD : #kanːˈijːa#) :
+k ˌa n ˈiː l i a m 
+*#kˌanˈiːljam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌanˈiːljam#
+*#kˌanˈiljam# | 28 : [+syl] > [-long,-splng] 
+*#kˌanˈiʎːam# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#kˌanˈiʎːa# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˌanˈiʎːa#
+*#kˌanˈijːa# | 117 : {ʎ;ʎː} > {j;jː} 
+*#kanˈijːa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kanˈijːa#

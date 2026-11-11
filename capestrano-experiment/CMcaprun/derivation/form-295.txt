@@ -1,13 +1,12 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 295:
-#ˈaːfrikam# >>> *#ˈafɾika# ( GOLD : #ˈafɾəka#) :
-ˈaː f r i k a m 
-Proto-Romance stage form : *#ˈaːfrikam#
-*#ˈaːfrɪkam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaːfriːkam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˈafrikam# | 28 : [+syl] > [-long,-splng] 
-*#ˈafrika# | 35 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#ˈafrika#
-*#ˈafrˌika# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈafɾˌika# | 114 : r > ɾ 
-*#ˈafɾika# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈafɾika#
+#ˌaffˌoːkˈaː# >>> *#afːukˈa# ( GOLD : #afːəkˈa#) :
+ˌa f f ˌoː k ˈaː 
+Proto-Romance stage form : *#ˌaffˌoːkˈaː#
+*#ˌaffˌokˈa# | 28 : [+syl] > [-long,-splng] 
+*#ˌafːˌokˈa# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#ˌafːˌokˈa#
+*#ˌafːˌukˈa# | 101 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#ˌafːukˈa# | 102 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌafːˌukˈa# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#afːukˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#afːukˈa#

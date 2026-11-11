@@ -1,12 +1,10 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 195:
-#rˌaːnˈoːnia# >>> *#ɾanˈoɲa# ( GOLD : #ɾanˈoɲa#) :
-r ˌaː n ˈoː n i a 
-*#rˌaːnˈoːnja# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#rˌaːnˈoːnja#
-*#rˌanˈonja# | 28 : [+syl] > [-long,-splng] 
-*#rˌanˈoɲːa# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-Proto-South-Italo-Romance stage form : *#rˌanˈoɲːa#
-*#ɾˌanˈoɲːa# | 114 : r > ɾ 
-*#ɾˌanˈoɲa# | 118 : ɲː > ɲ 
-*#ɾanˈoɲa# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ɾanˈoɲa#
+#rˈotam# >>> *#ɾˈota# ( GOLD : #ɾˈɔta#) :
+r ˈo t a m 
+Proto-Romance stage form : *#rˈotam#
+*#rˈɔtam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˈɔta# | 35 : [+cons] > ∅ / __ #
+*#rˈota# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#rˈota#
+*#ɾˈota# | 114 : r > ɾ 
+Final form : *#ɾˈota#

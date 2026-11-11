@@ -1,12 +1,17 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 113:
-#sˌuffoːkˈaː# >>> *#səfːəkˈa# ( GOLD : #səfːəkˈa#) :
-s ˌu f f oː k ˈaː 
-Proto-Romance stage form : *#sˌuffoːkˈaː#
-*#sˌʊffoːkˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌʊffokˈa# | 28 : [+syl] > [-long,-splng] 
-*#sˌuffokˈa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sˌufːokˈa# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#sˌufːokˈa#
-*#sˌufːəkˈa# | 104 : [-stres,-lo] > ə 
-*#səfːəkˈa# | 115 : ˌu > ə / @ __ [+lab,+strid]
-Final form : *#səfːəkˈa#
+#splˌeːniˈaːtum# >>> *#spjəɲˈatə# ( GOLD : #spjənˈatə#) :
+s p l ˌeː n i ˈaː t u m 
+*#splˌeːnjˈaːtum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#splˌeːnjˈaːtum#
+*#splˌeːnjˈaːtʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#splˌenjˈatʊm# | 28 : [+syl] > [-long,-splng] 
+*#splˌeɲːˈatʊm# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#splˌeɲːˈatʊ# | 35 : [+cons] > ∅ / __ #
+*#splˌeɲːˈatu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#spʎˌeɲːˈatu# | 70 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#spʎˌeɲːˈatu#
+*#spʎˌeɲːˈatə# | 104 : [-stres,-lo] > ə 
+*#spʎəɲːˈatə# | 116 : [-prim,-hi,-lo] > ə 
+*#spjəɲːˈatə# | 117 : {ʎ;ʎː} > {j;jː} 
+*#spjəɲˈatə# | 118 : ɲː > ɲ 
+Final form : *#spjəɲˈatə#

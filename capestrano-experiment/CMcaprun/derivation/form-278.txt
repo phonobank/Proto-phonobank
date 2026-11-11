@@ -1,16 +1,9 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 278:
-#ˌakwˈaːrium# >>> *#akwˈaɾə# ( GOLD : #akːwˈaɾə#) :
-ˌa k w ˈaː r i u m 
-*#ˌakwˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#ˌakwˈaːrjum#
-*#ˌakwˈaːrjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌakwˈarjʊm# | 28 : [+syl] > [-long,-splng] 
-*#ˌakwˈarʲʊm# | 30 : r j > rʲ 
-*#ˌakwˈarʲʊ# | 35 : [+cons] > ∅ / __ #
-*#ˌakwˈarʲu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌakwˈarʲu#
-*#ˌakwˈaru# | 92 : rʲ > r 
-*#ˌakwˈarə# | 104 : [-stres,-lo] > ə 
-*#ˌakwˈaɾə# | 114 : r > ɾ 
-*#akwˈaɾə# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#akwˈaɾə#
+#ˈakwam# >>> *#ˈakwa# ( GOLD : #ˈakːwə#) :
+ˈa k w a m 
+Proto-Romance stage form : *#ˈakwam#
+*#ˈakwa# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈakwa#
+*#ˈakwˌa# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈakwa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈakwa#

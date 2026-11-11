@@ -1,12 +1,14 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 207:
-#jˌuːmˈentam# >>> *#jumˈænda# ( GOLD : #jəmˈenda#) :
-j ˌuː m ˈe n t a m 
-Proto-Romance stage form : *#jˌuːmˈentam#
-*#jˌuːmˈɛntam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˌumˈɛntam# | 28 : [+syl] > [-long,-splng] 
-*#jˌumˈɛnta# | 35 : [+cons] > ∅ / __ #
-*#jˌumˈænta# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#jˌumˈænta#
-*#jˌumˈænda# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#jumˈænda# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#jumˈænda#
+#ˌintˈende# >>> *#ndˈenːə# ( GOLD : #ndˈænːe#) :
+ˌi n t ˈe n d e 
+Proto-Romance stage form : *#ˌintˈende#
+*#ˌɪntˈɛndɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌentˈɛndɛ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌentˈɛnːɛ# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˌentˈenːe# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌentˈenːe#
+*#əntˈenːe# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ntˈenːe# | 87 : ə > ∅ / # __
+*#ntˈenːə# | 104 : [-stres,-lo] > ə 
+*#ndˈenːə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#ndˈenːə#

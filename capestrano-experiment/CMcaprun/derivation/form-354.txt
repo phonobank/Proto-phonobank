@@ -1,14 +1,19 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 354:
-#kˌarrˈuːkula# >>> *#karːˈukəla# ( GOLD : #karːˈukəla#) :
-k ˌa r r ˈuː k u l a 
-Proto-Romance stage form : *#kˌarrˈuːkula#
-*#kˌarrˈuːkʊla# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌarrˈukʊla# | 28 : [+syl] > [-long,-splng] 
-*#kˌarrˈukwʊla# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#kˌarrˈukʊla# | 53 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#kˌarrˈukula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌarːˈukula# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#kˌarːˈukula#
-*#kˌarːˈukəla# | 104 : [-stres,-lo] > ə 
-*#karːˈukəla# | 121 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#karːˈukəla#
+#kˌariofˈyllum# >>> *#kaɾəfˈøjːə# ( GOLD : #ɡaɾˈɔfənə#) :
+k ˌa r i o f ˈy l l u m 
+*#kˌarjofˈyllum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌarjofˈyllum#
+*#kˌarjɔfˈʏllʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌarʲɔfˈʏllʊm# | 30 : r j > rʲ 
+*#kˌarʲɔfˈʏllʊ# | 35 : [+cons] > ∅ / __ #
+*#kˌarʲofˈʏllu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌarʲofˈøllu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌarʲofˈølːu# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#kˌarʲofˈølːu#
+*#kˌarofˈølːu# | 92 : rʲ > r 
+*#kˌarofˈøʎːu# | 94 : lː > ʎː / __ [+hi]
+*#kˌarəfˈøʎːə# | 104 : [-stres,-lo] > ə 
+*#kˌaɾəfˈøʎːə# | 114 : r > ɾ 
+*#kˌaɾəfˈøjːə# | 117 : {ʎ;ʎː} > {j;jː} 
+*#kaɾəfˈøjːə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaɾəfˈøjːə#

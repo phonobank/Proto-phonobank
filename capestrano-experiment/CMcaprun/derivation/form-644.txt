@@ -1,14 +1,11 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 644:
-#mˌerkˈaːtum# >>> *#məɾkˈatə# ( GOLD : #məɾkˈatə#) :
-m ˌe r k ˈaː t u m 
-Proto-Romance stage form : *#mˌerkˈaːtum#
-*#mˌɛrkˈaːtʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɛrkˈatʊm# | 28 : [+syl] > [-long,-splng] 
-*#mˌɛrkˈatʊ# | 35 : [+cons] > ∅ / __ #
-*#mˌerkˈatʊ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#mˌerkˈatu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌerkˈatu#
-*#mˌerkˈatə# | 104 : [-stres,-lo] > ə 
-*#mˌeɾkˈatə# | 114 : r > ɾ 
-*#məɾkˈatə# | 116 : [-prim,-hi,-lo] > ə 
-Final form : *#məɾkˈatə#
+#mˌanduːkˈaː# >>> *#manːɡˈa# ( GOLD : #maɲˈa#) :
+m ˌa n d uː k ˈaː 
+Proto-Romance stage form : *#mˌanduːkˈaː#
+*#mˌandukˈa# | 28 : [+syl] > [-long,-splng] 
+*#mˌandkˈa# | 55 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#mˌanːkˈa# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#mˌanːkˈa#
+*#mˌanːɡˈa# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#manːɡˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#manːɡˈa#

@@ -1,11 +1,16 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 706:
-#kˈoːpulam# >>> *#kˈopəla# ( GOLD : #kˈopːja#) :
-k ˈoː p u l a m 
-Proto-Romance stage form : *#kˈoːpulam#
-*#kˈoːpʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈopʊlam# | 28 : [+syl] > [-long,-splng] 
-*#kˈopʊla# | 35 : [+cons] > ∅ / __ #
-*#kˈopula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈopula#
-*#kˈopəla# | 104 : [-stres,-lo] > ə 
-Final form : *#kˈopəla#
+#pˌartiːtiˈoːnem# >>> *#paɾtət͡sːˈonə# ( GOLD : #paɾtit͡sjˈonə#) :
+p ˌa r t iː t i ˈoː n e m 
+*#pˌartiːtjˈoːnem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#pˌartiːtjˈoːnem#
+*#pˌartiːtjˈoːnɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌartiːtʲːˈoːnɛm# | 21 : t j > tʲː 
+*#pˌartitʲːˈonɛm# | 28 : [+syl] > [-long,-splng] 
+*#pˌartit͡sːˈonɛm# | 29 : tʲː > t͡sː 
+*#pˌartit͡sːˈonɛ# | 35 : [+cons] > ∅ / __ #
+*#pˌartit͡sːˈone# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#pˌartit͡sːˈone#
+*#pˌartət͡sːˈonə# | 104 : [-stres,-lo] > ə 
+*#pˌaɾtət͡sːˈonə# | 114 : r > ɾ 
+*#paɾtət͡sːˈonə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#paɾtət͡sːˈonə#
