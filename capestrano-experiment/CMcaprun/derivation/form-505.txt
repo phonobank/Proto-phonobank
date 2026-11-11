@@ -1,5 +1,5 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 505:
-#pˌiskaːtˈoːrem# >>> *#piskatˈoɾə# ( GOLD : #pəskatˈoɾə#) :
+#pˌiskaːtˈoːrem# >>> *#pəskatˈoɾə# ( GOLD : #pəskatˈoɾə#) :
 p ˌi s k aː t ˈoː r e m 
 Proto-Romance stage form : *#pˌiskaːtˈoːrem#
 *#pˌɪskaːtˈoːrɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -11,4 +11,5 @@ Proto-South-Italo-Romance stage form : *#pˌiskatˈore#
 *#pˌiskatˈorə# | 104 : [-stres,-lo] > ə 
 *#pˌiskatˈoɾə# | 114 : r > ɾ 
 *#piskatˈoɾə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#piskatˈoɾə#
+*#pəskatˈoɾə# | 124 : [+front,-lo,-stres] > ə / # ( ( @ )* [-prim] ) [-son,cfront,!clab] __ [+cor] ( k ) [+lo]
+Final form : *#pəskatˈoɾə#

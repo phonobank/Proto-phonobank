@@ -1,5 +1,5 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 326:
-#kˌirkˈaː# >>> *#t͡ʃiɾkˈa# ( GOLD : #t͡ʃəɾkˈa#) :
+#kˌirkˈaː# >>> *#t͡ʃəɾkˈa# ( GOLD : #t͡ʃəɾkˈa#) :
 k ˌi r k ˈaː 
 Proto-Romance stage form : *#kˌirkˈaː#
 *#kˌɪrkˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -9,4 +9,5 @@ Proto-Romance stage form : *#kˌirkˈaː#
 Proto-South-Italo-Romance stage form : *#t͡ʃˌirkˈa#
 *#t͡ʃˌiɾkˈa# | 114 : r > ɾ 
 *#t͡ʃiɾkˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#t͡ʃiɾkˈa#
+*#t͡ʃəɾkˈa# | 124 : [+front,-lo,-stres] > ə / # ( ( @ )* [-prim] ) [-son,cfront,!clab] __ [+cor] ( k ) [+lo]
+Final form : *#t͡ʃəɾkˈa#

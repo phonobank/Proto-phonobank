@@ -553,8 +553,8 @@ $BANDAID notational loss of countertonic stress
 $ MANUAL FIX A21 -- schwa to e between palatal and coronal sonorant -- cerebellum, iuniperum, socera, socerum, machina
 ə > e / [+front,-syl] __ [+cor,+son]
 
-$ MANUAL FIX A22 -- reductions of e , i to schwa in lab/ch/sh __ cor (k) A: circare, cerasea, piscatore, maxillare, bilancia, ferrarium 
-$[+front,-lo,-stres] > ə / [-son,cfront,-clab] __ [+cor] 
+$ MANUAL FIX A22 -- reductions of e , i to schwa in lab/ch/sh __ cor (k) A (stressed or non-final): circare, cerasea, piscatore, maxillare, bilancia, ferrarium 
+[+front,-lo,-stres] > ə / # ((@)* [-prim]) [-son,cfront,-clab] __ [+cor] (k) [+lo]
 
 $= Modern Capestranese
 
