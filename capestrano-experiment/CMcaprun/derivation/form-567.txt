@@ -1,14 +1,15 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 567:
-#bˌasˈilikam# >>> *#baʃˈeləka# ( GOLD : #bːaʃˈiləka#) :
+#bˌasˈilikam# >>> *#baʃˈiləka# ( GOLD : #bːaʃˈiləka#) :
 b ˌa s ˈi l i k a m 
 Proto-Romance stage form : *#bˌasˈilikam#
 *#bˌasˈɪlɪkam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˌasˈɪliːkam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#bˌasˈɪlikam# | 28 : [+syl] > [-long,-splng] 
-*#bˌasˈɪlika# | 35 : [+cons] > ∅ / __ #
-*#bˌasˈelika# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#bˌasˈelika#
-*#bˌaʃˈelika# | 99 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#bˌaʃˈeləka# | 104 : [-stres,-lo] > ə 
-*#baʃˈeləka# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#baʃˈeləka#
+*#bˌasˈɪlˠɪkam# | 18 : l > lˠ / __ ( [-stres] ) k [-cons]
+*#bˌasˈiːlˠiːkam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#bˌasˈilˠikam# | 28 : [+syl] > [-long,-splng] 
+*#bˌasˈilˠika# | 35 : [+cons] > ∅ / __ #
+*#bˌasˈilika# | 47 : lˠ > l 
+Proto-South-Italo-Romance stage form : *#bˌasˈilika#
+*#bˌaʃˈilika# | 99 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#bˌaʃˈiləka# | 104 : [-stres,-lo] > ə 
+*#baʃˈiləka# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#baʃˈiləka#

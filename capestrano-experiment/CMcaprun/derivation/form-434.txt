@@ -1,5 +1,5 @@
 Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 434:
-#kwˌattuˈordeki# >>> *#kwatːˈoɾdət͡ʃə# ( GOLD : #kwatːˈoɾdet͡ʃə#) :
+#kwˌattuˈordeki# >>> *#kwatːˈoɾdet͡ʃə# ( GOLD : #kwatːˈoɾdet͡ʃə#) :
 k w ˌa t t u ˈo r d e k i 
 *#kwˌattwˈordeki# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#kwˌattwˈordeki#
@@ -12,4 +12,5 @@ Proto-South-Italo-Romance stage form : *#kwˌatːˈordet͡ʃe#
 *#kwˌatːˈordət͡ʃə# | 104 : [-stres,-lo] > ə 
 *#kwˌatːˈoɾdət͡ʃə# | 114 : r > ɾ 
 *#kwatːˈoɾdət͡ʃə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kwatːˈoɾdət͡ʃə#
+*#kwatːˈoɾdet͡ʃə# | 126 : ə > e / [+cor] __ t͡ʃ
+Final form : *#kwatːˈoɾdet͡ʃə#

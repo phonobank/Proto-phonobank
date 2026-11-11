@@ -51,8 +51,8 @@ $LXIVb -- fIX, personal inference -- g > gg to become d͡ʒː in before ɛ stres
 	$LXIVc gg > g in # __ ɛ C V -- gelum gelōnem genuculum generum genestram 
 ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
 
-$ development of dark L -- FIX exec decis. -- before k V. Similar things may happen before s -- falsum > fald͡zə , favət͡sə-- but not enough data. -- LXXXIb 
-l > lˠ / __ k [-cons] 
+$ development of dark L -- FIX exec decis. -- before k V. Similar things may happen before s -- falsum > fald͡zə , favət͡sə-- but not enough data. -- LXXXIb . Sees thru unstressed vowel. 
+l > lˠ / __ ([-stres]) k [-cons] 
 
 $LXXIXd dv to vv, dm to mm; throw in db and dp while at it
 d [+lab,+cons] > ∅ [+long]
@@ -198,7 +198,7 @@ $ LXXXIIId rb to lb if there's a later r
 r > l / __ b (@)* r 
 
 $ LXXXf ɫk > ɫək insertion.
-∅ > ə / lˠ __ 
+∅ > ə / lˠ __ [-syl]
 
 $ MANUAL FIX A16 deletion of unstressed vowels in [+syl] [+son,glat,gback,-nas] (s) __ [-cont,-back] [+syl]
 	$ accounts for  digitonem, digitum, dulcem, sōricem, spīritum, lāridum, cerebellum, frīgidum, falcem, meritāre
@@ -553,8 +553,14 @@ $BANDAID notational loss of countertonic stress
 $ MANUAL FIX A21 -- schwa to e between palatal and coronal sonorant -- cerebellum, iuniperum, socera, socerum, machina
 ə > e / [+front,-syl] __ [+cor,+son]
 
+$ MANUAL FIX A23 initial or sesqui-initial Cant,-son schwa r/s/sh/t V-round has schwa go to e: terremotum, serratura, sexaginta, septimana, septuaginta, vessica,edera
+ə > e / # ([+syl]) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
+
 $ MANUAL FIX A22 -- reductions of e , i to schwa in lab/ch/sh __ cor (k) A (stressed or non-final): circare, cerasea, piscatore, maxillare, bilancia, ferrarium 
 [+front,-lo,-stres] > ə / # ((@)* [-prim]) [-son,cfront,-clab] __ [+cor] (k) [+lo]
+
+$ MANUAL FIX A24 -- schwa to e after coronal if before ch
+ə > e / [+cor] __ t͡ʃ 
 
 $= Modern Capestranese
 
