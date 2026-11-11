@@ -263,6 +263,7 @@ class Dataset(BaseDataset):
             args.writer.cldf.add_sources(*self.raw_dir.read_bib(directory / "source.bib"))
 
             path = directory / extraction.FILE
+            args.log.info("{}: reading {}".format(source_key, path.relative_to(self.dir)))
             lines = path.read_text(encoding="utf-8").splitlines()
             try:
                 chain, stages, parsed = parse_cascade(lines, extraction.HEADER_RE)
@@ -283,6 +284,7 @@ class Dataset(BaseDataset):
                         listed=True,
                     ))
 
+            args.log.info("{}: {}".format(source_key, " > ".join(chain)))
             gold = dict(stages)
 
             language_ids = []
@@ -359,6 +361,32 @@ class Dataset(BaseDataset):
                     "Position": position[step],
                 })
 
+            for step in range(len(step_ids)):
+                args.log.info("{}: {} > {}: {} rules".format(
+                    source_key,
+                    chain[step],
+                    chain[step + 1],
+                    position.get(step, 0),
+                ))
+            args.log.info("{}: {} comment-only rules".format(
+                source_key,
+                sum(1 for rule in parsed if rule["comment_only"]),
+            ))
+
+            # Rule lines with no header usually mean HEADER_RE does not match
+            # this extraction's headers.
+            headerless = sum(1 for rule in parsed if rule["source_rule_id"] is None)
+            if headerless:
+                args.log.warning("{}: {} rule lines have no header; check HEADER_RE in {}".format(
+                    source_key,
+                    headerless,
+                    (directory / "cascade.py").relative_to(self.dir),
+                ))
+
+        args.log.info("{} languages, {} rules in total".format(
+            len(used_languages),
+            len(rule_ids),
+        ))
         args.writer.objects["LanguageTable"].extend(
             languages[language_id] for language_id in sorted(used_languages)
         )
