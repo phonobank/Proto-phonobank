@@ -7,14 +7,7 @@
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "git@github.com:phonobank/phonobank-data",
     "prov:wasDerivedFrom": [
-        {
-            "rdf:about": "git@github.com:phonobank/phonobank-data",
-            "rdf:type": "prov:Entity",
-            "dc:created": "4bbe8de",
-            "dc:title": "Repository"
-        },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
@@ -37,7 +30,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 6,
+            "dc:extent": 13,
             "tableSchema": {
                 "columns": [
                     {
@@ -108,7 +101,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 226,
+            "dc:extent": 8,
             "tableSchema": {
                 "columns": [
                     {
@@ -118,6 +111,71 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Target_Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Raw_File"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Source_Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Target_Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "chains.csv"
+        },
+        {
+            "dc:extent": 274,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Chain_ID"
                     },
                     {
                         "datatype": "string",
@@ -159,6 +217,19 @@
                         "name": "Source"
                     }
                 ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Chain_ID"
+                        ],
+                        "reference": {
+                            "resource": "chains.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
                 "primaryKey": [
                     "ID"
                 ]
@@ -166,7 +237,7 @@
             "url": "rules.csv"
         },
         {
-            "dc:extent": 5,
+            "dc:extent": 11,
             "tableSchema": {
                 "columns": [
                     {
@@ -176,6 +247,14 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Chain_ID"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Chain_Position"
                     },
                     {
                         "datatype": "string",
@@ -207,6 +286,17 @@
                 "foreignKeys": [
                     {
                         "columnReference": [
+                            "Chain_ID"
+                        ],
+                        "reference": {
+                            "resource": "chains.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
                             "Source_Language_ID"
                         ],
                         "reference": {
@@ -235,7 +325,7 @@
             "url": "cascades.csv"
         },
         {
-            "dc:extent": 197,
+            "dc:extent": 245,
             "tableSchema": {
                 "columns": [
                     {

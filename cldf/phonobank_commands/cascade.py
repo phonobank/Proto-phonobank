@@ -1,17 +1,16 @@
 """
-Write the DiaSim cascade file for one source from the CLDF data.
+Write the DiaSim cascade file for one chain from the CLDF data.
 
-    cldfbench phonobank.cascade pardess1990 -o pardess1990.txt
+    cldfbench phonobank.cascade pardess1990-daco-romanian -o pardess1990.txt
+    cldfbench phonobank.cascade pardess1990     # a cite key, if it has one chain
 
 The output contains, in order:
-    - the '$ DiaSim cascade: A > B > C' line, rebuilt from the stage names
+    - the origin, as a '$|' line
     - each rule's header comment ($ <id> <name> $$PG: <page>), once per source rule
     - the rule lines, in the source's own order (Source_Order)
-    - a stage marker between consecutive cascades ('~' gold, '=' black)
+    - each intermediate stage in the form it was written ('$|', '=' or '~')
     - comment-only rules as header comments marked [COMMENT-ONLY]
-
-Only the rule lines and stage markers matter to DiaSim; the comments are there
-so the file can be checked against the source by eye.
+    - the output, as a '$|' line
 """
 
 import pathlib
@@ -19,12 +18,15 @@ import pathlib
 from pycldf.sources import Sources
 
 from cldfbench_phonobank import Dataset
+from phonobank_cfr import STAGE_FLAG
+from phonobank_cfr import marker_for
+from phonobank_cfr import stage_line
 
 
 def register(parser):
     parser.add_argument(
-        "source",
-        help="cite key of the source whose cascade to write, e.g. pardess1990",
+        "chain",
+        help="chain ID (e.g. pardess1990-daco-romanian), or a cite key with one chain",
     )
     parser.add_argument(
         "-o",
@@ -36,7 +38,7 @@ def register(parser):
 
 def run(args):
     cldf = Dataset().cldf_reader()
-    text = emit(cldf, args.source)
+    text = emit(cldf, args.chain)
     if args.out:
         pathlib.Path(args.out).write_text(text, encoding="utf-8")
         args.log.info("wrote {}".format(args.out))
@@ -58,23 +60,21 @@ def page_of(row, source_key):
     return None
 
 
-def chain_for(cascades):
-    """Order one source's cascades by following each target to the next source.
-
-    Returns the cascades as a list running from the first input to the output.
-    """
-    targets = {cascade["Target_Language_ID"] for cascade in cascades}
-    starts = [cascade for cascade in cascades if cascade["Source_Language_ID"] not in targets]
-    if len(starts) != 1:
-        raise ValueError("expected one starting cascade, found {}".format(len(starts)))
-
-    by_source_language = {cascade["Source_Language_ID"]: cascade for cascade in cascades}
-    ordered = [starts[0]]
-    while ordered[-1]["Target_Language_ID"] in by_source_language:
-        ordered.append(by_source_language[ordered[-1]["Target_Language_ID"]])
-    if len(ordered) != len(cascades):
-        raise ValueError("cascades do not form a single chain")
-    return ordered
+def resolve_chain(cldf, spec):
+    """Return the chains.csv row for a chain ID, or for a cite key with one chain."""
+    chains = list(cldf.iter_rows("chains.csv"))
+    for chain in chains:
+        if chain["ID"] == spec:
+            return chain
+    matches = [chain for chain in chains if spec in source_keys(chain)]
+    if len(matches) == 1:
+        return matches[0]
+    if matches:
+        raise ValueError("{} has several chains; give one of: {}".format(
+            spec,
+            ", ".join(chain["ID"] for chain in matches),
+        ))
+    raise ValueError("no chain or source {!r}".format(spec))
 
 
 def header_line(rule, page):
@@ -95,44 +95,39 @@ def rule_line(rule):
     return text
 
 
-def emit(cldf, source_key):
-    """Return the DiaSim cascade text for source_key from the pycldf dataset cldf."""
-    cascades = [
-        row for row in cldf.iter_rows("cascades.csv")
-        if source_key in source_keys(row)
-    ]
-    if not cascades:
-        raise ValueError("no cascades for source {!r}".format(source_key))
-    cascades = chain_for(cascades)
+def emit(cldf, spec):
+    """Return the DiaSim cascade text for a chain (see resolve_chain)."""
+    chain = resolve_chain(cldf, spec)
+    source_key = source_keys(chain)[0]
 
+    cascades = sorted(
+        (row for row in cldf.iter_rows("cascades.csv") if row["Chain_ID"] == chain["ID"]),
+        key=lambda row: row["Chain_Position"],
+    )
+    index_of_cascade = {cascade["ID"]: i for i, cascade in enumerate(cascades)}
+    cascade_of_rule = {
+        row["Rule_ID"]: index_of_cascade[row["Cascade_ID"]]
+        for row in cldf.iter_rows("cascade_rules.csv")
+        if row["Cascade_ID"] in index_of_cascade
+    }
     rules = sorted(
-        (row for row in cldf.iter_rows("rules.csv") if source_key in source_keys(row)),
+        (row for row in cldf.iter_rows("rules.csv") if row["Chain_ID"] == chain["ID"]),
         key=lambda row: row["Source_Order"],
     )
 
-    # Which cascade each executable rule fires in.
-    cascade_ids = {cascade["ID"] for cascade in cascades}
-    cascade_of_rule = {
-        row["Rule_ID"]: row["Cascade_ID"]
-        for row in cldf.iter_rows("cascade_rules.csv")
-        if row["Cascade_ID"] in cascade_ids
-    }
-    cascade_by_id = {cascade["ID"]: cascade for cascade in cascades}
+    def boundary(i):
+        # The stage after cascade i, as it was written.
+        return ["", stage_line(marker_for(cascades[i]["Target_Gold"]), cascades[i]["Target_Stage"])]
 
-    stage_names = [cascades[0]["Source_Stage"]] + [c["Target_Stage"] for c in cascades]
-    lines = ["$ DiaSim cascade: {}".format(" > ".join(stage_names))]
-
-    current = None   # ID of the cascade whose rules are being written
+    lines = [stage_line(STAGE_FLAG, cascades[0]["Source_Stage"])]
+    current = 0   # index of the cascade whose rules are being written
     for rule in rules:
-        cascade_id = cascade_of_rule.get(rule["ID"])
-        if cascade_id is not None and cascade_id != current:
-            if current is not None:
-                # Close the previous cascade with its target's stage marker.
-                finished = cascade_by_id[current]
-                flag = "~" if finished["Target_Gold"] else "="
-                lines.append("")
-                lines.append("{}{}".format(flag, finished["Target_Stage"]))
-            current = cascade_id
+        index = cascade_of_rule.get(rule["ID"])
+        if index is not None:
+            # Close every cascade up to this rule's one (some may have no rules).
+            while current < index:
+                lines += boundary(current)
+                current += 1
 
         # A header starts each source rule: a comment-only rule, or the first
         # line (Sub_Index 1) of a rule that has one or more rule lines.
@@ -143,4 +138,9 @@ def emit(cldf, source_key):
         if not rule["Comment_Only"]:
             lines.append(rule_line(rule))
 
+    while current < len(cascades) - 1:
+        lines += boundary(current)
+        current += 1
+    lines.append("")
+    lines.append(stage_line(STAGE_FLAG, cascades[-1]["Target_Stage"]))
     return "\n".join(lines) + "\n"

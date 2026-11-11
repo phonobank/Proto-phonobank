@@ -1,6 +1,12 @@
-ID,Source_Language_ID,Target_Language_ID,Source_Stage,Target_Stage,Target_Gold,Source
-maiden1995-latin-proto-romance,latin,proto-romance,Classical Latin,Proto-Romance,false,maiden1995
-maiden1995-proto-romance-italian,proto-romance,italian,Proto-Romance,"(standard, Florentine-based) Italian",,maiden1995
-pardess1990-latin-balkan-romance,latin,balkan-romance,Latin,Balkan Romance,false,pardess1990
-pardess1990-balkan-romance-common-romanian,balkan-romance,common-romanian,Balkan Romance,Common Romanian,false,pardess1990
-pardess1990-common-romanian-daco-romanian,common-romanian,daco-romanian,Common Romanian,Daco-Romanian,,pardess1990
+ID,Chain_ID,Chain_Position,Source_Language_ID,Target_Language_ID,Source_Stage,Target_Stage,Target_Gold,Source
+maiden1995-italian-1,maiden1995-italian,1,latin,proto-romance,Classical Latin,Proto-Romance,false,maiden1995
+maiden1995-italian-2,maiden1995-italian,2,proto-romance,italian,Proto-Romance,"(standard, Florentine-based) Italian",,maiden1995
+pardess1990-daco-romanian-1,pardess1990-daco-romanian,1,latin,balkan-romance,Latin,Balkan Romance,false,pardess1990
+pardess1990-daco-romanian-2,pardess1990-daco-romanian,2,balkan-romance,common-romanian,Balkan Romance,Common Romanian,false,pardess1990
+pardess1990-daco-romanian-3,pardess1990-daco-romanian,3,common-romanian,daco-romanian,Common Romanian,Daco-Romanian,,pardess1990
+quechua_cm-quechua-amazonas-1,quechua_cm-quechua-amazonas,1,proto-quechuan,quechua-amazonas,Proto-Quechuan,Amazonas,,quechua_cm
+quechua_cm-quechua-ancash-1,quechua_cm-quechua-ancash,1,proto-quechuan,quechua-ancash,Proto-Quechuan,Ancash,,quechua_cm
+quechua_cm-quechua-ayacucho-1,quechua_cm-quechua-ayacucho,1,proto-quechuan,quechua-ayacucho,Proto-Quechuan,Ayacucho,,quechua_cm
+quechua_cm-quechua-cuzco-1,quechua_cm-quechua-cuzco,1,proto-quechuan,quechua-cuzco,Proto-Quechuan,Cuzco,,quechua_cm
+quechua_cm-quechua-ecuador-1,quechua_cm-quechua-ecuador,1,proto-quechuan,quechua-ecuador,Proto-Quechuan,Ecuador,,quechua_cm
+quechua_cm-quechua-junin-1,quechua_cm-quechua-junin,1,proto-quechuan,quechua-junin,Proto-Quechuan,Junin,,quechua_cm
