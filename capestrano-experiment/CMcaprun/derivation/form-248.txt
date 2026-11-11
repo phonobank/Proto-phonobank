@@ -1,12 +1,16 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 248:
-#ˌadmˈitte# >>> *#amːˈetːə# ( GOLD : #amːˈetːə#) :
-ˌa d m ˈi t t e 
-Proto-Romance stage form : *#ˌadmˈitte#
-*#ˌadmˈɪttɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌamːˈɪttɛ# | 18 : d [+lab,+cons] > ∅ [+long]
-*#ˌamːˈette# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌamːˈetːe# | 66 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#ˌamːˈetːe#
-*#ˌamːˈetːə# | 96 : [-stres,-lo] > ə 
-*#amːˈetːə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#amːˈetːə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 248:
+#ˌadmˌiːrˈaːtum# >>> *#amːiɾˈatə# ( GOLD : #amːiɾˈatə#) :
+ˌa d m ˌiː r ˈaː t u m 
+Proto-Romance stage form : *#ˌadmˌiːrˈaːtum#
+*#ˌadmˌiːrˈaːtʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌamːˌiːrˈaːtʊm# | 19 : d [+lab,+cons] > ∅ [+long]
+*#ˌamːˌirˈatʊm# | 28 : [+syl] > [-long,-splng] 
+*#ˌamːˌirˈatʊ# | 35 : [+cons] > ∅ / __ #
+*#ˌamːˌirˈatu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌamːˌirˈatu#
+*#ˌamːirˈatu# | 96 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌamːˌirˈatu# | 97 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌamːˌirˈatə# | 98 : [-stres,-lo] > ə 
+*#ˌamːˌiɾˈatə# | 109 : r > ɾ 
+*#amːiɾˈatə# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#amːiɾˈatə#

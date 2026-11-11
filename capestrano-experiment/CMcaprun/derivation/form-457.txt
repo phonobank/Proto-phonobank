@@ -1,13 +1,16 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 457:
-#wˈekula# >>> *#vˈækːja# ( GOLD : #vˈækːja#) :
-w ˈe k u l a 
-Proto-Romance stage form : *#wˈekula#
-*#wˈɛkʊla# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈɛkla# | 26 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
-*#vˈɛkla# | 49 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈækla# | 62 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#vˈækʎa# | 67 : l > ʎ / [-son,-cor] __
-*#vˈækːʎa# | 69 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
-Proto-South-Italo-Romance stage form : *#vˈækːʎa#
-*#vˈækːja# | 110 : {ʎ;ʎː} > {j;jː} 
-Final form : *#vˈækːja#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 457:
+#wˈekulum# >>> *#vˈekːjə# ( GOLD : #vˈekːjə#) :
+w ˈe k u l u m 
+Proto-Romance stage form : *#wˈekulum#
+*#wˈɛkʊlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈɛklʊm# | 27 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
+*#wˈɛklʊ# | 35 : [+cons] > ∅ / __ #
+*#vˈɛklʊ# | 51 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈɛklu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vˈeklu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#vˈekʎu# | 69 : l > ʎ / [-son,-cor] __
+*#vˈekːʎu# | 71 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+Proto-South-Italo-Romance stage form : *#vˈekːʎu#
+*#vˈekːʎə# | 98 : [-stres,-lo] > ə 
+*#vˈekːjə# | 112 : {ʎ;ʎː} > {j;jː} 
+Final form : *#vˈekːjə#

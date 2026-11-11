@@ -1,18 +1,17 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 616:
-#fˌalkiˈaːre# >>> *#favət͡ʃjˈaɾə# ( GOLD : #favəd͡ʒˈa#) :
-f ˌa l k i ˈaː r e 
-*#fˌalkjˈaːre# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#fˌalkjˈaːre#
-*#fˌalkjˈaːrɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˌalˠkjˈaːrɛ# | 17 : l > lˠ / __ k [-cons]
-*#fˌalˠt͡ʃjˈaːrɛ# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#fˌalˠt͡ʃjˈarɛ# | 27 : [+syl] > [-long,-splng] 
-*#fˌalˠət͡ʃjˈarɛ# | 42 : ∅ > ə / lˠ __
-*#fˌawət͡ʃjˈarɛ# | 43 : lˠ > w / __ ( ə ) t͡ʃ
-*#fˌavət͡ʃjˈarɛ# | 49 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#fˌavət͡ʃjˈare# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˌavət͡ʃjˈare#
-*#fˌavət͡ʃjˈarə# | 96 : [-stres,-lo] > ə 
-*#fˌavət͡ʃjˈaɾə# | 107 : r > ɾ 
-*#favət͡ʃjˈaɾə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#favət͡ʃjˈaɾə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 616:
+#fˈalkem# >>> *#fˈot͡ʃə# ( GOLD : #fˈawt͡ʃə#) :
+f ˈa l k e m 
+Proto-Romance stage form : *#fˈalkem#
+*#fˈalkɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈalˠkɛm# | 18 : l > lˠ / __ k [-cons]
+*#fˈalˠt͡ʃɛm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#fˈalˠt͡ʃɛ# | 35 : [+cons] > ∅ / __ #
+*#fˈalˠət͡ʃɛ# | 43 : ∅ > ə / lˠ __
+*#fˈalˠt͡ʃɛ# | 44 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
+*#fˈawt͡ʃɛ# | 45 : lˠ > w / __ ( ə ) t͡ʃ
+*#fˈawt͡ʃe# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˈowt͡ʃe# | 67 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+Proto-South-Italo-Romance stage form : *#fˈowt͡ʃe#
+*#fˈot͡ʃe# | 87 : w > ∅ / [+round] __ [+cons]
+*#fˈot͡ʃə# | 98 : [-stres,-lo] > ə 
+Final form : *#fˈot͡ʃə#

@@ -1,10 +1,13 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 665:
-#mˌonˈeːta# >>> *#mənˈeta# ( GOLD : #monˈeta#) :
-m ˌo n ˈeː t a 
-Proto-Romance stage form : *#mˌonˈeːta#
-*#mˌɔnˈeːta# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɔnˈeta# | 27 : [+syl] > [-long,-splng] 
-*#mˌonˈeta# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌonˈeta#
-*#mənˈeta# | 109 : [-prim,-hi,-lo] > ə 
-Final form : *#mənˈeta#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 665:
+#mˌolˈiːnum# >>> *#mulˈinə# ( GOLD : #mujːˈin#) :
+m ˌo l ˈiː n u m 
+Proto-Romance stage form : *#mˌolˈiːnum#
+*#mˌɔlˈiːnʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɔlˈinʊm# | 28 : [+syl] > [-long,-splng] 
+*#mˌɔlˈinʊ# | 35 : [+cons] > ∅ / __ #
+*#mˌolˈinu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌolˈinu#
+*#mˌulˈinu# | 95 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#mˌulˈinə# | 98 : [-stres,-lo] > ə 
+*#mulˈinə# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#mulˈinə#

@@ -1,14 +1,15 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 484:
-#ˌokkˈiːde# >>> *#t͡ʃːˈidə# ( GOLD : #at͡ʃːˈidə#) :
-ˌo k k ˈiː d e 
-Proto-Romance stage form : *#ˌokkˈiːde#
-*#ˌɔkkˈiːdɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɔt͡ʃːˈiːdɛ# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#ˌɔt͡ʃːˈidɛ# | 27 : [+syl] > [-long,-splng] 
-*#ˌot͡ʃːˈidɛ# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌot͡ʃːˈide# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌot͡ʃːˈide#
-*#ˌut͡ʃːˈide# | 93 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#ˌut͡ʃːˈidə# | 96 : [-stres,-lo] > ə 
-*#t͡ʃːˈidə# | 97 : [-prim,-lo] > ∅ / # __
-Final form : *#t͡ʃːˈidə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 484:
+#ˈokulum# >>> *#ˈokːjə# ( GOLD : #ˈɔkːjə#) :
+ˈo k u l u m 
+Proto-Romance stage form : *#ˈokulum#
+*#ˈɔkʊlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔklʊm# | 27 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
+*#ˈɔklʊ# | 35 : [+cons] > ∅ / __ #
+*#ˈɔklu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈoklu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈokʎu# | 69 : l > ʎ / [-son,-cor] __
+*#ˈokːʎu# | 71 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+Proto-South-Italo-Romance stage form : *#ˈokːʎu#
+*#ˈokːʎə# | 98 : [-stres,-lo] > ə 
+*#ˈokːjə# | 112 : {ʎ;ʎː} > {j;jː} 
+Final form : *#ˈokːjə#

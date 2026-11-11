@@ -1,10 +1,13 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 495:
-#plˈaːɡam# >>> *#pjˈaɡa# ( GOLD : #pjˈaɡa#) :
-p l ˈaː ɡ a m 
-Proto-Romance stage form : *#plˈaːɡam#
-*#plˈaɡam# | 27 : [+syl] > [-long,-splng] 
-*#plˈaɡa# | 34 : [+cons] > ∅ / __ #
-*#pʎˈaɡa# | 67 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#pʎˈaɡa#
-*#pjˈaɡa# | 110 : {ʎ;ʎː} > {j;jː} 
-Final form : *#pjˈaɡa#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 495:
+#plˈue# >>> *#pjˈovə# ( GOLD : #pjˈovə#) :
+p l ˈu e 
+*#plˈuwe# | 8 : ∅ > w / [+voi,-syl] [+syl,+round] __ [+syl,-round]
+Proto-Romance stage form : *#plˈuwe#
+*#plˈʊwɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#plˈʊvɛ# | 51 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#plˈove# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pʎˈove# | 69 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#pʎˈove#
+*#pʎˈovə# | 98 : [-stres,-lo] > ə 
+*#pjˈovə# | 112 : {ʎ;ʎː} > {j;jː} 
+Final form : *#pjˈovə#

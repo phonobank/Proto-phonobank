@@ -1,9 +1,15 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 440:
-#kwˈandoː# >>> *#kwˈanːə# ( GOLD : #kwˈandə#) :
-k w ˈa n d oː 
-Proto-Romance stage form : *#kwˈandoː#
-*#kwˈando# | 27 : [+syl] > [-long,-splng] 
-*#kwˈanːo# | 60 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#kwˈanːo#
-*#kwˈanːə# | 96 : [-stres,-lo] > ə 
-Final form : *#kwˈanːə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 440:
+#kwˌae̯stˈoːrem# >>> *#kwəstˈoɾə# ( GOLD : #kwəstˈoɾə#) :
+k w ˌa e̯ s t ˈoː r e m 
+*#kwˌɛːstˈoːrem# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
+Proto-Romance stage form : *#kwˌɛːstˈoːrem#
+*#kwˌɛːstˈoːrɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kwˌɛstˈorɛm# | 28 : [+syl] > [-long,-splng] 
+*#kwˌɛstˈorɛ# | 35 : [+cons] > ∅ / __ #
+*#kwˌestˈorɛ# | 57 : [+stres,-prim,+front,-tense] > ˌe 
+*#kwˌestˈore# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kwˌestˈore#
+*#kwˌestˈorə# | 98 : [-stres,-lo] > ə 
+*#kwˌestˈoɾə# | 109 : r > ɾ 
+*#kwəstˈoɾə# | 111 : [-prim,-hi,-lo] > ə 
+Final form : *#kwəstˈoɾə#

@@ -1,14 +1,13 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 577:
-#bˈoweːs# >>> *#ɡˈovə# ( GOLD : #bːˈovə#) :
-b ˈo w eː s 
-Proto-Romance stage form : *#bˈoweːs#
-*#bˈɔweːs# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˈɔwes# | 27 : [+syl] > [-long,-splng] 
-*#bˈɔwe# | 34 : [+cons] > ∅ / __ #
-*#bˈɔve# | 49 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#bˈove# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 577:
+#bˈowem# >>> *#ɡˈovə# ( GOLD : #vˈovə#) :
+b ˈo w e m 
+Proto-Romance stage form : *#bˈowem#
+*#bˈɔwɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˈɔwɛ# | 35 : [+cons] > ∅ / __ #
+*#bˈɔvɛ# | 51 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#bˈove# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#bˈove#
-*#bˈovə# | 96 : [-stres,-lo] > ə 
-*#vˈovə# | 104 : b > v / # __ [+prim,+round] [+cons] [+syl]
-*#ɡˈovə# | 112 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+*#bˈovə# | 98 : [-stres,-lo] > ə 
+*#vˈovə# | 106 : b > v / # __ [+prim,+round] [+cons] [+syl]
+*#ɡˈovə# | 114 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
 Final form : *#ɡˈovə#

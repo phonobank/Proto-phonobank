@@ -1,13 +1,13 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 139:
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 139:
 #innˈowam# >>> *#nːˈova# ( GOLD : #ɲˈova#) :
 i n n ˈo w a m 
 Proto-Romance stage form : *#innˈowam#
-*#ɪnnˈɔwam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɪnnˈɔwa# | 34 : [+cons] > ∅ / __ #
-*#ɪnnˈɔva# | 49 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#ɪnːˈɔva# | 60 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#enːˈova# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ɪnnˈɔwam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɪnnˈɔwa# | 35 : [+cons] > ∅ / __ #
+*#ɪnnˈɔva# | 51 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#ɪnːˈɔva# | 62 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#enːˈova# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#enːˈova#
-*#ənːˈova# | 96 : [-stres,-lo] > ə 
-*#nːˈova# | 97 : [-prim,-lo] > ∅ / # __
+*#ənːˈova# | 98 : [-stres,-lo] > ə 
+*#nːˈova# | 99 : [-prim,-lo] > ∅ / # __
 Final form : *#nːˈova#

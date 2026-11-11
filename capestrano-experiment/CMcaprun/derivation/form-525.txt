@@ -1,11 +1,7 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 525:
-#pˈatrem# >>> *#pˈatɾə# ( GOLD : #pˈatɾə#) :
-p ˈa t r e m 
-Proto-Romance stage form : *#pˈatrem#
-*#pˈatrɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈatrɛ# | 34 : [+cons] > ∅ / __ #
-*#pˈatre# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˈatre#
-*#pˈatrə# | 96 : [-stres,-lo] > ə 
-*#pˈatɾə# | 107 : r > ɾ 
-Final form : *#pˈatɾə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 525:
+#padˈuːla# >>> *#padˈula# ( GOLD : #padˈuɾa#) :
+p a d ˈuː l a 
+Proto-Romance stage form : *#padˈuːla#
+*#padˈula# | 28 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#padˈula#
+Final form : *#padˈula#

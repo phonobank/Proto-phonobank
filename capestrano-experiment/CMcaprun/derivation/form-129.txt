@@ -1,13 +1,13 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 129:
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 129:
 #nepˈoːtetuum# >>> *#nəpˈotətwə# ( GOLD : #nəpˈotətə#) :
 n e p ˈoː t e t u u m 
-*#nepˈoːtetwum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#nepˈoːtetwum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#nepˈoːtetwum#
-*#nɛpˈoːtɛtwʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#nɛpˈotɛtwʊm# | 27 : [+syl] > [-long,-splng] 
-*#nɛpˈotɛtwʊ# | 34 : [+cons] > ∅ / __ #
-*#nɛpˈotɛtwu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#nepˈotetwu# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#nɛpˈoːtɛtwʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#nɛpˈotɛtwʊm# | 28 : [+syl] > [-long,-splng] 
+*#nɛpˈotɛtwʊ# | 35 : [+cons] > ∅ / __ #
+*#nɛpˈotɛtwu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#nepˈotetwu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#nepˈotetwu#
-*#nəpˈotətwə# | 96 : [-stres,-lo] > ə 
+*#nəpˈotətwə# | 98 : [-stres,-lo] > ə 
 Final form : *#nəpˈotətwə#

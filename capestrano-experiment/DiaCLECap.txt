@@ -23,12 +23,15 @@ pʰ > f
 $ shared with French and Albano-Romance it seems éolu > eólu etc.
 [+prim,+front] o > [-stres] ˈo / __ l [-stres] 
 
+$ MANUAL FIX 17: -w-  insertion in Cvoi Vround V-round. Evidence in Romanian possibly for àstru(w)icˈāre, perhaps bo(w)ārium,  du(w)ae , -- and pecu(w)īnam, tho it doesn't fit the voicedness of the prior context posited here.
+∅ > w / [+voi,-syl] [+syl,+round] __ [+syl,-round]
+
 $ LXVb gliding of i and u in hiatus 
-	$ FIX, MANUAL -- gliding of ea eo eu and oa too 
+	$ FIX, MANUAL -- gliding of ea eo eu and oa too. Also, any length is lost, but countertonics do not glide if they are long. 
 [-stres,-lo] > [+hi] / __ [+lo]
-[-prim,-lo] > [+hi] / __ [+lo,+stres]
+[-prim,-lo,-long] > [+hi] / __ [+lo,+stres]
 e > j / __ [+back]
-[+hi,-prim] > [-syl] / __ [+syl]
+[+hi,-prim] > [-syl,-long] / __ [+syl]
 
 = Proto-Romance
 

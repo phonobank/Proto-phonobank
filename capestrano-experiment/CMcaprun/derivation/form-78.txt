@@ -1,9 +1,9 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 78:
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 78:
 #sˈalwiam# >>> *#sˈalvja# ( GOLD : #sˈalvja#) :
 s ˈa l w i a m 
-*#sˈalwjam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#sˈalwjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#sˈalwjam#
-*#sˈalwja# | 34 : [+cons] > ∅ / __ #
-*#sˈalvja# | 49 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#sˈalwja# | 35 : [+cons] > ∅ / __ #
+*#sˈalvja# | 51 : w > v / # ( ( @ )* [+son] ) __ [-cons]
 Proto-South-Italo-Romance stage form : *#sˈalvja#
 Final form : *#sˈalvja#

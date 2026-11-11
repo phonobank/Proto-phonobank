@@ -1,15 +1,11 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 351:
-#kˌalkulˈaː# >>> *#kaləkwəlˈa# ( GOLD : #kaɾkulˈa#) :
-k ˌa l k u l ˈaː 
-Proto-Romance stage form : *#kˌalkulˈaː#
-*#kˌalkʊlˈaː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌalˠkʊlˈaː# | 17 : l > lˠ / __ k [-cons]
-*#kˌalˠkʊlˈa# | 27 : [+syl] > [-long,-splng] 
-*#kˌalˠəkʊlˈa# | 42 : ∅ > ə / lˠ __
-*#kˌaləkʊlˈa# | 44 : lˠ > l 
-*#kˌaləkwʊlˈa# | 48 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#kˌaləkwulˈa# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌaləkwulˈa#
-*#kˌaləkwəlˈa# | 96 : [-stres,-lo] > ə 
-*#kaləkwəlˈa# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kaləkwəlˈa#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 351:
+#kˈardum# >>> *#kˈaɾdə# ( GOLD : #kˈaɾdə#) :
+k ˈa r d u m 
+Proto-Romance stage form : *#kˈardum#
+*#kˈardʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈardʊ# | 35 : [+cons] > ∅ / __ #
+*#kˈardu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈardu#
+*#kˈardə# | 98 : [-stres,-lo] > ə 
+*#kˈaɾdə# | 109 : r > ɾ 
+Final form : *#kˈaɾdə#

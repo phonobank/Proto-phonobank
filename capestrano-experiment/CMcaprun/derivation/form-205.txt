@@ -1,14 +1,14 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 205:
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 205:
 #jˈuːnium# >>> *#jˈuɲə# ( GOLD : #d͡ʒˈuɲə#) :
 j ˈuː n i u m 
-*#jˈuːnjum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#jˈuːnjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#jˈuːnjum#
-*#jˈuːnjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˈunjʊm# | 27 : [+syl] > [-long,-splng] 
-*#jˈuɲːʊm# | 30 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#jˈuɲːʊ# | 34 : [+cons] > ∅ / __ #
-*#jˈuɲːu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈuːnjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˈunjʊm# | 28 : [+syl] > [-long,-splng] 
+*#jˈuɲːʊm# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#jˈuɲːʊ# | 35 : [+cons] > ∅ / __ #
+*#jˈuɲːu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#jˈuɲːu#
-*#jˈuɲːə# | 96 : [-stres,-lo] > ə 
-*#jˈuɲə# | 111 : ɲː > ɲ 
+*#jˈuɲːə# | 98 : [-stres,-lo] > ə 
+*#jˈuɲə# | 113 : ɲː > ɲ 
 Final form : *#jˈuɲə#

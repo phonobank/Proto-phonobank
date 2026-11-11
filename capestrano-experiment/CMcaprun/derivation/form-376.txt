@@ -1,11 +1,10 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 376:
-#kˌafˈonem# >>> *#kafˈonə# ( GOLD : #kafˈonə#) :
-k ˌa f ˈo n e m 
-Proto-Romance stage form : *#kˌafˈonem#
-*#kˌafˈɔnɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌafˈɔnɛ# | 34 : [+cons] > ∅ / __ #
-*#kˌafˈone# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌafˈone#
-*#kˌafˈonə# | 96 : [-stres,-lo] > ə 
-*#kafˈonə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kafˈonə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 376:
+#kˈameram# >>> *#kˈamɾa# ( GOLD : #kˈambɾa#) :
+k ˈa m e r a m 
+Proto-Romance stage form : *#kˈameram#
+*#kˈamɛram# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈamɛra# | 35 : [+cons] > ∅ / __ #
+*#kˈamra# | 40 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
+Proto-South-Italo-Romance stage form : *#kˈamra#
+*#kˈamɾa# | 109 : r > ɾ 
+Final form : *#kˈamɾa#

@@ -1,10 +1,12 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 406:
-#kˈurtam# >>> *#kˈoɾta# ( GOLD : #kˈoɾta#) :
-k ˈu r t a m 
-Proto-Romance stage form : *#kˈurtam#
-*#kˈʊrtam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈʊrta# | 34 : [+cons] > ∅ / __ #
-*#kˈorta# | 59 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-Proto-South-Italo-Romance stage form : *#kˈorta#
-*#kˈoɾta# | 107 : r > ɾ 
-Final form : *#kˈoɾta#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 406:
+#kˈurtum# >>> *#kˈoɾtə# ( GOLD : #kˈuɾtə#) :
+k ˈu r t u m 
+Proto-Romance stage form : *#kˈurtum#
+*#kˈʊrtʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈʊrtʊ# | 35 : [+cons] > ∅ / __ #
+*#kˈʊrtu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˈortu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈortu#
+*#kˈortə# | 98 : [-stres,-lo] > ə 
+*#kˈoɾtə# | 109 : r > ɾ 
+Final form : *#kˈoɾtə#

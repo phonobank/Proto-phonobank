@@ -1,9 +1,13 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 364:
-#kˈawdam# >>> *#kˈoda# ( GOLD : #kˈoda#) :
-k ˈa w d a m 
-Proto-Romance stage form : *#kˈawdam#
-*#kˈawda# | 34 : [+cons] > ∅ / __ #
-*#kˈowda# | 65 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#kˈowda#
-*#kˈoda# | 85 : w > ∅ / [+round] __ [+cons]
-Final form : *#kˈoda#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 364:
+#kˌawˈeolam# >>> *#kavjˈola# ( GOLD : #kajˈola#) :
+k ˌa w ˈe o l a m 
+*#kˌaweˈolam# | 7 : [+prim,+front] o > [-stres,-prim,+syl,+son] ˈo/ __ l [-stres]
+*#kˌawjˈolam# | 11 : e > j / __ [+back]
+Proto-Romance stage form : *#kˌawjˈolam#
+*#kˌawjˈɔlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌawjˈɔla# | 35 : [+cons] > ∅ / __ #
+*#kˌavjˈɔla# | 51 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#kˌavjˈola# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌavjˈola#
+*#kavjˈola# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kavjˈola#

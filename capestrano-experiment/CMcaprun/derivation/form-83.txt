@@ -1,11 +1,11 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 83:
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 83:
 #sˈapioː# >>> *#sˈat͡ʃːə# ( GOLD : #sˈat͡ʃːə#) :
 s ˈa p i oː 
-*#sˈapjoː# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#sˈapjoː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#sˈapjoː#
-*#sˈapjo# | 27 : [+syl] > [-long,-splng] 
-*#sˈapːjo# | 69 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
-*#sˈat͡ʃːo# | 77 : [+lab,-cont,-voi] j > t͡ʃː
+*#sˈapjo# | 28 : [+syl] > [-long,-splng] 
+*#sˈapːjo# | 71 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+*#sˈat͡ʃːo# | 79 : [+lab,-cont,-voi] j > t͡ʃː
 Proto-South-Italo-Romance stage form : *#sˈat͡ʃːo#
-*#sˈat͡ʃːə# | 96 : [-stres,-lo] > ə 
+*#sˈat͡ʃːə# | 98 : [-stres,-lo] > ə 
 Final form : *#sˈat͡ʃːə#

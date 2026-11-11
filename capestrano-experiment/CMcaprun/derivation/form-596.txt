@@ -1,15 +1,12 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 596:
-#frˌuːmˈentum# >>> *#fɾumˈendə# ( GOLD : #fɾumˈendə#) :
-f r ˌuː m ˈe n t u m 
-Proto-Romance stage form : *#frˌuːmˈentum#
-*#frˌuːmˈɛntʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#frˌumˈɛntʊm# | 27 : [+syl] > [-long,-splng] 
-*#frˌumˈɛntʊ# | 34 : [+cons] > ∅ / __ #
-*#frˌumˈɛntu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#frˌumˈentu# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#frˌumˈentu#
-*#frˌumˈentə# | 96 : [-stres,-lo] > ə 
-*#frˌumˈendə# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#fɾˌumˈendə# | 107 : r > ɾ 
-*#fɾumˈendə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#fɾumˈendə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 596:
+#fˌiːnˈiːre# >>> *#finˈiɾə# ( GOLD : #fəɾnˈiɾə#) :
+f ˌiː n ˈiː r e 
+Proto-Romance stage form : *#fˌiːnˈiːre#
+*#fˌiːnˈiːrɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˌinˈirɛ# | 28 : [+syl] > [-long,-splng] 
+*#fˌinˈire# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#fˌinˈire#
+*#fˌinˈirə# | 98 : [-stres,-lo] > ə 
+*#fˌinˈiɾə# | 109 : r > ɾ 
+*#finˈiɾə# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#finˈiɾə#

@@ -1,10 +1,11 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 490:
-#plˈeːnam# >>> *#pjˈena# ( GOLD : #pjˈena#) :
-p l ˈeː n a m 
-Proto-Romance stage form : *#plˈeːnam#
-*#plˈenam# | 27 : [+syl] > [-long,-splng] 
-*#plˈena# | 34 : [+cons] > ∅ / __ #
-*#pʎˈena# | 67 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#pʎˈena#
-*#pjˈena# | 110 : {ʎ;ʎː} > {j;jː} 
-Final form : *#pjˈena#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 490:
+#plˌatˈeːam# >>> *#pjatˈea# ( GOLD : #pjˈat͡sːa#) :
+p l ˌa t ˈeː a m 
+Proto-Romance stage form : *#plˌatˈeːam#
+*#plˌatˈeam# | 28 : [+syl] > [-long,-splng] 
+*#plˌatˈea# | 35 : [+cons] > ∅ / __ #
+*#pʎˌatˈea# | 69 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#pʎˌatˈea#
+*#pjˌatˈea# | 112 : {ʎ;ʎː} > {j;jː} 
+*#pjatˈea# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#pjatˈea#

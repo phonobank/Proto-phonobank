@@ -1,11 +1,16 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 254:
-#ˌanˈatria# >>> *#anˈatɾja# ( GOLD : #anˈitɾa#) :
-ˌa n ˈa t r i a 
-*#ˌanˈatrja# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#ˌanˈatrja#
-*#ˌanˈatrʲa# | 29 : r j > rʲ 
-Proto-South-Italo-Romance stage form : *#ˌanˈatrʲa#
-*#ˌanˈatrja# | 83 : rʲ > r j / [+cons] __
-*#ˌanˈatɾja# | 107 : r > ɾ 
-*#anˈatɾja# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#anˈatɾja#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 254:
+#ˈanɡelum# >>> *#ˈanːələ# ( GOLD : #ˈand͡ʒələ#) :
+ˈa n ɡ e l u m 
+*#ˈaŋɡelum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˈaŋɡelum#
+*#ˈaŋɡɛlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈaŋɡɡɛlʊm# | 16 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ˈand͡ʒːɛlʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#ˈand͡ʒːɛlʊ# | 35 : [+cons] > ∅ / __ #
+*#ˈand͡ʒɛlʊ# | 37 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˈand͡ʒɛlu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈanːɛlu# | 62 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˈanːelu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈanːelu#
+*#ˈanːələ# | 98 : [-stres,-lo] > ə 
+Final form : *#ˈanːələ#

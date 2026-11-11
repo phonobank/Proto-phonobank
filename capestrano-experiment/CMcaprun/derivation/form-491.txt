@@ -1,11 +1,11 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 491:
-#plˌatˈeːam# >>> *#pjatˈea# ( GOLD : #pjˈat͡sːa#) :
-p l ˌa t ˈeː a m 
-Proto-Romance stage form : *#plˌatˈeːam#
-*#plˌatˈeam# | 27 : [+syl] > [-long,-splng] 
-*#plˌatˈea# | 34 : [+cons] > ∅ / __ #
-*#pʎˌatˈea# | 67 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#pʎˌatˈea#
-*#pjˌatˈea# | 110 : {ʎ;ʎː} > {j;jː} 
-*#pjatˈea# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#pjatˈea#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 491:
+#plˌantˈaː# >>> *#pjandˈa# ( GOLD : #pjandˈa#) :
+p l ˌa n t ˈaː 
+Proto-Romance stage form : *#plˌantˈaː#
+*#plˌantˈa# | 28 : [+syl] > [-long,-splng] 
+*#pʎˌantˈa# | 69 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#pʎˌantˈa#
+*#pʎˌandˈa# | 101 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#pjˌandˈa# | 112 : {ʎ;ʎː} > {j;jː} 
+*#pjandˈa# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#pjandˈa#

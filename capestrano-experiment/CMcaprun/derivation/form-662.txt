@@ -1,11 +1,16 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 662:
-#mˈontem# >>> *#mˈondə# ( GOLD : #mˈondə#) :
-m ˈo n t e m 
-Proto-Romance stage form : *#mˈontem#
-*#mˈɔntɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɔntɛ# | 34 : [+cons] > ∅ / __ #
-*#mˈonte# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈonte#
-*#mˈontə# | 96 : [-stres,-lo] > ə 
-*#mˈondə# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#mˈondə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 662:
+#mˌontˈaːneam# >>> *#məndˈaɲa# ( GOLD : #məndˈaɲa#) :
+m ˌo n t ˈaː n e a m 
+*#mˌontˈaːniam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
+*#mˌontˈaːnjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#mˌontˈaːnjam#
+*#mˌɔntˈaːnjam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɔntˈanjam# | 28 : [+syl] > [-long,-splng] 
+*#mˌɔntˈaɲːam# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#mˌɔntˈaɲːa# | 35 : [+cons] > ∅ / __ #
+*#mˌontˈaɲːa# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌontˈaɲːa#
+*#mˌondˈaɲːa# | 101 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#məndˈaɲːa# | 111 : [-prim,-hi,-lo] > ə 
+*#məndˈaɲa# | 113 : ɲː > ɲ 
+Final form : *#məndˈaɲa#

@@ -1,9 +1,9 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 263:
-#ˈalbam# >>> *#ˈalba# ( GOLD : #ˈalba#) :
-ˈa l b a m 
-Proto-Romance stage form : *#ˈalbam#
-*#ˈalba# | 34 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#ˈalba#
-*#ˈalbˌa# | 95 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈalba# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈalba#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 263:
+#ˌarˈeːna# >>> *#aɾˈena# ( GOLD : #ɾˈena#) :
+ˌa r ˈeː n a 
+Proto-Romance stage form : *#ˌarˈeːna#
+*#ˌarˈena# | 28 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#ˌarˈena#
+*#ˌaɾˈena# | 109 : r > ɾ 
+*#aɾˈena# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#aɾˈena#

@@ -1,17 +1,19 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 302:
-#hˌirˈundinellam# >>> *#ɾˈonːnælːa# ( GOLD : #ɾˈenːəla#) :
-h ˌi r ˈu n d i n e l l a m 
-*#ˌirˈundinellam# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˌirˈundinellam#
-*#ˌɪrˈʊndɪnɛllam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪrˈʊndɪnɛlla# | 34 : [+cons] > ∅ / __ #
-*#ˌɪrˈʊndnɛlla# | 52 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson] ( [-syl] )* [+syl]
-*#ˌerˈʊndnɛlla# | 55 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌerˈʊnːnɛlla# | 60 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#ˌerˈʊnːnælla# | 62 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˌerˈonːnælla# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌerˈonːnælːa# | 66 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#ˌerˈonːnælːa#
-*#rˈonːnælːa# | 97 : [-prim,-lo] > ∅ / # __
-*#ɾˈonːnælːa# | 107 : r > ɾ 
-Final form : *#ɾˈonːnælːa#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 302:
+#ˌinhˌiːbˈernum# >>> *#mːˈeɾnə# ( GOLD : #imːˈeɾnə#) :
+ˌi n h ˌiː b ˈe r n u m 
+*#ˌinˌiːbˈernum# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˌinˌiːbˈernum#
+*#ˌɪnˌiːbˈɛrnʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪnˌibˈɛrnʊm# | 28 : [+syl] > [-long,-splng] 
+*#ˌɪnˌibˈɛrnʊ# | 35 : [+cons] > ∅ / __ #
+*#ˌɪnbˈɛrnʊ# | 54 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson] ( [-syl] )* [+syl]
+*#ˌenbˈɛrnʊ# | 57 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenbˈɛrnu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌenbˈernu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌenvˈernu# | 72 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#ˌenvˈernu#
+*#ˌemːˈernu# | 90 : n v > mː 
+*#ˌemːˈernə# | 98 : [-stres,-lo] > ə 
+*#mːˈernə# | 99 : [-prim,-lo] > ∅ / # __
+*#mːˈeɾnə# | 109 : r > ɾ 
+Final form : *#mːˈeɾnə#

@@ -1,13 +1,12 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 660:
-#mˌaːkʰinˈaː# >>> *#mat͡ʃənˈa# ( GOLD : #mat͡ʃinˈa#) :
-m ˌaː kʰ i n ˈaː 
-*#mˌaːkinˈaː# | 6 : [+cons] > [-sg] 
-Proto-Romance stage form : *#mˌaːkinˈaː#
-*#mˌaːkɪnˈaː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌaːt͡ʃɪnˈaː# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#mˌat͡ʃɪnˈa# | 27 : [+syl] > [-long,-splng] 
-*#mˌat͡ʃenˈa# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌat͡ʃenˈa#
-*#mˌat͡ʃənˈa# | 96 : [-stres,-lo] > ə 
-*#mat͡ʃənˈa# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#mat͡ʃənˈa#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 660:
+#mˈakulam# >>> *#mˈakːja# ( GOLD : #mˈakːja#) :
+m ˈa k u l a m 
+Proto-Romance stage form : *#mˈakulam#
+*#mˈakʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈaklam# | 27 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
+*#mˈakla# | 35 : [+cons] > ∅ / __ #
+*#mˈakʎa# | 69 : l > ʎ / [-son,-cor] __
+*#mˈakːʎa# | 71 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+Proto-South-Italo-Romance stage form : *#mˈakːʎa#
+*#mˈakːja# | 112 : {ʎ;ʎː} > {j;jː} 
+Final form : *#mˈakːja#

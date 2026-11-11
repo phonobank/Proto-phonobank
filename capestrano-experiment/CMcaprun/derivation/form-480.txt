@@ -1,16 +1,12 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 480:
-#ˌornˈellum# >>> *#ɾnˈejːə# ( GOLD : #uɾunːˈejːə#) :
-ˌo r n ˈe l l u m 
-Proto-Romance stage form : *#ˌornˈellum#
-*#ˌɔrnˈɛllʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɔrnˈɛllʊ# | 34 : [+cons] > ∅ / __ #
-*#ˌornˈɛllu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌornˈellu# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌornˈelːu# | 66 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#ˌornˈelːu#
-*#ˌornˈeʎːu# | 86 : lː > ʎː / __ [+hi]
-*#ˌornˈeʎːə# | 96 : [-stres,-lo] > ə 
-*#rnˈeʎːə# | 97 : [-prim,-lo] > ∅ / # __
-*#ɾnˈeʎːə# | 107 : r > ɾ 
-*#ɾnˈejːə# | 110 : {ʎ;ʎː} > {j;jː} 
-Final form : *#ɾnˈejːə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 480:
+#ˈorɡanum# >>> *#ˈoɾɡanə# ( GOLD : #ˈɔɾɡənə#) :
+ˈo r ɡ a n u m 
+Proto-Romance stage form : *#ˈorɡanum#
+*#ˈɔrɡanʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔrɡanʊ# | 35 : [+cons] > ∅ / __ #
+*#ˈɔrɡanu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈorɡanu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈorɡanu#
+*#ˈorɡanə# | 98 : [-stres,-lo] > ə 
+*#ˈoɾɡanə# | 109 : r > ɾ 
+Final form : *#ˈoɾɡanə#

@@ -1,16 +1,14 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 359:
-#kˌarbonˈaːrium# >>> *#kaɾbənˈaɾə# ( GOLD : #kaɾbonˈaɾə#) :
-k ˌa r b o n ˈaː r i u m 
-*#kˌarbonˈaːrjum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#kˌarbonˈaːrjum#
-*#kˌarbɔnˈaːrjʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌarbɔnˈarjʊm# | 27 : [+syl] > [-long,-splng] 
-*#kˌarbɔnˈarʲʊm# | 29 : r j > rʲ 
-*#kˌarbɔnˈarʲʊ# | 34 : [+cons] > ∅ / __ #
-*#kˌarbonˈarʲu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌarbonˈarʲu#
-*#kˌarbonˈaru# | 84 : rʲ > r 
-*#kˌarbənˈarə# | 96 : [-stres,-lo] > ə 
-*#kˌaɾbənˈaɾə# | 107 : r > ɾ 
-*#kaɾbənˈaɾə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kaɾbənˈaɾə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 359:
+#kˈae̯lum# >>> *#t͡ʃˈelə# ( GOLD : #t͡ʃˈelə#) :
+k ˈa e̯ l u m 
+*#kˈɛːlum# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
+Proto-Romance stage form : *#kˈɛːlum#
+*#kˈɛːlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˈɛːlʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˈɛlʊm# | 28 : [+syl] > [-long,-splng] 
+*#t͡ʃˈɛlʊ# | 35 : [+cons] > ∅ / __ #
+*#t͡ʃˈɛlu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˈelu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#t͡ʃˈelu#
+*#t͡ʃˈelə# | 98 : [-stres,-lo] > ə 
+Final form : *#t͡ʃˈelə#

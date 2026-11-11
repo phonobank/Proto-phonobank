@@ -1,15 +1,16 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 45:
-#dˈulkem# >>> *#dˈovət͡ʃə# ( GOLD : #dˈot͡ʃə#) :
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 45:
+#dˈulkem# >>> *#dˈot͡ʃə# ( GOLD : #dˈot͡ʃə#) :
 d ˈu l k e m 
 Proto-Romance stage form : *#dˈulkem#
-*#dˈʊlkɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈʊlˠkɛm# | 17 : l > lˠ / __ k [-cons]
-*#dˈʊlˠt͡ʃɛm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#dˈʊlˠt͡ʃɛ# | 34 : [+cons] > ∅ / __ #
-*#dˈʊlˠət͡ʃɛ# | 42 : ∅ > ə / lˠ __
-*#dˈʊwət͡ʃɛ# | 43 : lˠ > w / __ ( ə ) t͡ʃ
-*#dˈʊvət͡ʃɛ# | 49 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#dˈovət͡ʃe# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#dˈovət͡ʃe#
-*#dˈovət͡ʃə# | 96 : [-stres,-lo] > ə 
-Final form : *#dˈovət͡ʃə#
+*#dˈʊlkɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˈʊlˠkɛm# | 18 : l > lˠ / __ k [-cons]
+*#dˈʊlˠt͡ʃɛm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#dˈʊlˠt͡ʃɛ# | 35 : [+cons] > ∅ / __ #
+*#dˈʊlˠət͡ʃɛ# | 43 : ∅ > ə / lˠ __
+*#dˈʊlˠt͡ʃɛ# | 44 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
+*#dˈʊwt͡ʃɛ# | 45 : lˠ > w / __ ( ə ) t͡ʃ
+*#dˈowt͡ʃe# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#dˈowt͡ʃe#
+*#dˈot͡ʃe# | 87 : w > ∅ / [+round] __ [+cons]
+*#dˈot͡ʃə# | 98 : [-stres,-lo] > ə 
+Final form : *#dˈot͡ʃə#

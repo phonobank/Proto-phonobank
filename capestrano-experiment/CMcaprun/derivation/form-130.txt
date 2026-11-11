@@ -1,13 +1,13 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 130:
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 130:
 #nˈebulam# >>> *#nˈæbːja# ( GOLD : #nˈebːja#) :
 n ˈe b u l a m 
 Proto-Romance stage form : *#nˈebulam#
-*#nˈɛbʊlam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#nˈɛbʊla# | 34 : [+cons] > ∅ / __ #
-*#nˈɛbla# | 51 : [-prim,+round] > ∅ / [+prim,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#nˈæbla# | 62 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#nˈæbʎa# | 67 : l > ʎ / [-son,-cor] __
-*#nˈæbːʎa# | 69 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+*#nˈɛbʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#nˈɛbʊla# | 35 : [+cons] > ∅ / __ #
+*#nˈɛbla# | 53 : [-prim,+round] > ∅ / [+prim,+front,-lo] [-cont,-cor] __ [+cor,+voi]
+*#nˈæbla# | 64 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#nˈæbʎa# | 69 : l > ʎ / [-son,-cor] __
+*#nˈæbːʎa# | 71 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
 Proto-South-Italo-Romance stage form : *#nˈæbːʎa#
-*#nˈæbːja# | 110 : {ʎ;ʎː} > {j;jː} 
+*#nˈæbːja# | 112 : {ʎ;ʎː} > {j;jː} 
 Final form : *#nˈæbːja#

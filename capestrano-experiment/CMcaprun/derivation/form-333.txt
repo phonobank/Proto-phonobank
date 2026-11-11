@@ -1,13 +1,20 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 333:
-#kˈentum# >>> *#t͡ʃˈendə# ( GOLD : #t͡ʃˈendə#) :
-k ˈe n t u m 
-Proto-Romance stage form : *#kˈentum#
-*#kˈɛntʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃˈɛntʊm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˈɛntʊ# | 34 : [+cons] > ∅ / __ #
-*#t͡ʃˈɛntu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃˈentu# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#t͡ʃˈentu#
-*#t͡ʃˈentə# | 96 : [-stres,-lo] > ə 
-*#t͡ʃˈendə# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#t͡ʃˈendə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 333:
+#kˌerebˈellum# >>> *#t͡ʃəɾvˈejːə# ( GOLD : #t͡ʃeɾvˈejːə#) :
+k ˌe r e b ˈe l l u m 
+Proto-Romance stage form : *#kˌerebˈellum#
+*#kˌɛrɛbˈɛllʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˌɛrɛbˈɛllʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˌɛrɛbˈɛllʊ# | 35 : [+cons] > ∅ / __ #
+*#t͡ʃˌɛrbˈɛllʊ# | 44 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
+*#t͡ʃˌerbˈɛllʊ# | 57 : [+stres,-prim,+front,-tense] > ˌe 
+*#t͡ʃˌerbˈɛllu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˌerbˈellu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˌerbˈelːu# | 68 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#t͡ʃˌervˈelːu# | 73 : b > v / [+syl,alo,!atense] r __
+Proto-South-Italo-Romance stage form : *#t͡ʃˌervˈelːu#
+*#t͡ʃˌervˈeʎːu# | 88 : lː > ʎː / __ [+hi]
+*#t͡ʃˌervˈeʎːə# | 98 : [-stres,-lo] > ə 
+*#t͡ʃˌeɾvˈeʎːə# | 109 : r > ɾ 
+*#t͡ʃəɾvˈeʎːə# | 111 : [-prim,-hi,-lo] > ə 
+*#t͡ʃəɾvˈejːə# | 112 : {ʎ;ʎː} > {j;jː} 
+Final form : *#t͡ʃəɾvˈejːə#

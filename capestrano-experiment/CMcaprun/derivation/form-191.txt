@@ -1,10 +1,10 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 191:
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 191:
 #rˈabiam# >>> *#ɾˈabːja# ( GOLD : #ɾˈabːja#) :
 r ˈa b i a m 
-*#rˈabjam# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#rˈabjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#rˈabjam#
-*#rˈabja# | 34 : [+cons] > ∅ / __ #
-*#rˈabːja# | 69 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+*#rˈabja# | 35 : [+cons] > ∅ / __ #
+*#rˈabːja# | 71 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
 Proto-South-Italo-Romance stage form : *#rˈabːja#
-*#ɾˈabːja# | 107 : r > ɾ 
+*#ɾˈabːja# | 109 : r > ɾ 
 Final form : *#ɾˈabːja#

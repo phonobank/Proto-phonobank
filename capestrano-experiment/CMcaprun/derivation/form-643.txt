@@ -1,7 +1,12 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 643:
-#mˈeːla# >>> *#mˈela# ( GOLD : #mˈijːə#) :
-m ˈeː l a 
-Proto-Romance stage form : *#mˈeːla#
-*#mˈela# | 27 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#mˈela#
-Final form : *#mˈela#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 643:
+#mˌeritˈaː# >>> *#məɾtˈa# ( GOLD : #məɾdˈa#) :
+m ˌe r i t ˈaː 
+Proto-Romance stage form : *#mˌeritˈaː#
+*#mˌɛrɪtˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɛrɪtˈa# | 28 : [+syl] > [-long,-splng] 
+*#mˌɛrtˈa# | 44 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
+*#mˌertˈa# | 57 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#mˌertˈa#
+*#mˌeɾtˈa# | 109 : r > ɾ 
+*#məɾtˈa# | 111 : [-prim,-hi,-lo] > ə 
+Final form : *#məɾtˈa#

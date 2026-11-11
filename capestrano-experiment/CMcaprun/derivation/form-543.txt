@@ -1,12 +1,11 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 543:
-#pˈorrum# >>> *#pˈorːə# ( GOLD : #pˈurːə#) :
-p ˈo r r u m 
-Proto-Romance stage form : *#pˈorrum#
-*#pˈɔrrʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɔrrʊ# | 34 : [+cons] > ∅ / __ #
-*#pˈɔrru# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˈorru# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#pˈorːu# | 66 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#pˈorːu#
-*#pˈorːə# | 96 : [-stres,-lo] > ə 
-Final form : *#pˈorːə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 543:
+#pˈorkam# >>> *#pˈɔɾka# ( GOLD : #pˈɔɾka#) :
+p ˈo r k a m 
+Proto-Romance stage form : *#pˈorkam#
+*#pˈɔrkam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɔrka# | 35 : [+cons] > ∅ / __ #
+*#pˈɞˤrka# | 64 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#pˈɔrka# | 74 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#pˈɔrka#
+*#pˈɔɾka# | 109 : r > ɾ 
+Final form : *#pˈɔɾka#

@@ -2,7 +2,7 @@ Derivation file for run '../Proto-phonobank/capestrano-experiment/CMcaprun'; ety
 #tˈinea# >>> *#tˈiɲa# ( GOLD : #tˈiɲa#) :
 t ˈi n e a 
 *#tˈinia# | 8 : [-stres,-lo] > [+hi] / __ [+lo]
-*#tˈinja# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#tˈinja# | 11 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#tˈinja#
 *#tˈɪnja# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#tˈiːnja# | 25 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]

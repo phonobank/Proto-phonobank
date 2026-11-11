@@ -1,12 +1,11 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 253:
-#ˈannum# >>> *#ˈanːə# ( GOLD : #ˈanːə#) :
-ˈa n n u m 
-Proto-Romance stage form : *#ˈannum#
-*#ˈannʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈannʊ# | 34 : [+cons] > ∅ / __ #
-*#ˈannu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈanːu# | 60 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#ˈanːu#
-*#ˈanːˌu# | 95 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈanːə# | 102 : [-prim,-lo] > ə / __ #
-Final form : *#ˈanːə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 253:
+#ˌanˈatria# >>> *#anˈatɾja# ( GOLD : #anˈitɾa#) :
+ˌa n ˈa t r i a 
+*#ˌanˈatrja# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌanˈatrja#
+*#ˌanˈatrʲa# | 30 : r j > rʲ 
+Proto-South-Italo-Romance stage form : *#ˌanˈatrʲa#
+*#ˌanˈatrja# | 85 : rʲ > r j / [+cons] __
+*#ˌanˈatɾja# | 109 : r > ɾ 
+*#anˈatɾja# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#anˈatɾja#

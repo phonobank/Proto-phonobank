@@ -2,7 +2,7 @@ Derivation file for run '../Proto-phonobank/capestrano-experiment/CMcaprun'; ety
 #hˈodieː# >>> *#ˈod͡ʒə# ( GOLD : #ˈojːə#) :
 h ˈo d i eː 
 *#ˈodieː# | 4 : h > ∅ 
-*#ˈodjeː# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#ˈodjeː# | 11 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#ˈodjeː#
 *#ˈɔdjeː# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˈɔd͡ʒeː# | 23 : {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 

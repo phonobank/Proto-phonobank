@@ -2,7 +2,7 @@ Derivation file for run '../Proto-phonobank/capestrano-experiment/CMcaprun'; ety
 #kˌoˈaːɡulum# >>> *#kwˈajːə# ( GOLD : #kwˈajːə#) :
 k ˌo ˈaː ɡ u l u m 
 *#kˌuˈaːɡulum# | 9 : [-prim,-lo] > [+hi] / __ [+lo,+stres]
-*#kwˈaːɡulum# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
+*#kwˈaːɡulum# | 11 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#kwˈaːɡulum#
 *#kwˈaːɡʊlʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#kwˈaɡʊlʊm# | 27 : [+syl] > [-long,-splng] 

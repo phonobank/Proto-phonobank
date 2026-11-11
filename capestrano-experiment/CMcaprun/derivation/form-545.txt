@@ -1,12 +1,9 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 545:
-#pˈorkum# >>> *#pˈoɾkə# ( GOLD : #pˈoɾkə#) :
-p ˈo r k u m 
-Proto-Romance stage form : *#pˈorkum#
-*#pˈɔrkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɔrkʊ# | 34 : [+cons] > ∅ / __ #
-*#pˈɔrku# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˈorku# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˈorku#
-*#pˈorkə# | 96 : [-stres,-lo] > ə 
-*#pˈoɾkə# | 107 : r > ɾ 
-Final form : *#pˈoɾkə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 545:
+#pˈoe̯nam# >>> *#pˈena# ( GOLD : #pˈena#) :
+p ˈo e̯ n a m 
+*#pˈeːnam# | 2 : [+round,-hi] e̯ > [+front,-back,-round,-lab,+long] ∅
+Proto-Romance stage form : *#pˈeːnam#
+*#pˈenam# | 28 : [+syl] > [-long,-splng] 
+*#pˈena# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#pˈena#
+Final form : *#pˈena#

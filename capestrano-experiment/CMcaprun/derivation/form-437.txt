@@ -1,12 +1,10 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 437:
-#kwˌadraɡˈinta# >>> *#kwadɾajˈenda# ( GOLD : #kwaɾˈanta#) :
-k w ˌa d r a ɡ ˈi n t a 
-Proto-Romance stage form : *#kwˌadraɡˈinta#
-*#kwˌadraɡˈɪnta# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kwˌadrajˈɪnta# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#kwˌadrajˈenta# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kwˌadrajˈenta#
-*#kwˌadrajˈenda# | 99 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kwˌadɾajˈenda# | 107 : r > ɾ 
-*#kwadɾajˈenda# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kwadɾajˈenda#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 437:
+#kwˈasi# >>> *#kwˈaʃə# ( GOLD : #kwˈaʃə#) :
+k w ˈa s i 
+Proto-Romance stage form : *#kwˈasi#
+*#kwˈasɪ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kwˈase# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kwˈase#
+*#kwˈaʃe# | 93 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#kwˈaʃə# | 98 : [-stres,-lo] > ə 
+Final form : *#kwˈaʃə#

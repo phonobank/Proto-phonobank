@@ -1,12 +1,12 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 224:
-#iˌoːˈanneːs# >>> *#jwːˈanːə# ( GOLD : #juwˈanə#) :
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 224:
+#iˌoːˈanneːs# >>> *#jəˈanːə# ( GOLD : #juwˈanːə#) :
 i ˌoː ˈa n n eː s 
-*#iˌuːˈanneːs# | 9 : [-prim,-lo] > [+hi] / __ [+lo,+stres]
-*#jwːˈanneːs# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#jwːˈanneːs#
-*#jwːˈannes# | 27 : [+syl] > [-long,-splng] 
-*#jwːˈanne# | 34 : [+cons] > ∅ / __ #
-*#jwːˈanːe# | 60 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#jwːˈanːe#
-*#jwːˈanːə# | 96 : [-stres,-lo] > ə 
-Final form : *#jwːˈanːə#
+*#jˌoːˈanneːs# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#jˌoːˈanneːs#
+*#jˌoˈannes# | 28 : [+syl] > [-long,-splng] 
+*#jˌoˈanne# | 35 : [+cons] > ∅ / __ #
+*#jˌoˈanːe# | 62 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#jˌoˈanːe#
+*#jˌoˈanːə# | 98 : [-stres,-lo] > ə 
+*#jəˈanːə# | 111 : [-prim,-hi,-lo] > ə 
+Final form : *#jəˈanːə#

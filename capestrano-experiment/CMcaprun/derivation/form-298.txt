@@ -1,12 +1,8 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 298:
-#ˌamˈiːkum# >>> *#amˈikə# ( GOLD : #amˈikə#) :
-ˌa m ˈiː k u m 
-Proto-Romance stage form : *#ˌamˈiːkum#
-*#ˌamˈiːkʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌamˈikʊm# | 27 : [+syl] > [-long,-splng] 
-*#ˌamˈikʊ# | 34 : [+cons] > ∅ / __ #
-*#ˌamˈiku# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌamˈiku#
-*#ˌamˈikə# | 96 : [-stres,-lo] > ə 
-*#amˈikə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#amˈikə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 298:
+#ˌamˈaː# >>> *#amˈa# ( GOLD : #amˈa#) :
+ˌa m ˈaː 
+Proto-Romance stage form : *#ˌamˈaː#
+*#ˌamˈa# | 28 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#ˌamˈa#
+*#amˈa# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#amˈa#

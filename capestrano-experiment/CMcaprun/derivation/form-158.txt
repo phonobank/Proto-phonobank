@@ -1,13 +1,13 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 158:
-#lˈaːridum# >>> *#lˈaɾədə# ( GOLD : #lˈaɾdə#) :
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 158:
+#lˈaːridum# >>> *#lˈaɾdə# ( GOLD : #lˈaɾdə#) :
 l ˈaː r i d u m 
 Proto-Romance stage form : *#lˈaːridum#
-*#lˈaːrɪdʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˈarɪdʊm# | 27 : [+syl] > [-long,-splng] 
-*#lˈarɪdʊ# | 34 : [+cons] > ∅ / __ #
-*#lˈarɪdu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#lˈaredu# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#lˈaredu#
-*#lˈarədə# | 96 : [-stres,-lo] > ə 
-*#lˈaɾədə# | 107 : r > ɾ 
-Final form : *#lˈaɾədə#
+*#lˈaːrɪdʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈarɪdʊm# | 28 : [+syl] > [-long,-splng] 
+*#lˈarɪdʊ# | 35 : [+cons] > ∅ / __ #
+*#lˈardʊ# | 44 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
+*#lˈardu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#lˈardu#
+*#lˈardə# | 98 : [-stres,-lo] > ə 
+*#lˈaɾdə# | 109 : r > ɾ 
+Final form : *#lˈaɾdə#

@@ -1,15 +1,20 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 418:
-#ɡˈenerum# >>> *#jˈenəɾə# ( GOLD : #jˈenəɾə#) :
-ɡ ˈe n e r u m 
-Proto-Romance stage form : *#ɡˈenerum#
-*#ɡˈɛnɛrʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˈɛnɛrʊm# | 15 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˈɛnɛrʊm# | 16 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-*#jˈɛnɛrʊm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#jˈɛnɛrʊ# | 34 : [+cons] > ∅ / __ #
-*#jˈɛnɛru# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈeneru# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#jˈeneru#
-*#jˈenərə# | 96 : [-stres,-lo] > ə 
-*#jˈenəɾə# | 107 : r > ɾ 
-Final form : *#jˈenəɾə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 418:
+#ɡˌenˈukulum# >>> *#jənˈokːjə# ( GOLD : #jənˈokːjə#) :
+ɡ ˌe n ˈu k u l u m 
+Proto-Romance stage form : *#ɡˌenˈukulum#
+*#ɡˌɛnˈʊkʊlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˌɛnˈʊkʊlʊm# | 16 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛnˈʊkʊlʊm# | 17 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+*#jˌɛnˈʊkʊlʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#jˌɛnˈʊklʊm# | 27 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
+*#jˌɛnˈʊklʊ# | 35 : [+cons] > ∅ / __ #
+*#jˌenˈʊklʊ# | 57 : [+stres,-prim,+front,-tense] > ˌe 
+*#jˌenˈʊklu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˌenˈoklu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#jˌenˈokʎu# | 69 : l > ʎ / [-son,-cor] __
+*#jˌenˈokːʎu# | 71 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+Proto-South-Italo-Romance stage form : *#jˌenˈokːʎu#
+*#jˌenˈokːʎə# | 98 : [-stres,-lo] > ə 
+*#jənˈokːʎə# | 111 : [-prim,-hi,-lo] > ə 
+*#jənˈokːjə# | 112 : {ʎ;ʎː} > {j;jː} 
+Final form : *#jənˈokːjə#

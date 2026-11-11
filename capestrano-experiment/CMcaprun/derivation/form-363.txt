@@ -1,9 +1,9 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 363:
-#kˈawsam# >>> *#kˈosa# ( GOLD : #kˈosa#) :
-k ˈa w s a m 
-Proto-Romance stage form : *#kˈawsam#
-*#kˈawsa# | 34 : [+cons] > ∅ / __ #
-*#kˈowsa# | 65 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#kˈowsa#
-*#kˈosa# | 85 : w > ∅ / [+round] __ [+cons]
-Final form : *#kˈosa#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 363:
+#kˈawdam# >>> *#kˈoda# ( GOLD : #kˈoda#) :
+k ˈa w d a m 
+Proto-Romance stage form : *#kˈawdam#
+*#kˈawda# | 35 : [+cons] > ∅ / __ #
+*#kˈowda# | 67 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+Proto-South-Italo-Romance stage form : *#kˈowda#
+*#kˈoda# | 87 : w > ∅ / [+round] __ [+cons]
+Final form : *#kˈoda#

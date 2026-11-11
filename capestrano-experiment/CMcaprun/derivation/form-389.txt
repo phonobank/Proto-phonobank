@@ -1,11 +1,16 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 389:
-#kˌolˈumnam# >>> *#kəlˈomna# ( GOLD : #kolˈonːa#) :
-k ˌo l ˈu m n a m 
-Proto-Romance stage form : *#kˌolˈumnam#
-*#kˌɔlˈʊmnam# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɔlˈʊmna# | 34 : [+cons] > ∅ / __ #
-*#kˌolˈʊmna# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌolˈomna# | 59 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-Proto-South-Italo-Romance stage form : *#kˌolˈomna#
-*#kəlˈomna# | 109 : [-prim,-hi,-lo] > ə 
-Final form : *#kəlˈomna#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 389:
+#kˌoˈaːɡulum# >>> *#kwˈajːə# ( GOLD : #kwˈajːə#) :
+k ˌo ˈaː ɡ u l u m 
+*#kˌuˈaːɡulum# | 10 : [-prim,-lo,-long] > [+hi] / __ [+lo,+stres]
+*#kwˈaːɡulum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kwˈaːɡulum#
+*#kwˈaːɡʊlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kwˈaɡʊlʊm# | 28 : [+syl] > [-long,-splng] 
+*#kwˈaɡʊlʊ# | 35 : [+cons] > ∅ / __ #
+*#kwˈaɡlʊ# | 48 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
+*#kwˈaʎːʊ# | 49 : ɡ l > ʎː 
+*#kwˈaʎːu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kwˈaʎːu#
+*#kwˈaʎːə# | 98 : [-stres,-lo] > ə 
+*#kwˈajːə# | 112 : {ʎ;ʎː} > {j;jː} 
+Final form : *#kwˈajːə#

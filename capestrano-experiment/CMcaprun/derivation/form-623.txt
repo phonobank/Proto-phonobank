@@ -1,10 +1,15 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 623:
-#fˈorte# >>> *#fˈoɾtə# ( GOLD : #fˈɔɾtə#) :
-f ˈo r t e 
-Proto-Romance stage form : *#fˈorte#
-*#fˈɔrtɛ# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈorte# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˈorte#
-*#fˈortə# | 96 : [-stres,-lo] > ə 
-*#fˈoɾtə# | 107 : r > ɾ 
-Final form : *#fˈoɾtə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 623:
+#fˈortiam# >>> *#fˈɔɾt͡sa# ( GOLD : #fˈɔɾt͡sa#) :
+f ˈo r t i a m 
+*#fˈortjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#fˈortjam#
+*#fˈɔrtjam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈɔrtʲːam# | 21 : t j > tʲː 
+*#fˈɔrt͡sːam# | 29 : tʲː > t͡sː 
+*#fˈɔrt͡sːa# | 35 : [+cons] > ∅ / __ #
+*#fˈɔrt͡sa# | 37 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#fˈɞˤrt͡sa# | 64 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#fˈɔrt͡sa# | 74 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#fˈɔrt͡sa#
+*#fˈɔɾt͡sa# | 109 : r > ɾ 
+Final form : *#fˈɔɾt͡sa#

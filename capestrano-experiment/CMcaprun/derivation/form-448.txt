@@ -1,14 +1,15 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 448:
-#wˌiːkˈiːnum# >>> *#vit͡ʃˈinə# ( GOLD : #vit͡ʃˈinə#) :
-w ˌiː k ˈiː n u m 
-Proto-Romance stage form : *#wˌiːkˈiːnum#
-*#wˌiːkˈiːnʊm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌiːt͡ʃˈiːnʊm# | 19 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#wˌit͡ʃˈinʊm# | 27 : [+syl] > [-long,-splng] 
-*#wˌit͡ʃˈinʊ# | 34 : [+cons] > ∅ / __ #
-*#vˌit͡ʃˈinʊ# | 49 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˌit͡ʃˈinu# | 56 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˌit͡ʃˈinu#
-*#vˌit͡ʃˈinə# | 96 : [-stres,-lo] > ə 
-*#vit͡ʃˈinə# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#vit͡ʃˈinə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 448:
+#wiːɡˈintiː# >>> *#vijˈendə# ( GOLD : #vˈində#) :
+w iː ɡ ˈi n t iː 
+Proto-Romance stage form : *#wiːɡˈintiː#
+*#wiːɡˈɪntiː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wiːjˈɪntiː# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#wijˈɪnti# | 28 : [+syl] > [-long,-splng] 
+*#vijˈɪnti# | 51 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vijˈenti# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#vˌijˈenti# | 78 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
+Proto-South-Italo-Romance stage form : *#vˌijˈenti#
+*#vˌijˈentə# | 98 : [-stres,-lo] > ə 
+*#vˌijˈendə# | 101 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#vijˈendə# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vijˈendə#

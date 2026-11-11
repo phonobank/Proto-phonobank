@@ -1,8 +1,17 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 369:
-#kˈapram# >>> *#kˈapɾa# ( GOLD : #kɾˈapa#) :
-k ˈa p r a m 
-Proto-Romance stage form : *#kˈapram#
-*#kˈapra# | 34 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#kˈapra#
-*#kˈapɾa# | 107 : r > ɾ 
-Final form : *#kˈapɾa#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 369:
+#kˌapistˈeːrium# >>> *#kapəstˈeɾjə# ( GOLD : #kapistˈeɾə#) :
+k ˌa p i s t ˈeː r i u m 
+*#kˌapistˈeːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌapistˈeːrjum#
+*#kˌapɪstˈeːrjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌapɪstˈerjʊm# | 28 : [+syl] > [-long,-splng] 
+*#kˌapɪstˈerʲʊm# | 30 : r j > rʲ 
+*#kˌapɪstˈerʲʊ# | 35 : [+cons] > ∅ / __ #
+*#kˌapɪstˈerʲu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌapestˈerʲu# | 65 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌapestˈerʲu#
+*#kˌapestˈerju# | 84 : rʲ > r j / [+front,-lo,+syl] __ [+syl]
+*#kˌapəstˈerjə# | 98 : [-stres,-lo] > ə 
+*#kˌapəstˈeɾjə# | 109 : r > ɾ 
+*#kapəstˈeɾjə# | 116 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kapəstˈeɾjə#

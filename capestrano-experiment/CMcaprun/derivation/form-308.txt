@@ -1,10 +1,13 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 308:
-#hˌabˈeː# >>> *#avˈe# ( GOLD : #avˈe#) :
-h ˌa b ˈeː 
-*#ˌabˈeː# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˌabˈeː#
-*#ˌabˈe# | 27 : [+syl] > [-long,-splng] 
-*#ˌavˈe# | 70 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#ˌavˈe#
-*#avˈe# | 114 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#avˈe#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 308:
+#hˈaːmum# >>> *#ˈamə# ( GOLD : #ˈamə#) :
+h ˈaː m u m 
+*#ˈaːmum# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˈaːmum#
+*#ˈaːmʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈamʊm# | 28 : [+syl] > [-long,-splng] 
+*#ˈamʊ# | 35 : [+cons] > ∅ / __ #
+*#ˈamu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈamu#
+*#ˈamˌu# | 97 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈamə# | 104 : [-prim,-lo] > ə / __ #
+Final form : *#ˈamə#

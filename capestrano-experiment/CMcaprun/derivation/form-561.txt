@@ -1,11 +1,13 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 561:
-#bˈattem# >>> *#bˈatːə# ( GOLD : #vˈatːə#) :
-b ˈa t t e m 
-Proto-Romance stage form : *#bˈattem#
-*#bˈattɛm# | 12 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˈattɛ# | 34 : [+cons] > ∅ / __ #
-*#bˈatte# | 63 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#bˈatːe# | 66 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#bˈatːe#
-*#bˈatːə# | 96 : [-stres,-lo] > ə 
-Final form : *#bˈatːə#
+Derivation file for run '/home/clayton/Desktop/Research/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 561:
+#bˈaːsium# >>> *#bˈaʃə# ( GOLD : #bːˈaʃə#) :
+b ˈaː s i u m 
+*#bˈaːsjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#bˈaːsjum#
+*#bˈaːsjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˈasjʊm# | 28 : [+syl] > [-long,-splng] 
+*#bˈaʃʊm# | 32 : s j > ʃ 
+*#bˈaʃʊ# | 35 : [+cons] > ∅ / __ #
+*#bˈaʃu# | 58 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#bˈaʃu#
+*#bˈaʃə# | 98 : [-stres,-lo] > ə 
+Final form : *#bˈaʃə#

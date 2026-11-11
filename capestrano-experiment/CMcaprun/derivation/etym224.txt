@@ -1,12 +1,13 @@
 Derivation file for run '../Proto-phonobank/capestrano-experiment/CMcaprun'; etymon number :224:
-#iˌoːˈanneːs# >>> *#jwːˈanːə# ( GOLD : #juwˈanə#) :
+#iˌoːˈanneːs# >>> *#jvˈanːə# ( GOLD : #juwˈanːə#) :
 i ˌoː ˈa n n eː s 
 *#iˌuːˈanneːs# | 9 : [-prim,-lo] > [+hi] / __ [+lo,+stres]
-*#jwːˈanneːs# | 11 : [+hi,-prim] > [-syl,0stres,0prim] / __ [+syl]
-Proto-Romance stage form : *#jwːˈanneːs#
-*#jwːˈannes# | 27 : [+syl] > [-long,-splng] 
-*#jwːˈanne# | 34 : [+cons] > ∅ / __ #
-*#jwːˈanːe# | 61 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#jwːˈanːe#
-*#jwːˈanːə# | 97 : [-stres,-lo] > ə 
-Final form : *#jwːˈanːə#
+*#jwˈanneːs# | 11 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#jwˈanneːs#
+*#jwˈannes# | 27 : [+syl] > [-long,-splng] 
+*#jwˈanne# | 34 : [+cons] > ∅ / __ #
+*#jvˈanne# | 50 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#jvˈanːe# | 61 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#jvˈanːe#
+*#jvˈanːə# | 97 : [-stres,-lo] > ə 
+Final form : *#jvˈanːə#
