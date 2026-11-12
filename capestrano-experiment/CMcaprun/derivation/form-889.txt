@@ -3,18 +3,18 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 f ˌe r r ˈaː r i u m 
 *#fˌerrˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#fˌerrˈaːrjum#
-*#fˌɛrrˈaːrjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˌɛrrˈarjʊm# | 28 : [+syl] > [-long,-splng] 
-*#fˌɛrrˈarʲʊm# | 30 : r j > rʲ 
-*#fˌɛrrˈarʲʊ# | 35 : [+cons] > ∅ / __ #
-*#fˌerrˈarʲʊ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#fˌerrˈarʲu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#fˌerːˈarʲu# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#fˌɛrrˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˌɛrrˈarjʊm# | 30 : [+syl] > [-long,-splng] 
+*#fˌɛrrˈarʲʊm# | 32 : r j > rʲ 
+*#fˌɛrrˈarʲʊ# | 37 : [+cons] > ∅ / __ #
+*#fˌerrˈarʲʊ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#fˌerrˈarʲu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fˌerːˈarʲu# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#fˌerːˈarʲu#
-*#fˌerːˈaru# | 92 : rʲ > r 
-*#fˌerːˈarə# | 104 : [-stres,-lo] > ə 
-*#fˌerːˈaɾə# | 114 : r > ɾ 
-*#fərːˈaɾə# | 116 : [-prim,-hi,-lo] > ə 
-*#ferːˈaɾə# | 124 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
-*#fərːˈaɾə# | 125 : [+front,-lo,-stres] > ə / # ( ( @ )* [-prim] ) [-son,cfront,!clab] __ [+cor] ( k ) [+lo]
+*#fˌerːˈaru# | 94 : rʲ > r 
+*#fˌerːˈarə# | 106 : [-stres,-lo] > ə 
+*#fˌerːˈaɾə# | 116 : r > ɾ 
+*#fərːˈaɾə# | 118 : [-prim,-hi,-lo] > ə 
+*#ferːˈaɾə# | 126 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
+*#fərːˈaɾə# | 127 : [+front,-lo,-stres] > ə / # ( ( @ )* [-prim] ) [-son,cfront,!clab] __ [+cor] ( k ) [+lo]
 Final form : *#fərːˈaɾə#

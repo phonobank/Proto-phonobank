@@ -2,12 +2,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #wˈiridem# >>> *#vˈeɾdə# ( GOLD : #vˈɛɾdə#) :
 w ˈi r i d e m 
 Proto-Romance stage form : *#wˈiridem#
-*#wˈɪrɪdɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈɪrɪdɛ# | 35 : [+cons] > ∅ / __ #
-*#wˈɪrdɛ# | 42 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
-*#vˈɪrdɛ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈerde# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˈɪrɪdɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈɪrɪdɛ# | 37 : [+cons] > ∅ / __ #
+*#wˈɪrdɛ# | 44 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
+*#vˈɪrdɛ# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈerde# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˈerde#
-*#vˈerdə# | 104 : [-stres,-lo] > ə 
-*#vˈeɾdə# | 114 : r > ɾ 
+*#vˈerdə# | 106 : [-stres,-lo] > ə 
+*#vˈeɾdə# | 116 : r > ɾ 
 Final form : *#vˈeɾdə#

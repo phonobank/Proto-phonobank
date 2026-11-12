@@ -2,15 +2,15 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #sˈalikem# >>> *#sˈot͡ʃə# ( GOLD : #sˈawt͡ʃa#) :
 s ˈa l i k e m 
 Proto-Romance stage form : *#sˈalikem#
-*#sˈalɪkɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈalˠɪkɛm# | 18 : l > lˠ / __ ( [-stres] ) k [-cons]
-*#sˈalˠɪt͡ʃɛm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#sˈalˠɪt͡ʃɛ# | 35 : [+cons] > ∅ / __ #
-*#sˈalˠt͡ʃɛ# | 45 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
-*#sˈawt͡ʃɛ# | 46 : lˠ > w / __ ( ə ) t͡ʃ
-*#sˈawt͡ʃe# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#sˈowt͡ʃe# | 68 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+*#sˈalɪkɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈalˠɪkɛm# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
+*#sˈalˠɪt͡ʃɛm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#sˈalˠɪt͡ʃɛ# | 37 : [+cons] > ∅ / __ #
+*#sˈalˠt͡ʃɛ# | 47 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
+*#sˈawt͡ʃɛ# | 48 : lˠ > w / __ ( ə ) t͡ʃ
+*#sˈawt͡ʃe# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˈowt͡ʃe# | 70 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 Proto-South-Italo-Romance stage form : *#sˈowt͡ʃe#
-*#sˈot͡ʃe# | 93 : w > ∅ / [+round] __ [+cons]
-*#sˈot͡ʃə# | 104 : [-stres,-lo] > ə 
+*#sˈot͡ʃe# | 95 : w > ∅ / [+round] __ [+cons]
+*#sˈot͡ʃə# | 106 : [-stres,-lo] > ə 
 Final form : *#sˈot͡ʃə#

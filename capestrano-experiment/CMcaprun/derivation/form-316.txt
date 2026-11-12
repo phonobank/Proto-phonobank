@@ -3,12 +3,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 ˌi l l ˌa e̯ 
 *#ˌillˌɛː# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
 Proto-Romance stage form : *#ˌillˌɛː#
-*#ˌɪllˌɛː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪllˌɛ# | 28 : [+syl] > [-long,-splng] 
-*#ˌellˌe# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌelːˌe# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ˌɪllˌɛː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪllˌɛ# | 30 : [+syl] > [-long,-splng] 
+*#ˌellˌe# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌelːˌe# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#ˌelːˌe#
-*#əlːˌe# | 83 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#lːˌe# | 87 : ə > ∅ / # __
-*#lːə# | 109 : [-prim,-lo] > ə / __ #
+*#əlːˌe# | 85 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#lːˌe# | 89 : ə > ∅ / # __
+*#lːə# | 111 : [-prim,-lo] > ə / __ #
 Final form : *#lːə#

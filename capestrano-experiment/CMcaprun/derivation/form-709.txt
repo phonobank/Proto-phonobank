@@ -2,16 +2,16 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ˌoktoːɡˈintaː# >>> *#tːəjˈenda# ( GOLD : #otːˈanda#) :
 ˌo k t oː ɡ ˈi n t aː 
 Proto-Romance stage form : *#ˌoktoːɡˈintaː#
-*#ˌɔktoːɡˈɪntaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɔktoːjˈɪntaː# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#ˌɔtːoːjˈɪntaː# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɔtːojˈɪnta# | 28 : [+syl] > [-long,-splng] 
-*#ˌɔtːujˈɪnta# | 56 : [+syl,+round] > [+hi] / __ j
-*#ˌotːujˈɪnta# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌotːujˈenta# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔktoːɡˈɪntaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔktoːjˈɪntaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#ˌɔtːoːjˈɪntaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɔtːojˈɪnta# | 30 : [+syl] > [-long,-splng] 
+*#ˌɔtːujˈɪnta# | 58 : [+syl,+round] > [+hi] / __ j
+*#ˌotːujˈɪnta# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌotːujˈenta# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌotːujˈenta#
-*#ətːujˈenta# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#tːujˈenta# | 87 : ə > ∅ / # __
-*#tːəjˈenta# | 104 : [-stres,-lo] > ə 
-*#tːəjˈenda# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ətːujˈenta# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#tːujˈenta# | 89 : ə > ∅ / # __
+*#tːəjˈenta# | 106 : [-stres,-lo] > ə 
+*#tːəjˈenda# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
 Final form : *#tːəjˈenda#

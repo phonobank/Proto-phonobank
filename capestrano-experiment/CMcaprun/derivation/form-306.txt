@@ -3,19 +3,19 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 ˌi n k l ˈa w s t r u m 
 *#ˌiŋklˈawstrum# | 1 : n > ŋ / __ [+back,+cons]
 Proto-Romance stage form : *#ˌiŋklˈawstrum#
-*#ˌɪŋklˈawstrʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌiːŋklˈawstrʊm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌiŋklˈawstrʊm# | 28 : [+syl] > [-long,-splng] 
-*#ˌiŋklˈawstrʊ# | 35 : [+cons] > ∅ / __ #
-*#ˌiŋklˈawstru# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌiŋklˈowstru# | 68 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-*#ˌiŋkʎˈowstru# | 70 : l > ʎ / [-son,-cor] __
+*#ˌɪŋklˈawstrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌiːŋklˈawstrʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌiŋklˈawstrʊm# | 30 : [+syl] > [-long,-splng] 
+*#ˌiŋklˈawstrʊ# | 37 : [+cons] > ∅ / __ #
+*#ˌiŋklˈawstru# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌiŋklˈowstru# | 70 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+*#ˌiŋkʎˈowstru# | 72 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌiŋkʎˈowstru#
-*#əŋkʎˈowstru# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#ŋkʎˈowstru# | 87 : ə > ∅ / # __
-*#ŋkʎˈostru# | 93 : w > ∅ / [+round] __ [+cons]
-*#ŋkʎˈostrə# | 104 : [-stres,-lo] > ə 
-*#ŋɡʎˈostrə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#ŋɡʎˈostɾə# | 114 : r > ɾ 
-*#ŋɡjˈostɾə# | 117 : {ʎ;ʎː} > {j;jː} 
+*#əŋkʎˈowstru# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ŋkʎˈowstru# | 89 : ə > ∅ / # __
+*#ŋkʎˈostru# | 95 : w > ∅ / [+round] __ [+cons]
+*#ŋkʎˈostrə# | 106 : [-stres,-lo] > ə 
+*#ŋɡʎˈostrə# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ŋɡʎˈostɾə# | 116 : r > ɾ 
+*#ŋɡjˈostɾə# | 119 : {ʎ;ʎː} > {j;jː} 
 Final form : *#ŋɡjˈostɾə#

@@ -2,15 +2,15 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #mˌartˈellum# >>> *#maɾtˈejːə# ( GOLD : #maɾtˈejːə#) :
 m ˌa r t ˈe l l u m 
 Proto-Romance stage form : *#mˌartˈellum#
-*#mˌartˈɛllʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌartˈɛllʊ# | 35 : [+cons] > ∅ / __ #
-*#mˌartˈɛllu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˌartˈellu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#mˌartˈelːu# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#mˌartˈɛllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌartˈɛllʊ# | 37 : [+cons] > ∅ / __ #
+*#mˌartˈɛllu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˌartˈellu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˌartˈelːu# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#mˌartˈelːu#
-*#mˌartˈeʎːu# | 94 : lː > ʎː / __ [+hi]
-*#mˌartˈeʎːə# | 104 : [-stres,-lo] > ə 
-*#mˌaɾtˈeʎːə# | 114 : r > ɾ 
-*#mˌaɾtˈejːə# | 117 : {ʎ;ʎː} > {j;jː} 
-*#maɾtˈejːə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+*#mˌartˈeʎːu# | 96 : lː > ʎː / __ [+hi]
+*#mˌartˈeʎːə# | 106 : [-stres,-lo] > ə 
+*#mˌaɾtˈeʎːə# | 116 : r > ɾ 
+*#mˌaɾtˈejːə# | 119 : {ʎ;ʎː} > {j;jː} 
+*#maɾtˈejːə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#maɾtˈejːə#

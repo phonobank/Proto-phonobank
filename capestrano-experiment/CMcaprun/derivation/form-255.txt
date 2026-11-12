@@ -3,14 +3,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 r ˌeː n i ˈoː n e m 
 *#rˌeːnjˈoːnem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#rˌeːnjˈoːnem#
-*#rˌeːnjˈoːnɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#rˌenjˈonɛm# | 28 : [+syl] > [-long,-splng] 
-*#rˌeɲːˈonɛm# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#rˌeɲːˈonɛ# | 35 : [+cons] > ∅ / __ #
-*#rˌeɲːˈone# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˌeːnjˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌenjˈonɛm# | 30 : [+syl] > [-long,-splng] 
+*#rˌeɲːˈonɛm# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#rˌeɲːˈonɛ# | 37 : [+cons] > ∅ / __ #
+*#rˌeɲːˈone# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#rˌeɲːˈone#
-*#rˌeɲːˈonə# | 104 : [-stres,-lo] > ə 
-*#ɾˌeɲːˈonə# | 114 : r > ɾ 
-*#ɾəɲːˈonə# | 116 : [-prim,-hi,-lo] > ə 
-*#ɾəɲˈonə# | 118 : ɲː > ɲ 
+*#rˌeɲːˈonə# | 106 : [-stres,-lo] > ə 
+*#ɾˌeɲːˈonə# | 116 : r > ɾ 
+*#ɾəɲːˈonə# | 118 : [-prim,-hi,-lo] > ə 
+*#ɾəɲˈonə# | 120 : ɲː > ɲ 
 Final form : *#ɾəɲˈonə#

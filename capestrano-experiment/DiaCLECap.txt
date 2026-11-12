@@ -33,7 +33,12 @@ $ LXVb gliding of i and u in hiatus
 e > j / __ [+back,-cons]
 [+hi,-prim] > [-syl,-long] / __ [+syl]
 
+
 = Proto-Romance
+
+$ MANUAL FIX nov12.a -- Greek y unrounds except if stressed in closed syll
+ˈy > ˈu / __ [+cons] [+cons]
+[+front] > [-lab,-round]
 
 $ LIb, LIIb, LVIIIa, LVIa etc non-low vowels have quantity distinction become tenseness quality distinction, temporarily. Like Albanian, Capestranese has conditions where ɪ and ʊ revert to i and u, but eː and oː do not raise to i and u, largely involving posterior palatality.
 [-lo,-long,+syl] > [-tense] 

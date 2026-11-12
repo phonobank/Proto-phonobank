@@ -3,17 +3,17 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 w ˌe r eː k ˈu n d i a m 
 *#wˌereːkˈundjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#wˌereːkˈundjam#
-*#wˌɛreːkˈʊndjam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɛreːkˈʊnd͡ʒam# | 24 : {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
-*#wˌɛrekˈʊnd͡ʒam# | 28 : [+syl] > [-long,-splng] 
-*#wˌɛrekˈʊnd͡ʒa# | 35 : [+cons] > ∅ / __ #
-*#vˌɛrekˈʊnd͡ʒa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˌerekˈʊnd͡ʒa# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#vˌerekˈond͡ʒa# | 62 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-*#vˌerekˈonːa# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#wˌɛreːkˈʊndjam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌɛreːkˈʊnd͡ʒam# | 26 : {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
+*#wˌɛrekˈʊnd͡ʒam# | 30 : [+syl] > [-long,-splng] 
+*#wˌɛrekˈʊnd͡ʒa# | 37 : [+cons] > ∅ / __ #
+*#vˌɛrekˈʊnd͡ʒa# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˌerekˈʊnd͡ʒa# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#vˌerekˈond͡ʒa# | 64 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#vˌerekˈonːa# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
 Proto-South-Italo-Romance stage form : *#vˌerekˈonːa#
-*#vˌerəkˈonːa# | 104 : [-stres,-lo] > ə 
-*#vˌeɾəkˈonːa# | 114 : r > ɾ 
-*#vəɾəkˈonːa# | 116 : [-prim,-hi,-lo] > ə 
-*#veɾəkˈonːa# | 124 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
+*#vˌerəkˈonːa# | 106 : [-stres,-lo] > ə 
+*#vˌeɾəkˈonːa# | 116 : r > ɾ 
+*#vəɾəkˈonːa# | 118 : [-prim,-hi,-lo] > ə 
+*#veɾəkˈonːa# | 126 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
 Final form : *#veɾəkˈonːa#

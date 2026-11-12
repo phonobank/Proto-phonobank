@@ -2,14 +2,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ˌillˌiː# >>> *#jːə# ( GOLD : #ji#) :
 ˌi l l ˌiː 
 Proto-Romance stage form : *#ˌillˌiː#
-*#ˌɪllˌiː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪllˌi# | 28 : [+syl] > [-long,-splng] 
-*#ˌellˌi# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌelːˌi# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ˌɪllˌiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪllˌi# | 30 : [+syl] > [-long,-splng] 
+*#ˌellˌi# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌelːˌi# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#ˌelːˌi#
-*#əlːˌi# | 83 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#lːˌi# | 87 : ə > ∅ / # __
-*#ʎːˌi# | 94 : lː > ʎː / __ [+hi]
-*#ʎːə# | 109 : [-prim,-lo] > ə / __ #
-*#jːə# | 117 : {ʎ;ʎː} > {j;jː} 
+*#əlːˌi# | 85 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#lːˌi# | 89 : ə > ∅ / # __
+*#ʎːˌi# | 96 : lː > ʎː / __ [+hi]
+*#ʎːə# | 111 : [-prim,-lo] > ə / __ #
+*#jːə# | 119 : {ʎ;ʎː} > {j;jː} 
 Final form : *#jːə#

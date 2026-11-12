@@ -2,11 +2,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #wˈoːs# >>> *#ɡˈu# ( GOLD : #vˈu#) :
 w ˈoː s 
 Proto-Romance stage form : *#wˈoːs#
-*#wˈos# | 28 : [+syl] > [-long,-splng] 
-*#wˈoj# | 34 : s > j / # ( [-syl] )* [+syl] ( [-syl] ) __ #
-*#vˈoj# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈuj# | 56 : [+syl,+round] > [+hi] / __ j
-*#vˈu# | 57 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
+*#wˈos# | 30 : [+syl] > [-long,-splng] 
+*#wˈoj# | 36 : s > j / # ( [-syl] )* [+syl] ( [-syl] ) __ #
+*#vˈoj# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈuj# | 58 : [+syl,+round] > [+hi] / __ j
+*#vˈu# | 59 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
 Proto-South-Italo-Romance stage form : *#vˈu#
-*#ɡˈu# | 119 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+*#ɡˈu# | 121 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
 Final form : *#ɡˈu#

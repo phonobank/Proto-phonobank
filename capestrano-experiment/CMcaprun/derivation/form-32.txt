@@ -3,13 +3,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 t ˌaː l i ˈaː r e 
 *#tˌaːljˈaːre# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#tˌaːljˈaːre#
-*#tˌaːljˈaːrɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˌaljˈarɛ# | 28 : [+syl] > [-long,-splng] 
-*#tˌaʎːˈarɛ# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#tˌaʎːˈare# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#tˌaːljˈaːrɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#tˌaljˈarɛ# | 30 : [+syl] > [-long,-splng] 
+*#tˌaʎːˈarɛ# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#tˌaʎːˈare# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#tˌaʎːˈare#
-*#tˌaʎːˈarə# | 104 : [-stres,-lo] > ə 
-*#tˌaʎːˈaɾə# | 114 : r > ɾ 
-*#tˌajːˈaɾə# | 117 : {ʎ;ʎː} > {j;jː} 
-*#tajːˈaɾə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+*#tˌaʎːˈarə# | 106 : [-stres,-lo] > ə 
+*#tˌaʎːˈaɾə# | 116 : r > ɾ 
+*#tˌajːˈaɾə# | 119 : {ʎ;ʎː} > {j;jː} 
+*#tajːˈaɾə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#tajːˈaɾə#

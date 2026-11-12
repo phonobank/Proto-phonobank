@@ -2,11 +2,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #kˈorpus# >>> *#kˈoɾpə# ( GOLD : #kˈoɾpə#) :
 k ˈo r p u s 
 Proto-Romance stage form : *#kˈorpus#
-*#kˈɔrpʊs# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈɔrpʊ# | 35 : [+cons] > ∅ / __ #
-*#kˈɔrpu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˈorpu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈɔrpʊs# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɔrpʊ# | 37 : [+cons] > ∅ / __ #
+*#kˈɔrpu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˈorpu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#kˈorpu#
-*#kˈorpə# | 104 : [-stres,-lo] > ə 
-*#kˈoɾpə# | 114 : r > ɾ 
+*#kˈorpə# | 106 : [-stres,-lo] > ə 
+*#kˈoɾpə# | 116 : r > ɾ 
 Final form : *#kˈoɾpə#

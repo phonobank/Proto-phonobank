@@ -2,11 +2,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #wˈeːnde# >>> *#vˈenːə# ( GOLD : #vˈenːə#) :
 w ˈeː n d e 
 Proto-Romance stage form : *#wˈeːnde#
-*#wˈeːndɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈendɛ# | 28 : [+syl] > [-long,-splng] 
-*#vˈendɛ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈenːɛ# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#vˈenːe# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˈeːndɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈendɛ# | 30 : [+syl] > [-long,-splng] 
+*#vˈendɛ# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈenːɛ# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#vˈenːe# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˈenːe#
-*#vˈenːə# | 104 : [-stres,-lo] > ə 
+*#vˈenːə# | 106 : [-stres,-lo] > ə 
 Final form : *#vˈenːə#

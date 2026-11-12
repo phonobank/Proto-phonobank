@@ -2,13 +2,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ˌimplˈiː# >>> *#mbjˈi# ( GOLD : #mbjˈi#) :
 ˌi m p l ˈiː 
 Proto-Romance stage form : *#ˌimplˈiː#
-*#ˌɪmplˈiː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌiːmplˈiː# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌimplˈi# | 28 : [+syl] > [-long,-splng] 
-*#ˌimpʎˈi# | 70 : l > ʎ / [-son,-cor] __
+*#ˌɪmplˈiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌiːmplˈiː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌimplˈi# | 30 : [+syl] > [-long,-splng] 
+*#ˌimpʎˈi# | 72 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌimpʎˈi#
-*#əmpʎˈi# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#mpʎˈi# | 87 : ə > ∅ / # __
-*#mbʎˈi# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbjˈi# | 117 : {ʎ;ʎː} > {j;jː} 
+*#əmpʎˈi# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#mpʎˈi# | 89 : ə > ∅ / # __
+*#mbʎˈi# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbjˈi# | 119 : {ʎ;ʎː} > {j;jː} 
 Final form : *#mbjˈi#

@@ -1,11 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 460:
-#krˈypta# >>> *#kɾˈytːa# ( GOLD : #ɾˈɔtːa#) :
+#krˈypta# >>> *#kɾˈotːa# ( GOLD : #ɾˈɔtːa#) :
 k r ˈy p t a 
 Proto-Romance stage form : *#krˈypta#
-*#krˈʏpta# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#krˈyːpta# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#krˈypta# | 28 : [+syl] > [-long,-splng] 
-*#krˈytːa# | 33 : [+lab,-son] [+cor,-son] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#krˈytːa#
-*#kɾˈytːa# | 114 : r > ɾ 
-Final form : *#kɾˈytːa#
+*#krˈupta# | 13 : ˈy > ˈu / __ [+cons] [+cons]
+*#krˈʊpta# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˈʊtːa# | 35 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#krˈotːa# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#krˈotːa#
+*#kɾˈotːa# | 116 : r > ɾ 
+Final form : *#kɾˈotːa#

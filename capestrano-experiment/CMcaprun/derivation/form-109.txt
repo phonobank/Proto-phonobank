@@ -3,13 +3,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 s ˌe p t u aː ɡ ˈi n t aː 
 *#sˌeptwaːɡˈintaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#sˌeptwaːɡˈintaː#
-*#sˌɛptwaːɡˈɪntaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌɛptwaːjˈɪntaː# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#sˌɛptwajˈɪnta# | 28 : [+syl] > [-long,-splng] 
-*#sˌɛtːwajˈɪnta# | 33 : [+lab,-son] [+cor,-son] > ∅ [+long]
-*#sˌetːwajˈɪnta# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#sˌetːwajˈenta# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˌɛptwaːɡˈɪntaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌɛptwaːjˈɪntaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#sˌɛptwajˈɪnta# | 30 : [+syl] > [-long,-splng] 
+*#sˌɛtːwajˈɪnta# | 35 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#sˌetːwajˈɪnta# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#sˌetːwajˈenta# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#sˌetːwajˈenta#
-*#sˌetːwajˈenda# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#sətːwajˈenda# | 116 : [-prim,-hi,-lo] > ə 
+*#sˌetːwajˈenda# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#sətːwajˈenda# | 118 : [-prim,-hi,-lo] > ə 
 Final form : *#sətːwajˈenda#

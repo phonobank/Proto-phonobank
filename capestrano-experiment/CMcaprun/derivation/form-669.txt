@@ -2,15 +2,15 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #wˈekulum# >>> *#vˈekːjə# ( GOLD : #vˈekːjə#) :
 w ˈe k u l u m 
 Proto-Romance stage form : *#wˈekulum#
-*#wˈɛkʊlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈɛklʊm# | 27 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
-*#wˈɛklʊ# | 35 : [+cons] > ∅ / __ #
-*#vˈɛklʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈɛklu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vˈeklu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#vˈekʎu# | 70 : l > ʎ / [-son,-cor] __
-*#vˈekːʎu# | 72 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+*#wˈɛkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈɛklʊm# | 29 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
+*#wˈɛklʊ# | 37 : [+cons] > ∅ / __ #
+*#vˈɛklʊ# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈɛklu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vˈeklu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#vˈekʎu# | 72 : l > ʎ / [-son,-cor] __
+*#vˈekːʎu# | 74 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
 Proto-South-Italo-Romance stage form : *#vˈekːʎu#
-*#vˈekːʎə# | 104 : [-stres,-lo] > ə 
-*#vˈekːjə# | 117 : {ʎ;ʎː} > {j;jː} 
+*#vˈekːʎə# | 106 : [-stres,-lo] > ə 
+*#vˈekːjə# | 119 : {ʎ;ʎː} > {j;jː} 
 Final form : *#vˈekːjə#

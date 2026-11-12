@@ -2,12 +2,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #kˌompˌarˈaː# >>> *#kəmbɾˈa# ( GOLD : #kəmbɾˈa#) :
 k ˌo m p ˌa r ˈaː 
 Proto-Romance stage form : *#kˌompˌarˈaː#
-*#kˌɔmpˌarˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɔmpˌarˈa# | 28 : [+syl] > [-long,-splng] 
-*#kˌɔmprˈa# | 40 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
-*#kˌomprˈa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔmpˌarˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔmpˌarˈa# | 30 : [+syl] > [-long,-splng] 
+*#kˌɔmprˈa# | 42 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
+*#kˌomprˈa# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#kˌomprˈa#
-*#kˌombrˈa# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kˌombɾˈa# | 114 : r > ɾ 
-*#kəmbɾˈa# | 116 : [-prim,-hi,-lo] > ə 
+*#kˌombrˈa# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kˌombɾˈa# | 116 : r > ɾ 
+*#kəmbɾˈa# | 118 : [-prim,-hi,-lo] > ə 
 Final form : *#kəmbɾˈa#

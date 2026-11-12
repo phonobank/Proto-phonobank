@@ -2,11 +2,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ˌillˌa# >>> *#lːa# ( GOLD : #la#) :
 ˌi l l ˌa 
 Proto-Romance stage form : *#ˌillˌa#
-*#ˌɪllˌa# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌellˌa# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌelːˌa# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ˌɪllˌa# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌellˌa# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌelːˌa# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#ˌelːˌa#
-*#əlːˌa# | 83 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#lːˌa# | 87 : ə > ∅ / # __
-*#lːa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+*#əlːˌa# | 85 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#lːˌa# | 89 : ə > ∅ / # __
+*#lːa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#lːa#

@@ -2,15 +2,15 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ˌeksplˌaːnˈaː# >>> *#spjanˈa# ( GOLD : #spjanˈa#) :
 ˌe k s p l ˌaː n ˈaː 
 Proto-Romance stage form : *#ˌeksplˌaːnˈaː#
-*#ˌɛksplˌaːnˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɛsːplˌaːnˈaː# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɛsːplˌanˈa# | 28 : [+syl] > [-long,-splng] 
-*#ˌɛsplˌanˈa# | 37 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#ˌesplˌanˈa# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌespʎˌanˈa# | 70 : l > ʎ / [-son,-cor] __
+*#ˌɛksplˌaːnˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛsːplˌaːnˈaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛsːplˌanˈa# | 30 : [+syl] > [-long,-splng] 
+*#ˌɛsplˌanˈa# | 39 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˌesplˌanˈa# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌespʎˌanˈa# | 72 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌespʎˌanˈa#
-*#əspʎˌanˈa# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#spʎˌanˈa# | 87 : ə > ∅ / # __
-*#spjˌanˈa# | 117 : {ʎ;ʎː} > {j;jː} 
-*#spjanˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+*#əspʎˌanˈa# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#spʎˌanˈa# | 89 : ə > ∅ / # __
+*#spjˌanˈa# | 119 : {ʎ;ʎː} > {j;jː} 
+*#spjanˈa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#spjanˈa#

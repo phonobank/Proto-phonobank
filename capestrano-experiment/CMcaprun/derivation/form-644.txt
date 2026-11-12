@@ -3,11 +3,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 w ˈi d u u m 
 *#wˈidwum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#wˈidwum#
-*#wˈɪdwʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈɪdwʊ# | 35 : [+cons] > ∅ / __ #
-*#vˈɪdwʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈɪdwu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vˈedwu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#wˈɪdwʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈɪdwʊ# | 37 : [+cons] > ∅ / __ #
+*#vˈɪdwʊ# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈɪdwu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vˈedwu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#vˈedwu#
-*#vˈedwə# | 104 : [-stres,-lo] > ə 
+*#vˈedwə# | 106 : [-stres,-lo] > ə 
 Final form : *#vˈedwə#

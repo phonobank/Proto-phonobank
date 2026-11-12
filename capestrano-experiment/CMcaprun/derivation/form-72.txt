@@ -2,11 +2,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #dˈuplam# >>> *#dˈopːja# ( GOLD : #dˈopːja#) :
 d ˈu p l a m 
 Proto-Romance stage form : *#dˈuplam#
-*#dˈʊplam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈʊpla# | 35 : [+cons] > ∅ / __ #
-*#dˈopla# | 62 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-*#dˈopʎa# | 70 : l > ʎ / [-son,-cor] __
-*#dˈopːʎa# | 72 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+*#dˈʊplam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˈʊpla# | 37 : [+cons] > ∅ / __ #
+*#dˈopla# | 64 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#dˈopʎa# | 72 : l > ʎ / [-son,-cor] __
+*#dˈopːʎa# | 74 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
 Proto-South-Italo-Romance stage form : *#dˈopːʎa#
-*#dˈopːja# | 117 : {ʎ;ʎː} > {j;jː} 
+*#dˈopːja# | 119 : {ʎ;ʎː} > {j;jː} 
 Final form : *#dˈopːja#

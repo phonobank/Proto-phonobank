@@ -2,19 +2,19 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #dˌiɡitˈellum# >>> *#ditˈejːə# ( GOLD : #ditˈejːə#) :
 d ˌi ɡ i t ˈe l l u m 
 Proto-Romance stage form : *#dˌiɡitˈellum#
-*#dˌɪɡɪtˈɛllʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˌɪjɪtˈɛllʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#dˌiːjɪtˈɛllʊm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#dˌijɪtˈɛllʊm# | 28 : [+syl] > [-long,-splng] 
-*#dˌijɪtˈɛllʊ# | 35 : [+cons] > ∅ / __ #
-*#dˌijtˈɛllʊ# | 45 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
-*#dˌitˈɛllʊ# | 57 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
-*#dˌitˈɛllu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dˌitˈellu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#dˌitˈelːu# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#dˌɪɡɪtˈɛllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˌɪjɪtˈɛllʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#dˌiːjɪtˈɛllʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#dˌijɪtˈɛllʊm# | 30 : [+syl] > [-long,-splng] 
+*#dˌijɪtˈɛllʊ# | 37 : [+cons] > ∅ / __ #
+*#dˌijtˈɛllʊ# | 47 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
+*#dˌitˈɛllʊ# | 59 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
+*#dˌitˈɛllu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dˌitˈellu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#dˌitˈelːu# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#dˌitˈelːu#
-*#dˌitˈeʎːu# | 94 : lː > ʎː / __ [+hi]
-*#dˌitˈeʎːə# | 104 : [-stres,-lo] > ə 
-*#dˌitˈejːə# | 117 : {ʎ;ʎː} > {j;jː} 
-*#ditˈejːə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+*#dˌitˈeʎːu# | 96 : lː > ʎː / __ [+hi]
+*#dˌitˈeʎːə# | 106 : [-stres,-lo] > ə 
+*#dˌitˈejːə# | 119 : {ʎ;ʎː} > {j;jː} 
+*#ditˈejːə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#ditˈejːə#

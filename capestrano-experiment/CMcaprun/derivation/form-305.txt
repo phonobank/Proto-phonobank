@@ -3,20 +3,20 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 ˌi n ˌeː b r i aː k ˈoː n e m 
 *#ˌinˌeːbrjaːkˈoːnem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#ˌinˌeːbrjaːkˈoːnem#
-*#ˌɪnˌeːbrjaːkˈoːnɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪnˌebrjakˈonɛm# | 28 : [+syl] > [-long,-splng] 
-*#ˌɪnˌebrʲakˈonɛm# | 30 : r j > rʲ 
-*#ˌɪnˌebrʲakˈonɛ# | 35 : [+cons] > ∅ / __ #
-*#ˌɪnbrʲakˈonɛ# | 55 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
-*#ˌenbrʲakˈonɛ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenbrʲakˈone# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌenvrʲakˈone# | 73 : b > v / [-cons] ( n ) __
+*#ˌɪnˌeːbrjaːkˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪnˌebrjakˈonɛm# | 30 : [+syl] > [-long,-splng] 
+*#ˌɪnˌebrʲakˈonɛm# | 32 : r j > rʲ 
+*#ˌɪnˌebrʲakˈonɛ# | 37 : [+cons] > ∅ / __ #
+*#ˌɪnbrʲakˈonɛ# | 57 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#ˌenbrʲakˈonɛ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenbrʲakˈone# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌenvrʲakˈone# | 75 : b > v / [-cons] ( n ) __
 Proto-South-Italo-Romance stage form : *#ˌenvrʲakˈone#
-*#ənvrʲakˈone# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#ˌinvrʲakˈone# | 85 : ə > ˌi / __ n [+cons,+lab,+voi]
-*#ˌinvrjakˈone# | 91 : rʲ > r j / [+cons] __
-*#ˌimːrjakˈone# | 96 : n v > mː 
-*#ˌimːrjakˈonə# | 104 : [-stres,-lo] > ə 
-*#ˌimːɾjakˈonə# | 114 : r > ɾ 
-*#imːɾjakˈonə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ənvrʲakˈone# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ˌinvrʲakˈone# | 87 : ə > ˌi / __ n [+cons,+lab,+voi]
+*#ˌinvrjakˈone# | 93 : rʲ > r j / [+cons] __
+*#ˌimːrjakˈone# | 98 : n v > mː 
+*#ˌimːrjakˈonə# | 106 : [-stres,-lo] > ə 
+*#ˌimːɾjakˈonə# | 116 : r > ɾ 
+*#imːɾjakˈonə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#imːɾjakˈonə#

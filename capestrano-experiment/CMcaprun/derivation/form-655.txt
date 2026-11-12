@@ -3,14 +3,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 w ˌi ɡ ˈi l i a m 
 *#wˌiɡˈiljam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#wˌiɡˈiljam#
-*#wˌɪɡˈɪljam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɪjˈɪljam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#wˌiːjˈiːljam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#wˌijˈiljam# | 28 : [+syl] > [-long,-splng] 
-*#wˌijˈiʎːam# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#wˌijˈiʎːa# | 35 : [+cons] > ∅ / __ #
-*#vˌijˈiʎːa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#wˌɪɡˈɪljam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌɪjˈɪljam# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#wˌiːjˈiːljam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#wˌijˈiljam# | 30 : [+syl] > [-long,-splng] 
+*#wˌijˈiʎːam# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#wˌijˈiʎːa# | 37 : [+cons] > ∅ / __ #
+*#vˌijˈiʎːa# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
 Proto-South-Italo-Romance stage form : *#vˌijˈiʎːa#
-*#vˌijˈijːa# | 117 : {ʎ;ʎː} > {j;jː} 
-*#vijˈijːa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+*#vˌijˈijːa# | 119 : {ʎ;ʎː} > {j;jː} 
+*#vijˈijːa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#vijˈijːa#

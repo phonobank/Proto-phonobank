@@ -2,11 +2,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ˈaksem# >>> *#ˈaʃːə# ( GOLD : #ˈasːə#) :
 ˈa k s e m 
 Proto-Romance stage form : *#ˈaksem#
-*#ˈaksɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈasːɛm# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˈasːɛ# | 35 : [+cons] > ∅ / __ #
-*#ˈasːe# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈaksɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈasːɛm# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˈasːɛ# | 37 : [+cons] > ∅ / __ #
+*#ˈasːe# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˈasːe#
-*#ˈaʃːe# | 99 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#ˈaʃːə# | 104 : [-stres,-lo] > ə 
+*#ˈaʃːe# | 101 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#ˈaʃːə# | 106 : [-stres,-lo] > ə 
 Final form : *#ˈaʃːə#

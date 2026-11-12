@@ -3,13 +3,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 s ˌi m ˈi l i a t 
 *#sˌimˈiljat# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#sˌimˈiljat#
-*#sˌɪmˈɪljat# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌiːmˈiːljat# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#sˌimˈiljat# | 28 : [+syl] > [-long,-splng] 
-*#sˌimˈiʎːat# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#sˌimˈiʎːa# | 35 : [+cons] > ∅ / __ #
+*#sˌɪmˈɪljat# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌiːmˈiːljat# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#sˌimˈiljat# | 30 : [+syl] > [-long,-splng] 
+*#sˌimˈiʎːat# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#sˌimˈiʎːa# | 37 : [+cons] > ∅ / __ #
 Proto-South-Italo-Romance stage form : *#sˌimˈiʎːa#
-*#ʃˌimˈiʎːa# | 100 : s > ʃ / # __ [+hi,+front]
-*#ʃˌimˈijːa# | 117 : {ʎ;ʎː} > {j;jː} 
-*#ʃimˈijːa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ʃˌimˈiʎːa# | 102 : s > ʃ / # __ [+hi,+front]
+*#ʃˌimˈijːa# | 119 : {ʎ;ʎː} > {j;jː} 
+*#ʃimˈijːa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#ʃimˈijːa#

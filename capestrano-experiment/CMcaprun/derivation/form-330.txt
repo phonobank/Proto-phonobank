@@ -2,15 +2,16 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ˌeleˌeːmˈosynum# >>> *#ləəmˈosənə# ( GOLD : #ləmˈɔsənə#) :
 ˌe l e ˌeː m ˈo s y n u m 
 Proto-Romance stage form : *#ˌeleˌeːmˈosynum#
-*#ˌɛlɛˌeːmˈɔsʏnʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɛlɛˌemˈɔsʏnʊm# | 28 : [+syl] > [-long,-splng] 
-*#ˌɛlɛˌemˈɔsʏnʊ# | 35 : [+cons] > ∅ / __ #
-*#ˌelɛˌemˈɔsʏnʊ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌelɛˌemˈɔsynu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌeleˌemˈosynu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌeleˌemˈosynu#
-*#əleˌemˈosynu# | 83 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#leˌemˈosynu# | 87 : ə > ∅ / # __
-*#leemˈosynu# | 102 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ləəmˈosənə# | 104 : [-stres,-lo] > ə 
+*#ˌeleˌeːmˈosinum# | 14 : [+front] > [-lab,-round] 
+*#ˌɛlɛˌeːmˈɔsɪnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛlɛˌemˈɔsɪnʊm# | 30 : [+syl] > [-long,-splng] 
+*#ˌɛlɛˌemˈɔsɪnʊ# | 37 : [+cons] > ∅ / __ #
+*#ˌelɛˌemˈɔsɪnʊ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌelɛˌemˈɔsɪnu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌeleˌemˈosenu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌeleˌemˈosenu#
+*#əleˌemˈosenu# | 85 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#leˌemˈosenu# | 89 : ə > ∅ / # __
+*#leemˈosenu# | 104 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ləəmˈosənə# | 106 : [-stres,-lo] > ə 
 Final form : *#ləəmˈosənə#

@@ -2,15 +2,15 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #dˌiɡitˈoːnem# >>> *#ditˈonə# ( GOLD : #ditˈonə#) :
 d ˌi ɡ i t ˈoː n e m 
 Proto-Romance stage form : *#dˌiɡitˈoːnem#
-*#dˌɪɡɪtˈoːnɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˌɪjɪtˈoːnɛm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#dˌiːjɪtˈoːnɛm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#dˌijɪtˈonɛm# | 28 : [+syl] > [-long,-splng] 
-*#dˌijɪtˈonɛ# | 35 : [+cons] > ∅ / __ #
-*#dˌijtˈonɛ# | 45 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
-*#dˌitˈonɛ# | 57 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
-*#dˌitˈone# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#dˌɪɡɪtˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˌɪjɪtˈoːnɛm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#dˌiːjɪtˈoːnɛm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#dˌijɪtˈonɛm# | 30 : [+syl] > [-long,-splng] 
+*#dˌijɪtˈonɛ# | 37 : [+cons] > ∅ / __ #
+*#dˌijtˈonɛ# | 47 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
+*#dˌitˈonɛ# | 59 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
+*#dˌitˈone# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#dˌitˈone#
-*#dˌitˈonə# | 104 : [-stres,-lo] > ə 
-*#ditˈonə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+*#dˌitˈonə# | 106 : [-stres,-lo] > ə 
+*#ditˈonə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#ditˈonə#

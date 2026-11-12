@@ -2,15 +2,15 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 #ɡrˈillum# >>> *#ɾˈejːə# ( GOLD : #ɾˈijːə#) :
 ɡ r ˈi l l u m 
 Proto-Romance stage form : *#ɡrˈillum#
-*#ɡrˈɪllʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡrˈɪllʊ# | 35 : [+cons] > ∅ / __ #
-*#ɡrˈɪllu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɡrˈellu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ɡrˈelːu# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ɡrˈɪllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡrˈɪllʊ# | 37 : [+cons] > ∅ / __ #
+*#ɡrˈɪllu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ɡrˈellu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ɡrˈelːu# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
 Proto-South-Italo-Romance stage form : *#ɡrˈelːu#
-*#ɡrˈeʎːu# | 94 : lː > ʎː / __ [+hi]
-*#ɡrˈeʎːə# | 104 : [-stres,-lo] > ə 
-*#rˈeʎːə# | 105 : ɡ > ∅ / # __ r
-*#ɾˈeʎːə# | 114 : r > ɾ 
-*#ɾˈejːə# | 117 : {ʎ;ʎː} > {j;jː} 
+*#ɡrˈeʎːu# | 96 : lː > ʎː / __ [+hi]
+*#ɡrˈeʎːə# | 106 : [-stres,-lo] > ə 
+*#rˈeʎːə# | 107 : ɡ > ∅ / # __ r
+*#ɾˈeʎːə# | 116 : r > ɾ 
+*#ɾˈejːə# | 119 : {ʎ;ʎː} > {j;jː} 
 Final form : *#ɾˈejːə#
