@@ -1,9 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 620:
-#ɡˈulam# >>> *#ɡˈola# ( GOLD : #ɡˈola#) :
-ɡ ˈu l a m 
-Proto-Romance stage form : *#ɡˈulam#
-*#ɡˈʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡˈʊla# | 37 : [+cons] > ∅ / __ #
-*#ɡˈola# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ɡˈola#
-Final form : *#ɡˈola#
+#ɡˈummi# >>> *#ɡˈumːə# ( GOLD : #ɡˈɔmːa#) :
+ɡ ˈu m m i 
+Proto-Romance stage form : *#ɡˈummi#
+*#ɡˈʊmmɪ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡˈʊmːɪ# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ɡˈumːɪ# | 66 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
+*#ɡˈumːe# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ɡˈumːe#
+*#ɡˈumːə# | 106 : [-stres,-lo] > ə 
+Final form : *#ɡˈumːə#

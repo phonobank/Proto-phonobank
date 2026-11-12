@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1007:
-#wˌadaniˈaː# >>> *#vadaɲˈa# ( GOLD : #wadanˈa#) :
-w ˌa d a n i ˈaː 
-*#wˌadanjˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#wˌadanjˈaː#
-*#wˌadanjˈa# | 30 : [+syl] > [-long,-splng] 
-*#wˌadaɲːˈa# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#vˌadaɲːˈa# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#vˌadaɲːˈa#
-*#vˌadaɲˈa# | 120 : ɲː > ɲ 
-*#vadaɲˈa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#vadaɲˈa#
+#wˌardoːn# >>> *#vaɾdə# ( GOLD : #wardˈa#) :
+w ˌa r d oː n 
+Proto-Romance stage form : *#wˌardoːn#
+*#wˌardon# | 30 : [+syl] > [-long,-splng] 
+*#wˌardo# | 37 : [+cons] > ∅ / __ #
+*#vˌardo# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#vˌardo#
+*#vˌardə# | 106 : [-stres,-lo] > ə 
+*#vˌaɾdə# | 116 : r > ɾ 
+*#vaɾdə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vaɾdə#

@@ -1,16 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1030:
-#pˌartiːtiˈoːnem# >>> *#paɾtət͡sːˈonə# ( GOLD : #paɾtit͡sjˈonə#) :
-p ˌa r t iː t i ˈoː n e m 
-*#pˌartiːtjˈoːnem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#pˌartiːtjˈoːnem#
-*#pˌartiːtjˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌartiːtʲːˈoːnɛm# | 23 : t j > tʲː 
-*#pˌartitʲːˈonɛm# | 30 : [+syl] > [-long,-splng] 
-*#pˌartit͡sːˈonɛm# | 31 : tʲː > t͡sː 
-*#pˌartit͡sːˈonɛ# | 37 : [+cons] > ∅ / __ #
-*#pˌartit͡sːˈone# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˌartit͡sːˈone#
-*#pˌartət͡sːˈonə# | 106 : [-stres,-lo] > ə 
-*#pˌaɾtət͡sːˈonə# | 116 : r > ɾ 
-*#paɾtət͡sːˈonə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#paɾtət͡sːˈonə#
+#pˈopuliː# >>> *#pˈopələ# ( GOLD : #pˈopələ#) :
+p ˈo p u l iː 
+Proto-Romance stage form : *#pˈopuliː#
+*#pˈɔpʊliː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɔpʊli# | 30 : [+syl] > [-long,-splng] 
+*#pˈɔpuli# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˈopuli# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#pˈopuli#
+*#pˈopələ# | 106 : [-stres,-lo] > ə 
+Final form : *#pˈopələ#

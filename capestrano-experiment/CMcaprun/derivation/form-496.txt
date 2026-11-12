@@ -1,14 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 496:
-#kˈalkeas# >>> *#kˈavət͡ʃja# ( GOLD : #kˈawt͡sə#) :
-k ˈa l k e a s 
-*#kˈalkias# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
-*#kˈalkjas# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˈalkjas#
-*#kˈalˠkjas# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
-*#kˈalˠt͡ʃjas# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#kˈalˠt͡ʃja# | 37 : [+cons] > ∅ / __ #
-*#kˈalˠət͡ʃja# | 46 : ∅ > ə / lˠ __ [-syl]
-*#kˈawət͡ʃja# | 48 : lˠ > w / __ ( ə ) t͡ʃ
-*#kˈavət͡ʃja# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#kˈavət͡ʃja#
-Final form : *#kˈavət͡ʃja#
+#kˈalkeae̯# >>> *#kˈot͡ʃəə# ( GOLD : #kˈawt͡sə#) :
+k ˈa l k e a e̯ 
+*#kˈalkeɛː# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
+Proto-Romance stage form : *#kˈalkeɛː#
+*#kˈalkɛɛː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈalˠkɛɛː# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
+*#kˈalˠt͡ʃɛɛː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#kˈalˠt͡ʃɛɛ# | 30 : [+syl] > [-long,-splng] 
+*#kˈalˠət͡ʃɛɛ# | 46 : ∅ > ə / lˠ __ [-syl]
+*#kˈalˠt͡ʃɛɛ# | 47 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
+*#kˈawt͡ʃɛɛ# | 48 : lˠ > w / __ ( ə ) t͡ʃ
+*#kˈawt͡ʃee# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈowt͡ʃee# | 70 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+Proto-South-Italo-Romance stage form : *#kˈowt͡ʃee#
+*#kˈot͡ʃee# | 95 : w > ∅ / [+round] __ [+cons]
+*#kˈot͡ʃəə# | 106 : [-stres,-lo] > ə 
+Final form : *#kˈot͡ʃəə#

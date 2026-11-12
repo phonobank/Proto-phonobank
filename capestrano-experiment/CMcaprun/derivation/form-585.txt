@@ -1,15 +1,9 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 585:
-#kˌunˈiːkulum# >>> *#kunˈijːə# ( GOLD : #kunˈijːə#) :
-k ˌu n ˈiː k u l u m 
-Proto-Romance stage form : *#kˌunˈiːkulum#
-*#kˌʊnˈiːkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌʊnˈikʊlʊm# | 30 : [+syl] > [-long,-splng] 
-*#kˌʊnˈikʊlʊ# | 37 : [+cons] > ∅ / __ #
-*#kˌʊnˈiɡlʊ# | 51 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
-*#kˌʊnˈiʎːʊ# | 52 : ɡ l > ʎː 
-*#kˌunˈiʎːu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌunˈiʎːu#
-*#kˌunˈiʎːə# | 106 : [-stres,-lo] > ə 
-*#kˌunˈijːə# | 119 : {ʎ;ʎː} > {j;jː} 
-*#kunˈijːə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kunˈijːə#
+#kˈulpam# >>> *#kˈolpa# ( GOLD : #kˈolpa#) :
+k ˈu l p a m 
+Proto-Romance stage form : *#kˈulpam#
+*#kˈʊlpam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈʊlpa# | 37 : [+cons] > ∅ / __ #
+*#kˈolpa# | 64 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+Proto-South-Italo-Romance stage form : *#kˈolpa#
+Final form : *#kˈolpa#

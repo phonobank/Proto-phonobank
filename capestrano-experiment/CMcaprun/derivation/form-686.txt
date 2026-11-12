@@ -1,14 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 686:
-#wˈoːkem# >>> *#ɡˈot͡ʃə# ( GOLD : #vˈot͡ʃə#) :
-w ˈoː k e m 
-Proto-Romance stage form : *#wˈoːkem#
-*#wˈoːkɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈoːt͡ʃɛm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#wˈot͡ʃɛm# | 30 : [+syl] > [-long,-splng] 
-*#wˈot͡ʃɛ# | 37 : [+cons] > ∅ / __ #
-*#vˈot͡ʃɛ# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈot͡ʃe# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˈot͡ʃe#
-*#vˈot͡ʃə# | 106 : [-stres,-lo] > ə 
-*#ɡˈot͡ʃə# | 121 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
-Final form : *#ɡˈot͡ʃə#
+#wˈomerem# >>> *#ɡˈomːəɾə# ( GOLD : #vˈɛmbɾə#) :
+w ˈo m e r e m 
+Proto-Romance stage form : *#wˈomerem#
+*#wˈɔmɛrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈɔmɛrɛ# | 37 : [+cons] > ∅ / __ #
+*#wˈɔmːɛrɛ# | 41 : m > mː / # ( [+lab] ) [-cons,-lo] __ [+syl] [+cons] [+syl] #
+*#vˈɔmːɛrɛ# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈomːere# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˈomːere#
+*#vˈomːərə# | 106 : [-stres,-lo] > ə 
+*#vˈomːəɾə# | 116 : r > ɾ 
+*#ɡˈomːəɾə# | 121 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+Final form : *#ɡˈomːəɾə#

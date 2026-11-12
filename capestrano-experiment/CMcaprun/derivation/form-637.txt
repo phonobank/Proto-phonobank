@@ -1,15 +1,8 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 637:
-#kwˌae̯stˈoːrem# >>> *#kwəstˈoɾə# ( GOLD : #kwəstˈoɾə#) :
-k w ˌa e̯ s t ˈoː r e m 
-*#kwˌɛːstˈoːrem# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
-Proto-Romance stage form : *#kwˌɛːstˈoːrem#
-*#kwˌɛːstˈoːrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kwˌɛstˈorɛm# | 30 : [+syl] > [-long,-splng] 
-*#kwˌɛstˈorɛ# | 37 : [+cons] > ∅ / __ #
-*#kwˌestˈorɛ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
-*#kwˌestˈore# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kwˌestˈore#
-*#kwˌestˈorə# | 106 : [-stres,-lo] > ə 
-*#kwˌestˈoɾə# | 116 : r > ɾ 
-*#kwəstˈoɾə# | 118 : [-prim,-hi,-lo] > ə 
-Final form : *#kwəstˈoɾə#
+#kwˈoːmoː# >>> *#kwˈomə# ( GOLD : #kˈomə#) :
+k w ˈoː m oː 
+Proto-Romance stage form : *#kwˈoːmoː#
+*#kwˈomo# | 30 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#kwˈomo#
+*#kwˈomə# | 106 : [-stres,-lo] > ə 
+Final form : *#kwˈomə#

@@ -1,11 +1,9 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 999:
-#stˌap͡ɸːˈine# >>> *#stapːˈenə# ( GOLD : #ʃtafːˈinə#) :
-s t ˌa p͡ɸː ˈi n e 
-Proto-Romance stage form : *#stˌap͡ɸːˈine#
-*#stˌap͡ɸːˈɪnɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#stˌap͡ɸːˈene# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#stˌap͡ɸːˈene#
-*#stˌap͡ɸːˈenə# | 106 : [-stres,-lo] > ə 
-*#stˌapːˈenə# | 109 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
-*#stapːˈenə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#stapːˈenə#
+#skˈiːna# >>> *#ʃˈina# ( GOLD : #skˈina#) :
+s k ˈiː n a 
+Proto-Romance stage form : *#skˈiːna#
+*#st͡ʃˈiːna# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#st͡ʃˈina# | 30 : [+syl] > [-long,-splng] 
+*#ʃˈina# | 78 : s t͡ʃ > ʃ 
+Proto-South-Italo-Romance stage form : *#ʃˈina#
+Final form : *#ʃˈina#

@@ -1,11 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1002:
-#rˈuspo# >>> *#ɾˈospə# ( GOLD : #ɾˈuspə#) :
-r ˈu s p o 
-Proto-Romance stage form : *#rˈuspo#
-*#rˈʊspɔ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#rˈʊspo# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#rˈospo# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#rˈospo#
-*#rˈospə# | 106 : [-stres,-lo] > ə 
-*#ɾˈospə# | 116 : r > ɾ 
-Final form : *#ɾˈospə#
+#ˌadrˌawbˈaː# >>> *#adɾəvˈa# ( GOLD : #arːubːˈa#) :
+ˌa d r ˌa w b ˈaː 
+Proto-Romance stage form : *#ˌadrˌawbˈaː#
+*#ˌadrˌawbˈa# | 30 : [+syl] > [-long,-splng] 
+*#ˌadrˌowbˈa# | 70 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+*#ˌadrˌowvˈa# | 75 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#ˌadrˌowvˈa#
+*#ˌadrˌovˈa# | 95 : w > ∅ / [+round] __ [+cons]
+*#ˌadrovˈa# | 104 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌadrəvˈa# | 106 : [-stres,-lo] > ə 
+*#ˌadɾəvˈa# | 116 : r > ɾ 
+*#adɾəvˈa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#adɾəvˈa#

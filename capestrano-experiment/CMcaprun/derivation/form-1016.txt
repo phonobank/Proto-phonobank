@@ -1,15 +1,20 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1016:
-#dˌomˈinikam# >>> *#dəmˈenɡa# ( GOLD : #dəmˈenəka#) :
-d ˌo m ˈi n i k a m 
-Proto-Romance stage form : *#dˌomˈinikam#
-*#dˌɔmˈɪnɪkam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˌɔmˈɪniːkam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#dˌɔmˈɪnikam# | 30 : [+syl] > [-long,-splng] 
-*#dˌɔmˈɪnika# | 37 : [+cons] > ∅ / __ #
-*#dˌɔmˈɪnka# | 57 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
-*#dˌomˈɪnka# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dˌomˈenka# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#dˌomˈenka#
-*#dˌomˈenɡa# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#dəmˈenɡa# | 118 : [-prim,-hi,-lo] > ə 
-Final form : *#dəmˈenɡa#
+#rˌeliɡiˈoːnem# >>> *#ɾələjːˈonə# ( GOLD : #ɾəlid͡ʒːˈonə#) :
+r ˌe l i ɡ i ˈoː n e m 
+*#rˌeliɡjˈoːnem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#rˌeliɡjˈoːnem#
+*#rˌɛlɪɡjˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌɛlɪjjˈoːnɛm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#rˌɛliːjjˈoːnɛm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#rˌɛlijjˈonɛm# | 30 : [+syl] > [-long,-splng] 
+*#rˌɛlijjˈonɛ# | 37 : [+cons] > ∅ / __ #
+*#rˌelijjˈonɛ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#rˌelijjˈone# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˌelijːˈone# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#rˌelˌijːˈone# | 81 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
+Proto-South-Italo-Romance stage form : *#rˌelˌijːˈone#
+*#rˌelijːˈone# | 104 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#rˌeləjːˈonə# | 106 : [-stres,-lo] > ə 
+*#ɾˌeləjːˈonə# | 116 : r > ɾ 
+*#ɾələjːˈonə# | 118 : [-prim,-hi,-lo] > ə 
+Final form : *#ɾələjːˈonə#

@@ -1,16 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 975:
-#mˌontˈaːneam# >>> *#məndˈaɲa# ( GOLD : #məndˈaɲa#) :
-m ˌo n t ˈaː n e a m 
-*#mˌontˈaːniam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
-*#mˌontˈaːnjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#mˌontˈaːnjam#
-*#mˌɔntˈaːnjam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɔntˈanjam# | 30 : [+syl] > [-long,-splng] 
-*#mˌɔntˈaɲːam# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#mˌɔntˈaɲːa# | 37 : [+cons] > ∅ / __ #
-*#mˌontˈaɲːa# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌontˈaɲːa#
-*#mˌondˈaɲːa# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#məndˈaɲːa# | 118 : [-prim,-hi,-lo] > ə 
-*#məndˈaɲa# | 120 : ɲː > ɲ 
-Final form : *#məndˈaɲa#
+#mˌoːnstrˈaː# >>> *#məstɾˈa# ( GOLD : #mustɾˈa#) :
+m ˌoː n s t r ˈaː 
+Proto-Romance stage form : *#mˌoːnstrˈaː#
+*#mˌonstrˈa# | 30 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#mˌonstrˈa#
+*#mˌostrˈa# | 97 : n > ∅ / __ s [+cons] [+cons]
+*#mˌostɾˈa# | 116 : r > ɾ 
+*#məstɾˈa# | 118 : [-prim,-hi,-lo] > ə 
+Final form : *#məstɾˈa#

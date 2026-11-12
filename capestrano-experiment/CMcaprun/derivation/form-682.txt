@@ -1,14 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 682:
-#wˈoliam# >>> *#ɡˈojːa# ( GOLD : #ɡˈulia#) :
-w ˈo l i a m 
-*#wˈoljam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#wˈoljam#
-*#wˈɔljam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈɔʎːam# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#wˈɔʎːa# | 37 : [+cons] > ∅ / __ #
-*#vˈɔʎːa# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈoʎːa# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˈoʎːa#
-*#vˈojːa# | 119 : {ʎ;ʎː} > {j;jː} 
-*#ɡˈojːa# | 121 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
-Final form : *#ɡˈojːa#
+#wˌolˈaː# >>> *#vəlˈa# ( GOLD : #vəlˈa#) :
+w ˌo l ˈaː 
+Proto-Romance stage form : *#wˌolˈaː#
+*#wˌɔlˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌɔlˈa# | 30 : [+syl] > [-long,-splng] 
+*#vˌɔlˈa# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˌolˈa# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˌolˈa#
+*#vəlˈa# | 118 : [-prim,-hi,-lo] > ə 
+Final form : *#vəlˈa#

@@ -1,13 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 656:
-#wˈiːperam# >>> *#vˈipəɾa# ( GOLD : #vˈipəɾa#) :
-w ˈiː p e r a m 
-Proto-Romance stage form : *#wˈiːperam#
-*#wˈiːpɛram# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈipɛram# | 30 : [+syl] > [-long,-splng] 
-*#wˈipɛra# | 37 : [+cons] > ∅ / __ #
-*#vˈipɛra# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈipera# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˈipera#
-*#vˈipəra# | 106 : [-stres,-lo] > ə 
-*#vˈipəɾa# | 116 : r > ɾ 
-Final form : *#vˈipəɾa#
+#wˌestˈiː# >>> *#vəstˈi# ( GOLD : #vəstˈi#) :
+w ˌe s t ˈiː 
+Proto-Romance stage form : *#wˌestˈiː#
+*#wˌɛstˈiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌɛstˈi# | 30 : [+syl] > [-long,-splng] 
+*#vˌɛstˈi# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˌestˈi# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#vˌestˈi#
+*#vəstˈi# | 118 : [-prim,-hi,-lo] > ə 
+Final form : *#vəstˈi#

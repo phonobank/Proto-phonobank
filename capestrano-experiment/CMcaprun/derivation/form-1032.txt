@@ -1,10 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1032:
-#bˌaptid͡zˈata# >>> *#batːd͡zˈata# ( GOLD : #batid͡zˈata#) :
-b ˌa p t i d͡z ˈa t a 
-Proto-Romance stage form : *#bˌaptid͡zˈata#
-*#bˌaptɪd͡zˈata# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˌatːɪd͡zˈata# | 35 : [+lab,-son] [+cor,-son] > ∅ [+long]
-*#bˌatːd͡zˈata# | 44 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
-Proto-South-Italo-Romance stage form : *#bˌatːd͡zˈata#
-*#batːd͡zˈata# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#batːd͡zˈata#
+#bˌaptˈista# >>> *#batːˈesta# ( GOLD : #batːˈista#) :
+b ˌa p t ˈi s t a 
+Proto-Romance stage form : *#bˌaptˈista#
+*#bˌaptˈɪsta# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌatːˈɪsta# | 35 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#bˌatːˈesta# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#bˌatːˈesta#
+*#batːˈesta# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#batːˈesta#

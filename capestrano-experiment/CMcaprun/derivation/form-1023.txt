@@ -1,12 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1023:
-#ˈanimam# >>> *#ˈanima# ( GOLD : #ˈalma#) :
-ˈa n i m a m 
-Proto-Romance stage form : *#ˈanimam#
-*#ˈanɪmam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaniːmam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˈanimam# | 30 : [+syl] > [-long,-splng] 
-*#ˈanima# | 37 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#ˈanima#
-*#ˈanˌima# | 105 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈanima# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈanima#
+#ˌawaːrˈitiam# >>> *#uɾˈit͡sːa# ( GOLD : #avaɾˈit͡sja#) :
+ˌa w aː r ˈi t i a m 
+*#ˌawaːrˈitjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌawaːrˈitjam#
+*#ˌawaːrˈɪtjam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌawaːrˈɪtʲːam# | 23 : t j > tʲː 
+*#ˌawaːrˈiːtʲːam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌawarˈitʲːam# | 30 : [+syl] > [-long,-splng] 
+*#ˌawarˈit͡sːam# | 31 : tʲː > t͡sː 
+*#ˌawarˈit͡sːa# | 37 : [+cons] > ∅ / __ #
+*#ˌawrˈit͡sːa# | 42 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
+*#ˌowrˈit͡sːa# | 70 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+Proto-South-Italo-Romance stage form : *#ˌowrˈit͡sːa#
+*#ˌorˈit͡sːa# | 95 : w > ∅ / [+round] __ [+cons]
+*#ˌurˈit͡sːa# | 103 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#ˌuɾˈit͡sːa# | 116 : r > ɾ 
+*#uɾˈit͡sːa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#uɾˈit͡sːa#

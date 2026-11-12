@@ -1,16 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 717:
-#ˌoblˌiɡˈaː# >>> *#vjiɡˈa# ( GOLD : #ubːliɡˈa#) :
-ˌo b l ˌi ɡ ˈaː 
-Proto-Romance stage form : *#ˌoblˌiɡˈaː#
-*#ˌɔblˌɪɡˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɔblˌiːɡˈaː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌɔblˌiɡˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌoblˌiɡˈa# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌobʎˌiɡˈa# | 72 : l > ʎ / [-son,-cor] __
-*#ˌovʎˌiɡˈa# | 75 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#ˌovʎˌiɡˈa#
-*#əvʎˌiɡˈa# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#vʎˌiɡˈa# | 89 : ə > ∅ / # __
-*#vjˌiɡˈa# | 119 : {ʎ;ʎː} > {j;jː} 
-*#vjiɡˈa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#vjiɡˈa#
+#ˌofferˈiː# >>> *#ufːɾˈi# ( GOLD : #ufːɾˈi#) :
+ˌo f f e r ˈiː 
+Proto-Romance stage form : *#ˌofferˈiː#
+*#ˌɔffɛrˈiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔffɛrˈi# | 30 : [+syl] > [-long,-splng] 
+*#ˌɔffrˈi# | 42 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
+*#ˌoffrˈi# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌofːrˈi# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#ˌofːrˈi#
+*#əfːrˈi# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ˌufːrˈi# | 88 : ə > ˌu / __ [+cons,+lab] [+cor,+son]
+*#ˌufːɾˈi# | 116 : r > ɾ 
+*#ufːɾˈi# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ufːɾˈi#

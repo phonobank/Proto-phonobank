@@ -1,21 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 611:
-#ɡˌenˈukulum# >>> *#jenˈokːjə# ( GOLD : #jenˈokːjə#) :
-ɡ ˌe n ˈu k u l u m 
-Proto-Romance stage form : *#ɡˌenˈukulum#
-*#ɡˌɛnˈʊkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˌɛnˈʊkʊlʊm# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˌɛnˈʊkʊlʊm# | 19 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-*#jˌɛnˈʊkʊlʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#jˌɛnˈʊklʊm# | 29 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
-*#jˌɛnˈʊklʊ# | 37 : [+cons] > ∅ / __ #
-*#jˌenˈʊklʊ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
-*#jˌenˈʊklu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˌenˈoklu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#jˌenˈokʎu# | 72 : l > ʎ / [-son,-cor] __
-*#jˌenˈokːʎu# | 74 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
-Proto-South-Italo-Romance stage form : *#jˌenˈokːʎu#
-*#jˌenˈokːʎə# | 106 : [-stres,-lo] > ə 
-*#jənˈokːʎə# | 118 : [-prim,-hi,-lo] > ə 
-*#jənˈokːjə# | 119 : {ʎ;ʎː} > {j;jː} 
-*#jenˈokːjə# | 125 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#jenˈokːjə#
+#ɡˌelˈaː# >>> *#jelˈa# ( GOLD : #jelˈa#) :
+ɡ ˌe l ˈaː 
+Proto-Romance stage form : *#ɡˌelˈaː#
+*#ɡˌɛlˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˌɛlˈaː# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛlˈaː# | 19 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+*#jˌɛlˈaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#jˌɛlˈa# | 30 : [+syl] > [-long,-splng] 
+*#jˌelˈa# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#jˌelˈa#
+*#jəlˈa# | 118 : [-prim,-hi,-lo] > ə 
+*#jelˈa# | 125 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#jelˈa#

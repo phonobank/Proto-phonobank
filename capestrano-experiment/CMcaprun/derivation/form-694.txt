@@ -1,11 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 694:
-#ˈulmum# >>> *#ˈolmə# ( GOLD : #ˈulmə#) :
-ˈu l m u m 
-Proto-Romance stage form : *#ˈulmum#
-*#ˈʊlmʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈʊlmʊ# | 37 : [+cons] > ∅ / __ #
-*#ˈʊlmu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈolmu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈolmu#
-*#ˈolmə# | 106 : [-stres,-lo] > ə 
-Final form : *#ˈolmə#
+#ˌurtˈiːka# >>> *#uɾtˈika# ( GOLD : #aɾdˈika#) :
+ˌu r t ˈiː k a 
+Proto-Romance stage form : *#ˌurtˈiːka#
+*#ˌʊrtˈiːka# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌʊrtˈika# | 30 : [+syl] > [-long,-splng] 
+*#ˌurtˈika# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌurtˈika#
+*#ˌuɾtˈika# | 116 : r > ɾ 
+*#uɾtˈika# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#uɾtˈika#

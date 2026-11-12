@@ -1,15 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 979:
-#mˌollˈiːkam# >>> *#mujːˈika# ( GOLD : #mijːˈika#) :
-m ˌo l l ˈiː k a m 
-Proto-Romance stage form : *#mˌollˈiːkam#
-*#mˌɔllˈiːkam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌɔllˈikam# | 30 : [+syl] > [-long,-splng] 
-*#mˌɔllˈika# | 37 : [+cons] > ∅ / __ #
-*#mˌollˈika# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˌolːˈika# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#mˌolːˈika#
-*#mˌoʎːˈika# | 96 : lː > ʎː / __ [+hi]
-*#mˌuʎːˈika# | 103 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#mˌujːˈika# | 119 : {ʎ;ʎː} > {j;jː} 
-*#mujːˈika# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#mujːˈika#
+#mˌolˈiːnum# >>> *#mulˈinə# ( GOLD : #mujːˈin#) :
+m ˌo l ˈiː n u m 
+Proto-Romance stage form : *#mˌolˈiːnum#
+*#mˌɔlˈiːnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɔlˈinʊm# | 30 : [+syl] > [-long,-splng] 
+*#mˌɔlˈinʊ# | 37 : [+cons] > ∅ / __ #
+*#mˌolˈinu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌolˈinu#
+*#mˌulˈinu# | 103 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#mˌulˈinə# | 106 : [-stres,-lo] > ə 
+*#mulˈinə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#mulˈinə#

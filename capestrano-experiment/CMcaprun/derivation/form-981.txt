@@ -1,12 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 981:
-#mˈortuam# >>> *#mˈɔɾtwa# ( GOLD : #mˈɔɾta#) :
-m ˈo r t u a m 
-*#mˈortwam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#mˈortwam#
-*#mˈɔrtwam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɔrtwa# | 37 : [+cons] > ∅ / __ #
-*#mˈɞˤrtwa# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#mˈɔrtwa# | 77 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#mˈɔrtwa#
-*#mˈɔɾtwa# | 116 : r > ɾ 
-Final form : *#mˈɔɾtwa#
+#mˈortuum# >>> *#mˈoɾtwə# ( GOLD : #mˈoɾtə#) :
+m ˈo r t u u m 
+*#mˈortwum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#mˈortwum#
+*#mˈɔrtwʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɔrtwʊ# | 37 : [+cons] > ∅ / __ #
+*#mˈɔrtwu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˈortwu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈortwu#
+*#mˈortwə# | 106 : [-stres,-lo] > ə 
+*#mˈoɾtwə# | 116 : r > ɾ 
+Final form : *#mˈoɾtwə#

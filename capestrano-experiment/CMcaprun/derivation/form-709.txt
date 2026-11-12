@@ -1,17 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 709:
-#ˌoktoːɡˈintaː# >>> *#tːəjˈenda# ( GOLD : #otːˈanda#) :
-ˌo k t oː ɡ ˈi n t aː 
-Proto-Romance stage form : *#ˌoktoːɡˈintaː#
-*#ˌɔktoːɡˈɪntaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɔktoːjˈɪntaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#ˌɔtːoːjˈɪntaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɔtːojˈɪnta# | 30 : [+syl] > [-long,-splng] 
-*#ˌɔtːujˈɪnta# | 58 : [+syl,+round] > [+hi] / __ j
-*#ˌotːujˈɪnta# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌotːujˈenta# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌotːujˈenta#
-*#ətːujˈenta# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#tːujˈenta# | 89 : ə > ∅ / # __
-*#tːəjˈenta# | 106 : [-stres,-lo] > ə 
-*#tːəjˈenda# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#tːəjˈenda#
+#ˌoktˈoːbrem# >>> *#tːˈobːɾə# ( GOLD : #otːˈɔbɾə#) :
+ˌo k t ˈoː b r e m 
+Proto-Romance stage form : *#ˌoktˈoːbrem#
+*#ˌɔktˈoːbrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔtːˈoːbrɛm# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɔtːˈobrɛm# | 30 : [+syl] > [-long,-splng] 
+*#ˌɔtːˈobrɛ# | 37 : [+cons] > ∅ / __ #
+*#ˌotːˈobrɛ# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌotːˈobre# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌotːˈobːre# | 73 : b > bː / [-cons] __ r
+Proto-South-Italo-Romance stage form : *#ˌotːˈobːre#
+*#ətːˈobːre# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#tːˈobːre# | 89 : ə > ∅ / # __
+*#tːˈobːrə# | 106 : [-stres,-lo] > ə 
+*#tːˈobːɾə# | 116 : r > ɾ 
+Final form : *#tːˈobːɾə#

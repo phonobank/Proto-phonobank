@@ -1,17 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 525:
-#kˌapistˈeːrium# >>> *#kapəstˈeɾjə# ( GOLD : #kapistˈeɾə#) :
-k ˌa p i s t ˈeː r i u m 
-*#kˌapistˈeːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌapistˈeːrjum#
-*#kˌapɪstˈeːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌapɪstˈerjʊm# | 30 : [+syl] > [-long,-splng] 
-*#kˌapɪstˈerʲʊm# | 32 : r j > rʲ 
-*#kˌapɪstˈerʲʊ# | 37 : [+cons] > ∅ / __ #
-*#kˌapɪstˈerʲu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌapestˈerʲu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌapestˈerʲu#
-*#kˌapestˈerju# | 92 : rʲ > r j / [+front,-lo,+syl] __ [+syl]
-*#kˌapəstˈerjə# | 106 : [-stres,-lo] > ə 
-*#kˌapəstˈeɾjə# | 116 : r > ɾ 
-*#kapəstˈeɾjə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kapəstˈeɾjə#
+#kˌapˈillum# >>> *#kapˈejːə# ( GOLD : #kepˈijːə#) :
+k ˌa p ˈi l l u m 
+Proto-Romance stage form : *#kˌapˈillum#
+*#kˌapˈɪllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌapˈɪllʊ# | 37 : [+cons] > ∅ / __ #
+*#kˌapˈɪllu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌapˈellu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌapˈelːu# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#kˌapˈelːu#
+*#kˌapˈeʎːu# | 96 : lː > ʎː / __ [+hi]
+*#kˌapˈeʎːə# | 106 : [-stres,-lo] > ə 
+*#kˌapˈejːə# | 119 : {ʎ;ʎː} > {j;jː} 
+*#kapˈejːə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kapˈejːə#

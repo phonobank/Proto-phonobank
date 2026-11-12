@@ -1,15 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 87:
-#sˌilˈikulm# >>> *#səlˈikə# ( GOLD : #səlːˈekːja#) :
-s ˌi l ˈi k u l m 
-Proto-Romance stage form : *#sˌilˈikulm#
-*#sˌɪlˈɪkʊlm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌɪlˈiːkʊlm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#sˌɪlˈikʊlm# | 30 : [+syl] > [-long,-splng] 
-*#sˌɪlˈikʊl# | 37 : [+cons] > ∅ / __ #
-*#sˌɪlˈikʊ# | 38 : [+cons] > ∅ / __ #
-*#sˌelˈikʊ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
-*#sˌelˈiku# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˌelˈiku#
-*#sˌelˈikə# | 106 : [-stres,-lo] > ə 
-*#səlˈikə# | 118 : [-prim,-hi,-lo] > ə 
-Final form : *#səlˈikə#
+#sˌilˈikulam# >>> *#səlˈikwəla# ( GOLD : #səlːˈekːja#) :
+s ˌi l ˈi k u l a m 
+Proto-Romance stage form : *#sˌilˈikulam#
+*#sˌɪlˈɪkʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌɪlˈiːkʊlam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#sˌɪlˈikʊlam# | 30 : [+syl] > [-long,-splng] 
+*#sˌɪlˈikʊla# | 37 : [+cons] > ∅ / __ #
+*#sˌɪlˈikwʊla# | 53 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#sˌelˈikwʊla# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#sˌelˈikwula# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˌelˈikwula#
+*#sˌelˈikwəla# | 106 : [-stres,-lo] > ə 
+*#səlˈikwəla# | 118 : [-prim,-hi,-lo] > ə 
+Final form : *#səlˈikwəla#

@@ -1,10 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 986:
-#mˈowe# >>> *#mˈovə# ( GOLD : #mˈɔvə#) :
-m ˈo w e 
-Proto-Romance stage form : *#mˈowe#
-*#mˈɔwɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɔvɛ# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#mˈove# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈove#
-*#mˈovə# | 106 : [-stres,-lo] > ə 
-Final form : *#mˈovə#
+#mˈustum# >>> *#mˈostə# ( GOLD : #mˈustə#) :
+m ˈu s t u m 
+Proto-Romance stage form : *#mˈustum#
+*#mˈʊstʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈʊstʊ# | 37 : [+cons] > ∅ / __ #
+*#mˈʊstu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˈostu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈostu#
+*#mˈostə# | 106 : [-stres,-lo] > ə 
+Final form : *#mˈostə#

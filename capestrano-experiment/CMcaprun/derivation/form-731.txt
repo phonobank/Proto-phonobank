@@ -1,10 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 731:
-#priːmawˈeːra# >>> *#pɾəmavˈeɾa# ( GOLD : #pɾimavˈeɾa#) :
-p r iː m a w ˈeː r a 
-Proto-Romance stage form : *#priːmawˈeːra#
-*#primawˈera# | 30 : [+syl] > [-long,-splng] 
-*#primavˈera# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#primavˈera#
-*#prəmavˈera# | 106 : [-stres,-lo] > ə 
-*#pɾəmavˈeɾa# | 116 : r > ɾ 
-Final form : *#pɾəmavˈeɾa#
+#prˈesbyterum# >>> *#pɾˈesbətəɾə# ( GOLD : #pɾˈæjətə#) :
+p r ˈe s b y t e r u m 
+Proto-Romance stage form : *#prˈesbyterum#
+*#prˈesbiterum# | 14 : [+front] > [-lab,-round] 
+*#prˈɛsbɪtɛrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#prˈɛsbɪtɛrʊ# | 37 : [+cons] > ∅ / __ #
+*#prˈɛsbɪtɛru# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#prˈesbeteru# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#prˈesbeteru#
+*#prˈesbətərə# | 106 : [-stres,-lo] > ə 
+*#pɾˈesbətəɾə# | 116 : r > ɾ 
+Final form : *#pɾˈesbətəɾə#

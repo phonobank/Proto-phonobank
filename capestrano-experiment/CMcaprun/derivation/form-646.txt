@@ -1,12 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 646:
-#wˌiːndeːmiˈaː# >>> *#vinːəmjˈa# ( GOLD : #vɛniɲˈa#) :
-w ˌiː n d eː m i ˈaː 
-*#wˌiːndeːmjˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#wˌiːndeːmjˈaː#
-*#wˌindemjˈa# | 30 : [+syl] > [-long,-splng] 
-*#vˌindemjˈa# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˌinːemjˈa# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#vˌinːemjˈa#
-*#vˌinːəmjˈa# | 106 : [-stres,-lo] > ə 
-*#vinːəmjˈa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#vinːəmjˈa#
+#wˈiːneam# >>> *#vˈiɲa# ( GOLD : #vˈiɲa#) :
+w ˈiː n e a m 
+*#wˈiːniam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
+*#wˈiːnjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#wˈiːnjam#
+*#wˈinjam# | 30 : [+syl] > [-long,-splng] 
+*#wˈiɲːam# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#wˈiɲːa# | 37 : [+cons] > ∅ / __ #
+*#vˈiɲːa# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#vˈiɲːa#
+*#vˈiɲa# | 120 : ɲː > ɲ 
+Final form : *#vˈiɲa#

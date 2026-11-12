@@ -1,12 +1,9 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 568:
-#kˌokwˈiːnam# >>> *#kukwˈina# ( GOLD : #kut͡ʃˈina#) :
-k ˌo k w ˈiː n a m 
-Proto-Romance stage form : *#kˌokwˈiːnam#
-*#kˌɔkwˈiːnam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɔkwˈinam# | 30 : [+syl] > [-long,-splng] 
-*#kˌɔkwˈina# | 37 : [+cons] > ∅ / __ #
-*#kˌokwˈina# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌokwˈina#
-*#kˌukwˈina# | 103 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kukwˈina# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kukwˈina#
+#kˈokwe# >>> *#kˈokwə# ( GOLD : #kˈot͡ʃə#) :
+k ˈo k w e 
+Proto-Romance stage form : *#kˈokwe#
+*#kˈɔkwɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈokwe# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈokwe#
+*#kˈokwə# | 106 : [-stres,-lo] > ə 
+Final form : *#kˈokwə#
