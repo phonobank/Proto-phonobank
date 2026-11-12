@@ -1,12 +1,9 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 484:
-#ˈowum# >>> *#ˈovə# ( GOLD : #ˈɔvə#) :
-ˈo w u m 
-Proto-Romance stage form : *#ˈowum#
-*#ˈɔwʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔwʊ# | 35 : [+cons] > ∅ / __ #
-*#ˈɔvʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#ˈɔvu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈovu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈovu#
-*#ˈovə# | 104 : [-stres,-lo] > ə 
-Final form : *#ˈovə#
+#kˌantˈaː# >>> *#kandˈa# ( GOLD : #kandˈa#) :
+k ˌa n t ˈaː 
+Proto-Romance stage form : *#kˌantˈaː#
+*#kˌantˈa# | 28 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#kˌantˈa#
+*#kˌandˈa# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kandˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kandˈa#

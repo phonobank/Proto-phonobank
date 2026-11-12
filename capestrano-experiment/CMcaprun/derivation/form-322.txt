@@ -1,14 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 322:
-#krˌaːtˈiːkulam# >>> *#kɾatˈikwəla# ( GOLD : #ɾatˈikwəla#) :
-k r ˌaː t ˈiː k u l a m 
-Proto-Romance stage form : *#krˌaːtˈiːkulam#
-*#krˌaːtˈiːkʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#krˌatˈikʊlam# | 28 : [+syl] > [-long,-splng] 
-*#krˌatˈikʊla# | 35 : [+cons] > ∅ / __ #
-*#krˌatˈikwʊla# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#krˌatˈikwula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#krˌatˈikwula#
-*#krˌatˈikwəla# | 104 : [-stres,-lo] > ə 
-*#kɾˌatˈikwəla# | 114 : r > ɾ 
-*#kɾatˈikwəla# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kɾatˈikwəla#
+#iˌoːˈanneːs# >>> *#jəvˈanːə# ( GOLD : #juwˈanːə#) :
+i ˌoː ˈa n n eː s 
+*#iˌoːwˈanneːs# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
+*#jˌoːwˈanneːs# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#jˌoːwˈanneːs#
+*#jˌowˈannes# | 28 : [+syl] > [-long,-splng] 
+*#jˌowˈanne# | 35 : [+cons] > ∅ / __ #
+*#jˌovˈanne# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#jˌovˈanːe# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#jˌovˈanːe#
+*#jˌovˈanːə# | 104 : [-stres,-lo] > ə 
+*#jəvˈanːə# | 116 : [-prim,-hi,-lo] > ə 
+Final form : *#jəvˈanːə#

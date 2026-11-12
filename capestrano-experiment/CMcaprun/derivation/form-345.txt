@@ -1,9 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 345:
-#kˈaneːs# >>> *#kˈanə# ( GOLD : #kˈenə#) :
-k ˈa n eː s 
-Proto-Romance stage form : *#kˈaneːs#
-*#kˈanes# | 28 : [+syl] > [-long,-splng] 
-*#kˈane# | 35 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#kˈane#
-*#kˈanə# | 104 : [-stres,-lo] > ə 
-Final form : *#kˈanə#
+#ˌeksplˌaːnˈaː# >>> *#spjanˈa# ( GOLD : #spjanˈa#) :
+ˌe k s p l ˌaː n ˈaː 
+Proto-Romance stage form : *#ˌeksplˌaːnˈaː#
+*#ˌɛksplˌaːnˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛsːplˌaːnˈaː# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛsːplˌanˈa# | 28 : [+syl] > [-long,-splng] 
+*#ˌɛsplˌanˈa# | 37 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˌesplˌanˈa# | 58 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌespʎˌanˈa# | 70 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#ˌespʎˌanˈa#
+*#əspʎˌanˈa# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#spʎˌanˈa# | 87 : ə > ∅ / # __
+*#spjˌanˈa# | 117 : {ʎ;ʎː} > {j;jː} 
+*#spjanˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#spjanˈa#

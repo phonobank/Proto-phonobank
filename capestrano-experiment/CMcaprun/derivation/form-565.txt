@@ -1,6 +1,20 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 565:
-#bˈasta# >>> *#bˈasta# ( GOLD : #bːˈasta#) :
-b ˈa s t a 
-Proto-Romance stage form : *#bˈasta#
-Proto-South-Italo-Romance stage form : *#bˈasta#
-Final form : *#bˈasta#
+#kˌokleˈaːrium# >>> *#kukjːˈaɾə# ( GOLD : #kukːjˈaɾə#) :
+k ˌo k l e ˈaː r i u m 
+*#kˌokliˈaːrium# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
+*#kˌokljˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌokljˈaːrjum#
+*#kˌɔkljˈaːrjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔkljˈarjʊm# | 28 : [+syl] > [-long,-splng] 
+*#kˌɔkljˈarʲʊm# | 30 : r j > rʲ 
+*#kˌɔkʎːˈarʲʊm# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#kˌɔkʎːˈarʲʊ# | 35 : [+cons] > ∅ / __ #
+*#kˌokʎːˈarʲu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌokʎːˈarʲu#
+*#kˌokʎːˈaru# | 92 : rʲ > r 
+*#kˌukʎːˈaru# | 101 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌukʎːˈarə# | 104 : [-stres,-lo] > ə 
+*#kˌukʎːˈaɾə# | 114 : r > ɾ 
+*#kˌukjːˈaɾə# | 117 : {ʎ;ʎː} > {j;jː} 
+*#kukjːˈaɾə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kukjːˈaɾə#

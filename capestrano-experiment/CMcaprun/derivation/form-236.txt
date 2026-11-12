@@ -1,18 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 236:
-#ˌekskˌordˈaːtum# >>> *#skəɾdˈatə# ( GOLD : #skuɾdˈatə#) :
-ˌe k s k ˌo r d ˈaː t u m 
-Proto-Romance stage form : *#ˌekskˌordˈaːtum#
-*#ˌɛkskˌɔrdˈaːtʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɛsːkˌɔrdˈaːtʊm# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɛsːkˌɔrdˈatʊm# | 28 : [+syl] > [-long,-splng] 
-*#ˌɛsːkˌɔrdˈatʊ# | 35 : [+cons] > ∅ / __ #
-*#ˌɛskˌɔrdˈatʊ# | 37 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#ˌeskˌɔrdˈatʊ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌeskˌordˈatu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌeskˌordˈatu#
-*#əskˌordˈatu# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#skˌordˈatu# | 87 : ə > ∅ / # __
-*#skˌordˈatə# | 104 : [-stres,-lo] > ə 
-*#skˌoɾdˈatə# | 114 : r > ɾ 
-*#skəɾdˈatə# | 116 : [-prim,-hi,-lo] > ə 
-Final form : *#skəɾdˈatə#
+#lˈabrum# >>> *#lˈabːɾə# ( GOLD : #lˈabːɾə#) :
+l ˈa b r u m 
+Proto-Romance stage form : *#lˈabrum#
+*#lˈabrʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈabrʊ# | 35 : [+cons] > ∅ / __ #
+*#lˈabru# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#lˈabːru# | 71 : b > bː / [-cons] __ r
+Proto-South-Italo-Romance stage form : *#lˈabːru#
+*#lˈabːrə# | 104 : [-stres,-lo] > ə 
+*#lˈabːɾə# | 114 : r > ɾ 
+Final form : *#lˈabːɾə#

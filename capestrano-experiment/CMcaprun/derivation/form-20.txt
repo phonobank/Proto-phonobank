@@ -1,11 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 20:
-#tˈabulam# >>> *#tˈavəla# ( GOLD : #tˈavəla#) :
-t ˈa b u l a m 
-Proto-Romance stage form : *#tˈabulam#
-*#tˈabʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˈabʊla# | 35 : [+cons] > ∅ / __ #
-*#tˈabula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tˈavula# | 73 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#tˈavula#
-*#tˈavəla# | 104 : [-stres,-lo] > ə 
-Final form : *#tˈavəla#
+#tˌenˈaːkula# >>> *#tənˈakwəla# ( GOLD : #tənˈajːa#) :
+t ˌe n ˈaː k u l a 
+Proto-Romance stage form : *#tˌenˈaːkula#
+*#tˌɛnˈaːkʊla# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#tˌɛnˈakʊla# | 28 : [+syl] > [-long,-splng] 
+*#tˌɛnˈakwʊla# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#tˌenˈakwʊla# | 58 : [+stres,-prim,+front,-tense] > ˌe 
+*#tˌenˈakwula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#tˌenˈakwula#
+*#tˌenˈakwəla# | 104 : [-stres,-lo] > ə 
+*#tənˈakwəla# | 116 : [-prim,-hi,-lo] > ə 
+Final form : *#tənˈakwəla#

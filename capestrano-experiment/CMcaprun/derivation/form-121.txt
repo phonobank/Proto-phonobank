@@ -1,15 +1,9 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 121:
-#spˈonɡiam# >>> *#spˈuɲa# ( GOLD : #spˈuɲa#) :
-s p ˈo n ɡ i a m 
-*#spˈoŋɡiam# | 1 : n > ŋ / __ [+back,+cons]
-*#spˈoŋɡjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#spˈoŋɡjam#
-*#spˈɔŋɡjam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#spˈɔnd͡ʒjam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#spˈɔnd͡ʒja# | 35 : [+cons] > ∅ / __ #
-*#spˈɔnːja# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#spˈunːja# | 64 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
-Proto-South-Italo-Romance stage form : *#spˈunːja#
-*#spˈuɲːa# | 89 : [+nas,-lab] [+front,-syl,+voi] > ɲː
-*#spˈuɲa# | 118 : ɲː > ɲ 
-Final form : *#spˈuɲa#
+#sˈalwiam# >>> *#sˈalvja# ( GOLD : #sˈalvja#) :
+s ˈa l w i a m 
+*#sˈalwjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#sˈalwjam#
+*#sˈalwja# | 35 : [+cons] > ∅ / __ #
+*#sˈalvja# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#sˈalvja#
+Final form : *#sˈalvja#

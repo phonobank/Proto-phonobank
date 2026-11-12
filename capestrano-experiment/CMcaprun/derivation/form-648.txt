@@ -1,10 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 648:
-#mˌaːtuːtˈiːna# >>> *#matːˈina# ( GOLD : #matːˈina#) :
-m ˌaː t uː t ˈiː n a 
-Proto-Romance stage form : *#mˌaːtuːtˈiːna#
-*#mˌatutˈina# | 28 : [+syl] > [-long,-splng] 
-*#mˌattˈina# | 42 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
-*#mˌatːˈina# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#mˌatːˈina#
-*#matːˈina# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#matːˈina#
+#wˌiːnˈaːkeas# >>> *#vənˈat͡ʃja# ( GOLD : #vinˈat͡ʃə#) :
+w ˌiː n ˈaː k e a s 
+*#wˌiːnˈaːkias# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
+*#wˌiːnˈaːkjas# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#wˌiːnˈaːkjas#
+*#wˌiːnˈaːt͡ʃjas# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#wˌinˈat͡ʃjas# | 28 : [+syl] > [-long,-splng] 
+*#wˌinˈat͡ʃja# | 35 : [+cons] > ∅ / __ #
+*#vˌinˈat͡ʃja# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#vˌinˈat͡ʃja#
+*#vinˈat͡ʃja# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+*#vənˈat͡ʃja# | 125 : [+front,-lo,-stres] > ə / # ( ( @ )* [-prim] ) [-son,cfront,!clab] __ [+cor] ( k ) [+lo]
+Final form : *#vənˈat͡ʃja#

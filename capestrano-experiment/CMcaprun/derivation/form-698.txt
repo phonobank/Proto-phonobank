@@ -1,16 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 698:
-#ˌatlˈantikum# >>> *#atːlˈandkə# ( GOLD : #atːlˈandəkə#) :
-ˌa t l ˈa n t i k u m 
-Proto-Romance stage form : *#ˌatlˈantikum#
-*#ˌatlˈantɪkʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌatlˈantiːkʊm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌatlˈantikʊm# | 28 : [+syl] > [-long,-splng] 
-*#ˌatlˈantikʊ# | 35 : [+cons] > ∅ / __ #
-*#ˌatlˈantkʊ# | 55 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
-*#ˌatlˈantku# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌatlˈantku#
-*#ˌatːlˈantku# | 98 : t > tː / __ l
-*#ˌatːlˈantkə# | 104 : [-stres,-lo] > ə 
-*#ˌatːlˈandkə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#atːlˈandkə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#atːlˈandkə#
+#ˈuːmida# >>> *#ˈumːəda# ( GOLD : #ˈumːəda#) :
+ˈuː m i d a 
+Proto-Romance stage form : *#ˈuːmida#
+*#ˈuːmɪda# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈumɪda# | 28 : [+syl] > [-long,-splng] 
+*#ˈumːɪda# | 39 : m > mː / # ( [+lab] ) [-cons,-lo] __ [+syl] [+cons] [+syl] #
+*#ˈumːeda# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈumːeda#
+*#ˈumːəda# | 104 : [-stres,-lo] > ə 
+Final form : *#ˈumːəda#

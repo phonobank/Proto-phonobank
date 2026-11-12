@@ -1,15 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 173:
-#lˌuːkˈertulam# >>> *#lut͡ʃˈæɾtəla# ( GOLD : #ɾuʃˈɛɾdəla#) :
-l ˌuː k ˈe r t u l a m 
-Proto-Romance stage form : *#lˌuːkˈertulam#
-*#lˌuːkˈɛrtʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˌuːt͡ʃˈɛrtʊlam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#lˌut͡ʃˈɛrtʊlam# | 28 : [+syl] > [-long,-splng] 
-*#lˌut͡ʃˈɛrtʊla# | 35 : [+cons] > ∅ / __ #
-*#lˌut͡ʃˈɛrtula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#lˌut͡ʃˈærtula# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#lˌut͡ʃˈærtula#
-*#lˌut͡ʃˈærtəla# | 104 : [-stres,-lo] > ə 
-*#lˌut͡ʃˈæɾtəla# | 114 : r > ɾ 
-*#lut͡ʃˈæɾtəla# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#lut͡ʃˈæɾtəla#
+#spˈiːritum# >>> *#spˈiɾtə# ( GOLD : #spˈiɾdə#) :
+s p ˈiː r i t u m 
+Proto-Romance stage form : *#spˈiːritum#
+*#spˈiːrɪtʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#spˈirɪtʊm# | 28 : [+syl] > [-long,-splng] 
+*#spˈirɪtʊ# | 35 : [+cons] > ∅ / __ #
+*#spˈirtʊ# | 42 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
+*#spˈirtu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#spˈirtu#
+*#spˈirtə# | 104 : [-stres,-lo] > ə 
+*#spˈiɾtə# | 114 : r > ɾ 
+Final form : *#spˈiɾtə#

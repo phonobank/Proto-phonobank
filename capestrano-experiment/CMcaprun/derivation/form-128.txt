@@ -1,13 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 128:
-#nepˈoːtetuum# >>> *#nəpˈotətwə# ( GOLD : #nəpˈotətə#) :
-n e p ˈoː t e t u u m 
-*#nepˈoːtetwum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#nepˈoːtetwum#
-*#nɛpˈoːtɛtwʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#nɛpˈotɛtwʊm# | 28 : [+syl] > [-long,-splng] 
-*#nɛpˈotɛtwʊ# | 35 : [+cons] > ∅ / __ #
-*#nɛpˈotɛtwu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#nepˈotetwu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#nepˈotetwu#
-*#nəpˈotətwə# | 104 : [-stres,-lo] > ə 
-Final form : *#nəpˈotətwə#
+#sˈapioː# >>> *#sˈat͡ʃːə# ( GOLD : #sˈat͡ʃːə#) :
+s ˈa p i oː 
+*#sˈapjoː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#sˈapjoː#
+*#sˈapjo# | 28 : [+syl] > [-long,-splng] 
+*#sˈapːjo# | 72 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+*#sˈat͡ʃːo# | 80 : [+lab,-cont,-voi] j > t͡ʃː
+Proto-South-Italo-Romance stage form : *#sˈat͡ʃːo#
+*#sˈat͡ʃːə# | 104 : [-stres,-lo] > ə 
+Final form : *#sˈat͡ʃːə#

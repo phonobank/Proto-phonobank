@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 257:
-#ˈaltum# >>> *#ˈaldə# ( GOLD : #ˈavətə#) :
-ˈa l t u m 
-Proto-Romance stage form : *#ˈaltum#
-*#ˈaltʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaltʊ# | 35 : [+cons] > ∅ / __ #
-*#ˈaltu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈaltu#
-*#ˈaltˌu# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈaldˌu# | 108 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
-*#ˈaldə# | 109 : [-prim,-lo] > ə / __ #
-Final form : *#ˈaldə#
+#rˌeːɡˈiːnam# >>> *#ɾəjˈina# ( GOLD : #ɾed͡ʒːˈina#) :
+r ˌeː ɡ ˈiː n a m 
+Proto-Romance stage form : *#rˌeːɡˈiːnam#
+*#rˌeːjˈiːnam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#rˌejˈinam# | 28 : [+syl] > [-long,-splng] 
+*#rˌejˈina# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#rˌejˈina#
+*#ɾˌejˈina# | 114 : r > ɾ 
+*#ɾəjˈina# | 116 : [-prim,-hi,-lo] > ə 
+Final form : *#ɾəjˈina#

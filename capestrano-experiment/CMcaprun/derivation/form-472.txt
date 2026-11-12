@@ -1,11 +1,9 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 472:
-#ˌurtˈiːka# >>> *#uɾtˈika# ( GOLD : #aɾdˈika#) :
-ˌu r t ˈiː k a 
-Proto-Romance stage form : *#ˌurtˈiːka#
-*#ˌʊrtˈiːka# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌʊrtˈika# | 28 : [+syl] > [-long,-splng] 
-*#ˌurtˈika# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌurtˈika#
-*#ˌuɾtˈika# | 114 : r > ɾ 
-*#uɾtˈika# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#uɾtˈika#
+#kˈeːnam# >>> *#t͡ʃˈena# ( GOLD : #t͡ʃˈena#) :
+k ˈeː n a m 
+Proto-Romance stage form : *#kˈeːnam#
+*#t͡ʃˈeːnam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˈenam# | 28 : [+syl] > [-long,-splng] 
+*#t͡ʃˈena# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#t͡ʃˈena#
+Final form : *#t͡ʃˈena#

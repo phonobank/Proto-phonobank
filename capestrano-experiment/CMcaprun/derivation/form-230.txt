@@ -1,15 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 230:
-#ˌeːrˈuːkula# >>> *#ɾˈukəla# ( GOLD : #ɾˈukəla#) :
-ˌeː r ˈuː k u l a 
-Proto-Romance stage form : *#ˌeːrˈuːkula#
-*#ˌeːrˈuːkʊla# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌerˈukʊla# | 28 : [+syl] > [-long,-splng] 
-*#ˌerˈukwʊla# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#ˌerˈukʊla# | 53 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#ˌerˈukula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌerˈukula#
-*#ərˈukula# | 83 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#rˈukula# | 87 : ə > ∅ / # __
-*#rˈukəla# | 104 : [-stres,-lo] > ə 
-*#ɾˈukəla# | 114 : r > ɾ 
-Final form : *#ɾˈukəla#
+#lˈakrimam# >>> *#lˈakɾəma# ( GOLD : #lˈakɾəma#) :
+l ˈa k r i m a m 
+Proto-Romance stage form : *#lˈakrimam#
+*#lˈakrɪmam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈakriːmam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#lˈakrimam# | 28 : [+syl] > [-long,-splng] 
+*#lˈakrima# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#lˈakrima#
+*#lˈakrəma# | 104 : [-stres,-lo] > ə 
+*#lˈakɾəma# | 114 : r > ɾ 
+Final form : *#lˈakɾəma#

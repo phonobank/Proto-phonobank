@@ -1,13 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 249:
-#ˈasinum# >>> *#ˈaʃenə# ( GOLD : #ˈasənə#) :
-ˈa s i n u m 
-Proto-Romance stage form : *#ˈasinum#
-*#ˈasɪnʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈasɪnʊ# | 35 : [+cons] > ∅ / __ #
-*#ˈasɪnu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈasenu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈasenu#
-*#ˈaʃenu# | 99 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#ˈaʃənə# | 104 : [-stres,-lo] > ə 
-*#ˈaʃenə# | 123 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#ˈaʃenə#
+#lˈumbum# >>> *#lˈumːə# ( GOLD : #lˈumːə#) :
+l ˈu m b u m 
+Proto-Romance stage form : *#lˈumbum#
+*#lˈʊmbʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈʊmbʊ# | 35 : [+cons] > ∅ / __ #
+*#lˈʊmbu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#lˈʊmːu# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#lˈumːu# | 64 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
+Proto-South-Italo-Romance stage form : *#lˈumːu#
+*#lˈumːə# | 104 : [-stres,-lo] > ə 
+Final form : *#lˈumːə#

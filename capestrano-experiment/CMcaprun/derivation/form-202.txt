@@ -1,11 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 202:
-#jˌokˈaː# >>> *#jəkˈa# ( GOLD : #jəkˈa#) :
-j ˌo k ˈaː 
-Proto-Romance stage form : *#jˌokˈaː#
-*#jˌɔkˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˌɔkˈa# | 28 : [+syl] > [-long,-splng] 
-*#jˌokˈa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#jˌokˈa#
-*#jˌukˈa# | 101 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#jəkˈa# | 120 : [-prim] > ə / # j __ [+cons,-front]
-Final form : *#jəkˈa#
+#innˈowam# >>> *#nːˈova# ( GOLD : #ɲˈova#) :
+i n n ˈo w a m 
+Proto-Romance stage form : *#innˈowam#
+*#ɪnnˈɔwam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɪnnˈɔwa# | 35 : [+cons] > ∅ / __ #
+*#ɪnnˈɔva# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#ɪnːˈɔva# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#enːˈova# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#enːˈova#
+*#ənːˈova# | 83 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#nːˈova# | 87 : ə > ∅ / # __
+Final form : *#nːˈova#

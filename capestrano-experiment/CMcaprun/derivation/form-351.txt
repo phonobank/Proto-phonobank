@@ -1,11 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 351:
-#kˈarnem# >>> *#kˈaɾnə# ( GOLD : #kˈaɾnə#) :
-k ˈa r n e m 
-Proto-Romance stage form : *#kˈarnem#
-*#kˈarnɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈarnɛ# | 35 : [+cons] > ∅ / __ #
-*#kˈarne# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈarne#
-*#kˈarnə# | 104 : [-stres,-lo] > ə 
-*#kˈaɾnə# | 114 : r > ɾ 
-Final form : *#kˈaɾnə#
+#ˌadrˈetroː# >>> *#adɾˈetɾə# ( GOLD : #arːˈɛtə#) :
+ˌa d r ˈe t r oː 
+Proto-Romance stage form : *#ˌadrˈetroː#
+*#ˌadrˈɛtroː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌadrˈɛtro# | 28 : [+syl] > [-long,-splng] 
+*#ˌadrˈetro# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌadrˈetro#
+*#ˌadrˈetrə# | 104 : [-stres,-lo] > ə 
+*#ˌadɾˈetɾə# | 114 : r > ɾ 
+*#adɾˈetɾə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#adɾˈetɾə#

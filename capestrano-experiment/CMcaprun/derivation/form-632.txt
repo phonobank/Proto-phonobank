@@ -1,15 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 632:
-#mˌiniˈattam# >>> *#miɲˈatːa# ( GOLD : #məɲˈatːa#) :
-m ˌi n i ˈa t t a m 
-*#mˌinjˈattam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#mˌinjˈattam#
-*#mˌɪnjˈattam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌiːnjˈattam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#mˌinjˈattam# | 28 : [+syl] > [-long,-splng] 
-*#mˌiɲːˈattam# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#mˌiɲːˈatta# | 35 : [+cons] > ∅ / __ #
-*#mˌiɲːˈatːa# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#mˌiɲːˈatːa#
-*#mˌiɲˈatːa# | 118 : ɲː > ɲ 
-*#miɲˈatːa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#miɲˈatːa#
+#kwˌadraɡˈeːsimam# >>> *#kwadɾajˈesəma# ( GOLD : #kwaɾˈɛsəma#) :
+k w ˌa d r a ɡ ˈeː s i m a m 
+Proto-Romance stage form : *#kwˌadraɡˈeːsimam#
+*#kwˌadraɡˈeːsɪmam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kwˌadrajˈeːsɪmam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#kwˌadrajˈeːsiːmam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#kwˌadrajˈesimam# | 28 : [+syl] > [-long,-splng] 
+*#kwˌadrajˈesima# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kwˌadrajˈesima#
+*#kwˌadrajˈesəma# | 104 : [-stres,-lo] > ə 
+*#kwˌadɾajˈesəma# | 114 : r > ɾ 
+*#kwadɾajˈesəma# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kwadɾajˈesəma#

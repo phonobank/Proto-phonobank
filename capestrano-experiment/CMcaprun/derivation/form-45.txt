@@ -1,16 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 45:
-#dˈulkem# >>> *#dˈot͡ʃə# ( GOLD : #dˈot͡ʃə#) :
-d ˈu l k e m 
-Proto-Romance stage form : *#dˈulkem#
-*#dˈʊlkɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈʊlˠkɛm# | 18 : l > lˠ / __ ( [-stres] ) k [-cons]
-*#dˈʊlˠt͡ʃɛm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#dˈʊlˠt͡ʃɛ# | 35 : [+cons] > ∅ / __ #
-*#dˈʊlˠət͡ʃɛ# | 44 : ∅ > ə / lˠ __ [-syl]
-*#dˈʊlˠt͡ʃɛ# | 45 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
-*#dˈʊwt͡ʃɛ# | 46 : lˠ > w / __ ( ə ) t͡ʃ
-*#dˈowt͡ʃe# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#dˈowt͡ʃe#
-*#dˈot͡ʃe# | 93 : w > ∅ / [+round] __ [+cons]
-*#dˈot͡ʃə# | 104 : [-stres,-lo] > ə 
-Final form : *#dˈot͡ʃə#
+#tˈyrsum# >>> *#tˈøɾt͡sə# ( GOLD : #tˈuɾt͡sə#) :
+t ˈy r s u m 
+Proto-Romance stage form : *#tˈyrsum#
+*#tˈʏrsʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#tˈʏrsʊ# | 35 : [+cons] > ∅ / __ #
+*#tˈʏrsu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tˈørsu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#tˈørsu#
+*#tˈørt͡su# | 97 : s > t͡s / r __
+*#tˈørt͡sə# | 104 : [-stres,-lo] > ə 
+*#tˈøɾt͡sə# | 114 : r > ɾ 
+Final form : *#tˈøɾt͡sə#

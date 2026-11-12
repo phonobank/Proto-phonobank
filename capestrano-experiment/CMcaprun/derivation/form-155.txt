@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 155:
-#lˈeporem# >>> *#lˈepɾə# ( GOLD : #lˈepɾə#) :
-l ˈe p o r e m 
-Proto-Romance stage form : *#lˈeporem#
-*#lˈɛpɔrɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˈɛpɔrɛ# | 35 : [+cons] > ∅ / __ #
-*#lˈɛprɛ# | 54 : [-prim,+round] > ∅ / [+prim,+front,-lo] [-cont,-cor] __ [+cor,+voi]
-*#lˈepre# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#lˈepre#
-*#lˈeprə# | 104 : [-stres,-lo] > ə 
-*#lˈepɾə# | 114 : r > ɾ 
-Final form : *#lˈepɾə#
+#sˈuːbulam# >>> *#sˈuvəla# ( GOLD : #sˈubːja#) :
+s ˈuː b u l a m 
+Proto-Romance stage form : *#sˈuːbulam#
+*#sˈuːbʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈubʊlam# | 28 : [+syl] > [-long,-splng] 
+*#sˈubʊla# | 35 : [+cons] > ∅ / __ #
+*#sˈubula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sˈuvula# | 73 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#sˈuvula#
+*#sˈuvəla# | 104 : [-stres,-lo] > ə 
+Final form : *#sˈuvəla#

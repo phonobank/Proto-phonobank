@@ -1,16 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 486:
-#ˌoblˌiɡˈaː# >>> *#vjiɡˈa# ( GOLD : #ubːliɡˈa#) :
-ˌo b l ˌi ɡ ˈaː 
-Proto-Romance stage form : *#ˌoblˌiɡˈaː#
-*#ˌɔblˌɪɡˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɔblˌiːɡˈaː# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌɔblˌiɡˈa# | 28 : [+syl] > [-long,-splng] 
-*#ˌoblˌiɡˈa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌobʎˌiɡˈa# | 70 : l > ʎ / [-son,-cor] __
-*#ˌovʎˌiɡˈa# | 73 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#ˌovʎˌiɡˈa#
-*#əvʎˌiɡˈa# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#vʎˌiɡˈa# | 87 : ə > ∅ / # __
-*#vjˌiɡˈa# | 117 : {ʎ;ʎː} > {j;jː} 
-*#vjiɡˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#vjiɡˈa#
+#kˈannabim# >>> *#kˈanːavə# ( GOLD : #kˈanːəva#) :
+k ˈa n n a b i m 
+Proto-Romance stage form : *#kˈannabim#
+*#kˈannabɪm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈannabiːm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#kˈannabim# | 28 : [+syl] > [-long,-splng] 
+*#kˈannabi# | 35 : [+cons] > ∅ / __ #
+*#kˈanːabi# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#kˈanːavi# | 73 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#kˈanːavi#
+*#kˈanːavə# | 104 : [-stres,-lo] > ə 
+Final form : *#kˈanːavə#

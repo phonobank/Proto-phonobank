@@ -1,16 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 211:
-#ˌinkˈontraː# >>> *#ŋɡˈɔndɾa# ( GOLD : #ŋɡˈondɾa#) :
-ˌi n k ˈo n t r aː 
-*#ˌiŋkˈontraː# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#ˌiŋkˈontraː#
-*#ˌɪŋkˈɔntraː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌiːŋkˈɔntraː# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌiŋkˈɔntra# | 28 : [+syl] > [-long,-splng] 
-*#ˌiŋkˈɞˤntra# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˌiŋkˈɔntra# | 75 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#ˌiŋkˈɔntra#
-*#əŋkˈɔntra# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#ŋkˈɔntra# | 87 : ə > ∅ / # __
-*#ŋɡˈɔndra# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#ŋɡˈɔndɾa# | 114 : r > ɾ 
-Final form : *#ŋɡˈɔndɾa#
+#nˈumerum# >>> *#nˈomɾə# ( GOLD : #nˈumːəɾə#) :
+n ˈu m e r u m 
+Proto-Romance stage form : *#nˈumerum#
+*#nˈʊmɛrʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#nˈʊmɛrʊ# | 35 : [+cons] > ∅ / __ #
+*#nˈʊmrʊ# | 40 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
+*#nˈʊmru# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#nˈomru# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#nˈomru#
+*#nˈomrə# | 104 : [-stres,-lo] > ə 
+*#nˈomɾə# | 114 : r > ɾ 
+Final form : *#nˈomɾə#

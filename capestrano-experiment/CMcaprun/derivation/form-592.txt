@@ -1,12 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 592:
-#frˈontem# >>> *#fɾˈondə# ( GOLD : #fɾˈontə#) :
-f r ˈo n t e m 
-Proto-Romance stage form : *#frˈontem#
-*#frˈɔntɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#frˈɔntɛ# | 35 : [+cons] > ∅ / __ #
-*#frˈonte# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#frˈonte#
-*#frˈontə# | 104 : [-stres,-lo] > ə 
-*#frˈondə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#fɾˈondə# | 114 : r > ɾ 
-Final form : *#fɾˈondə#
+#kˌuːrˈaː# >>> *#kwuɾˈa# ( GOLD : #kuɾˈa#) :
+k ˌuː r ˈaː 
+Proto-Romance stage form : *#kˌuːrˈaː#
+*#kˌurˈa# | 28 : [+syl] > [-long,-splng] 
+*#kwˌurˈa# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+Proto-South-Italo-Romance stage form : *#kwˌurˈa#
+*#kwˌuɾˈa# | 114 : r > ɾ 
+*#kwuɾˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kwuɾˈa#

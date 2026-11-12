@@ -1,17 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 655:
-#mˌaksillˈaːre# >>> *#maʃːəlːˈaɾə# ( GOLD : #maʃːəlːˈaɾə#) :
-m ˌa k s i l l ˈaː r e 
-Proto-Romance stage form : *#mˌaksillˈaːre#
-*#mˌaksɪllˈaːrɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌasːɪllˈaːrɛ# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#mˌasːɪllˈarɛ# | 28 : [+syl] > [-long,-splng] 
-*#mˌasːellˈare# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#mˌasːelːˈare# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#mˌasːelːˈare#
-*#mˌaʃːelːˈare# | 99 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#mˌaʃːəlːˈarə# | 104 : [-stres,-lo] > ə 
-*#mˌaʃːəlːˈaɾə# | 114 : r > ɾ 
-*#maʃːəlːˈaɾə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-*#maʃːelːˈaɾə# | 123 : ə > e / [+front,-syl] __ [+cor,+son]
-*#maʃːəlːˈaɾə# | 125 : [+front,-lo,-stres] > ə / # ( ( @ )* [-prim] ) [-son,cfront,!clab] __ [+cor] ( k ) [+lo]
-Final form : *#maʃːəlːˈaɾə#
+#wˌiɡˈiliam# >>> *#vijˈijːa# ( GOLD : #vˈɛjːə#) :
+w ˌi ɡ ˈi l i a m 
+*#wˌiɡˈiljam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#wˌiɡˈiljam#
+*#wˌɪɡˈɪljam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˌɪjˈɪljam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#wˌiːjˈiːljam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#wˌijˈiljam# | 28 : [+syl] > [-long,-splng] 
+*#wˌijˈiʎːam# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#wˌijˈiʎːa# | 35 : [+cons] > ∅ / __ #
+*#vˌijˈiʎːa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#vˌijˈiʎːa#
+*#vˌijˈijːa# | 117 : {ʎ;ʎː} > {j;jː} 
+*#vijˈijːa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vijˈijːa#

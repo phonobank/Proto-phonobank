@@ -1,12 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 424:
-#ɡˈuttulam# >>> *#ɡˈotːəla# ( GOLD : #ɡˈotːəla#) :
-ɡ ˈu t t u l a m 
-Proto-Romance stage form : *#ɡˈuttulam#
-*#ɡˈʊttʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡˈʊttʊla# | 35 : [+cons] > ∅ / __ #
-*#ɡˈʊttula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɡˈottula# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ɡˈotːula# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#ɡˈotːula#
-*#ɡˈotːəla# | 104 : [-stres,-lo] > ə 
-Final form : *#ɡˈotːəla#
+#ˌamaːtˈoːrem# >>> *#amatˈoɾə# ( GOLD : #amatˈoɾə#) :
+ˌa m aː t ˈoː r e m 
+Proto-Romance stage form : *#ˌamaːtˈoːrem#
+*#ˌamaːtˈoːrɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌamatˈorɛm# | 28 : [+syl] > [-long,-splng] 
+*#ˌamatˈorɛ# | 35 : [+cons] > ∅ / __ #
+*#ˌamatˈore# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌamatˈore#
+*#ˌamˌatˈore# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌamˌatˈorə# | 104 : [-stres,-lo] > ə 
+*#ˌamˌatˈoɾə# | 114 : r > ɾ 
+*#amatˈoɾə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#amatˈoɾə#

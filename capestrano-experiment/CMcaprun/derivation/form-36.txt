@@ -1,13 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 36:
-#dˈeːbitum# >>> *#dˈevətə# ( GOLD : #dˈebːətə#) :
-d ˈeː b i t u m 
-Proto-Romance stage form : *#dˈeːbitum#
-*#dˈeːbɪtʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈebɪtʊm# | 28 : [+syl] > [-long,-splng] 
-*#dˈebɪtʊ# | 35 : [+cons] > ∅ / __ #
-*#dˈebɪtu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dˈebetu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#dˈevetu# | 73 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#dˈevetu#
-*#dˈevətə# | 104 : [-stres,-lo] > ə 
-Final form : *#dˈevətə#
+#tˈorkulum# >>> *#tˈoɾkwələ# ( GOLD : #tˈɔɾt͡ʃə#) :
+t ˈo r k u l u m 
+Proto-Romance stage form : *#tˈorkulum#
+*#tˈɔrkʊlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#tˈɔrkʊlʊ# | 35 : [+cons] > ∅ / __ #
+*#tˈɔrkwʊlʊ# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#tˈɔrkwulu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tˈorkwulu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#tˈorkwulu#
+*#tˈorkwələ# | 104 : [-stres,-lo] > ə 
+*#tˈoɾkwələ# | 114 : r > ɾ 
+Final form : *#tˈoɾkwələ#

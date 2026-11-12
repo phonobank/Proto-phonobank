@@ -1,9 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 287:
-#ˈape# >>> *#ˈapə# ( GOLD : #ˈapə#) :
-ˈa p e 
-Proto-Romance stage form : *#ˈape#
-*#ˈapɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈape# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈape#
-*#ˈapə# | 104 : [-stres,-lo] > ə 
-Final form : *#ˈapə#
+#jˌaːnuˈaːriu# >>> *#jəmːˈaɾə# ( GOLD : #jenːˈaɾə#) :
+j ˌaː n u ˈaː r i u 
+*#jˌaːnuwˈaːriu# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
+*#jˌaːnuwˈaːrju# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#jˌaːnuwˈaːrju#
+*#jˌaːnʊwˈaːrjʊ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˌanʊwˈarjʊ# | 28 : [+syl] > [-long,-splng] 
+*#jˌanʊwˈarʲʊ# | 30 : r j > rʲ 
+*#jˌanʊvˈarʲʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#jˌanvˈarʲʊ# | 55 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#jˌanvˈarʲu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jˌanvˈarʲu#
+*#jˌanvˈaru# | 92 : rʲ > r 
+*#jˌamːˈaru# | 96 : n v > mː 
+*#jˌamːˈarə# | 104 : [-stres,-lo] > ə 
+*#jˌamːˈaɾə# | 114 : r > ɾ 
+*#jəmːˈaɾə# | 120 : [-prim] > ə / # j __ [+cons,-front]
+Final form : *#jəmːˈaɾə#

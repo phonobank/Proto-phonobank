@@ -1,11 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 597:
-#fˈiːlum# >>> *#fˈilə# ( GOLD : #fˈilə#) :
-f ˈiː l u m 
-Proto-Romance stage form : *#fˈiːlum#
-*#fˈiːlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈilʊm# | 28 : [+syl] > [-long,-splng] 
-*#fˈilʊ# | 35 : [+cons] > ∅ / __ #
-*#fˈilu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˈilu#
-*#fˈilə# | 104 : [-stres,-lo] > ə 
-Final form : *#fˈilə#
+#kˌubˈaː# >>> *#kəvˈa# ( GOLD : #kovˈa#) :
+k ˌu b ˈaː 
+Proto-Romance stage form : *#kˌubˈaː#
+*#kˌʊbˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌʊbˈa# | 28 : [+syl] > [-long,-splng] 
+*#kˌubˈa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌuvˈa# | 73 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#kˌuvˈa#
+*#kəvˈa# | 115 : ˌu > ə / @ __ [+lab,+strid]
+Final form : *#kəvˈa#

@@ -1,13 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 448:
-#wˈiːperam# >>> *#vˈipəɾa# ( GOLD : #vˈipəɾa#) :
-w ˈiː p e r a m 
-Proto-Romance stage form : *#wˈiːperam#
-*#wˈiːpɛram# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈipɛram# | 28 : [+syl] > [-long,-splng] 
-*#wˈipɛra# | 35 : [+cons] > ∅ / __ #
-*#vˈipɛra# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈipera# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˈipera#
-*#vˈipəra# | 104 : [-stres,-lo] > ə 
-*#vˈipəɾa# | 114 : r > ɾ 
-Final form : *#vˈipəɾa#
+#klˈaːmat# >>> *#kjˈama# ( GOLD : #cˈama#) :
+k l ˈaː m a t 
+Proto-Romance stage form : *#klˈaːmat#
+*#klˈamat# | 28 : [+syl] > [-long,-splng] 
+*#klˈama# | 35 : [+cons] > ∅ / __ #
+*#kʎˈama# | 70 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#kʎˈama#
+*#kjˈama# | 117 : {ʎ;ʎː} > {j;jː} 
+Final form : *#kjˈama#

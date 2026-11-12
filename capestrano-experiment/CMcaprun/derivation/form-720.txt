@@ -1,11 +1,10 @@
-Derivation file for run '../proto-phonobank/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 720:
-#arsenˈale# >>> *#aɾt͡sənˈalə# ( GOLD : #art͡sənˈalə#) :
-a r s e n ˈa l e 
-Proto-Romance stage form : *#arsenˈale#
-*#arsɛnˈalɛ# | 11 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#arsenˈale# | 50 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#arsenˈale#
-*#art͡senˈale# | 71 : s > t͡s / r __
-*#art͡sənˈalə# | 79 : [-stres,-lo] > ə 
-*#aɾt͡sənˈalə# | 90 : r > ɾ 
-Final form : *#aɾt͡sənˈalə#
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 720:
+#plˈeːnam# >>> *#pjˈena# ( GOLD : #pjˈena#) :
+p l ˈeː n a m 
+Proto-Romance stage form : *#plˈeːnam#
+*#plˈenam# | 28 : [+syl] > [-long,-splng] 
+*#plˈena# | 35 : [+cons] > ∅ / __ #
+*#pʎˈena# | 70 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#pʎˈena#
+*#pjˈena# | 117 : {ʎ;ʎː} > {j;jː} 
+Final form : *#pjˈena#

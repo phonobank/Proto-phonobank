@@ -1,10 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 55:
-#sˈilwam# >>> *#sˈelva# ( GOLD : #sˈelva#) :
-s ˈi l w a m 
-Proto-Romance stage form : *#sˈilwam#
-*#sˈɪlwam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɪlwa# | 35 : [+cons] > ∅ / __ #
-*#sˈɪlva# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#sˈelva# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˈelva#
-Final form : *#sˈelva#
+#dˈentem# >>> *#dˈendə# ( GOLD : #dˈendə#) :
+d ˈe n t e m 
+Proto-Romance stage form : *#dˈentem#
+*#dˈɛntɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˈɛntɛ# | 35 : [+cons] > ∅ / __ #
+*#dˈente# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#dˈente#
+*#dˈentə# | 104 : [-stres,-lo] > ə 
+*#dˈendə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#dˈendə#

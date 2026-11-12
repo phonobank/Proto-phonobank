@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 153:
-#lˈektum# >>> *#lˈetːə# ( GOLD : #lˈetːə#) :
-l ˈe k t u m 
-Proto-Romance stage form : *#lˈektum#
-*#lˈɛktʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˈɛtːʊm# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#lˈɛtːʊ# | 35 : [+cons] > ∅ / __ #
-*#lˈɛtːu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#lˈetːu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#lˈetːu#
-*#lˈetːə# | 104 : [-stres,-lo] > ə 
-Final form : *#lˈetːə#
+#sˈubitoː# >>> *#sˈovtə# ( GOLD : #sˈubːətə#) :
+s ˈu b i t oː 
+Proto-Romance stage form : *#sˈubitoː#
+*#sˈʊbɪtoː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈʊbɪto# | 28 : [+syl] > [-long,-splng] 
+*#sˈʊbto# | 41 : [+hi,-stres] > ∅ / [+round,+syl] ( [+son,-syl] ) [+lab,-syl,-long] __ [nnas,nvoi,+cor,-front] [+syl]
+*#sˈobto# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˈovto# | 73 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#sˈovto#
+*#sˈovtə# | 104 : [-stres,-lo] > ə 
+Final form : *#sˈovtə#

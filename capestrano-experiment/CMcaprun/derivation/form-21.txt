@@ -1,11 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 21:
-#tˈostum# >>> *#tˈostə# ( GOLD : #tˈɔʃtə#) :
-t ˈo s t u m 
-Proto-Romance stage form : *#tˈostum#
-*#tˈɔstʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˈɔstʊ# | 35 : [+cons] > ∅ / __ #
-*#tˈɔstu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tˈostu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#tˈostu#
-*#tˈostə# | 104 : [-stres,-lo] > ə 
-Final form : *#tˈostə#
+#tˌeːlˈaːrium# >>> *#təlˈaɾə# ( GOLD : #telˈaɾə#) :
+t ˌeː l ˈaː r i u m 
+*#tˌeːlˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#tˌeːlˈaːrjum#
+*#tˌeːlˈaːrjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#tˌelˈarjʊm# | 28 : [+syl] > [-long,-splng] 
+*#tˌelˈarʲʊm# | 30 : r j > rʲ 
+*#tˌelˈarʲʊ# | 35 : [+cons] > ∅ / __ #
+*#tˌelˈarʲu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#tˌelˈarʲu#
+*#tˌelˈaru# | 92 : rʲ > r 
+*#tˌelˈarə# | 104 : [-stres,-lo] > ə 
+*#tˌelˈaɾə# | 114 : r > ɾ 
+*#təlˈaɾə# | 116 : [-prim,-hi,-lo] > ə 
+Final form : *#təlˈaɾə#

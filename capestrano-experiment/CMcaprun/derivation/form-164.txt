@@ -1,9 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 164:
-#lˌawˈaː# >>> *#lavˈa# ( GOLD : #lavˈa#) :
-l ˌa w ˈaː 
-Proto-Romance stage form : *#lˌawˈaː#
-*#lˌawˈa# | 28 : [+syl] > [-long,-splng] 
-*#lˌavˈa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#lˌavˈa#
-*#lavˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#lavˈa#
+#sˌubtˈiːlem# >>> *#sutːˈilə# ( GOLD : #sətːˈilə#) :
+s ˌu b t ˈiː l e m 
+Proto-Romance stage form : *#sˌubtˈiːlem#
+*#sˌʊbtˈiːlɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌʊbtˈilɛm# | 28 : [+syl] > [-long,-splng] 
+*#sˌʊtːˈilɛm# | 33 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#sˌʊtːˈilɛ# | 35 : [+cons] > ∅ / __ #
+*#sˌutːˈilɛ# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sˌutːˈile# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˌutːˈile#
+*#sˌutːˈilə# | 104 : [-stres,-lo] > ə 
+*#sutːˈilə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#sutːˈilə#

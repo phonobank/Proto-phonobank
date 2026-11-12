@@ -1,15 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 439:
-#kwˌae̯stˈoːrem# >>> *#kwəstˈoɾə# ( GOLD : #kwəstˈoɾə#) :
-k w ˌa e̯ s t ˈoː r e m 
-*#kwˌɛːstˈoːrem# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
-Proto-Romance stage form : *#kwˌɛːstˈoːrem#
-*#kwˌɛːstˈoːrɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kwˌɛstˈorɛm# | 28 : [+syl] > [-long,-splng] 
-*#kwˌɛstˈorɛ# | 35 : [+cons] > ∅ / __ #
-*#kwˌestˈorɛ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#kwˌestˈore# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kwˌestˈore#
-*#kwˌestˈorə# | 104 : [-stres,-lo] > ə 
-*#kwˌestˈoɾə# | 114 : r > ɾ 
-*#kwəstˈoɾə# | 116 : [-prim,-hi,-lo] > ə 
-Final form : *#kwəstˈoɾə#
+#hˈordeum# >>> *#ˈoɾd͡ʒə# ( GOLD : #ˈɔɾi#) :
+h ˈo r d e u m 
+*#ˈordeum# | 4 : h > ∅ 
+*#ˈordjum# | 11 : e > j / __ [+back,-cons]
+Proto-Romance stage form : *#ˈordjum#
+*#ˈɔrdjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔrd͡ʒʊm# | 24 : {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
+*#ˈɔrd͡ʒʊ# | 35 : [+cons] > ∅ / __ #
+*#ˈɔrd͡ʒu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈord͡ʒu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈord͡ʒu#
+*#ˈord͡ʒə# | 104 : [-stres,-lo] > ə 
+*#ˈoɾd͡ʒə# | 114 : r > ɾ 
+Final form : *#ˈoɾd͡ʒə#

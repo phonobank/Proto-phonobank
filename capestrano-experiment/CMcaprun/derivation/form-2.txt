@@ -1,17 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 2:
-#trˌifˈolium# >>> *#tɾəfˈojːə# ( GOLD : #tɾəfˈojːə#) :
-t r ˌi f ˈo l i u m 
-*#trˌifˈoljum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#trˌifˈoljum#
-*#trˌɪfˈɔljʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#trˌɪfˈɔʎːʊm# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#trˌɪfˈɔʎːʊ# | 35 : [+cons] > ∅ / __ #
-*#trˌefˈɔʎːʊ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#trˌefˈɔʎːu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#trˌefˈoʎːu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#trˌefˈoʎːu#
-*#trˌefˈoʎːə# | 104 : [-stres,-lo] > ə 
-*#tɾˌefˈoʎːə# | 114 : r > ɾ 
-*#tɾəfˈoʎːə# | 116 : [-prim,-hi,-lo] > ə 
-*#tɾəfˈojːə# | 117 : {ʎ;ʎː} > {j;jː} 
-Final form : *#tɾəfˈojːə#
+#trˌibˈuːtum# >>> *#tɾivˈutə# ( GOLD : #tɾibːˈutə#) :
+t r ˌi b ˈuː t u m 
+Proto-Romance stage form : *#trˌibˈuːtum#
+*#trˌɪbˈuːtʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#trˌiːbˈuːtʊm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#trˌibˈutʊm# | 28 : [+syl] > [-long,-splng] 
+*#trˌibˈutʊ# | 35 : [+cons] > ∅ / __ #
+*#trˌibˈutu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#trˌivˈutu# | 73 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#trˌivˈutu#
+*#trˌivˈutə# | 104 : [-stres,-lo] > ə 
+*#tɾˌivˈutə# | 114 : r > ɾ 
+*#tɾivˈutə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#tɾivˈutə#

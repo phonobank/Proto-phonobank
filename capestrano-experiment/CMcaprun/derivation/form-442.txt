@@ -1,12 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 442:
-#wˈidua# >>> *#vˈedəva# ( GOLD : #vˈedeva#) :
-w ˈi d u a 
-*#wˈiduwa# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
-Proto-Romance stage form : *#wˈiduwa#
-*#wˈɪdʊwa# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɪdʊva# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈɪduva# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vˈeduva# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˈeduva#
-*#vˈedəva# | 104 : [-stres,-lo] > ə 
-Final form : *#vˈedəva#
+#klˈawde# >>> *#kjˈodə# ( GOLD : #cˈudə#) :
+k l ˈa w d e 
+Proto-Romance stage form : *#klˈawde#
+*#klˈawdɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#klˈawde# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#klˈowde# | 68 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+*#kʎˈowde# | 70 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#kʎˈowde#
+*#kʎˈode# | 93 : w > ∅ / [+round] __ [+cons]
+*#kʎˈodə# | 104 : [-stres,-lo] > ə 
+*#kjˈodə# | 117 : {ʎ;ʎː} > {j;jː} 
+Final form : *#kjˈodə#

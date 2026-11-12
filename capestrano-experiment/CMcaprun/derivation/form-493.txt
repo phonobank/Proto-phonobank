@@ -1,10 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 493:
-#plˈaːɡam# >>> *#pjˈaɡa# ( GOLD : #pjˈaɡa#) :
-p l ˈaː ɡ a m 
-Proto-Romance stage form : *#plˈaːɡam#
-*#plˈaɡam# | 28 : [+syl] > [-long,-splng] 
-*#plˈaɡa# | 35 : [+cons] > ∅ / __ #
-*#pʎˈaɡa# | 70 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#pʎˈaɡa#
-*#pjˈaɡa# | 117 : {ʎ;ʎː} > {j;jː} 
-Final form : *#pjˈaɡa#
+#kˌaldˈaːriam# >>> *#kaldˈaɾa# ( GOLD : #kalːˈaɾa#) :
+k ˌa l d ˈaː r i a m 
+*#kˌaldˈaːrjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌaldˈaːrjam#
+*#kˌaldˈarjam# | 28 : [+syl] > [-long,-splng] 
+*#kˌaldˈarʲam# | 30 : r j > rʲ 
+*#kˌaldˈarʲa# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˌaldˈarʲa#
+*#kˌaldˈara# | 92 : rʲ > r 
+*#kˌaldˈaɾa# | 114 : r > ɾ 
+*#kaldˈaɾa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaldˈaɾa#

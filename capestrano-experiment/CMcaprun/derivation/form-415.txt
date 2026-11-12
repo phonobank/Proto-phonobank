@@ -1,16 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 415:
-#ɡˌenˈestram# >>> *#jenˈæstɾa# ( GOLD : #jenˈestɾa#) :
-ɡ ˌe n ˈe s t r a m 
-Proto-Romance stage form : *#ɡˌenˈestram#
-*#ɡˌɛnˈɛstram# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˌɛnˈɛstram# | 16 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˌɛnˈɛstram# | 17 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-*#jˌɛnˈɛstram# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#jˌɛnˈɛstra# | 35 : [+cons] > ∅ / __ #
-*#jˌenˈɛstra# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#jˌenˈæstra# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#jˌenˈæstra#
-*#jˌenˈæstɾa# | 114 : r > ɾ 
-*#jənˈæstɾa# | 116 : [-prim,-hi,-lo] > ə 
-*#jenˈæstɾa# | 123 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#jenˈæstɾa#
+#ˌabsˈolwe# >>> *#aʃːˈolvə# ( GOLD : #asːˈolvə#) :
+ˌa b s ˈo l w e 
+Proto-Romance stage form : *#ˌabsˈolwe#
+*#ˌabsˈɔlwɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌasːˈɔlwɛ# | 33 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#ˌasːˈɔlvɛ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#ˌasːˈolve# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌasːˈolve#
+*#ˌaʃːˈolve# | 99 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#ˌaʃːˈolvə# | 104 : [-stres,-lo] > ə 
+*#aʃːˈolvə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#aʃːˈolvə#

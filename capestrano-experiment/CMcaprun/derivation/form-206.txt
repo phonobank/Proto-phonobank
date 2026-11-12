@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 206:
-#jˌuːmˈentam# >>> *#jəmˈænda# ( GOLD : #jəmˈenda#) :
-j ˌuː m ˈe n t a m 
-Proto-Romance stage form : *#jˌuːmˈentam#
-*#jˌuːmˈɛntam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˌumˈɛntam# | 28 : [+syl] > [-long,-splng] 
-*#jˌumˈɛnta# | 35 : [+cons] > ∅ / __ #
-*#jˌumˈænta# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#jˌumˈænta#
-*#jˌumˈænda# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#jəmˈænda# | 120 : [-prim] > ə / # j __ [+cons,-front]
-Final form : *#jəmˈænda#
+#nˈuːdum# >>> *#nˈudə# ( GOLD : #nˈudə#) :
+n ˈuː d u m 
+Proto-Romance stage form : *#nˈuːdum#
+*#nˈuːdʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#nˈudʊm# | 28 : [+syl] > [-long,-splng] 
+*#nˈudʊ# | 35 : [+cons] > ∅ / __ #
+*#nˈudu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#nˈudu#
+*#nˈudə# | 104 : [-stres,-lo] > ə 
+Final form : *#nˈudə#

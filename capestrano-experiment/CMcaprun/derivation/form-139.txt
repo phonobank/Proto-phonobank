@@ -1,15 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 139:
-#innˈowum# >>> *#nːˈovə# ( GOLD : #ɲˈovə#) :
-i n n ˈo w u m 
-Proto-Romance stage form : *#innˈowum#
-*#ɪnnˈɔwʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɪnnˈɔwʊ# | 35 : [+cons] > ∅ / __ #
-*#ɪnnˈɔvʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#ɪnnˈɔvu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɪnːˈɔvu# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#enːˈovu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#enːˈovu#
-*#ənːˈovu# | 83 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#nːˈovu# | 87 : ə > ∅ / # __
-*#nːˈovə# | 104 : [-stres,-lo] > ə 
-Final form : *#nːˈovə#
+#skˈorteam# >>> *#skˈɔɾt͡sa# ( GOLD : #skˈɔɾt͡ʃa#) :
+s k ˈo r t e a m 
+*#skˈortiam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
+*#skˈortjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#skˈortjam#
+*#skˈɔrtjam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#skˈɔrtʲːam# | 21 : t j > tʲː 
+*#skˈɔrt͡sːam# | 29 : tʲː > t͡sː 
+*#skˈɔrt͡sːa# | 35 : [+cons] > ∅ / __ #
+*#skˈɔrt͡sa# | 37 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#skˈɞˤrt͡sa# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#skˈɔrt͡sa# | 75 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#skˈɔrt͡sa#
+*#skˈɔɾt͡sa# | 114 : r > ɾ 
+Final form : *#skˈɔɾt͡sa#

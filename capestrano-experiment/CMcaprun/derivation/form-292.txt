@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 292:
-#ˌabsˈolwe# >>> *#aʃːˈolvə# ( GOLD : #asːˈolvə#) :
-ˌa b s ˈo l w e 
-Proto-Romance stage form : *#ˌabsˈolwe#
-*#ˌabsˈɔlwɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌasːˈɔlwɛ# | 33 : [+lab,-son] [+cor,-son] > ∅ [+long]
-*#ˌasːˈɔlvɛ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#ˌasːˈolve# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌasːˈolve#
-*#ˌaʃːˈolve# | 99 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#ˌaʃːˈolvə# | 104 : [-stres,-lo] > ə 
-*#aʃːˈolvə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#aʃːˈolvə#
+#jˈuːnium# >>> *#jˈuɲə# ( GOLD : #d͡ʒˈuɲə#) :
+j ˈuː n i u m 
+*#jˈuːnjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#jˈuːnjum#
+*#jˈuːnjʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˈunjʊm# | 28 : [+syl] > [-long,-splng] 
+*#jˈuɲːʊm# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#jˈuɲːʊ# | 35 : [+cons] > ∅ / __ #
+*#jˈuɲːu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jˈuɲːu#
+*#jˈuɲːə# | 104 : [-stres,-lo] > ə 
+*#jˈuɲə# | 118 : ɲː > ɲ 
+Final form : *#jˈuɲə#

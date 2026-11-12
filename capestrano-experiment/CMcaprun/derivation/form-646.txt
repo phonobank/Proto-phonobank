@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 646:
-#mˈaːnsum# >>> *#mˈand͡zə# ( GOLD : #mˈand͡zə#) :
-m ˈaː n s u m 
-Proto-Romance stage form : *#mˈaːnsum#
-*#mˈaːnsʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈansʊm# | 28 : [+syl] > [-long,-splng] 
-*#mˈansʊ# | 35 : [+cons] > ∅ / __ #
-*#mˈansu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈansu#
-*#mˈansə# | 104 : [-stres,-lo] > ə 
-*#mˈand͡zə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#mˈand͡zə#
+#wˌiːndeːmiˈaː# >>> *#vinːəmjˈa# ( GOLD : #vɛniɲˈa#) :
+w ˌiː n d eː m i ˈaː 
+*#wˌiːndeːmjˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#wˌiːndeːmjˈaː#
+*#wˌindemjˈa# | 28 : [+syl] > [-long,-splng] 
+*#vˌindemjˈa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˌinːemjˈa# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#vˌinːemjˈa#
+*#vˌinːəmjˈa# | 104 : [-stres,-lo] > ə 
+*#vinːəmjˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vinːəmjˈa#

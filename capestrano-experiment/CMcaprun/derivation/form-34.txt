@@ -1,11 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 34:
-#dˌeːklaːrˈaː# >>> *#dəkjaɾˈa# ( GOLD : #dəkjaɾˈa#) :
-d ˌeː k l aː r ˈaː 
-Proto-Romance stage form : *#dˌeːklaːrˈaː#
-*#dˌeklarˈa# | 28 : [+syl] > [-long,-splng] 
-*#dˌekʎarˈa# | 70 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#dˌekʎarˈa#
-*#dˌekʎaɾˈa# | 114 : r > ɾ 
-*#dəkʎaɾˈa# | 116 : [-prim,-hi,-lo] > ə 
-*#dəkjaɾˈa# | 117 : {ʎ;ʎː} > {j;jː} 
-Final form : *#dəkjaɾˈa#
+#tˈabulam# >>> *#tˈavəla# ( GOLD : #tˈavəla#) :
+t ˈa b u l a m 
+Proto-Romance stage form : *#tˈabulam#
+*#tˈabʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#tˈabʊla# | 35 : [+cons] > ∅ / __ #
+*#tˈabula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tˈavula# | 73 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#tˈavula#
+*#tˈavəla# | 104 : [-stres,-lo] > ə 
+Final form : *#tˈavəla#

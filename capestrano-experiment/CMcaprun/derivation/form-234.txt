@@ -1,11 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 234:
-#ˈeksit# >>> *#ˈesːə# ( GOLD : #ˈeʃːi#) :
-ˈe k s i t 
-Proto-Romance stage form : *#ˈeksit#
-*#ˈɛksɪt# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɛsːɪt# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˈɛsːɪ# | 35 : [+cons] > ∅ / __ #
-*#ˈesːe# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈesːe#
-*#ˈesːə# | 104 : [-stres,-lo] > ə 
-Final form : *#ˈesːə#
+#lˈawrum# >>> *#lˈoɾə# ( GOLD : #lˈawɾa#) :
+l ˈa w r u m 
+Proto-Romance stage form : *#lˈawrum#
+*#lˈawrʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈawrʊ# | 35 : [+cons] > ∅ / __ #
+*#lˈawru# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#lˈowru# | 68 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+Proto-South-Italo-Romance stage form : *#lˈowru#
+*#lˈoru# | 93 : w > ∅ / [+round] __ [+cons]
+*#lˈorə# | 104 : [-stres,-lo] > ə 
+*#lˈoɾə# | 114 : r > ɾ 
+Final form : *#lˈoɾə#

@@ -1,8 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 297:
-#ˌamˈaː# >>> *#amˈa# ( GOLD : #amˈa#) :
-ˌa m ˈaː 
-Proto-Romance stage form : *#ˌamˈaː#
-*#ˌamˈa# | 28 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#ˌamˈa#
-*#amˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#amˈa#
+#jˌuwˈenkum# >>> *#jəvˈeŋɡə# ( GOLD : #jˈɛŋɡə#) :
+j ˌu w ˈe n k u m 
+*#jˌuwˈeŋkum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#jˌuwˈeŋkum#
+*#jˌʊwˈɛŋkʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˌʊwˈɛŋkʊ# | 35 : [+cons] > ∅ / __ #
+*#jˌʊvˈɛŋkʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#jˌuvˈɛŋku# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˌuvˈeŋku# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jˌuvˈeŋku#
+*#jˌuvˈeŋkə# | 104 : [-stres,-lo] > ə 
+*#jˌuvˈeŋɡə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#jəvˈeŋɡə# | 115 : ˌu > ə / @ __ [+lab,+strid]
+Final form : *#jəvˈeŋɡə#

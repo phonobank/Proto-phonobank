@@ -1,10 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 404:
-#kˈurtam# >>> *#kˈoɾta# ( GOLD : #kˈoɾta#) :
-k ˈu r t a m 
-Proto-Romance stage form : *#kˈurtam#
-*#kˈʊrtam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈʊrta# | 35 : [+cons] > ∅ / __ #
-*#kˈorta# | 62 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-Proto-South-Italo-Romance stage form : *#kˈorta#
-*#kˈoɾta# | 114 : r > ɾ 
-Final form : *#kˈoɾta#
+#ˌawˈaːrum# >>> *#avˈaɾə# ( GOLD : #avˈaɾə#) :
+ˌa w ˈaː r u m 
+Proto-Romance stage form : *#ˌawˈaːrum#
+*#ˌawˈaːrʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌawˈarʊm# | 28 : [+syl] > [-long,-splng] 
+*#ˌawˈarʊ# | 35 : [+cons] > ∅ / __ #
+*#ˌavˈarʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#ˌavˈaru# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌavˈaru#
+*#ˌavˈarə# | 104 : [-stres,-lo] > ə 
+*#ˌavˈaɾə# | 114 : r > ɾ 
+*#avˈaɾə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#avˈaɾə#

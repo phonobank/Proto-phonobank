@@ -1,12 +1,7 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 248:
-#ˈaskiam# >>> *#ˈaʃja# ( GOLD : #ˈaʃːə#) :
-ˈa s k i a m 
-*#ˈaskjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#ˈaskjam#
-*#ˈast͡ʃjam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#ˈast͡ʃja# | 35 : [+cons] > ∅ / __ #
-*#ˈaʃja# | 76 : s t͡ʃ > ʃ 
-Proto-South-Italo-Romance stage form : *#ˈaʃja#
-*#ˈaʃjˌa# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈaʃja# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈaʃja#
+#lˈuːma# >>> *#lˈuma# ( GOLD : #lˈuma#) :
+l ˈuː m a 
+Proto-Romance stage form : *#lˈuːma#
+*#lˈuma# | 28 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#lˈuma#
+Final form : *#lˈuma#

@@ -1,21 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 417:
-#ɡˌenˈukulum# >>> *#jenˈokːjə# ( GOLD : #jenˈokːjə#) :
-ɡ ˌe n ˈu k u l u m 
-Proto-Romance stage form : *#ɡˌenˈukulum#
-*#ɡˌɛnˈʊkʊlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˌɛnˈʊkʊlʊm# | 16 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˌɛnˈʊkʊlʊm# | 17 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-*#jˌɛnˈʊkʊlʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#jˌɛnˈʊklʊm# | 27 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
-*#jˌɛnˈʊklʊ# | 35 : [+cons] > ∅ / __ #
-*#jˌenˈʊklʊ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#jˌenˈʊklu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˌenˈoklu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#jˌenˈokʎu# | 70 : l > ʎ / [-son,-cor] __
-*#jˌenˈokːʎu# | 72 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
-Proto-South-Italo-Romance stage form : *#jˌenˈokːʎu#
-*#jˌenˈokːʎə# | 104 : [-stres,-lo] > ə 
-*#jənˈokːʎə# | 116 : [-prim,-hi,-lo] > ə 
-*#jənˈokːjə# | 117 : {ʎ;ʎː} > {j;jː} 
-*#jenˈokːjə# | 123 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#jenˈokːjə#
+#ˌabellˈaːnam# >>> *#avælːˈana# ( GOLD : #vəlːˈana#) :
+ˌa b e l l ˈaː n a m 
+Proto-Romance stage form : *#ˌabellˈaːnam#
+*#ˌabɛllˈaːnam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌabɛllˈanam# | 28 : [+syl] > [-long,-splng] 
+*#ˌabɛllˈana# | 35 : [+cons] > ∅ / __ #
+*#ˌabællˈana# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌabælːˈana# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#ˌavælːˈana# | 73 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#ˌavælːˈana#
+*#ˌavˌælːˈana# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#avælːˈana# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#avælːˈana#

@@ -1,11 +1,21 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 321:
-#krˌepˈaː# >>> *#kɾəpˈa# ( GOLD : #kɾəpˈa#) :
-k r ˌe p ˈaː 
-Proto-Romance stage form : *#krˌepˈaː#
-*#krˌɛpˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#krˌɛpˈa# | 28 : [+syl] > [-long,-splng] 
-*#krˌepˈa# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#krˌepˈa#
-*#kɾˌepˈa# | 114 : r > ɾ 
-*#kɾəpˈa# | 116 : [-prim,-hi,-lo] > ə 
-Final form : *#kɾəpˈa#
+#ˌiɡnˌoːrˈantem# >>> *#ɲeɾˈandə# ( GOLD : #ɲuɾˈandə#) :
+ˌi ɡ n ˌoː r ˈa n t e m 
+Proto-Romance stage form : *#ˌiɡnˌoːrˈantem#
+*#ˌɪɡnˌoːrˈantɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪjnˌoːrˈantɛm# | 15 : [+back,+cons] > j / __ n
+*#ˌiːjnˌoːrˈantɛm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌijnˌorˈantɛm# | 28 : [+syl] > [-long,-splng] 
+*#ˌijnˌorˈantɛ# | 35 : [+cons] > ∅ / __ #
+*#ˌiɲːˌorˈantɛ# | 60 : j n > ɲː / [+front,-lo,+syl] __
+*#ˌiɲːˌorˈante# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌiɲːˌorˈante#
+*#əɲːˌorˈante# | 83 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#ɲːˌorˈante# | 87 : ə > ∅ / # __
+*#ɲːˌorˈantə# | 104 : [-stres,-lo] > ə 
+*#ɲːˌorˈandə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ɲːˌoɾˈandə# | 114 : r > ɾ 
+*#ɲːəɾˈandə# | 116 : [-prim,-hi,-lo] > ə 
+*#ɲəɾˈandə# | 118 : ɲː > ɲ 
+*#ɲeɾˈandə# | 123 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#ɲeɾˈandə#

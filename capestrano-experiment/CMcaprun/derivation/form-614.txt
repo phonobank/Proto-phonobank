@@ -1,14 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 614:
-#fˌalkiˈaː# >>> *#favət͡ʃjˈa# ( GOLD : #favəd͡ʒˈa#) :
-f ˌa l k i ˈaː 
-*#fˌalkjˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#fˌalkjˈaː#
-*#fˌalˠkjˈaː# | 18 : l > lˠ / __ ( [-stres] ) k [-cons]
-*#fˌalˠt͡ʃjˈaː# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#fˌalˠt͡ʃjˈa# | 28 : [+syl] > [-long,-splng] 
-*#fˌalˠət͡ʃjˈa# | 44 : ∅ > ə / lˠ __ [-syl]
-*#fˌawət͡ʃjˈa# | 46 : lˠ > w / __ ( ə ) t͡ʃ
-*#fˌavət͡ʃjˈa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#fˌavət͡ʃjˈa#
-*#favət͡ʃjˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#favət͡ʃjˈa#
+#ɡˈelum# >>> *#jˈelə# ( GOLD : #jˈelə#) :
+ɡ ˈe l u m 
+Proto-Romance stage form : *#ɡˈelum#
+*#ɡˈɛlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˈɛlʊm# | 16 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˈɛlʊm# | 17 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+*#jˈɛlʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#jˈɛlʊ# | 35 : [+cons] > ∅ / __ #
+*#jˈɛlu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈelu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jˈelu#
+*#jˈelə# | 104 : [-stres,-lo] > ə 
+Final form : *#jˈelə#

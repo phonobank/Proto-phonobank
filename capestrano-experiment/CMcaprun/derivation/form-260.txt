@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 260:
-#ˌalˈawdula# >>> *#alˈodəla# ( GOLD : #lˈɔla#) :
-ˌa l ˈa w d u l a 
-Proto-Romance stage form : *#ˌalˈawdula#
-*#ˌalˈawdʊla# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌalˈawdula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌalˈowdula# | 68 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#ˌalˈowdula#
-*#ˌalˈodula# | 93 : w > ∅ / [+round] __ [+cons]
-*#ˌalˈodəla# | 104 : [-stres,-lo] > ə 
-*#alˈodəla# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#alˈodəla#
+#rˌeɡalˈaː# >>> *#ɾəɡalˈa# ( GOLD : #ɾəɡalˈa#) :
+r ˌe ɡ a l ˈaː 
+Proto-Romance stage form : *#rˌeɡalˈaː#
+*#rˌɛɡalˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌɛɡalˈa# | 28 : [+syl] > [-long,-splng] 
+*#rˌeɡalˈa# | 58 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#rˌeɡalˈa#
+*#ɾˌeɡalˈa# | 114 : r > ɾ 
+*#ɾəɡalˈa# | 116 : [-prim,-hi,-lo] > ə 
+Final form : *#ɾəɡalˈa#

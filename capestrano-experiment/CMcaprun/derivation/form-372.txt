@@ -1,9 +1,9 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 372:
-#kˌabˈalla# >>> *#kavˈalːa# ( GOLD : #kavˈalːa#) :
-k ˌa b ˈa l l a 
-Proto-Romance stage form : *#kˌabˈalla#
-*#kˌabˈalːa# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-*#kˌavˈalːa# | 73 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#kˌavˈalːa#
-*#kavˈalːa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kavˈalːa#
+#ˈalbam# >>> *#ˈalba# ( GOLD : #ˈalba#) :
+ˈa l b a m 
+Proto-Romance stage form : *#ˈalbam#
+*#ˈalba# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈalba#
+*#ˈalbˌa# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈalba# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈalba#

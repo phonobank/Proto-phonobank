@@ -1,11 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 481:
-#ˈoktoː# >>> *#ˈotːə# ( GOLD : #ˈɔtːə#) :
-ˈo k t oː 
-Proto-Romance stage form : *#ˈoktoː#
-*#ˈɔktoː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔtːoː# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˈɔtːo# | 28 : [+syl] > [-long,-splng] 
-*#ˈotːo# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈotːo#
-*#ˈotːə# | 104 : [-stres,-lo] > ə 
-Final form : *#ˈotːə#
+#kˌasikˈaː# >>> *#kaʃəkˈa# ( GOLD : #kaskˈa#) :
+k ˌa s i k ˈaː 
+Proto-Romance stage form : *#kˌasikˈaː#
+*#kˌasɪkˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌasiːkˈaː# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#kˌasikˈa# | 28 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#kˌasikˈa#
+*#kˌaʃikˈa# | 99 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#kˌaʃəkˈa# | 104 : [-stres,-lo] > ə 
+*#kaʃəkˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaʃəkˈa#

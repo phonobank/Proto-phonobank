@@ -1,16 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 205:
-#jˌuːnˈiperum# >>> *#jenˈipəɾə# ( GOLD : #jenˈibːjə#) :
-j ˌuː n ˈi p e r u m 
-Proto-Romance stage form : *#jˌuːnˈiperum#
-*#jˌuːnˈɪpɛrʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˌuːnˈiːpɛrʊm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#jˌunˈipɛrʊm# | 28 : [+syl] > [-long,-splng] 
-*#jˌunˈipɛrʊ# | 35 : [+cons] > ∅ / __ #
-*#jˌunˈipɛru# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˌunˈiperu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#jˌunˈiperu#
-*#jˌunˈipərə# | 104 : [-stres,-lo] > ə 
-*#jˌunˈipəɾə# | 114 : r > ɾ 
-*#jənˈipəɾə# | 120 : [-prim] > ə / # j __ [+cons,-front]
-*#jenˈipəɾə# | 123 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#jenˈipəɾə#
+#nˈoːs# >>> *#nˈu# ( GOLD : #nˈu#) :
+n ˈoː s 
+Proto-Romance stage form : *#nˈoːs#
+*#nˈos# | 28 : [+syl] > [-long,-splng] 
+*#nˈoj# | 34 : s > j / # ( [-syl] )* [+syl] ( [-syl] ) __ #
+*#nˈuj# | 56 : [+syl,+round] > [+hi] / __ j
+*#nˈu# | 57 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
+Proto-South-Italo-Romance stage form : *#nˈu#
+Final form : *#nˈu#

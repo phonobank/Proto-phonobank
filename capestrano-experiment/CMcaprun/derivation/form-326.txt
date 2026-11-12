@@ -1,13 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 326:
-#kˌirkˈaː# >>> *#t͡ʃəɾkˈa# ( GOLD : #t͡ʃəɾkˈa#) :
-k ˌi r k ˈaː 
-Proto-Romance stage form : *#kˌirkˈaː#
-*#kˌɪrkˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃˌɪrkˈaː# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˌiːrkˈaː# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#t͡ʃˌirkˈa# | 28 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#t͡ʃˌirkˈa#
-*#t͡ʃˌiɾkˈa# | 114 : r > ɾ 
-*#t͡ʃiɾkˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-*#t͡ʃəɾkˈa# | 125 : [+front,-lo,-stres] > ə / # ( ( @ )* [-prim] ) [-son,cfront,!clab] __ [+cor] ( k ) [+lo]
-Final form : *#t͡ʃəɾkˈa#
+#ˈedera# >>> *#ˈædeɾa# ( GOLD : #ˈedeɾa#) :
+ˈe d e r a 
+Proto-Romance stage form : *#ˈedera#
+*#ˈɛdɛra# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈædɛra# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˈædera# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈædera#
+*#ˈædəra# | 104 : [-stres,-lo] > ə 
+*#ˈædəɾa# | 114 : r > ɾ 
+*#ˈædeɾa# | 124 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
+Final form : *#ˈædeɾa#

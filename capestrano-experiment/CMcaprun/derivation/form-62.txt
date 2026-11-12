@@ -1,13 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 62:
-#sˌerraːtˈuːra# >>> *#serːatˈuɾa# ( GOLD : #serːatˈuɾa#) :
-s ˌe r r aː t ˈuː r a 
-Proto-Romance stage form : *#sˌerraːtˈuːra#
-*#sˌɛrraːtˈuːra# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌɛrratˈura# | 28 : [+syl] > [-long,-splng] 
-*#sˌerratˈura# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#sˌerːatˈura# | 69 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#sˌerːatˈura#
-*#sˌerːatˈuɾa# | 114 : r > ɾ 
-*#sərːatˈuɾa# | 116 : [-prim,-hi,-lo] > ə 
-*#serːatˈuɾa# | 124 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
-Final form : *#serːatˈuɾa#
+#dˌeːmˈaːne# >>> *#dəmˈanə# ( GOLD : #dəmˈanə#) :
+d ˌeː m ˈaː n e 
+Proto-Romance stage form : *#dˌeːmˈaːne#
+*#dˌeːmˈaːnɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˌemˈanɛ# | 28 : [+syl] > [-long,-splng] 
+*#dˌemˈane# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#dˌemˈane#
+*#dˌemˈanə# | 104 : [-stres,-lo] > ə 
+*#dəmˈanə# | 116 : [-prim,-hi,-lo] > ə 
+Final form : *#dəmˈanə#

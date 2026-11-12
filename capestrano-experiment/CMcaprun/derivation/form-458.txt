@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 458:
-#wˌaːnitˈaː# >>> *#vandˈa# ( GOLD : #vandˈa#) :
-w ˌaː n i t ˈaː 
-Proto-Romance stage form : *#wˌaːnitˈaː#
-*#wˌaːnɪtˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌanɪtˈa# | 28 : [+syl] > [-long,-splng] 
-*#wˌantˈa# | 42 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
-*#vˌantˈa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#vˌantˈa#
-*#vˌandˈa# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#vandˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#vandˈa#
+#krˈuːdum# >>> *#kɾˈudə# ( GOLD : #kɾˈudə#) :
+k r ˈuː d u m 
+Proto-Romance stage form : *#krˈuːdum#
+*#krˈuːdʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˈudʊm# | 28 : [+syl] > [-long,-splng] 
+*#krˈudʊ# | 35 : [+cons] > ∅ / __ #
+*#krˈudu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#krˈudu#
+*#krˈudə# | 104 : [-stres,-lo] > ə 
+*#kɾˈudə# | 114 : r > ɾ 
+Final form : *#kɾˈudə#

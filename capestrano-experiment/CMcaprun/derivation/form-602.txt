@@ -1,12 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 602:
-#fˌenˈestram# >>> *#fənˈæstɾa# ( GOLD : #fənˈæstɾa#) :
-f ˌe n ˈe s t r a m 
-Proto-Romance stage form : *#fˌenˈestram#
-*#fˌɛnˈɛstram# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˌɛnˈɛstra# | 35 : [+cons] > ∅ / __ #
-*#fˌenˈɛstra# | 58 : [+stres,-prim,+front,-tense] > ˌe 
-*#fˌenˈæstra# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#fˌenˈæstra#
-*#fˌenˈæstɾa# | 114 : r > ɾ 
-*#fənˈæstɾa# | 116 : [-prim,-hi,-lo] > ə 
-Final form : *#fənˈæstɾa#
+#ɡrˈandinem# >>> *#ɾˈanːnə# ( GOLD : #ɾˈanːəla#) :
+ɡ r ˈa n d i n e m 
+Proto-Romance stage form : *#ɡrˈandinem#
+*#ɡrˈandɪnɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡrˈandɪnɛ# | 35 : [+cons] > ∅ / __ #
+*#ɡrˈandnɛ# | 55 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#ɡrˈanːnɛ# | 63 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ɡrˈanːne# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ɡrˈanːne#
+*#ɡrˈanːnə# | 104 : [-stres,-lo] > ə 
+*#rˈanːnə# | 105 : ɡ > ∅ / # __ r
+*#ɾˈanːnə# | 114 : r > ɾ 
+Final form : *#ɾˈanːnə#

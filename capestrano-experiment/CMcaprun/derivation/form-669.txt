@@ -1,16 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 669:
-#mˌoːrˈikolum# >>> *#muɾˈikwələ# ( GOLD : #mərːˈikwələ#) :
-m ˌoː r ˈi k o l u m 
-Proto-Romance stage form : *#mˌoːrˈikolum#
-*#mˌoːrˈɪkɔlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌoːrˈiːkɔlʊm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#mˌorˈikɔlʊm# | 28 : [+syl] > [-long,-splng] 
-*#mˌorˈikɔlʊ# | 35 : [+cons] > ∅ / __ #
-*#mˌorˈikwɔlʊ# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#mˌorˈikwolu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌorˈikwolu#
-*#mˌurˈikwolu# | 101 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#mˌurˈikwələ# | 104 : [-stres,-lo] > ə 
-*#mˌuɾˈikwələ# | 114 : r > ɾ 
-*#muɾˈikwələ# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#muɾˈikwələ#
+#wˈekulum# >>> *#vˈekːjə# ( GOLD : #vˈekːjə#) :
+w ˈe k u l u m 
+Proto-Romance stage form : *#wˈekulum#
+*#wˈɛkʊlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#wˈɛklʊm# | 27 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
+*#wˈɛklʊ# | 35 : [+cons] > ∅ / __ #
+*#vˈɛklʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈɛklu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vˈeklu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#vˈekʎu# | 70 : l > ʎ / [-son,-cor] __
+*#vˈekːʎu# | 72 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+Proto-South-Italo-Romance stage form : *#vˈekːʎu#
+*#vˈekːʎə# | 104 : [-stres,-lo] > ə 
+*#vˈekːjə# | 117 : {ʎ;ʎː} > {j;jː} 
+Final form : *#vˈekːjə#

@@ -1,9 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 143:
-#nˈura# >>> *#nˈoɾa# ( GOLD : #nˈɔɾa#) :
-n ˈu r a 
-Proto-Romance stage form : *#nˈura#
-*#nˈʊra# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#nˈora# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#nˈora#
-*#nˈoɾa# | 114 : r > ɾ 
-Final form : *#nˈoɾa#
+#sˈolea# >>> *#sˈojːa# ( GOLD : #sˈola#) :
+s ˈo l e a 
+*#sˈolia# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
+*#sˈolja# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#sˈolja#
+*#sˈɔlja# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɔʎːa# | 31 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#sˈoʎːa# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˈoʎːa#
+*#sˈojːa# | 117 : {ʎ;ʎː} > {j;jː} 
+Final form : *#sˈojːa#

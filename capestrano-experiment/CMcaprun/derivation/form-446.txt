@@ -1,14 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 446:
-#wˌiːkˈiːnum# >>> *#vit͡ʃˈinə# ( GOLD : #vit͡ʃˈinə#) :
-w ˌiː k ˈiː n u m 
-Proto-Romance stage form : *#wˌiːkˈiːnum#
-*#wˌiːkˈiːnʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌiːt͡ʃˈiːnʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#wˌit͡ʃˈinʊm# | 28 : [+syl] > [-long,-splng] 
-*#wˌit͡ʃˈinʊ# | 35 : [+cons] > ∅ / __ #
-*#vˌit͡ʃˈinʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˌit͡ʃˈinu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˌit͡ʃˈinu#
-*#vˌit͡ʃˈinə# | 104 : [-stres,-lo] > ə 
-*#vit͡ʃˈinə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#vit͡ʃˈinə#
+#klˈaːwum# >>> *#kjˈavə# ( GOLD : #cˈɔvə#) :
+k l ˈaː w u m 
+Proto-Romance stage form : *#klˈaːwum#
+*#klˈaːwʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#klˈawʊm# | 28 : [+syl] > [-long,-splng] 
+*#klˈawʊ# | 35 : [+cons] > ∅ / __ #
+*#klˈavʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#klˈavu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kʎˈavu# | 70 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#kʎˈavu#
+*#kʎˈavə# | 104 : [-stres,-lo] > ə 
+*#kjˈavə# | 117 : {ʎ;ʎː} > {j;jː} 
+Final form : *#kjˈavə#

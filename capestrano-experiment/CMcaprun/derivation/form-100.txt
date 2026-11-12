@@ -1,14 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 100:
-#sˈokera# >>> *#sˈɔt͡ʃeɾa# ( GOLD : #sˈɔt͡ʃeɾa#) :
-s ˈo k e r a 
-Proto-Romance stage form : *#sˈokera#
-*#sˈɔkɛra# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɔt͡ʃɛra# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#sˈɞˤt͡ʃɛra# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#sˈɞˤt͡ʃera# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#sˈɔt͡ʃera# | 75 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#sˈɔt͡ʃera#
-*#sˈɔt͡ʃəra# | 104 : [-stres,-lo] > ə 
-*#sˈɔt͡ʃəɾa# | 114 : r > ɾ 
-*#sˈɔt͡ʃeɾa# | 123 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#sˈɔt͡ʃeɾa#
+#sˈerwam# >>> *#sˈæɾva# ( GOLD : #sˈæɾva#) :
+s ˈe r w a m 
+Proto-Romance stage form : *#sˈerwam#
+*#sˈɛrwam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɛrwa# | 35 : [+cons] > ∅ / __ #
+*#sˈɛrva# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#sˈærva# | 65 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+Proto-South-Italo-Romance stage form : *#sˈærva#
+*#sˈæɾva# | 114 : r > ɾ 
+Final form : *#sˈæɾva#

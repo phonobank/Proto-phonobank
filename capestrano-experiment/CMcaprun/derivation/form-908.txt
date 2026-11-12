@@ -1,0 +1,17 @@
+Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 908:
+#ˌinfˈakiam# >>> *#mbˈat͡ʃja# ( GOLD : #mbˈat͡ʃːa#) :
+ˌi n f ˈa k i a m 
+*#ˌimfˈakiam# | 0 : n > m / __ [+lab,+cons]
+*#ˌimfˈakjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌimfˈakjam#
+*#ˌɪmfˈakjam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪmfˈat͡ʃjam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#ˌiːmfˈat͡ʃjam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌimfˈat͡ʃjam# | 28 : [+syl] > [-long,-splng] 
+*#ˌimfˈat͡ʃja# | 35 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˌimfˈat͡ʃja#
+*#əmfˈat͡ʃja# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#mfˈat͡ʃja# | 87 : ə > ∅ / # __
+*#mb͡vˈat͡ʃja# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbˈat͡ʃja# | 107 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+Final form : *#mbˈat͡ʃja#

@@ -1,14 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 462:
-#wˌomitˈaː# >>> *#vəmːətˈa# ( GOLD : #vumːitˈa#) :
-w ˌo m i t ˈaː 
-Proto-Romance stage form : *#wˌomitˈaː#
-*#wˌɔmɪtˈaː# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɔmɪtˈa# | 28 : [+syl] > [-long,-splng] 
-*#wˌɔmːɪtˈa# | 39 : m > mː / # ( [+lab] ) [-cons,-lo] __ [+syl] [+cons] [+syl] #
-*#vˌɔmːɪtˈa# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˌomːɪtˈa# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vˌomːetˈa# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˌomːetˈa#
-*#vˌomːətˈa# | 104 : [-stres,-lo] > ə 
-*#vəmːətˈa# | 116 : [-prim,-hi,-lo] > ə 
-Final form : *#vəmːətˈa#
+#kˈinɡulam# >>> *#t͡ʃˈiŋɡwəla# ( GOLD : #t͡ʃˈeɲa#) :
+k ˈi n ɡ u l a m 
+*#kˈiŋɡulam# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#kˈiŋɡulam#
+*#kˈɪŋɡʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˈɪŋɡʊlam# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˈiːŋɡʊlam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#t͡ʃˈiŋɡʊlam# | 28 : [+syl] > [-long,-splng] 
+*#t͡ʃˈiŋɡʊla# | 35 : [+cons] > ∅ / __ #
+*#t͡ʃˈiŋɡwʊla# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#t͡ʃˈiŋɡwula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#t͡ʃˈiŋɡwula#
+*#t͡ʃˈiŋɡwəla# | 104 : [-stres,-lo] > ə 
+Final form : *#t͡ʃˈiŋɡwəla#

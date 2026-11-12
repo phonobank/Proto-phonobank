@@ -1,21 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 74:
-#sˌanktufrˌankˈiskum# >>> *#saŋdfɾand͡ʒˈiskə# ( GOLD : #sambɾanʃˈiskə#) :
-s ˌa n k t u f r ˌa n k ˈi s k u m 
-*#sˌaŋktufrˌaŋkˈiskum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#sˌaŋktufrˌaŋkˈiskum#
-*#sˌaŋktʊfrˌaŋkˈɪskʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌaŋktʊfrˌant͡ʃˈɪskʊm# | 20 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#sˌaŋtːʊfrˌant͡ʃˈɪskʊm# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#sˌaŋtːʊfrˌant͡ʃˈiːskʊm# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#sˌaŋtːʊfrˌant͡ʃˈiskʊm# | 28 : [+syl] > [-long,-splng] 
-*#sˌaŋtːʊfrˌant͡ʃˈiskʊ# | 35 : [+cons] > ∅ / __ #
-*#sˌaŋtʊfrˌant͡ʃˈiskʊ# | 37 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#sˌaŋtfrˌant͡ʃˈiskʊ# | 55 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
-*#sˌaŋtfrˌant͡ʃˈisku# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˌaŋtfrˌant͡ʃˈisku#
-*#sˌaŋtfrant͡ʃˈisku# | 102 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#sˌaŋtfrant͡ʃˈiskə# | 104 : [-stres,-lo] > ə 
-*#sˌaŋdfrand͡ʒˈiskə# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#sˌaŋdfɾand͡ʒˈiskə# | 114 : r > ɾ 
-*#saŋdfɾand͡ʒˈiskə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#saŋdfɾand͡ʒˈiskə#
+#strˈiktum# >>> *#stɾˈetːə# ( GOLD : #stɾˈetːə#) :
+s t r ˈi k t u m 
+Proto-Romance stage form : *#strˈiktum#
+*#strˈɪktʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#strˈɪtːʊm# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#strˈɪtːʊ# | 35 : [+cons] > ∅ / __ #
+*#strˈɪtːu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#strˈetːu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#strˈetːu#
+*#strˈetːə# | 104 : [-stres,-lo] > ə 
+*#stɾˈetːə# | 114 : r > ɾ 
+Final form : *#stɾˈetːə#

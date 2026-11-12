@@ -1,11 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 716:
-#arsenˈale# >>> *#aɾt͡sənˈalə# ( GOLD : #art͡sənˈalə#) :
-a r s e n ˈa l e 
-Proto-Romance stage form : *#arsenˈale#
-*#arsɛnˈalɛ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#arsenˈale# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#arsenˈale#
-*#art͡senˈale# | 97 : s > t͡s / r __
-*#art͡sənˈalə# | 104 : [-stres,-lo] > ə 
-*#aɾt͡sənˈalə# | 114 : r > ɾ 
-Final form : *#aɾt͡sənˈalə#
+#ˌobskˈuːram# >>> *#skˈuɾa# ( GOLD : #skˈuɾa#) :
+ˌo b s k ˈuː r a m 
+Proto-Romance stage form : *#ˌobskˈuːram#
+*#ˌɔbskˈuːram# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔbskˈuram# | 28 : [+syl] > [-long,-splng] 
+*#ˌɔsːkˈuram# | 33 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#ˌɔsːkˈura# | 35 : [+cons] > ∅ / __ #
+*#ˌɔskˈura# | 37 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˌoskˈura# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌoskˈura#
+*#əskˈura# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#skˈura# | 87 : ə > ∅ / # __
+*#skˈuɾa# | 114 : r > ɾ 
+Final form : *#skˈuɾa#

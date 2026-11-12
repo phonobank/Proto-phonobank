@@ -1,11 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 555:
-#bˈeːstiam# >>> *#bˈestja# ( GOLD : #bːˈestja#) :
-b ˈeː s t i a m 
-*#bˈeːstjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#bˈeːstjam#
-*#bˈeːstʲːam# | 21 : t j > tʲː 
-*#bˈeːstjam# | 23 : s tʲː > s t j 
-*#bˈestjam# | 28 : [+syl] > [-long,-splng] 
-*#bˈestja# | 35 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#bˈestja#
-Final form : *#bˈestja#
+#kˈorwu# >>> *#kˈoɾvə# ( GOLD : #kˈoɾvə#) :
+k ˈo r w u 
+Proto-Romance stage form : *#kˈorwu#
+*#kˈɔrwʊ# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɔrvʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#kˈɔrvu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˈorvu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈorvu#
+*#kˈorvə# | 104 : [-stres,-lo] > ə 
+*#kˈoɾvə# | 114 : r > ɾ 
+Final form : *#kˈoɾvə#

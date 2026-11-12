@@ -1,13 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 285:
-#ˈawrum# >>> *#ˈoɾə# ( GOLD : #ˈoɾə#) :
-ˈa w r u m 
-Proto-Romance stage form : *#ˈawrum#
-*#ˈawrʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈawrʊ# | 35 : [+cons] > ∅ / __ #
-*#ˈawru# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈowru# | 68 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#ˈowru#
-*#ˈoru# | 93 : w > ∅ / [+round] __ [+cons]
-*#ˈorə# | 104 : [-stres,-lo] > ə 
-*#ˈoɾə# | 114 : r > ɾ 
-Final form : *#ˈoɾə#
+#dˌeːjˌeːjuːnˈaː# >>> *#dəjəjenˈa# ( GOLD : #dijunˈa#) :
+d ˌeː j ˌeː j uː n ˈaː 
+Proto-Romance stage form : *#dˌeːjˌeːjuːnˈaː#
+*#dˌejˌejunˈa# | 28 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#dˌejˌejunˈa#
+*#dˌejejunˈa# | 102 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#dˌejəjənˈa# | 104 : [-stres,-lo] > ə 
+*#dəjəjənˈa# | 116 : [-prim,-hi,-lo] > ə 
+*#dəjəjenˈa# | 123 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#dəjəjenˈa#

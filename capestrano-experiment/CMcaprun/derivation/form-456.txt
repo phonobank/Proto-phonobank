@@ -1,16 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 456:
-#wˈekulum# >>> *#vˈekːjə# ( GOLD : #vˈekːjə#) :
-w ˈe k u l u m 
-Proto-Romance stage form : *#wˈekulum#
-*#wˈɛkʊlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˈɛklʊm# | 27 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
-*#wˈɛklʊ# | 35 : [+cons] > ∅ / __ #
-*#vˈɛklʊ# | 52 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈɛklu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vˈeklu# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#vˈekʎu# | 70 : l > ʎ / [-son,-cor] __
-*#vˈekːʎu# | 72 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
-Proto-South-Italo-Romance stage form : *#vˈekːʎu#
-*#vˈekːʎə# | 104 : [-stres,-lo] > ə 
-*#vˈekːjə# | 117 : {ʎ;ʎː} > {j;jː} 
-Final form : *#vˈekːjə#
+#krˌaːtˈiːkulam# >>> *#kɾatˈikwəla# ( GOLD : #ɾatˈikwəla#) :
+k r ˌaː t ˈiː k u l a m 
+Proto-Romance stage form : *#krˌaːtˈiːkulam#
+*#krˌaːtˈiːkʊlam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˌatˈikʊlam# | 28 : [+syl] > [-long,-splng] 
+*#krˌatˈikʊla# | 35 : [+cons] > ∅ / __ #
+*#krˌatˈikwʊla# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#krˌatˈikwula# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#krˌatˈikwula#
+*#krˌatˈikwəla# | 104 : [-stres,-lo] > ə 
+*#kɾˌatˈikwəla# | 114 : r > ɾ 
+*#kɾatˈikwəla# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kɾatˈikwəla#

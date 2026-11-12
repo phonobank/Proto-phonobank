@@ -1,11 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 556:
-#bˈeːstiam# >>> *#bˈestja# ( GOLD : #bːˈæstja#) :
-b ˈeː s t i a m 
-*#bˈeːstjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#bˈeːstjam#
-*#bˈeːstʲːam# | 21 : t j > tʲː 
-*#bˈeːstjam# | 23 : s tʲː > s t j 
-*#bˈestjam# | 28 : [+syl] > [-long,-splng] 
-*#bˈestja# | 35 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#bˈestja#
-Final form : *#bˈestja#
+#kˌorˈoːnam# >>> *#kəɾˈona# ( GOLD : #kɾˈɔna#) :
+k ˌo r ˈoː n a m 
+Proto-Romance stage form : *#kˌorˈoːnam#
+*#kˌɔrˈoːnam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔrˈonam# | 28 : [+syl] > [-long,-splng] 
+*#kˌɔrˈona# | 35 : [+cons] > ∅ / __ #
+*#kˌorˈona# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌorˈona#
+*#kˌoɾˈona# | 114 : r > ɾ 
+*#kəɾˈona# | 116 : [-prim,-hi,-lo] > ə 
+Final form : *#kəɾˈona#

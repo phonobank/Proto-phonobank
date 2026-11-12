@@ -1,13 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 294:
-#ˈaːfrikam# >>> *#ˈafɾika# ( GOLD : #ˈafɾəka#) :
-ˈaː f r i k a m 
-Proto-Romance stage form : *#ˈaːfrikam#
-*#ˈaːfrɪkam# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaːfriːkam# | 26 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˈafrikam# | 28 : [+syl] > [-long,-splng] 
-*#ˈafrika# | 35 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#ˈafrika#
-*#ˈafrˌika# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈafɾˌika# | 114 : r > ɾ 
-*#ˈafɾika# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈafɾika#
+#jˌunktˈuːram# >>> *#jəŋdˈuɾa# ( GOLD : #ɟundˈuɾa#) :
+j ˌu n k t ˈuː r a m 
+*#jˌuŋktˈuːram# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#jˌuŋktˈuːram#
+*#jˌʊŋktˈuːram# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˌʊŋtːˈuːram# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#jˌʊŋtːˈuram# | 28 : [+syl] > [-long,-splng] 
+*#jˌʊŋtːˈura# | 35 : [+cons] > ∅ / __ #
+*#jˌʊŋtˈura# | 37 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#jˌuŋtˈura# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jˌuŋtˈura#
+*#jˌuŋdˈura# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#jˌuŋdˈuɾa# | 114 : r > ɾ 
+*#jəŋdˈuɾa# | 120 : [-prim] > ə / # j __ [+cons,-front]
+Final form : *#jəŋdˈuɾa#

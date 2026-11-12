@@ -1,9 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 341:
-#kˌantˈaː# >>> *#kandˈa# ( GOLD : #kandˈa#) :
-k ˌa n t ˈaː 
-Proto-Romance stage form : *#kˌantˈaː#
-*#kˌantˈa# | 28 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#kˌantˈa#
-*#kˌandˈa# | 106 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kandˈa# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kandˈa#
+#ˌekskˌordˈaːtum# >>> *#skəɾdˈatə# ( GOLD : #skuɾdˈatə#) :
+ˌe k s k ˌo r d ˈaː t u m 
+Proto-Romance stage form : *#ˌekskˌordˈaːtum#
+*#ˌɛkskˌɔrdˈaːtʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛsːkˌɔrdˈaːtʊm# | 25 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛsːkˌɔrdˈatʊm# | 28 : [+syl] > [-long,-splng] 
+*#ˌɛsːkˌɔrdˈatʊ# | 35 : [+cons] > ∅ / __ #
+*#ˌɛskˌɔrdˈatʊ# | 37 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˌeskˌɔrdˈatʊ# | 58 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌeskˌordˈatu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌeskˌordˈatu#
+*#əskˌordˈatu# | 84 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#skˌordˈatu# | 87 : ə > ∅ / # __
+*#skˌordˈatə# | 104 : [-stres,-lo] > ə 
+*#skˌoɾdˈatə# | 114 : r > ɾ 
+*#skəɾdˈatə# | 116 : [-prim,-hi,-lo] > ə 
+Final form : *#skəɾdˈatə#

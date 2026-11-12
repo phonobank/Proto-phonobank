@@ -1,16 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 364:
-#kˌaptiatˈoːrem# >>> *#kat͡ʃːatˈoɾə# ( GOLD : #kat͡ʃːatˈoɾə#) :
-k ˌa p t i a t ˈoː r e m 
-*#kˌaptjatˈoːrem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌaptjatˈoːrem#
-*#kˌaptjatˈoːrɛm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌaptʲːatˈoːrɛm# | 21 : t j > tʲː 
-*#kˌat͡ʃːatˈoːrɛm# | 22 : [-cont] tʲː > t͡ʃː
-*#kˌat͡ʃːatˈorɛm# | 28 : [+syl] > [-long,-splng] 
-*#kˌat͡ʃːatˈorɛ# | 35 : [+cons] > ∅ / __ #
-*#kˌat͡ʃːatˈore# | 66 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌat͡ʃːatˈore#
-*#kˌat͡ʃːatˈorə# | 104 : [-stres,-lo] > ə 
-*#kˌat͡ʃːatˈoɾə# | 114 : r > ɾ 
-*#kat͡ʃːatˈoɾə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kat͡ʃːatˈoɾə#
+#ˈanɡulum# >>> *#ˈaŋɡwulə# ( GOLD : #ˈaŋɡwələ#) :
+ˈa n ɡ u l u m 
+*#ˈaŋɡulum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˈaŋɡulum#
+*#ˈaŋɡʊlʊm# | 13 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈaŋɡʊlʊ# | 35 : [+cons] > ∅ / __ #
+*#ˈaŋɡwʊlʊ# | 51 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#ˈaŋɡwulu# | 59 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈaŋɡwulu#
+*#ˈaŋɡwˌulu# | 103 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈaŋɡwˌulə# | 104 : [-stres,-lo] > ə 
+*#ˈaŋɡwulə# | 122 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈaŋɡwulə#
