@@ -1,11 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 449:
-#krˈeːtam# >>> *#kɾˈeta# ( GOLD : #kɾˈeta#) :
-k r ˈeː t a m 
-Proto-Romance stage form : *#krˈeːtam#
-Early Pre-Capestranese stage form : *#krˈeːtam#
-*#krˈetam# | 30 : [+syl] > [-long,-splng] 
-*#krˈeta# | 39 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#krˈeta#
-Middle Pre-Capestranese stage form : *#krˈeta#
-*#kɾˈeta# | 121 : r > ɾ 
-Final form : *#kɾˈeta#
+#krˈeːde# >>> *#kɾˈedə# ( GOLD : #kɾˈedə#) :
+k r ˈeː d e 
+Proto-Romance stage form : *#krˈeːde#
+*#krˈeːdɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#krˈeːdɛ#
+*#krˈedɛ# | 30 : [+syl] > [-long,-splng] 
+*#krˈede# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#krˈede#
+Middle Pre-Capestranese stage form : *#krˈede#
+*#krˈedə# | 111 : [-stres,-lo] > ə 
+*#kɾˈedə# | 122 : r > ɾ 
+Final form : *#kɾˈedə#

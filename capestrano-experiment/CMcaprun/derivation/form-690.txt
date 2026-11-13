@@ -1,16 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 690:
-#ˈultimum# >>> *#ˈoldəmə# ( GOLD : #ˈudəmə#) :
-ˈu l t i m u m 
-Proto-Romance stage form : *#ˈultimum#
-*#ˈʊltɪmʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˈʊltɪmʊm#
-*#ˈʊltiːmʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˈʊltimʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˈʊltimʊ# | 39 : [+cons] > ∅ / __ #
-*#ˈʊltimu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈoltimu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈoltimu#
-Middle Pre-Capestranese stage form : *#ˈoltimu#
-*#ˈoltəmə# | 111 : [-stres,-lo] > ə 
-*#ˈoldəmə# | 115 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
-Final form : *#ˈoldəmə#
+#ˈulmum# >>> *#ˈolmə# ( GOLD : #ˈulmə#) :
+ˈu l m u m 
+Proto-Romance stage form : *#ˈulmum#
+*#ˈʊlmʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈʊlmʊm#
+*#ˈʊlmʊ# | 39 : [+cons] > ∅ / __ #
+*#ˈʊlmu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈolmu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈolmu#
+Middle Pre-Capestranese stage form : *#ˈolmu#
+*#ˈolmə# | 111 : [-stres,-lo] > ə 
+Final form : *#ˈolmə#

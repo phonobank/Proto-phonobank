@@ -1,9 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 328:
-#ˈeːska# >>> *#ˈeska# ( GOLD : #ˈiska#) :
-ˈeː s k a 
-Proto-Romance stage form : *#ˈeːska#
-Early Pre-Capestranese stage form : *#ˈeːska#
-*#ˈeska# | 30 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#ˈeska#
-Middle Pre-Capestranese stage form : *#ˈeska#
-Final form : *#ˈeska#
+#ˌeleˌeːmˈosynum# >>> *#ləəmˈosənə# ( GOLD : #ləmˈɔsənə#) :
+ˌe l e ˌeː m ˈo s y n u m 
+Proto-Romance stage form : *#ˌeleˌeːmˈosynum#
+*#ˌeleˌeːmˈosinum# | 14 : [+front] > [-lab,-round] 
+*#ˌɛlɛˌeːmˈɔsɪnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɛlɛˌeːmˈɔsɪnʊm#
+*#ˌɛlɛˌemˈɔsɪnʊm# | 30 : [+syl] > [-long,-splng] 
+*#ˌɛlɛˌemˈɔsɪnʊ# | 39 : [+cons] > ∅ / __ #
+*#ˌelɛˌemˈɔsɪnʊ# | 61 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌelɛˌemˈɔsɪnu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌeleˌemˈosenu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌeleˌemˈosenu#
+*#əleˌemˈosenu# | 87 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#leˌemˈosenu# | 91 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#leˌemˈosenu#
+*#leemˈosenu# | 109 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ləəmˈosənə# | 111 : [-stres,-lo] > ə 
+Final form : *#ləəmˈosənə#

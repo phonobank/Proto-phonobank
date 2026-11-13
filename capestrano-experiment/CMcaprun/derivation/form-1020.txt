@@ -1,15 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1020:
-... >>> *#aβɾˈit͡sːa# ( GOLD : #avaɾˈit͡sja#) :
+... >>> *#kɾistjˈanə# ( GOLD : #kɾistiˈenə#) :
 ... 
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
-*#ˌaβarˈitʲːa# | 23 : t j > tʲː 
-*#ˌaβarˈiːtʲːa# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌaβarˈitʲːa# | 30 : [+syl] > [-long,-splng] 
-*#ˌaβarˈit͡sːa# | 31 : tʲː > t͡sː 
-*#ˌaβrˈit͡sːa# | 43 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
-Proto-South-Italo-Romance stage form : *#ˌaβrˈit͡sːa#
-Middle Pre-Capestranese stage form : *#ˌaβrˈit͡sːa#
-*#ˌaβɾˈit͡sːa# | 121 : r > ɾ 
-*#aβɾˈit͡sːa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#aβɾˈit͡sːa#
+*#krˌistʲːˈani# | 23 : t j > tʲː 
+*#krˌistjˈani# | 25 : s tʲː > s t j 
+Proto-South-Italo-Romance stage form : *#krˌistjˈani#
+Middle Pre-Capestranese stage form : *#krˌistjˈani#
+*#krˌistjˈanə# | 111 : [-stres,-lo] > ə 
+*#kɾˌistjˈanə# | 122 : r > ɾ 
+*#kɾistjˈanə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kɾistjˈanə#

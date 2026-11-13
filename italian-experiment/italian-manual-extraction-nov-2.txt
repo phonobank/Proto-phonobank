@@ -1,5 +1,7 @@
 $=Classical Latin
 
+$ left off at 6.1.2
+
 $$ NOTATION:
     $ rules indicated by page number, then letters starting at a. 
     $ alternatively, by their section, then letters starting from a
@@ -31,8 +33,9 @@ $ 2.1b distinctive vowel length is lost
 $ 2.2a AE and OE to ɛ and e respectively, "merged with ... reflexes of .. sort [e] and long [eː]"
 [+syl,alo,-around,-hi] [-syl,-cons,+front] > [+front,-back,-lab,-round,-atense,-lo] ∅
 
-$ 3.4a k , g palatalized before front vowels. Fed by 2.2a. 
-{k;ɡ} > {t͡ʃ;d͡ʒ} / __ [+syl,+front]
+$ 3.4a k , g palatalized before front vowels. Fed by 2.2a. 6.1a hits everywhere but Dalmatian (where it occurs differently), Nuorese, Logudorese. Occurrence in Balkan Romance may be secondary though I note. 
+	$ 6.1a outcome for ɡ is "something like" the glide /j/.  Exec decision going with ʝ
+{k;ɡ} > {t͡ʃ;ʝ} / __ [+syl,+front]
 
 $ 3.2a syllable initial w- to v- 
 w > v / # ((@)* [-syl]) __ 
@@ -40,8 +43,10 @@ w > v / # ((@)* [-syl]) __
 $ 3.2b intervocalic -b- to -β-. Counting post-diphthongal as "intervocalic", hence prior [-cons] not [+syl]. 
 b > β / [-cons] __ [+syl]
 
-= Proto-West-Romance
+$ 5.3.a.1 k,g >  j before n, s. Broaden this to k,g opening before coronals generally -- the palatalization is also seen for -xt- in Germanic loans (/waxta/ > *gwajta > Old French guaite > guette "watchtower"), appears directly attested in Mozarabic, and is also seen (areally?) in Gaulish (in the kt > xt phase) and in Brythonic (in the kt > xt > jt). Arguably also in Albanian. NON-MAIDEN RULE HERE -- do not use for comparison of manual vs. extracted vsn. Does not apply to -kr-, and perhaps not -kl-ː alpha feature used for voicing coherence.
+[+back,ɣvoi] > [+cont] / [-cons] __ [+cor,ɣvoi]
 
+= Proto-West-Romance
 
 $ 2.3a unstressed ɛ and ɔ merge with reflexes of long mid vowels
      $can use the following simple rule bc these are the only lax vowels
@@ -54,14 +59,17 @@ $ 3.2c merger of β into V. Bled in some contexts after r.
 $ 3.3b sl > skl. Counterbled by 3.3a. 
 ∅ > k / s __ l 
 
+$ 5.3.a.2/p81n41 -- Italo-Romance ['and' Venetian?] kt (>xt?) and pt > tt. Vs. > xt > jt in Western Romance -- xt seen in Mozarabic, jt second stage preserved in French, Piedmontese, Portuguese, some Romansch, and jt > ch in Spanish, some Romansch, Lombard. ks > ss not yet, because some palatalization is seen for this.
+[-son,-cor] t > tː
+
     $5.2d regular stj > ʃt͡ʃ > ʃʃ, first step. Notably, shared with Romanian in outcomes, but in parallel. Old Italian used -sci- for this likely indicating ʃt͡ʃ
         $angostia > angoʃʃa , osteum > <uscio > uʃʃo
 s t j > ʃ t͡ʃ
 
 
-    $ gj > d͡ʒ is consistent, but outcome sof kj tj dj have "dual outcomes... one of the more intricate and problematic chapters of Italian historical phonology"
+    $ gj > d͡ʒ is consistent, but outcomes of kj tj dj have "dual outcomes... one of the more intricate and problematic chapters of Italian historical phonology"
         $ kj (> t͡ʃ ) > t͡s -- fakjɔ́lu > fattswɔːlo, kalkja > kaltsa , -akju > attso, accio (doublets -- -azzo may be northern?) ; vs bilaŋkja > bilaɲt͡ʃa
-            $howver lakju to lattʃu , fakjo to fattʃo 
+            $however lakju to lattʃu , fakjo to fattʃo 
         $ otherwise tj to t͡ʃ -- kaptjare, komintjo, ekskwartjo, gottja. vs noptje > nottse, tertju > terttso 
             $ but it's "principally where a prior consonant precedes" (i.e. not the d) and is the sole outcome after s. 
                 $he does NOT mean a consonant produced by gemination.  However he does list the etymologically geminate gottja .
@@ -72,15 +80,18 @@ s t j > ʃ t͡ʃ
         $ p54-55 dz may be attributed to loans from northern dialects
             $Central and Southern Italian varieties generally have tj give t͡s or t͡ʃ, but merge dj with gj in outcomes
 
+$ 6.1b -- ʝ < palatalized g lost before stressed front vowels "sometimes". All examples are in lo __ e. Going with that. Bleeds 6.1c
+ʝ > ∅ / [+lo] __ [+front,+prim,-lo] 
+
+$6.1c -- where 6.1b doesn't apply, ʝ becomes d͡ʒ initially, and d͡ʒː intervocalically
+ʝ > d͡ʒː / [-cons] __ [+syl]
 
 $ 8.1a Italo-Romance (and Sardinian) gemination of consonants before j, w. 
     $ in Maiden's formulation, precedes palatalization of ʎ 5.2a -- alternatively can have the lj > ʎʎ but this isn't what happend
         $ even though gemination regular lost, not in Western Romance proper: aqua > Fr eau, Sp agua vs Italian acqua etc. 
     $ counterbled by 5.1a, 
         $likely counterfed by 4.2a 
-{p;b;m;t;d;n;l;r;k,ɡ} > {p p;b b;m m;t t;d d;n n;l l;r r;k k;ɡ ɡ} / __ [+hi,-syl,-cons]
-
-
+{p;b;m;t;d;n;l;r;k,ɡ} > {p p;b b;m m;t t;d d;n n;l l;r r;k k;ɡ ɡ} / __ [+hi,-syl,-cons] 
 
 $ 5.2a palatalization of consonants by j-- palatal coalescence. 
     $ some whole clusters palatalized: nnj, ngj, nkj 
@@ -130,9 +141,20 @@ $ 4.4b *unstressed* aw to o
         $Conditioning unclear. Leaving out for now.
 [+lo,-prim] w > o ∅
 
+$5.3.a.2 palatalization of velar fricatives before coronals. -jn- and -js- survive in some cases in southern Italo-Romance
+[+back,-son] > [-back,+front] / __ [+cor]
+
 = Proto-Italo-Romance
 
 
+$ 5.3.a.3  -- palatalization of velar elements before n, s. Causes palatalization. -jn- preserved in some Neapolitan. Bled by kt ( > xt) > tt. Doesn't seem to occur for the far south --- gn > wn instead there. 
+[+back,+cons,+cont] > j
+
+$ 5.3.a.4  -- js palatalizes to (*jʃ >) ʃʃ in uncertain conditions. Maiden attributes for this coxa, exit, axilla, ex(h)alare, vs . rexī > resse, coxit > cosse, texere, conduxi > condussi, fraxinu > frassino. Going with the one thing the affected set has in common to the exclusion of all but one of the counterexample: no anterior segments beforehand (s is anterior, ʃ is not) . TODO revision likely necessary.
+s > ʃ / # ([-ant])* j __ 
+
+$ 5.3.a.5 -- j absorbed by following s or ʃ 
+j [+strid] > ∅ [+long]
 
 $ 3.3a Italo-Romance l > j post-obstruent(?)-- he says tautosyllabic which may effectively mean this
     $in Abruzzo, post-Italo-Romance: limited to kl/gl in Abruzzo
@@ -182,14 +204,19 @@ $ 4.5b front vowel analophonesis before ɲ ʎ, and skj. For skj, fed by 3.3b -> 
 [+syl,+tense,-lo,+front] > [+hi] / __ {[+front,+son,+cons];s k j}
 
 = Old Florentine
+$ 4.6.5b loss of prosthetic i, carrying with it certain cases of etymological i -- historia > storia, instrumentum > strumento. Not in Corsican and some Western varieties
+i > ∅ / # __ s [+cons]
 
-$ 5.2e ʃt͡ʃ > ʃ ʃ -- uscio  , angoscia s
+$ 6.1d -- Tuscan but not in standard Italian -- intervocalic postalveolars affrics fricate. Counterfed by 5.2e ʃ t͡ʃ > ʃː
+$[-ant,+delrel] > [-cont] / [-cons] __ [+syl]
+
+$ 5.2e ʃt͡ʃ > ʃ ʃ -- uscio  , angoscia 
 t͡ʃ > ʃ / ʃ __ 
 
 $ 5.2c intervocalic ʃ < sj, to t͡ʃ. May have been motivated by hypercorrection
 ʃ > t͡ʃ / [-cons] __ [-cons]
 
-$ 4.6.5b loss of prosthetic i, carrying with it certain cases of etymological i -- historia > storia, instrumentum > strumento. Not in Corsican and some Western varieties
-i > ∅ / # __ s [+cons]
 
 $= Modern Italian
+
+

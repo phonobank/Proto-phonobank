@@ -1,16 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 765:
-#pˌektinˈaː# >>> *#petːənˈa# ( GOLD : #pətːənˈa#) :
-p ˌe k t i n ˈaː 
-Proto-Romance stage form : *#pˌektinˈaː#
-*#pˌɛktɪnˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#pˌɛktɪnˈaː#
-*#pˌɛtːɪnˈaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#pˌɛtːɪnˈa# | 30 : [+syl] > [-long,-splng] 
-*#pˌetːɪnˈa# | 61 : [+stres,-prim,+front,-tense] > ˌe 
-*#pˌetːenˈa# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˌetːenˈa#
-Middle Pre-Capestranese stage form : *#pˌetːenˈa#
-*#pˌetːənˈa# | 111 : [-stres,-lo] > ə 
-*#pətːənˈa# | 123 : [-prim,-hi,-lo] > ə 
-*#petːənˈa# | 130 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
-Final form : *#petːənˈa#
+#pˈektinat# >>> *#pˈætːəna# ( GOLD : #pˈætːena#) :
+p ˈe k t i n a t 
+Proto-Romance stage form : *#pˈektinat#
+*#pˈɛktɪnat# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#pˈɛktɪnat#
+*#pˈɛtːɪnat# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#pˈɛtːɪna# | 39 : [+cons] > ∅ / __ #
+*#pˈætːɪna# | 68 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#pˈætːena# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#pˈætːena#
+Middle Pre-Capestranese stage form : *#pˈætːena#
+*#pˈætːəna# | 111 : [-stres,-lo] > ə 
+Final form : *#pˈætːəna#

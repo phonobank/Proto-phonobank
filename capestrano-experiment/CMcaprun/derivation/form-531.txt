@@ -1,13 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 531:
-#kˈameram# >>> *#kˈambɾa# ( GOLD : #kˈambɾa#) :
-k ˈa m e r a m 
-Proto-Romance stage form : *#kˈameram#
-*#kˈamɛram# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˈamɛram#
-*#kˈamɛra# | 39 : [+cons] > ∅ / __ #
-*#kˈamra# | 43 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
-Proto-South-Italo-Romance stage form : *#kˈamra#
-Middle Pre-Capestranese stage form : *#kˈamra#
-*#kˈambra# | 101 : ∅ > b / [+nas,+lab] __ r
-*#kˈambɾa# | 121 : r > ɾ 
-Final form : *#kˈambɾa#
+#kˌampˈaːnem# >>> *#kambˈanə# ( GOLD : #kambˈanə#) :
+k ˌa m p ˈaː n e m 
+Proto-Romance stage form : *#kˌampˈaːnem#
+*#kˌampˈaːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˌampˈaːnɛm#
+*#kˌampˈanɛm# | 30 : [+syl] > [-long,-splng] 
+*#kˌampˈanɛ# | 39 : [+cons] > ∅ / __ #
+*#kˌampˈane# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌampˈane#
+Middle Pre-Capestranese stage form : *#kˌampˈane#
+*#kˌampˈanə# | 111 : [-stres,-lo] > ə 
+*#kˌambˈanə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kambˈanə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kambˈanə#

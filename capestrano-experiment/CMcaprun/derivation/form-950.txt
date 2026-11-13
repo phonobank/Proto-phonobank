@@ -1,12 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 950:
-#mˌaːtuːtˈiːna# >>> *#matːˈina# ( GOLD : #matːˈina#) :
-m ˌaː t uː t ˈiː n a 
-Proto-Romance stage form : *#mˌaːtuːtˈiːna#
-Early Pre-Capestranese stage form : *#mˌaːtuːtˈiːna#
-*#mˌatutˈina# | 30 : [+syl] > [-long,-splng] 
-*#mˌattˈina# | 45 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
-*#mˌatːˈina# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#mˌatːˈina#
-Middle Pre-Capestranese stage form : *#mˌatːˈina#
-*#matːˈina# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#matːˈina#
+#mˌastikˈaː# >>> *#mastəkˈa# ( GOLD : #mastikˈa#) :
+m ˌa s t i k ˈaː 
+Proto-Romance stage form : *#mˌastikˈaː#
+*#mˌastɪkˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˌastɪkˈaː#
+*#mˌastiːkˈaː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#mˌastikˈa# | 30 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#mˌastikˈa#
+Middle Pre-Capestranese stage form : *#mˌastikˈa#
+*#mˌastəkˈa# | 111 : [-stres,-lo] > ə 
+*#mastəkˈa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#mastəkˈa#

@@ -1,17 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 291:
-#jˈuːnium# >>> *#d͡ʒˈuɲə# ( GOLD : #d͡ʒˈuɲə#) :
-j ˈuː n i u m 
-*#jˈuːnjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#jˈuːnjum#
-*#jˈuːnjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#jˈuːnjʊm#
-*#jˈunjʊm# | 30 : [+syl] > [-long,-splng] 
-*#jˈuɲːʊm# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#d͡ʒˈuɲːʊm# | 35 : j > d͡ʒ / # __ [+hi] [+nas,+hi]
-*#d͡ʒˈuɲːʊ# | 39 : [+cons] > ∅ / __ #
-*#d͡ʒˈuɲːu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#d͡ʒˈuɲːu#
-Middle Pre-Capestranese stage form : *#d͡ʒˈuɲːu#
-*#d͡ʒˈuɲːə# | 111 : [-stres,-lo] > ə 
-*#d͡ʒˈuɲə# | 125 : ɲː > ɲ 
-Final form : *#d͡ʒˈuɲə#
+#jˌuːnˈiperum# >>> *#jenˈipəɾə# ( GOLD : #jenˈibːjə#) :
+j ˌuː n ˈi p e r u m 
+Proto-Romance stage form : *#jˌuːnˈiperum#
+*#jˌuːnˈɪpɛrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#jˌuːnˈɪpɛrʊm#
+*#jˌuːnˈiːpɛrʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#jˌunˈipɛrʊm# | 30 : [+syl] > [-long,-splng] 
+*#jənˈipɛrʊm# | 36 : [-prim] > ə / # j __ [+cons,-front]
+*#jənˈipɛrʊ# | 39 : [+cons] > ∅ / __ #
+*#jənˈipɛru# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jənˈiperu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jənˈiperu#
+Middle Pre-Capestranese stage form : *#jənˈiperu#
+*#jənˈipərə# | 111 : [-stres,-lo] > ə 
+*#jənˈipəɾə# | 122 : r > ɾ 
+*#jenˈipəɾə# | 130 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#jenˈipəɾə#

@@ -1,10 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 970:
-#mˈammam# >>> *#mˈamːa# ( GOLD : #mˈamːa#) :
-m ˈa m m a m 
-Proto-Romance stage form : *#mˈammam#
-Early Pre-Capestranese stage form : *#mˈammam#
-*#mˈamma# | 39 : [+cons] > ∅ / __ #
-*#mˈamːa# | 66 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#mˈamːa#
-Middle Pre-Capestranese stage form : *#mˈamːa#
-Final form : *#mˈamːa#
+#mˈontem# >>> *#mˈondə# ( GOLD : #mˈondə#) :
+m ˈo n t e m 
+Proto-Romance stage form : *#mˈontem#
+*#mˈɔntɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˈɔntɛm#
+*#mˈɔntɛ# | 39 : [+cons] > ∅ / __ #
+*#mˈonte# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈonte#
+Middle Pre-Capestranese stage form : *#mˈonte#
+*#mˈontə# | 111 : [-stres,-lo] > ə 
+*#mˈondə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#mˈondə#

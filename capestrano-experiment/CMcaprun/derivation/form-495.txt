@@ -1,19 +1,20 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 495:
-#kˈalkem# >>> *#kˈot͡ʃə# ( GOLD : #kˈavət͡ʃə#) :
-k ˈa l k e m 
-Proto-Romance stage form : *#kˈalkem#
-*#kˈalkɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈalˠkɛm# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
-Early Pre-Capestranese stage form : *#kˈalˠkɛm#
-*#kˈalˠt͡ʃɛm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#kˈalˠt͡ʃɛ# | 39 : [+cons] > ∅ / __ #
-*#kˈalˠət͡ʃɛ# | 47 : ∅ > ə / lˠ __ [-syl]
-*#kˈalˠt͡ʃɛ# | 48 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
-*#kˈawt͡ʃɛ# | 49 : lˠ > w / __ ( ə ) t͡ʃ
-*#kˈawt͡ʃe# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˈowt͡ʃe# | 71 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#kˈowt͡ʃe#
-Middle Pre-Capestranese stage form : *#kˈowt͡ʃe#
-*#kˈot͡ʃe# | 97 : w > ∅ / [+round] __ [+cons]
-*#kˈot͡ʃə# | 111 : [-stres,-lo] > ə 
-Final form : *#kˈot͡ʃə#
+#kˌalkˈaːneum# >>> *#kaləkˈaɲə# ( GOLD : #kaləkˈaɲə#) :
+k ˌa l k ˈaː n e u m 
+*#kˌalkˈaːnjum# | 11 : e > j / __ [+back,-cons]
+Proto-Romance stage form : *#kˌalkˈaːnjum#
+*#kˌalkˈaːnjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌalˠkˈaːnjʊm# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
+Early Pre-Capestranese stage form : *#kˌalˠkˈaːnjʊm#
+*#kˌalˠkˈanjʊm# | 30 : [+syl] > [-long,-splng] 
+*#kˌalˠkˈaɲːʊm# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#kˌalˠkˈaɲːʊ# | 39 : [+cons] > ∅ / __ #
+*#kˌalˠəkˈaɲːʊ# | 47 : ∅ > ə / lˠ __ [-syl]
+*#kˌaləkˈaɲːʊ# | 50 : lˠ > l 
+*#kˌaləkˈaɲːu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌaləkˈaɲːu#
+Middle Pre-Capestranese stage form : *#kˌaləkˈaɲːu#
+*#kˌaləkˈaɲːə# | 111 : [-stres,-lo] > ə 
+*#kˌaləkˈaɲə# | 126 : ɲː > ɲ 
+*#kaləkˈaɲə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaləkˈaɲə#

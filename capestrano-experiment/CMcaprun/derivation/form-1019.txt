@@ -1,12 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1019:
-... >>> *#ˈanima# ( GOLD : #ˈalma#) :
+... >>> *#aβɾˈit͡sːa# ( GOLD : #avaɾˈit͡sja#) :
 ... 
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
-*#ˈaniːma# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˈanima# | 30 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#ˈanima#
-Middle Pre-Capestranese stage form : *#ˈanima#
-*#ˈanˌima# | 110 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈanima# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈanima#
+*#ˌaβarˈitʲːa# | 23 : t j > tʲː 
+*#ˌaβarˈiːtʲːa# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌaβarˈitʲːa# | 30 : [+syl] > [-long,-splng] 
+*#ˌaβarˈit͡sːa# | 31 : tʲː > t͡sː 
+*#ˌaβrˈit͡sːa# | 43 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
+Proto-South-Italo-Romance stage form : *#ˌaβrˈit͡sːa#
+Middle Pre-Capestranese stage form : *#ˌaβrˈit͡sːa#
+*#ˌaβɾˈit͡sːa# | 122 : r > ɾ 
+*#aβɾˈit͡sːa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#aβɾˈit͡sːa#

@@ -1,11 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 833:
-#bˌallˈaː# >>> *#balːˈa# ( GOLD : #balːˈa#) :
-b ˌa l l ˈaː  
-Proto-Romance stage form : *#bˌallˈaː#
-Early Pre-Capestranese stage form : *#bˌallˈaː#
-*#bˌallˈa# | 30 : [+syl] > [-long,-splng] 
-*#bˌalːˈa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#bˌalːˈa#
-Middle Pre-Capestranese stage form : *#bˌalːˈa#
-*#balːˈa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#balːˈa#
+#bˈarbam# >>> *#bˈaɾba# ( GOLD : #bːˈaɾba#) :
+b ˈa r b a m 
+Proto-Romance stage form : *#bˈarbam#
+Early Pre-Capestranese stage form : *#bˈarbam#
+*#bˈarba# | 39 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#bˈarba#
+Middle Pre-Capestranese stage form : *#bˈarba#
+*#bˈaɾba# | 122 : r > ɾ 
+Final form : *#bˈaɾba#

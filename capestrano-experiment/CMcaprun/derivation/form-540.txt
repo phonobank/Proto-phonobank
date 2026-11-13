@@ -1,17 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 540:
-#kˌoːnsobrˈiːnum# >>> *#kənd͡zəbːɾˈinə# ( GOLD : #kund͡zubːɾˈinə#) :
-k ˌoː n s o b r ˈiː n u m 
-Proto-Romance stage form : *#kˌoːnsobrˈiːnum#
-*#kˌoːnsɔbrˈiːnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌoːnsɔbrˈiːnʊm#
-*#kˌonsɔbrˈinʊm# | 30 : [+syl] > [-long,-splng] 
-*#kˌonsɔbrˈinʊ# | 39 : [+cons] > ∅ / __ #
-*#kˌonsobrˈinu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌonsobːrˈinu# | 74 : b > bː / [-cons] __ r
-Proto-South-Italo-Romance stage form : *#kˌonsobːrˈinu#
-Middle Pre-Capestranese stage form : *#kˌonsobːrˈinu#
-*#kˌonsəbːrˈinə# | 111 : [-stres,-lo] > ə 
-*#kˌond͡zəbːrˈinə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kˌond͡zəbːɾˈinə# | 121 : r > ɾ 
-*#kənd͡zəbːɾˈinə# | 123 : [-prim,-hi,-lo] > ə 
-Final form : *#kənd͡zəbːɾˈinə#
+#kˌoːnsuːtˈuːram# >>> *#kund͡zətˈuɾa# ( GOLD : #kuʃətˈuɾa#) :
+k ˌoː n s uː t ˈuː r a m 
+Proto-Romance stage form : *#kˌoːnsuːtˈuːram#
+Early Pre-Capestranese stage form : *#kˌoːnsuːtˈuːram#
+*#kˌonsutˈuram# | 30 : [+syl] > [-long,-splng] 
+*#kˌonsutˈura# | 39 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˌonsutˈura#
+Middle Pre-Capestranese stage form : *#kˌonsutˈura#
+*#kˌunsutˈura# | 108 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌunsətˈura# | 111 : [-stres,-lo] > ə 
+*#kˌund͡zətˈura# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kˌund͡zətˈuɾa# | 122 : r > ɾ 
+*#kund͡zətˈuɾa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kund͡zətˈuɾa#

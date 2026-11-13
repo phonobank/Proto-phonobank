@@ -1,12 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 840:
-#bˈasioː# >>> *#bˈaʃə# ( GOLD : #bːˈaʃə#) :
-b ˈa s i oː 
-*#bˈasjoː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#bˈasjoː#
-Early Pre-Capestranese stage form : *#bˈasjoː#
-*#bˈasjo# | 30 : [+syl] > [-long,-splng] 
-*#bˈaʃo# | 34 : s j > ʃ 
-Proto-South-Italo-Romance stage form : *#bˈaʃo#
-Middle Pre-Capestranese stage form : *#bˈaʃo#
-*#bˈaʃə# | 111 : [-stres,-lo] > ə 
-Final form : *#bˈaʃə#
+#bˈoːskum# >>> *#ɡˈoskə# ( GOLD : #bˈɔʃkə#) :
+b ˈoː s k u m 
+Proto-Romance stage form : *#bˈoːskum#
+*#bˈoːskʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#bˈoːskʊm#
+*#bˈoskʊm# | 30 : [+syl] > [-long,-splng] 
+*#bˈoskʊ# | 39 : [+cons] > ∅ / __ #
+*#bˈosku# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#bˈosku#
+Middle Pre-Capestranese stage form : *#bˈosku#
+*#bˈoskə# | 111 : [-stres,-lo] > ə 
+*#vˈoskə# | 121 : b > v / # __ [+prim,+round]
+*#ɡˈoskə# | 127 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+Final form : *#ɡˈoskə#

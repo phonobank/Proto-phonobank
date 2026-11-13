@@ -1,17 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 651:
-#wiːɡˈintiː# >>> *#vijˈendə# ( GOLD : #vˈində#) :
-w iː ɡ ˈi n t iː 
-Proto-Romance stage form : *#wiːɡˈintiː#
-*#wiːɡˈɪntiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#wiːɡˈɪntiː#
-*#wiːjˈɪntiː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#wijˈɪnti# | 30 : [+syl] > [-long,-splng] 
-*#vijˈɪnti# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vijˈenti# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#vˌijˈenti# | 83 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
-Proto-South-Italo-Romance stage form : *#vˌijˈenti#
-Middle Pre-Capestranese stage form : *#vˌijˈenti#
-*#vˌijˈentə# | 111 : [-stres,-lo] > ə 
-*#vˌijˈendə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#vijˈendə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#vijˈendə#
+#wˌiɡˈiliam# >>> *#vijˈijːa# ( GOLD : #vˈɛjːə#) :
+w ˌi ɡ ˈi l i a m 
+*#wˌiɡˈiljam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#wˌiɡˈiljam#
+*#wˌɪɡˈɪljam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#wˌɪɡˈɪljam#
+*#wˌɪjˈɪljam# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#wˌiːjˈiːljam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#wˌijˈiljam# | 30 : [+syl] > [-long,-splng] 
+*#wˌijˈiʎːam# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#wˌijˈiʎːa# | 39 : [+cons] > ∅ / __ #
+*#vˌijˈiʎːa# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#vˌijˈiʎːa#
+Middle Pre-Capestranese stage form : *#vˌijˈiʎːa#
+*#vˌijˈijːa# | 125 : {ʎ;ʎː} > {j;jː} 
+*#vijˈijːa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vijˈijːa#

@@ -1,19 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 349:
-#ˌadriˈaːtikum# >>> *#adɾjˈatəkə# ( GOLD : #adɾiˈatəkə#) :
-ˌa d r i ˈaː t i k u m 
-*#ˌadrjˈaːtikum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#ˌadrjˈaːtikum#
-*#ˌadrjˈaːtɪkʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌadrjˈaːtɪkʊm#
-*#ˌadrjˈaːtiːkʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌadrjˈatikʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˌadrʲˈatikʊm# | 32 : r j > rʲ 
-*#ˌadrʲˈatikʊ# | 39 : [+cons] > ∅ / __ #
-*#ˌadrʲˈatiku# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌadrʲˈatiku#
-Middle Pre-Capestranese stage form : *#ˌadrʲˈatiku#
-*#ˌadrjˈatiku# | 95 : rʲ > r j / [+cons] __
-*#ˌadrjˈatəkə# | 111 : [-stres,-lo] > ə 
-*#ˌadɾjˈatəkə# | 121 : r > ɾ 
-*#adɾjˈatəkə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#adɾjˈatəkə#
+#ˌadrˈetroː# >>> *#adɾˈetɾə# ( GOLD : #arːˈɛtə#) :
+ˌa d r ˈe t r oː 
+Proto-Romance stage form : *#ˌadrˈetroː#
+*#ˌadrˈɛtroː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌadrˈɛtroː#
+*#ˌadrˈɛtro# | 30 : [+syl] > [-long,-splng] 
+*#ˌadrˈetro# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌadrˈetro#
+Middle Pre-Capestranese stage form : *#ˌadrˈetro#
+*#ˌadrˈetrə# | 111 : [-stres,-lo] > ə 
+*#ˌadɾˈetɾə# | 122 : r > ɾ 
+*#adɾˈetɾə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#adɾˈetɾə#

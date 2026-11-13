@@ -1,18 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 313:
-#ˌiːnfantˈiːlem# >>> *#mbandˈilə# ( GOLD : #mbandˈilə#) :
-ˌiː n f a n t ˈiː l e m 
-*#ˌiːmfantˈiːlem# | 0 : n > m / __ [+lab,+cons]
-Proto-Romance stage form : *#ˌiːmfantˈiːlem#
-*#ˌiːmfantˈiːlɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌiːmfantˈiːlɛm#
-*#ˌimfantˈilɛm# | 30 : [+syl] > [-long,-splng] 
-*#ˌimfantˈilɛ# | 39 : [+cons] > ∅ / __ #
-*#ˌimfantˈile# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌimfantˈile#
-*#əmfantˈile# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#mfantˈile# | 91 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#mfantˈile#
-*#mfantˈilə# | 111 : [-stres,-lo] > ə 
-*#mb͡vandˈilə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbandˈilə# | 114 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
-Final form : *#mbandˈilə#
+#ˌillˌa# >>> *#lːa# ( GOLD : #la#) :
+ˌi l l ˌa 
+Proto-Romance stage form : *#ˌillˌa#
+*#ˌɪllˌa# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɪllˌa#
+*#ˌellˌa# | 61 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌelːˌa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#ˌelːˌa#
+*#əlːˌa# | 87 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#lːˌa# | 91 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#lːˌa#
+*#lːa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#lːa#

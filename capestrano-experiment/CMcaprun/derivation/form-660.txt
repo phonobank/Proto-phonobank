@@ -1,10 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 660:
-#wˈeːna# >>> *#vˈena# ( GOLD : #vˈɛna#) :
-w ˈeː n a 
-Proto-Romance stage form : *#wˈeːna#
-Early Pre-Capestranese stage form : *#wˈeːna#
-*#wˈena# | 30 : [+syl] > [-long,-splng] 
-*#vˈena# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#vˈena#
-Middle Pre-Capestranese stage form : *#vˈena#
-Final form : *#vˈena#
+#wˈerrem# >>> *#vˈerːə# ( GOLD : #vˈɛrːə#) :
+w ˈe r r e m 
+Proto-Romance stage form : *#wˈerrem#
+*#wˈɛrrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#wˈɛrrɛm#
+*#wˈɛrrɛ# | 39 : [+cons] > ∅ / __ #
+*#vˈɛrrɛ# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈerre# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#vˈerːe# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#vˈerːe#
+Middle Pre-Capestranese stage form : *#vˈerːe#
+*#vˈerːə# | 111 : [-stres,-lo] > ə 
+Final form : *#vˈerːə#

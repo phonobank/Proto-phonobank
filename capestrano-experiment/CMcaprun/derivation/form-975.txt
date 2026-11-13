@@ -1,13 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 975:
-#mˈonakham# >>> *#mˈɔnaka# ( GOLD : #mˈɔnaka#) :
-m ˈo n a k h a m 
-*#mˈonakam# | 4 : h > ∅ 
-Proto-Romance stage form : *#mˈonakam#
-*#mˈɔnakam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#mˈɔnakam#
-*#mˈɔnaka# | 39 : [+cons] > ∅ / __ #
-*#mˈɞˤnaka# | 68 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#mˈɔnaka# | 79 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#mˈɔnaka#
-Middle Pre-Capestranese stage form : *#mˈɔnaka#
-Final form : *#mˈɔnaka#
+#mˌollˈiːkam# >>> *#mujːˈika# ( GOLD : #mijːˈika#) :
+m ˌo l l ˈiː k a m 
+Proto-Romance stage form : *#mˌollˈiːkam#
+*#mˌɔllˈiːkam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˌɔllˈiːkam#
+*#mˌɔllˈikam# | 30 : [+syl] > [-long,-splng] 
+*#mˌɔllˈika# | 39 : [+cons] > ∅ / __ #
+*#mˌollˈika# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˌolːˈika# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#mˌolːˈika#
+Middle Pre-Capestranese stage form : *#mˌolːˈika#
+*#mˌoʎːˈika# | 98 : lː > ʎː / __ [+hi]
+*#mˌuʎːˈika# | 108 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#mˌujːˈika# | 125 : {ʎ;ʎː} > {j;jː} 
+*#mujːˈika# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#mujːˈika#

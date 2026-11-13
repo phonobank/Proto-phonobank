@@ -1,19 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 329:
-#ˌeleˌeːmˈosynum# >>> *#ləəmˈosənə# ( GOLD : #ləmˈɔsənə#) :
-ˌe l e ˌeː m ˈo s y n u m 
-Proto-Romance stage form : *#ˌeleˌeːmˈosynum#
-*#ˌeleˌeːmˈosinum# | 14 : [+front] > [-lab,-round] 
-*#ˌɛlɛˌeːmˈɔsɪnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌɛlɛˌeːmˈɔsɪnʊm#
-*#ˌɛlɛˌemˈɔsɪnʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˌɛlɛˌemˈɔsɪnʊ# | 39 : [+cons] > ∅ / __ #
-*#ˌelɛˌemˈɔsɪnʊ# | 61 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌelɛˌemˈɔsɪnu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌeleˌemˈosenu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌeleˌemˈosenu#
-*#əleˌemˈosenu# | 87 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#leˌemˈosenu# | 91 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#leˌemˈosenu#
-*#leemˈosenu# | 109 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ləəmˈosənə# | 111 : [-stres,-lo] > ə 
-Final form : *#ləəmˈosənə#
+#ˌeːrˈikium# >>> *#ɾˈit͡ʃjə# ( GOLD : #ɾˈit͡ʃːə#) :
+ˌeː r ˈi k i u m 
+*#ˌeːrˈikjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌeːrˈikjum#
+*#ˌeːrˈɪkjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌeːrˈɪkjʊm#
+*#ˌeːrˈɪt͡ʃjʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#ˌeːrˈiːt͡ʃjʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌerˈit͡ʃjʊm# | 30 : [+syl] > [-long,-splng] 
+*#ˌerˈit͡ʃjʊ# | 39 : [+cons] > ∅ / __ #
+*#ˌerˈit͡ʃju# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌerˈit͡ʃju#
+*#ərˈit͡ʃju# | 87 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#rˈit͡ʃju# | 91 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#rˈit͡ʃju#
+*#rˈit͡ʃjə# | 111 : [-stres,-lo] > ə 
+*#ɾˈit͡ʃjə# | 122 : r > ɾ 
+Final form : *#ɾˈit͡ʃjə#

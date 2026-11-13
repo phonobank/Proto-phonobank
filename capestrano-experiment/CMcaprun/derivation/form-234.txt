@@ -1,11 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 234:
-#lˌawˈaː# >>> *#lavˈa# ( GOLD : #lavˈa#) :
-l ˌa w ˈaː 
-Proto-Romance stage form : *#lˌawˈaː#
-Early Pre-Capestranese stage form : *#lˌawˈaː#
-*#lˌawˈa# | 30 : [+syl] > [-long,-splng] 
-*#lˌavˈa# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#lˌavˈa#
-Middle Pre-Capestranese stage form : *#lˌavˈa#
-*#lavˈa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#lavˈa#
+#lˈabrum# >>> *#lˈabːɾə# ( GOLD : #lˈabːɾə#) :
+l ˈa b r u m 
+Proto-Romance stage form : *#lˈabrum#
+*#lˈabrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#lˈabrʊm#
+*#lˈabrʊ# | 39 : [+cons] > ∅ / __ #
+*#lˈabru# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#lˈabːru# | 74 : b > bː / [-cons] __ r
+Proto-South-Italo-Romance stage form : *#lˈabːru#
+Middle Pre-Capestranese stage form : *#lˈabːru#
+*#lˈabːrə# | 111 : [-stres,-lo] > ə 
+*#lˈabːɾə# | 122 : r > ɾ 
+Final form : *#lˈabːɾə#

@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 513:
-#kˈaulum# >>> *#kˈaələ# ( GOLD : #kˈavələ#) :
-k ˈa u l u m 
-Proto-Romance stage form : *#kˈaulum#
-*#kˈaʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˈaʊlʊm#
-*#kˈaʊlʊ# | 39 : [+cons] > ∅ / __ #
-*#kˈaulu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈaulu#
-Middle Pre-Capestranese stage form : *#kˈaulu#
-*#kˈaələ# | 111 : [-stres,-lo] > ə 
-Final form : *#kˈaələ#
+#kˈawsam# >>> *#kˈosa# ( GOLD : #kˈosa#) :
+k ˈa w s a m 
+Proto-Romance stage form : *#kˈawsam#
+Early Pre-Capestranese stage form : *#kˈawsam#
+*#kˈawsa# | 39 : [+cons] > ∅ / __ #
+*#kˈowsa# | 71 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+Proto-South-Italo-Romance stage form : *#kˈowsa#
+Middle Pre-Capestranese stage form : *#kˈowsa#
+*#kˈosa# | 97 : w > ∅ / [+round] __ [+cons]
+Final form : *#kˈosa#

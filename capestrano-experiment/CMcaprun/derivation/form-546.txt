@@ -1,16 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 546:
-#kˌollˈiɡe# >>> *#kəlːˈed͡ʒːə# ( GOLD : #kˈɔlːə#) :
-k ˌo l l ˈi ɡ e 
-Proto-Romance stage form : *#kˌollˈiɡe#
-*#kˌɔllˈɪɡɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɔllˈɪɡɡɛ# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-Early Pre-Capestranese stage form : *#kˌɔllˈɪɡɡɛ#
-*#kˌɔllˈɪd͡ʒːɛ# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#kˌollˈɪd͡ʒːɛ# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌollˈed͡ʒːe# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˌolːˈed͡ʒːe# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#kˌolːˈed͡ʒːe#
-Middle Pre-Capestranese stage form : *#kˌolːˈed͡ʒːe#
-*#kˌolːˈed͡ʒːə# | 111 : [-stres,-lo] > ə 
-*#kəlːˈed͡ʒːə# | 123 : [-prim,-hi,-lo] > ə 
-Final form : *#kəlːˈed͡ʒːə#
+#kˌollokˈaːtum# >>> *#kəlːəkˈatə# ( GOLD : #kulukˈatə#) :
+k ˌo l l o k ˈaː t u m 
+Proto-Romance stage form : *#kˌollokˈaːtum#
+*#kˌɔllɔkˈaːtʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔllˠɔkˈaːtʊm# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
+Early Pre-Capestranese stage form : *#kˌɔllˠɔkˈaːtʊm#
+*#kˌɔllˠɔkˈatʊm# | 30 : [+syl] > [-long,-splng] 
+*#kˌɔllˠɔkˈatʊ# | 39 : [+cons] > ∅ / __ #
+*#kˌɔllɔkˈatʊ# | 50 : lˠ > l 
+*#kˌollokˈatu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌolːokˈatu# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#kˌolːokˈatu#
+Middle Pre-Capestranese stage form : *#kˌolːokˈatu#
+*#kˌolːəkˈatə# | 111 : [-stres,-lo] > ə 
+*#kəlːəkˈatə# | 124 : [-prim,-hi,-lo] > ə 
+Final form : *#kəlːəkˈatə#

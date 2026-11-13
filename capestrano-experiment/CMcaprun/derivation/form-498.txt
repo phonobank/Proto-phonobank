@@ -1,17 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 498:
-#kˌalkulˈaː# >>> *#kaləkwəlˈa# ( GOLD : #kaɾkulˈa#) :
-k ˌa l k u l ˈaː 
-Proto-Romance stage form : *#kˌalkulˈaː#
-*#kˌalkʊlˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌalˠkʊlˈaː# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
-Early Pre-Capestranese stage form : *#kˌalˠkʊlˈaː#
-*#kˌalˠkʊlˈa# | 30 : [+syl] > [-long,-splng] 
-*#kˌalˠəkʊlˈa# | 47 : ∅ > ə / lˠ __ [-syl]
-*#kˌaləkʊlˈa# | 50 : lˠ > l 
-*#kˌaləkwʊlˈa# | 54 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#kˌaləkwulˈa# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌaləkwulˈa#
-Middle Pre-Capestranese stage form : *#kˌaləkwulˈa#
-*#kˌaləkwəlˈa# | 111 : [-stres,-lo] > ə 
-*#kaləkwəlˈa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kaləkwəlˈa#
+#kˈartaːs# >>> *#kˈaɾta# ( GOLD : #kˈaɾtə#) :
+k ˈa r t aː s 
+Proto-Romance stage form : *#kˈartaːs#
+Early Pre-Capestranese stage form : *#kˈartaːs#
+*#kˈartas# | 30 : [+syl] > [-long,-splng] 
+*#kˈarta# | 39 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˈarta#
+Middle Pre-Capestranese stage form : *#kˈarta#
+*#kˈaɾta# | 122 : r > ɾ 
+Final form : *#kˈaɾta#

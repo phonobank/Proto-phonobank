@@ -1,14 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 490:
-#kˌanˈaːlem# >>> *#kanˈalə# ( GOLD : #kanˈalə#) :
-k ˌa n ˈaː l e m 
-Proto-Romance stage form : *#kˌanˈaːlem#
-*#kˌanˈaːlɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌanˈaːlɛm#
-*#kˌanˈalɛm# | 30 : [+syl] > [-long,-splng] 
-*#kˌanˈalɛ# | 39 : [+cons] > ∅ / __ #
-*#kˌanˈale# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌanˈale#
-Middle Pre-Capestranese stage form : *#kˌanˈale#
-*#kˌanˈalə# | 111 : [-stres,-lo] > ə 
-*#kanˈalə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kanˈalə#
+#kˌaldˈaːriam# >>> *#kaldˈaɾa# ( GOLD : #kalːˈaɾa#) :
+k ˌa l d ˈaː r i a m 
+*#kˌaldˈaːrjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌaldˈaːrjam#
+Early Pre-Capestranese stage form : *#kˌaldˈaːrjam#
+*#kˌaldˈarjam# | 30 : [+syl] > [-long,-splng] 
+*#kˌaldˈarʲam# | 32 : r j > rʲ 
+*#kˌaldˈarʲa# | 39 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˌaldˈarʲa#
+Middle Pre-Capestranese stage form : *#kˌaldˈarʲa#
+*#kˌaldˈara# | 96 : rʲ > r 
+*#kˌaldˈaɾa# | 122 : r > ɾ 
+*#kaldˈaɾa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaldˈaɾa#

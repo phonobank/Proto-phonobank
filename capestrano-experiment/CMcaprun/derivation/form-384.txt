@@ -1,14 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 384:
-#ˌaksˈilla# >>> *#aʃːˈelːa# ( GOLD : #ʃˈenːa#) :
-ˌa k s ˈi l l a 
-Proto-Romance stage form : *#ˌaksˈilla#
-*#ˌaksˈɪlla# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌaksˈɪlla#
-*#ˌasːˈɪlla# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌasːˈella# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌasːˈelːa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#ˌasːˈelːa#
-Middle Pre-Capestranese stage form : *#ˌasːˈelːa#
-*#ˌaʃːˈelːa# | 106 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#aʃːˈelːa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#aʃːˈelːa#
+#ˈaksem# >>> *#ˈaʃːə# ( GOLD : #ˈasːə#) :
+ˈa k s e m 
+Proto-Romance stage form : *#ˈaksem#
+*#ˈaksɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈaksɛm#
+*#ˈasːɛm# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˈasːɛ# | 39 : [+cons] > ∅ / __ #
+*#ˈasːe# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈasːe#
+Middle Pre-Capestranese stage form : *#ˈasːe#
+*#ˈaʃːe# | 106 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#ˈaʃːə# | 111 : [-stres,-lo] > ə 
+Final form : *#ˈaʃːə#

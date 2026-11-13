@@ -1,17 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 348:
-#ˌaddˌormˈiː# >>> *#adːuɾmˈi# ( GOLD : #adːəɾmˈi#) :
-ˌa d d ˌo r m ˈiː 
-Proto-Romance stage form : *#ˌaddˌormˈiː#
-*#ˌaddˌɔrmˈiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌaddˌɔrmˈiː#
-*#ˌaddˌɔrmˈi# | 30 : [+syl] > [-long,-splng] 
-*#ˌaddˌormˈi# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌadːˌormˈi# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#ˌadːˌormˈi#
-Middle Pre-Capestranese stage form : *#ˌadːˌormˈi#
-*#ˌadːˌurmˈi# | 108 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#ˌadːurmˈi# | 109 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌadːˌurmˈi# | 110 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌadːˌuɾmˈi# | 121 : r > ɾ 
-*#adːuɾmˈi# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#adːuɾmˈi#
+#ˌadriˈaːtikum# >>> *#adɾjˈatəkə# ( GOLD : #adɾiˈatəkə#) :
+ˌa d r i ˈaː t i k u m 
+*#ˌadrjˈaːtikum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌadrjˈaːtikum#
+*#ˌadrjˈaːtɪkʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌadrjˈaːtɪkʊm#
+*#ˌadrjˈaːtiːkʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌadrjˈatikʊm# | 30 : [+syl] > [-long,-splng] 
+*#ˌadrʲˈatikʊm# | 32 : r j > rʲ 
+*#ˌadrʲˈatikʊ# | 39 : [+cons] > ∅ / __ #
+*#ˌadrʲˈatiku# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌadrʲˈatiku#
+Middle Pre-Capestranese stage form : *#ˌadrʲˈatiku#
+*#ˌadrjˈatiku# | 95 : rʲ > r j / [+cons] __
+*#ˌadrjˈatəkə# | 111 : [-stres,-lo] > ə 
+*#ˌadɾjˈatəkə# | 122 : r > ɾ 
+*#adɾjˈatəkə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#adɾjˈatəkə#

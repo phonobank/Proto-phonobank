@@ -1,17 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 369:
-#ˈaːlium# >>> *#ˈajːə# ( GOLD : #ˈajːə#) :
-ˈaː l i u m 
-*#ˈaːljum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#ˈaːljum#
-*#ˈaːljʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˈaːljʊm#
-*#ˈaljʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˈaʎːʊm# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#ˈaʎːʊ# | 39 : [+cons] > ∅ / __ #
-*#ˈaʎːu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈaʎːu#
-Middle Pre-Capestranese stage form : *#ˈaʎːu#
-*#ˈaʎːˌu# | 110 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈaʎːə# | 116 : [-prim,-lo] > ə / __ #
-*#ˈajːə# | 124 : {ʎ;ʎː} > {j;jː} 
-Final form : *#ˈajːə#
+#ˌalˈawdula# >>> *#alˈodəla# ( GOLD : #lˈɔla#) :
+ˌa l ˈa w d u l a 
+Proto-Romance stage form : *#ˌalˈawdula#
+*#ˌalˈawdʊla# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌalˈawdʊla#
+*#ˌalˈawdula# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌalˈowdula# | 71 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+Proto-South-Italo-Romance stage form : *#ˌalˈowdula#
+Middle Pre-Capestranese stage form : *#ˌalˈowdula#
+*#ˌalˈodula# | 97 : w > ∅ / [+round] __ [+cons]
+*#ˌalˈodəla# | 111 : [-stres,-lo] > ə 
+*#alˈodəla# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#alˈodəla#

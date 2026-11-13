@@ -1,17 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 460:
-#kˈinɡulam# >>> *#t͡ʃˈiŋɡwəla# ( GOLD : #t͡ʃˈeɲa#) :
-k ˈi n ɡ u l a m 
-*#kˈiŋɡulam# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#kˈiŋɡulam#
-*#kˈɪŋɡʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˈɪŋɡʊlam#
-*#t͡ʃˈɪŋɡʊlam# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˈiːŋɡʊlam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#t͡ʃˈiŋɡʊlam# | 30 : [+syl] > [-long,-splng] 
-*#t͡ʃˈiŋɡʊla# | 39 : [+cons] > ∅ / __ #
-*#t͡ʃˈiŋɡwʊla# | 54 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#t͡ʃˈiŋɡwula# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#t͡ʃˈiŋɡwula#
-Middle Pre-Capestranese stage form : *#t͡ʃˈiŋɡwula#
-*#t͡ʃˈiŋɡwəla# | 111 : [-stres,-lo] > ə 
-Final form : *#t͡ʃˈiŋɡwəla#
+#kˈilium# >>> *#t͡ʃˈijːə# ( GOLD : #t͡ʃˈijːə#) :
+k ˈi l i u m 
+*#kˈiljum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˈiljum#
+*#kˈɪljʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˈɪljʊm#
+*#t͡ʃˈɪljʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˈiːljʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#t͡ʃˈiljʊm# | 30 : [+syl] > [-long,-splng] 
+*#t͡ʃˈiʎːʊm# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#t͡ʃˈiʎːʊ# | 39 : [+cons] > ∅ / __ #
+*#t͡ʃˈiʎːu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#t͡ʃˈiʎːu#
+Middle Pre-Capestranese stage form : *#t͡ʃˈiʎːu#
+*#t͡ʃˈiʎːə# | 111 : [-stres,-lo] > ə 
+*#t͡ʃˈijːə# | 125 : {ʎ;ʎː} > {j;jː} 
+Final form : *#t͡ʃˈijːə#

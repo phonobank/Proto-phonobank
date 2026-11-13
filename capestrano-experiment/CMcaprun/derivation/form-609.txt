@@ -1,15 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 609:
-#ɡˌelˈaː# >>> *#jelˈa# ( GOLD : #jelˈa#) :
-ɡ ˌe l ˈaː 
-Proto-Romance stage form : *#ɡˌelˈaː#
-*#ɡˌɛlˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˌɛlˈaː# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˌɛlˈaː# | 19 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-Early Pre-Capestranese stage form : *#ɡˌɛlˈaː#
-*#jˌɛlˈaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#jˌɛlˈa# | 30 : [+syl] > [-long,-splng] 
-*#jəlˈa# | 36 : [-prim] > ə / # j __ [+cons,-front]
-Proto-South-Italo-Romance stage form : *#jəlˈa#
-Middle Pre-Capestranese stage form : *#jəlˈa#
-*#jelˈa# | 129 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#jelˈa#
+#ɡˌelˈoːnem# >>> *#jelˈonə# ( GOLD : #jelˈonə#) :
+ɡ ˌe l ˈoː n e m 
+Proto-Romance stage form : *#ɡˌelˈoːnem#
+*#ɡˌɛlˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˌɛlˈoːnɛm# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛlˈoːnɛm# | 19 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+Early Pre-Capestranese stage form : *#ɡˌɛlˈoːnɛm#
+*#jˌɛlˈoːnɛm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#jˌɛlˈonɛm# | 30 : [+syl] > [-long,-splng] 
+*#jəlˈonɛm# | 36 : [-prim] > ə / # j __ [+cons,-front]
+*#jəlˈonɛ# | 39 : [+cons] > ∅ / __ #
+*#jəlˈone# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jəlˈone#
+Middle Pre-Capestranese stage form : *#jəlˈone#
+*#jəlˈonə# | 111 : [-stres,-lo] > ə 
+*#jelˈonə# | 130 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#jelˈonə#

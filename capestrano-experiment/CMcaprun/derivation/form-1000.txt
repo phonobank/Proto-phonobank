@@ -1,14 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1000:
-... >>> *#arːəvˈa# ( GOLD : #arːubːˈa#) :
+... >>> *#at͡ʃːˈætːa# ( GOLD : #t͡ʃˈætːa#) :
 ... 
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
-*#ˌarːˌowbˈa# | 71 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-*#ˌarːˌowvˈa# | 77 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#ˌarːˌowvˈa#
-Middle Pre-Capestranese stage form : *#ˌarːˌowvˈa#
-*#ˌarːˌovˈa# | 97 : w > ∅ / [+round] __ [+cons]
-*#ˌarːovˈa# | 109 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌarːəvˈa# | 111 : [-stres,-lo] > ə 
-*#arːəvˈa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#arːəvˈa#
+*#ˌat͡ʃːˈɛtta# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#ˌat͡ʃːˈætta# | 68 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌat͡ʃːˈætːa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#ˌat͡ʃːˈætːa#
+Middle Pre-Capestranese stage form : *#ˌat͡ʃːˈætːa#
+*#at͡ʃːˈætːa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#at͡ʃːˈætːa#

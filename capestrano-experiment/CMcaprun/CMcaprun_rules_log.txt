@@ -114,6 +114,7 @@ s > ʃ / # __ [+hi,+front]
 [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
 [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
 [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
+[+hi,+syl] > [+prim,+stres,+syl,+son] / # ( [-syl] )* __ #
 [-prim,-lo] > ə / __ #
 b > v / # __ ( [-prim] ) [+cor,-long] [+lo]
 b > v / # __ [+prim,+round] [+cons] [+syl]

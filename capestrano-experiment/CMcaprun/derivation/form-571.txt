@@ -1,16 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 571:
-#kˌoopˈerkulum# >>> *#kəəpˈeɾkwələ# ( GOLD : #kupˈɛɾcə#) :
-k ˌo o p ˈe r k u l u m 
-Proto-Romance stage form : *#kˌoopˈerkulum#
-*#kˌɔɔpˈɛrkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌɔɔpˈɛrkʊlʊm#
-*#kˌɔɔpˈɛrkʊlʊ# | 39 : [+cons] > ∅ / __ #
-*#kˌɔɔpˈɛrkwʊlʊ# | 54 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#kˌoopˈɛrkwulu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌoopˈerkwulu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌoopˈerkwulu#
-Middle Pre-Capestranese stage form : *#kˌoopˈerkwulu#
-*#kˌoəpˈerkwələ# | 111 : [-stres,-lo] > ə 
-*#kˌoəpˈeɾkwələ# | 121 : r > ɾ 
-*#kəəpˈeɾkwələ# | 123 : [-prim,-hi,-lo] > ə 
-Final form : *#kəəpˈeɾkwələ#
+#kˈomitem# >>> *#kˈomdə# ( GOLD : #kˈondə#) :
+k ˈo m i t e m 
+Proto-Romance stage form : *#kˈomitem#
+*#kˈɔmɪtɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˈɔmɪtɛm#
+*#kˈɔmɪtɛ# | 39 : [+cons] > ∅ / __ #
+*#kˈɔmtɛ# | 44 : [+hi,-stres] > ∅ / [+round,+syl] ( [+son,-syl] ) [+lab,-syl,-long] __ [nnas,nvoi,+cor,-front] [+syl]
+*#kˈomte# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈomte#
+Middle Pre-Capestranese stage form : *#kˈomte#
+*#kˈomtə# | 111 : [-stres,-lo] > ə 
+*#kˈomdə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#kˈomdə#

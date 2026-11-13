@@ -1,18 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 307:
-#ˌinkˈuːdulam# >>> *#ŋɡˈudəla# ( GOLD : #ŋɡˈudəla#) :
-ˌi n k ˈuː d u l a m 
-*#ˌiŋkˈuːdulam# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#ˌiŋkˈuːdulam#
-*#ˌɪŋkˈuːdʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌɪŋkˈuːdʊlam#
-*#ˌiːŋkˈuːdʊlam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌiŋkˈudʊlam# | 30 : [+syl] > [-long,-splng] 
-*#ˌiŋkˈudʊla# | 39 : [+cons] > ∅ / __ #
-*#ˌiŋkˈudula# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌiŋkˈudula#
-*#əŋkˈudula# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#ŋkˈudula# | 91 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#ŋkˈudula#
-*#ŋkˈudəla# | 111 : [-stres,-lo] > ə 
-*#ŋɡˈudəla# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#ŋɡˈudəla#
+#ˌinɡlˌuːtˈiː# >>> *#iɲətˈi# ( GOLD : #ŋɡlutːˈi#) :
+ˌi n ɡ l ˌuː t ˈiː 
+*#ˌiŋɡlˌuːtˈiː# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˌiŋɡlˌuːtˈiː#
+*#ˌɪŋɡlˌuːtˈiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɪŋɡlˌuːtˈiː#
+*#ˌiːŋɡlˌuːtˈiː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌiŋɡlˌutˈi# | 30 : [+syl] > [-long,-splng] 
+*#ˌiŋʎːˌutˈi# | 53 : ɡ l > ʎː 
+Proto-South-Italo-Romance stage form : *#ˌiŋʎːˌutˈi#
+Middle Pre-Capestranese stage form : *#ˌiŋʎːˌutˈi#
+*#ˌiɲːˌutˈi# | 93 : [+nas,-lab] [+front,-syl,+voi] > ɲː
+*#ˌiɲːutˈi# | 109 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌiɲːətˈi# | 111 : [-stres,-lo] > ə 
+*#ˌiɲətˈi# | 126 : ɲː > ɲ 
+*#iɲətˈi# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#iɲətˈi#

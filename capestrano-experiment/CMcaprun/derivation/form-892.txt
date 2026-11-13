@@ -1,22 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 892:
-#fˌebruˈaːrium# >>> *#fəbːɾəvˈaɾə# ( GOLD : #fɾəbːˈaɾə#) :
-f ˌe b r u ˈaː r i u m 
-*#fˌebruwˈaːrium# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
-*#fˌebruwˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#fˌebruwˈaːrjum#
-*#fˌɛbrʊwˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#fˌɛbrʊwˈaːrjʊm#
-*#fˌɛbrʊwˈarjʊm# | 30 : [+syl] > [-long,-splng] 
-*#fˌɛbrʊwˈarʲʊm# | 32 : r j > rʲ 
-*#fˌɛbrʊwˈarʲʊ# | 39 : [+cons] > ∅ / __ #
-*#fˌɛbrʊvˈarʲʊ# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#fˌebrʊvˈarʲʊ# | 61 : [+stres,-prim,+front,-tense] > ˌe 
-*#fˌebruvˈarʲu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#fˌebːruvˈarʲu# | 74 : b > bː / [-cons] __ r
-Proto-South-Italo-Romance stage form : *#fˌebːruvˈarʲu#
-Middle Pre-Capestranese stage form : *#fˌebːruvˈarʲu#
-*#fˌebːruvˈaru# | 96 : rʲ > r 
-*#fˌebːrəvˈarə# | 111 : [-stres,-lo] > ə 
-*#fˌebːɾəvˈaɾə# | 121 : r > ɾ 
-*#fəbːɾəvˈaɾə# | 123 : [-prim,-hi,-lo] > ə 
-Final form : *#fəbːɾəvˈaɾə#
+#fˈeːminam# >>> *#fˈemːəna# ( GOLD : #fˈemːəna#) :
+f ˈeː m i n a m 
+Proto-Romance stage form : *#fˈeːminam#
+*#fˈeːmɪnam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#fˈeːmɪnam#
+*#fˈemɪnam# | 30 : [+syl] > [-long,-splng] 
+*#fˈemɪna# | 39 : [+cons] > ∅ / __ #
+*#fˈemːɪna# | 42 : m > mː / # ( [+lab] ) [-cons,-lo] __ [+syl] [+cons] [+syl] #
+*#fˈemːena# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#fˈemːena#
+Middle Pre-Capestranese stage form : *#fˈemːena#
+*#fˈemːəna# | 111 : [-stres,-lo] > ə 
+Final form : *#fˈemːəna#

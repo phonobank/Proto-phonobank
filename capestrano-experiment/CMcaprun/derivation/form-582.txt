@@ -1,17 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 582:
-#kˌunˈiːkulum# >>> *#kunˈijːə# ( GOLD : #kunˈijːə#) :
-k ˌu n ˈiː k u l u m 
-Proto-Romance stage form : *#kˌunˈiːkulum#
-*#kˌʊnˈiːkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌʊnˈiːkʊlʊm#
-*#kˌʊnˈikʊlʊm# | 30 : [+syl] > [-long,-splng] 
-*#kˌʊnˈikʊlʊ# | 39 : [+cons] > ∅ / __ #
-*#kˌʊnˈiɡlʊ# | 52 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
-*#kˌʊnˈiʎːʊ# | 53 : ɡ l > ʎː 
-*#kˌunˈiʎːu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌunˈiʎːu#
-Middle Pre-Capestranese stage form : *#kˌunˈiʎːu#
-*#kˌunˈiʎːə# | 111 : [-stres,-lo] > ə 
-*#kˌunˈijːə# | 124 : {ʎ;ʎː} > {j;jː} 
-*#kunˈijːə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kunˈijːə#
+#kˈulpam# >>> *#kˈolpa# ( GOLD : #kˈolpa#) :
+k ˈu l p a m 
+Proto-Romance stage form : *#kˈulpam#
+*#kˈʊlpam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˈʊlpam#
+*#kˈʊlpa# | 39 : [+cons] > ∅ / __ #
+*#kˈolpa# | 65 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+Proto-South-Italo-Romance stage form : *#kˈolpa#
+Middle Pre-Capestranese stage form : *#kˈolpa#
+Final form : *#kˈolpa#

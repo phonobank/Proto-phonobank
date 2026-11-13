@@ -185,7 +185,7 @@ m > mː / # ([+lab]) [-cons,-lo] __ [+syl] [+cons] [+syl] #
 $ MANUAL FIX A12 deletions in l/m/f Clab __ r contexts. 
 	$ not for mː -- numerum > nummërë, admirātum > ammiratë
 	$ counterfed by LXXXIIId for arborem > albërë. 
-	$ prior syllable canțt be front (non-low) : vipera > vipëra , exmerāre > smëra 
+	$ prior syllable can't be front (non-low) : vipera > vipëra , exmerāre > smëra 
 	$ affected: sufferīre, iūniperum? , aperīre, camera, comparāre, comparātum, opera, offerīre
 [-prim] > ∅ / [+syl,alo,afront] ([+cont,llat,-llab]) [-syl,+lab,-long] __ r [+syl]
 
@@ -517,6 +517,8 @@ $ XVIId LIXc voiceless obstruents after nasals and l to voiced stops. San France
 [+lab,-cont] > [-delrel,-strid] $bandaid
 [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel] / [+lat] __
 
+$ MANUAL FIX 11.13.2026.4 -- tonic stress for final high vowels in monosyllables. 
+[+hi,+syl] > [+prim] / # ([-syl])* __ #
 
 $ XXXVIa only ə and a (~ ɐ?) in unstressed final position
 [-prim,-lo] > ə / __ # 

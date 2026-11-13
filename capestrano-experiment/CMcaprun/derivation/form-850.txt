@@ -1,18 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 850:
-#bˌuttˈikulam# >>> *#butːˈijːa# ( GOLD : #bːutːˈijːa#) :
-b ˌu t t ˈi k u l a m 
-Proto-Romance stage form : *#bˌuttˈikulam#
-*#bˌʊttˈɪkʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#bˌʊttˈɪkʊlam#
-*#bˌʊttˈiːkʊlam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#bˌʊttˈikʊlam# | 30 : [+syl] > [-long,-splng] 
-*#bˌʊttˈikʊla# | 39 : [+cons] > ∅ / __ #
-*#bˌʊttˈiɡla# | 52 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
-*#bˌʊttˈiʎːa# | 53 : ɡ l > ʎː 
-*#bˌuttˈiʎːa# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#bˌutːˈiʎːa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#bˌutːˈiʎːa#
-Middle Pre-Capestranese stage form : *#bˌutːˈiʎːa#
-*#bˌutːˈijːa# | 124 : {ʎ;ʎː} > {j;jː} 
-*#butːˈijːa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#butːˈijːa#
+#bˈuttem# >>> *#ɡˈotːə# ( GOLD : #vˈotːə#) :
+b ˈu t t e m 
+Proto-Romance stage form : *#bˈuttem#
+*#bˈʊttɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#bˈʊttɛm#
+*#bˈʊttɛ# | 39 : [+cons] > ∅ / __ #
+*#bˈotte# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#bˈotːe# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#bˈotːe#
+Middle Pre-Capestranese stage form : *#bˈotːe#
+*#bˈotːə# | 111 : [-stres,-lo] > ə 
+*#vˈotːə# | 119 : b > v / # __ [+prim,+round] [+cons] [+syl]
+*#ɡˈotːə# | 127 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+Final form : *#ɡˈotːə#

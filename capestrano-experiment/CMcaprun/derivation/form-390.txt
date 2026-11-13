@@ -1,10 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 390:
-#ˈaka# >>> *#ˈaka# ( GOLD : #ˈaka#) :
-ˈa k a 
-Proto-Romance stage form : *#ˈaka#
-Early Pre-Capestranese stage form : *#ˈaka#
-Proto-South-Italo-Romance stage form : *#ˈaka#
-Middle Pre-Capestranese stage form : *#ˈaka#
-*#ˈakˌa# | 110 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈaka# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈaka#
+#ˌakklˌaːrˈaː# >>> *#akːjaɾˈa# ( GOLD : #akːjaɾˈa#) :
+ˌa k k l ˌaː r ˈaː 
+Proto-Romance stage form : *#ˌakklˌaːrˈaː#
+Early Pre-Capestranese stage form : *#ˌakklˌaːrˈaː#
+*#ˌakklˌarˈa# | 30 : [+syl] > [-long,-splng] 
+*#ˌakːlˌarˈa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#ˌakːʎˌarˈa# | 73 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#ˌakːʎˌarˈa#
+Middle Pre-Capestranese stage form : *#ˌakːʎˌarˈa#
+*#ˌakːʎarˈa# | 109 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌakːʎˌarˈa# | 110 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌakːʎˌaɾˈa# | 122 : r > ɾ 
+*#ˌakːjˌaɾˈa# | 125 : {ʎ;ʎː} > {j;jː} 
+*#akːjaɾˈa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#akːjaɾˈa#

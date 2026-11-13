@@ -1,18 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 292:
-#jˌuːnˈiperum# >>> *#jenˈipəɾə# ( GOLD : #jenˈibːjə#) :
-j ˌuː n ˈi p e r u m 
-Proto-Romance stage form : *#jˌuːnˈiperum#
-*#jˌuːnˈɪpɛrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#jˌuːnˈɪpɛrʊm#
-*#jˌuːnˈiːpɛrʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#jˌunˈipɛrʊm# | 30 : [+syl] > [-long,-splng] 
-*#jənˈipɛrʊm# | 36 : [-prim] > ə / # j __ [+cons,-front]
-*#jənˈipɛrʊ# | 39 : [+cons] > ∅ / __ #
-*#jənˈipɛru# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jənˈiperu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#jənˈiperu#
-Middle Pre-Capestranese stage form : *#jənˈiperu#
-*#jənˈipərə# | 111 : [-stres,-lo] > ə 
-*#jənˈipəɾə# | 121 : r > ɾ 
-*#jenˈipəɾə# | 129 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#jenˈipəɾə#
+#jˌunktˈuːram# >>> *#d͡ʒuŋdˈuɾa# ( GOLD : #d͡ʒundˈuɾa#) :
+j ˌu n k t ˈuː r a m 
+*#jˌuŋktˈuːram# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#jˌuŋktˈuːram#
+*#jˌʊŋktˈuːram# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#jˌʊŋktˈuːram#
+*#jˌʊŋtːˈuːram# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#jˌʊŋtːˈuram# | 30 : [+syl] > [-long,-splng] 
+*#d͡ʒˌʊŋtːˈuram# | 35 : j > d͡ʒ / # __ [+hi] [+nas,+hi]
+*#d͡ʒˌʊŋtːˈura# | 39 : [+cons] > ∅ / __ #
+*#d͡ʒˌuŋtːˈura# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#d͡ʒˌuŋtːˈura#
+Middle Pre-Capestranese stage form : *#d͡ʒˌuŋtːˈura#
+*#d͡ʒˌuŋtˈura# | 103 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#d͡ʒˌuŋdˈura# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#d͡ʒˌuŋdˈuɾa# | 122 : r > ɾ 
+*#d͡ʒuŋdˈuɾa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#d͡ʒuŋdˈuɾa#

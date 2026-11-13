@@ -1,15 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 965:
-#mˌaksˈillam# >>> *#maʃːˈelːa# ( GOLD : #maʃːˈɛlːa#) :
-m ˌa k s ˈi l l a m 
-Proto-Romance stage form : *#mˌaksˈillam#
-*#mˌaksˈɪllam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#mˌaksˈɪllam#
-*#mˌasːˈɪllam# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#mˌasːˈɪlla# | 39 : [+cons] > ∅ / __ #
-*#mˌasːˈella# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#mˌasːˈelːa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#mˌasːˈelːa#
-Middle Pre-Capestranese stage form : *#mˌasːˈelːa#
-*#mˌaʃːˈelːa# | 106 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#maʃːˈelːa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#maʃːˈelːa#
+#mˈakrum# >>> *#mˈaɡɾə# ( GOLD : #mˈaɡɾə#) :
+m ˈa k r u m 
+Proto-Romance stage form : *#mˈakrum#
+*#mˈakrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˈakrʊm#
+*#mˈakrʊ# | 39 : [+cons] > ∅ / __ #
+*#mˈaɡrʊ# | 52 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
+*#mˈaɡru# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈaɡru#
+Middle Pre-Capestranese stage form : *#mˈaɡru#
+*#mˈaɡrə# | 111 : [-stres,-lo] > ə 
+*#mˈaɡɾə# | 122 : r > ɾ 
+Final form : *#mˈaɡɾə#

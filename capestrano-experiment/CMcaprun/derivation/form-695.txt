@@ -1,13 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 695:
-#ˈuːmida# >>> *#ˈumːəda# ( GOLD : #ˈumːəda#) :
-ˈuː m i d a 
-Proto-Romance stage form : *#ˈuːmida#
-*#ˈuːmɪda# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˈuːmɪda#
-*#ˈumɪda# | 30 : [+syl] > [-long,-splng] 
-*#ˈumːɪda# | 42 : m > mː / # ( [+lab] ) [-cons,-lo] __ [+syl] [+cons] [+syl] #
-*#ˈumːeda# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈumːeda#
-Middle Pre-Capestranese stage form : *#ˈumːeda#
-*#ˈumːəda# | 111 : [-stres,-lo] > ə 
-Final form : *#ˈumːəda#
+#ˈumbram# >>> *#ˈombɾa# ( GOLD : #ˈombɾa#) :
+ˈu m b r a m 
+Proto-Romance stage form : *#ˈumbram#
+*#ˈʊmbram# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈʊmbram#
+*#ˈʊmbra# | 39 : [+cons] > ∅ / __ #
+*#ˈombra# | 65 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#ˈomːra# | 66 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#ˈomːra#
+Middle Pre-Capestranese stage form : *#ˈomːra#
+*#ˈomːbra# | 101 : ∅ > b / [+nas,+lab] __ r
+*#ˈombra# | 103 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˈombɾa# | 122 : r > ɾ 
+Final form : *#ˈombɾa#

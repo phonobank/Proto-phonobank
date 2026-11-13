@@ -1,19 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 706:
-#ˌoktoːɡˈintaː# >>> *#tːəjˈenda# ( GOLD : #otːˈanda#) :
-ˌo k t oː ɡ ˈi n t aː 
-Proto-Romance stage form : *#ˌoktoːɡˈintaː#
-*#ˌɔktoːɡˈɪntaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌɔktoːɡˈɪntaː#
-*#ˌɔktoːjˈɪntaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#ˌɔtːoːjˈɪntaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɔtːojˈɪnta# | 30 : [+syl] > [-long,-splng] 
-*#ˌɔtːujˈɪnta# | 59 : [+syl,+round] > [+hi] / __ j
-*#ˌotːujˈɪnta# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌotːujˈenta# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌotːujˈenta#
-*#ətːujˈenta# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#tːujˈenta# | 91 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#tːujˈenta#
-*#tːəjˈenta# | 111 : [-stres,-lo] > ə 
-*#tːəjˈenda# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#tːəjˈenda#
+#ˌoktˈoːbrem# >>> *#tːˈobːɾə# ( GOLD : #otːˈɔbɾə#) :
+ˌo k t ˈoː b r e m 
+Proto-Romance stage form : *#ˌoktˈoːbrem#
+*#ˌɔktˈoːbrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɔktˈoːbrɛm#
+*#ˌɔtːˈoːbrɛm# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɔtːˈobrɛm# | 30 : [+syl] > [-long,-splng] 
+*#ˌɔtːˈobrɛ# | 39 : [+cons] > ∅ / __ #
+*#ˌotːˈobrɛ# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌotːˈobre# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌotːˈobːre# | 74 : b > bː / [-cons] __ r
+Proto-South-Italo-Romance stage form : *#ˌotːˈobːre#
+*#ətːˈobːre# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#tːˈobːre# | 91 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#tːˈobːre#
+*#tːˈobːrə# | 111 : [-stres,-lo] > ə 
+*#tːˈobːɾə# | 122 : r > ɾ 
+Final form : *#tːˈobːɾə#

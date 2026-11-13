@@ -1,15 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 967:
-#mˈaːkʰina# >>> *#mˈat͡ʃena# ( GOLD : #mˈad͡ʒena#) :
-m ˈaː kʰ i n a 
-*#mˈaːkina# | 6 : [+cons] > [-sg] 
-Proto-Romance stage form : *#mˈaːkina#
-*#mˈaːkɪna# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#mˈaːkɪna#
-*#mˈaːt͡ʃɪna# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#mˈat͡ʃɪna# | 30 : [+syl] > [-long,-splng] 
-*#mˈat͡ʃena# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈat͡ʃena#
-Middle Pre-Capestranese stage form : *#mˈat͡ʃena#
-*#mˈat͡ʃəna# | 111 : [-stres,-lo] > ə 
-*#mˈat͡ʃena# | 129 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#mˈat͡ʃena#
+#mˌaːkʰinˈaː# >>> *#mat͡ʃənˈa# ( GOLD : #mat͡ʃinˈa#) :
+m ˌaː kʰ i n ˈaː 
+*#mˌaːkinˈaː# | 6 : [+cons] > [-sg] 
+Proto-Romance stage form : *#mˌaːkinˈaː#
+*#mˌaːkɪnˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˌaːkɪnˈaː#
+*#mˌaːt͡ʃɪnˈaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#mˌat͡ʃɪnˈa# | 30 : [+syl] > [-long,-splng] 
+*#mˌat͡ʃenˈa# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌat͡ʃenˈa#
+Middle Pre-Capestranese stage form : *#mˌat͡ʃenˈa#
+*#mˌat͡ʃənˈa# | 111 : [-stres,-lo] > ə 
+*#mat͡ʃənˈa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+*#mat͡ʃenˈa# | 130 : ə > e / [+front,-syl] __ [+cor,+son]
+*#mat͡ʃənˈa# | 132 : [+front,-lo,-stres] > ə / # ( ( @ )* [-prim] ) [-son,cfront,!clab] __ [+cor] ( k ) [+lo]
+Final form : *#mat͡ʃənˈa#

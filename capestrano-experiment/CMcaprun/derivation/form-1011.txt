@@ -1,12 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1011:
-... >>> *#matːˈonə# ( GOLD : #matːˈonə#) :
+... >>> *#dəmˈenɡa# ( GOLD : #dəmˈenəka#) :
 ... 
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
-*#mˌattˈone# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#mˌatːˈone# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#mˌatːˈone#
-Middle Pre-Capestranese stage form : *#mˌatːˈone#
-*#mˌatːˈonə# | 111 : [-stres,-lo] > ə 
-*#matːˈonə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#matːˈonə#
+*#dˌɔmˈɪniːka# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#dˌɔmˈɪnika# | 30 : [+syl] > [-long,-splng] 
+*#dˌɔmˈɪnka# | 58 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#dˌomˈɪnka# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dˌomˈenka# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#dˌomˈenka#
+Middle Pre-Capestranese stage form : *#dˌomˈenka#
+*#dˌomˈenɡa# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#dəmˈenɡa# | 124 : [-prim,-hi,-lo] > ə 
+Final form : *#dəmˈenɡa#

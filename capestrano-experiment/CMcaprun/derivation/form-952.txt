@@ -1,15 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 952:
-#mˈaskulum# >>> *#mˈaskjə# ( GOLD : #mˈaskjə#) :
-m ˈa s k u l u m 
-Proto-Romance stage form : *#mˈaskulum#
-*#mˈaskʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#mˈaskʊlʊm#
-*#mˈasklʊm# | 29 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
-*#mˈasklʊ# | 39 : [+cons] > ∅ / __ #
-*#mˈasklu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˈaskʎu# | 73 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#mˈaskʎu#
-Middle Pre-Capestranese stage form : *#mˈaskʎu#
-*#mˈaskʎə# | 111 : [-stres,-lo] > ə 
-*#mˈaskjə# | 124 : {ʎ;ʎː} > {j;jː} 
-Final form : *#mˈaskjə#
+#mˈandram# >>> *#mˈandɾa# ( GOLD : #mˈandɾa#) :
+m ˈa n d r a m 
+Proto-Romance stage form : *#mˈandram#
+Early Pre-Capestranese stage form : *#mˈandram#
+*#mˈandra# | 39 : [+cons] > ∅ / __ #
+*#mˈanːra# | 66 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#mˈanːra#
+Middle Pre-Capestranese stage form : *#mˈanːra#
+*#mˈanːdra# | 102 : ∅ > d / [+nas,+cor] __ r
+*#mˈandra# | 103 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#mˈandɾa# | 122 : r > ɾ 
+Final form : *#mˈandɾa#

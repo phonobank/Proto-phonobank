@@ -1,17 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 296:
-#jˌuwˈenkum# >>> *#jəvˈeŋɡə# ( GOLD : #jˈɛŋɡə#) :
-j ˌu w ˈe n k u m 
-*#jˌuwˈeŋkum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#jˌuwˈeŋkum#
-*#jˌʊwˈɛŋkʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#jˌʊwˈɛŋkʊm#
-*#jˌʊwˈɛŋkʊ# | 39 : [+cons] > ∅ / __ #
-*#jˌʊvˈɛŋkʊ# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#jˌuvˈɛŋku# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˌuvˈeŋku# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#jˌuvˈeŋku#
-Middle Pre-Capestranese stage form : *#jˌuvˈeŋku#
-*#jˌuvˈeŋkə# | 111 : [-stres,-lo] > ə 
-*#jˌuvˈeŋɡə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#jəvˈeŋɡə# | 122 : ˌu > ə / @ __ [+lab,+strid]
-Final form : *#jəvˈeŋɡə#
+#jˌuːmˈentam# >>> *#jəmˈænda# ( GOLD : #jəmˈenda#) :
+j ˌuː m ˈe n t a m 
+Proto-Romance stage form : *#jˌuːmˈentam#
+*#jˌuːmˈɛntam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#jˌuːmˈɛntam#
+*#jˌumˈɛntam# | 30 : [+syl] > [-long,-splng] 
+*#jəmˈɛntam# | 36 : [-prim] > ə / # j __ [+cons,-front]
+*#jəmˈɛnta# | 39 : [+cons] > ∅ / __ #
+*#jəmˈænta# | 68 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+Proto-South-Italo-Romance stage form : *#jəmˈænta#
+Middle Pre-Capestranese stage form : *#jəmˈænta#
+*#jəmˈænda# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#jəmˈænda#

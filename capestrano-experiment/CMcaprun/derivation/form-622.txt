@@ -1,19 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 622:
-#kwˌiːnkwekˈentum# >>> *#t͡ʃiŋɡwət͡ʃˈendə# ( GOLD : #t͡ʃiŋɡwət͡ʃˈendə#) :
-k w ˌiː n k w e k ˈe n t u m 
-*#kwˌiːŋkwekˈentum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#kwˌiːŋkwekˈentum#
-*#kwˌiːŋkwɛkˈɛntʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌiːŋkwɛkˈɛntʊm# | 16 : k w > k / # __ ( @ )* k w
-Early Pre-Capestranese stage form : *#kˌiːŋkwɛkˈɛntʊm#
-*#t͡ʃˌiːŋkwɛt͡ʃˈɛntʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˌiŋkwɛt͡ʃˈɛntʊm# | 30 : [+syl] > [-long,-splng] 
-*#t͡ʃˌiŋkwɛt͡ʃˈɛntʊ# | 39 : [+cons] > ∅ / __ #
-*#t͡ʃˌiŋkwɛt͡ʃˈɛntu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃˌiŋkwet͡ʃˈentu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#t͡ʃˌiŋkwet͡ʃˈentu#
-Middle Pre-Capestranese stage form : *#t͡ʃˌiŋkwet͡ʃˈentu#
-*#t͡ʃˌiŋkwət͡ʃˈentə# | 111 : [-stres,-lo] > ə 
-*#t͡ʃˌiŋɡwət͡ʃˈendə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#t͡ʃiŋɡwət͡ʃˈendə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#t͡ʃiŋɡwət͡ʃˈendə#
+#kwˌiːnkwaːɡˈintaː# >>> *#t͡ʃiŋɡwajˈenda# ( GOLD : #t͡ʃiŋɡwˈanda#) :
+k w ˌiː n k w aː ɡ ˈi n t aː 
+*#kwˌiːŋkwaːɡˈintaː# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#kwˌiːŋkwaːɡˈintaː#
+*#kwˌiːŋkwaːɡˈɪntaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌiːŋkwaːɡˈɪntaː# | 16 : k w > k / # __ ( @ )* k w
+Early Pre-Capestranese stage form : *#kˌiːŋkwaːɡˈɪntaː#
+*#t͡ʃˌiːŋkwaːjˈɪntaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˌiŋkwajˈɪnta# | 30 : [+syl] > [-long,-splng] 
+*#t͡ʃˌiŋkwajˈenta# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#t͡ʃˌiŋkwajˈenta#
+Middle Pre-Capestranese stage form : *#t͡ʃˌiŋkwajˈenta#
+*#t͡ʃˌiŋɡwajˈenda# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#t͡ʃiŋɡwajˈenda# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#t͡ʃiŋɡwajˈenda#

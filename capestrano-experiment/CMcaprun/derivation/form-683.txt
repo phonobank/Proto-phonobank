@@ -1,16 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 683:
-#wˈoːkem# >>> *#ɡˈot͡ʃə# ( GOLD : #vˈot͡ʃə#) :
-w ˈoː k e m 
-Proto-Romance stage form : *#wˈoːkem#
-*#wˈoːkɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#wˈoːkɛm#
-*#wˈoːt͡ʃɛm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#wˈot͡ʃɛm# | 30 : [+syl] > [-long,-splng] 
-*#wˈot͡ʃɛ# | 39 : [+cons] > ∅ / __ #
-*#vˈot͡ʃɛ# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˈot͡ʃe# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˈot͡ʃe#
-Middle Pre-Capestranese stage form : *#vˈot͡ʃe#
-*#vˈot͡ʃə# | 111 : [-stres,-lo] > ə 
-*#ɡˈot͡ʃə# | 126 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
-Final form : *#ɡˈot͡ʃə#
+#wˈomerem# >>> *#ɡˈomːəɾə# ( GOLD : #vˈɛmbɾə#) :
+w ˈo m e r e m 
+Proto-Romance stage form : *#wˈomerem#
+*#wˈɔmɛrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#wˈɔmɛrɛm#
+*#wˈɔmɛrɛ# | 39 : [+cons] > ∅ / __ #
+*#wˈɔmːɛrɛ# | 42 : m > mː / # ( [+lab] ) [-cons,-lo] __ [+syl] [+cons] [+syl] #
+*#vˈɔmːɛrɛ# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈomːere# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˈomːere#
+Middle Pre-Capestranese stage form : *#vˈomːere#
+*#vˈomːərə# | 111 : [-stres,-lo] > ə 
+*#vˈomːəɾə# | 122 : r > ɾ 
+*#ɡˈomːəɾə# | 127 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+Final form : *#ɡˈomːəɾə#

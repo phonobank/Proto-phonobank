@@ -1,13 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 785:
-#pˈaleam# >>> *#pˈajːa# ( GOLD : #pˈajːa#) :
-p ˈa l e a m 
-*#pˈaliam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
-*#pˈaljam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#pˈaljam#
-Early Pre-Capestranese stage form : *#pˈaljam#
-*#pˈaʎːam# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#pˈaʎːa# | 39 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#pˈaʎːa#
-Middle Pre-Capestranese stage form : *#pˈaʎːa#
-*#pˈajːa# | 124 : {ʎ;ʎː} > {j;jː} 
-Final form : *#pˈajːa#
+#pˌalˈumbam# >>> *#palˈomːa# ( GOLD : #palˈomːa#) :
+p ˌa l ˈu m b a m 
+Proto-Romance stage form : *#pˌalˈumbam#
+*#pˌalˈʊmbam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#pˌalˈʊmbam#
+*#pˌalˈʊmba# | 39 : [+cons] > ∅ / __ #
+*#pˌalˈomba# | 65 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#pˌalˈomːa# | 66 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#pˌalˈomːa#
+Middle Pre-Capestranese stage form : *#pˌalˈomːa#
+*#palˈomːa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#palˈomːa#

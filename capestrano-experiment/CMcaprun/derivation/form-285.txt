@@ -1,15 +1,23 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 285:
-#dˌeːjˌeːjˈuːnum# >>> *#dəjəjˈunə# ( GOLD : #dijˈunə#) :
-d ˌeː j ˌeː j ˈuː n u m 
-Proto-Romance stage form : *#dˌeːjˌeːjˈuːnum#
-*#dˌeːjˌeːjˈuːnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#dˌeːjˌeːjˈuːnʊm#
-*#dˌejˌejˈunʊm# | 30 : [+syl] > [-long,-splng] 
-*#dˌejˌejˈunʊ# | 39 : [+cons] > ∅ / __ #
-*#dˌejˌejˈunu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#dˌejˌejˈunu#
-Middle Pre-Capestranese stage form : *#dˌejˌejˈunu#
-*#dˌejejˈunu# | 109 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#dˌejəjˈunə# | 111 : [-stres,-lo] > ə 
-*#dəjəjˈunə# | 123 : [-prim,-hi,-lo] > ə 
-Final form : *#dəjəjˈunə#
+#jˌaːnuˈaːriu# >>> *#jimːˈaɾə# ( GOLD : #jenːˈaɾə#) :
+j ˌaː n u ˈaː r i u 
+*#jˌaːnuwˈaːriu# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
+*#jˌaːnuwˈaːrju# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#jˌaːnuwˈaːrju#
+*#jˌaːnʊwˈaːrjʊ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#jˌaːnʊwˈaːrjʊ#
+*#jˌanʊwˈarjʊ# | 30 : [+syl] > [-long,-splng] 
+*#jˌanʊwˈarʲʊ# | 32 : r j > rʲ 
+*#jənʊwˈarʲʊ# | 36 : [-prim] > ə / # j __ [+cons,-front]
+*#jənʊvˈarʲʊ# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#jənvˈarʲʊ# | 58 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#jənvˈarʲu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jənvˈarʲu#
+*#jˌinvˈarʲu# | 89 : ə > ˌi / __ n [+cons,+lab,+voi]
+Middle Pre-Capestranese stage form : *#jˌinvˈarʲu#
+*#jˌinvˈaru# | 96 : rʲ > r 
+*#jˌimːˈaru# | 100 : n v > mː 
+*#jˌimːˈarə# | 111 : [-stres,-lo] > ə 
+*#jˌimːˈaɾə# | 122 : r > ɾ 
+*#jimːˈaɾə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#jimːˈaɾə#

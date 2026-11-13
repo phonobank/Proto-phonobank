@@ -1,19 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 866:
-#frˌankˈiskum# >>> *#fɾand͡ʒˈiskə# ( GOLD : #fɾanʃˈiskə#) :
-f r ˌa n k ˈi s k u m 
-*#frˌaŋkˈiskum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#frˌaŋkˈiskum#
-*#frˌaŋkˈɪskʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#frˌaŋkˈɪskʊm#
-*#frˌant͡ʃˈɪskʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#frˌant͡ʃˈiːskʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#frˌant͡ʃˈiskʊm# | 30 : [+syl] > [-long,-splng] 
-*#frˌant͡ʃˈiskʊ# | 39 : [+cons] > ∅ / __ #
-*#frˌant͡ʃˈisku# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#frˌant͡ʃˈisku#
-Middle Pre-Capestranese stage form : *#frˌant͡ʃˈisku#
-*#frˌant͡ʃˈiskə# | 111 : [-stres,-lo] > ə 
-*#frˌand͡ʒˈiskə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#fɾˌand͡ʒˈiskə# | 121 : r > ɾ 
-*#fɾand͡ʒˈiskə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#fɾand͡ʒˈiskə#
+#frˌaːktiˈoːnem# >>> *#fɾat͡sjˈonə# ( GOLD : #fɾat͡sːjˈonə#) :
+f r ˌaː k t i ˈoː n e m 
+*#frˌaːktjˈoːnem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#frˌaːktjˈoːnem#
+*#frˌaːktjˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#frˌaːktjˈoːnɛm#
+*#frˌaːktʲːˈoːnɛm# | 23 : t j > tʲː 
+*#frˌaːt͡ʃːˈoːnɛm# | 24 : [-cont] tʲː > t͡ʃː
+*#frˌat͡ʃːˈonɛm# | 30 : [+syl] > [-long,-splng] 
+*#frˌat͡ʃːˈonɛ# | 39 : [+cons] > ∅ / __ #
+*#frˌat͡ʃːˈone# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#frˌat͡sjˈone# | 82 : t͡ʃː > t͡s j / __ [+round]
+Proto-South-Italo-Romance stage form : *#frˌat͡sjˈone#
+Middle Pre-Capestranese stage form : *#frˌat͡sjˈone#
+*#frˌat͡sjˈonə# | 111 : [-stres,-lo] > ə 
+*#fɾˌat͡sjˈonə# | 122 : r > ɾ 
+*#fɾat͡sjˈonə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#fɾat͡sjˈonə#

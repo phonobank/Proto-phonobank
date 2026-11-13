@@ -1,15 +1,9 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 491:
-#kˌaldˈaːriam# >>> *#kaldˈaɾa# ( GOLD : #kalːˈaɾa#) :
-k ˌa l d ˈaː r i a m 
-*#kˌaldˈaːrjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌaldˈaːrjam#
-Early Pre-Capestranese stage form : *#kˌaldˈaːrjam#
-*#kˌaldˈarjam# | 30 : [+syl] > [-long,-splng] 
-*#kˌaldˈarʲam# | 32 : r j > rʲ 
-*#kˌaldˈarʲa# | 39 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#kˌaldˈarʲa#
-Middle Pre-Capestranese stage form : *#kˌaldˈarʲa#
-*#kˌaldˈara# | 96 : rʲ > r 
-*#kˌaldˈaɾa# | 121 : r > ɾ 
-*#kaldˈaɾa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kaldˈaɾa#
+#kˈaldam# >>> *#kˈalda# ( GOLD : #kˈalːa#) :
+k ˈa l d a m 
+Proto-Romance stage form : *#kˈaldam#
+Early Pre-Capestranese stage form : *#kˈaldam#
+*#kˈalda# | 39 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˈalda#
+Middle Pre-Capestranese stage form : *#kˈalda#
+Final form : *#kˈalda#

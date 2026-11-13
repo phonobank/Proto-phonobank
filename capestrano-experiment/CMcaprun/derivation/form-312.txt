@@ -1,21 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 312:
-#ˌinfˈernum# >>> *#mbˈeɾnə# ( GOLD : #mvˈɛɾnə#) :
-ˌi n f ˈe r n u m 
-*#ˌimfˈernum# | 0 : n > m / __ [+lab,+cons]
-Proto-Romance stage form : *#ˌimfˈernum#
-*#ˌɪmfˈɛrnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌɪmfˈɛrnʊm#
-*#ˌiːmfˈɛrnʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌimfˈɛrnʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˌimfˈɛrnʊ# | 39 : [+cons] > ∅ / __ #
-*#ˌimfˈɛrnu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌimfˈernu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌimfˈernu#
-*#əmfˈernu# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#mfˈernu# | 91 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#mfˈernu#
-*#mfˈernə# | 111 : [-stres,-lo] > ə 
-*#mb͡vˈernə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbˈernə# | 114 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
-*#mbˈeɾnə# | 121 : r > ɾ 
-Final form : *#mbˈeɾnə#
+#ˌiːnfantˈiːlem# >>> *#mbandˈilə# ( GOLD : #mbandˈilə#) :
+ˌiː n f a n t ˈiː l e m 
+*#ˌiːmfantˈiːlem# | 0 : n > m / __ [+lab,+cons]
+Proto-Romance stage form : *#ˌiːmfantˈiːlem#
+*#ˌiːmfantˈiːlɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌiːmfantˈiːlɛm#
+*#ˌimfantˈilɛm# | 30 : [+syl] > [-long,-splng] 
+*#ˌimfantˈilɛ# | 39 : [+cons] > ∅ / __ #
+*#ˌimfantˈile# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌimfantˈile#
+*#əmfantˈile# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#mfantˈile# | 91 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#mfantˈile#
+*#mfantˈilə# | 111 : [-stres,-lo] > ə 
+*#mb͡vandˈilə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbandˈilə# | 114 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+Final form : *#mbandˈilə#

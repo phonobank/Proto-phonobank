@@ -1,22 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 608:
-#ɡˌenˈukulum# >>> *#jenˈokːjə# ( GOLD : #jenˈokːjə#) :
-ɡ ˌe n ˈu k u l u m 
-Proto-Romance stage form : *#ɡˌenˈukulum#
-*#ɡˌɛnˈʊkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˌɛnˈʊkʊlʊm# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˌɛnˈʊkʊlʊm# | 19 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-Early Pre-Capestranese stage form : *#ɡˌɛnˈʊkʊlʊm#
-*#jˌɛnˈʊkʊlʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#jˌɛnˈʊklʊm# | 29 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
-*#jənˈʊklʊm# | 36 : [-prim] > ə / # j __ [+cons,-front]
-*#jənˈʊklʊ# | 39 : [+cons] > ∅ / __ #
-*#jənˈʊklu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jənˈoklu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#jənˈokʎu# | 73 : l > ʎ / [-son,-cor] __
-*#jənˈokːʎu# | 75 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
-Proto-South-Italo-Romance stage form : *#jənˈokːʎu#
-Middle Pre-Capestranese stage form : *#jənˈokːʎu#
-*#jənˈokːʎə# | 111 : [-stres,-lo] > ə 
-*#jənˈokːjə# | 124 : {ʎ;ʎː} > {j;jː} 
-*#jenˈokːjə# | 129 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#jenˈokːjə#
+#ɡˌelˈaː# >>> *#jelˈa# ( GOLD : #jelˈa#) :
+ɡ ˌe l ˈaː 
+Proto-Romance stage form : *#ɡˌelˈaː#
+*#ɡˌɛlˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˌɛlˈaː# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛlˈaː# | 19 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+Early Pre-Capestranese stage form : *#ɡˌɛlˈaː#
+*#jˌɛlˈaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#jˌɛlˈa# | 30 : [+syl] > [-long,-splng] 
+*#jəlˈa# | 36 : [-prim] > ə / # j __ [+cons,-front]
+Proto-South-Italo-Romance stage form : *#jəlˈa#
+Middle Pre-Capestranese stage form : *#jəlˈa#
+*#jelˈa# | 130 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#jelˈa#

@@ -1,15 +1,20 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 425:
-#ˌamyɡdˈalam# >>> *#amədːˈala# ( GOLD : #amːˈalːa#) :
-ˌa m y ɡ d ˈa l a m 
-Proto-Romance stage form : *#ˌamyɡdˈalam#
-*#ˌamiɡdˈalam# | 14 : [+front] > [-lab,-round] 
-*#ˌamɪɡdˈalam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌamɪɡdˈalam#
-*#ˌamɪdːˈalam# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌamɪdːˈala# | 39 : [+cons] > ∅ / __ #
-*#ˌamedːˈala# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌamedːˈala#
-Middle Pre-Capestranese stage form : *#ˌamedːˈala#
-*#ˌamədːˈala# | 111 : [-stres,-lo] > ə 
-*#amədːˈala# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#amədːˈala#
+#hˌirˈundinellam# >>> *#ɾˈonːælːa# ( GOLD : #ɾˈenːəla#) :
+h ˌi r ˈu n d i n e l l a m 
+*#ˌirˈundinellam# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˌirˈundinellam#
+*#ˌɪrˈʊndɪnɛllam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɪrˈʊndɪnɛllam#
+*#ˌɪrˈʊndɪnɛlla# | 39 : [+cons] > ∅ / __ #
+*#ˌɪrˈʊndnɛlla# | 58 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#ˌerˈʊndnɛlla# | 61 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌerˈʊnːnɛlla# | 66 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˌerˈʊnːnælla# | 68 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌerˈonːnælla# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌerˈonːælːa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#ˌerˈonːælːa#
+*#ərˈonːælːa# | 87 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#rˈonːælːa# | 91 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#rˈonːælːa#
+*#ɾˈonːælːa# | 122 : r > ɾ 
+Final form : *#ɾˈonːælːa#

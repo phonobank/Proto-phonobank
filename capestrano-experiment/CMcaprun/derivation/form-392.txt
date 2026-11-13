@@ -1,18 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 392:
-#ˌakwˈaːrium# >>> *#akwˈaɾə# ( GOLD : #akːwˈaɾə#) :
-ˌa k w ˈaː r i u m 
-*#ˌakwˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#ˌakwˈaːrjum#
-*#ˌakwˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌakwˈaːrjʊm#
-*#ˌakwˈarjʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˌakwˈarʲʊm# | 32 : r j > rʲ 
-*#ˌakwˈarʲʊ# | 39 : [+cons] > ∅ / __ #
-*#ˌakwˈarʲu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌakwˈarʲu#
-Middle Pre-Capestranese stage form : *#ˌakwˈarʲu#
-*#ˌakwˈaru# | 96 : rʲ > r 
-*#ˌakwˈarə# | 111 : [-stres,-lo] > ə 
-*#ˌakwˈaɾə# | 121 : r > ɾ 
-*#akwˈaɾə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#akwˈaɾə#
+#ˈakwam# >>> *#ˈakwa# ( GOLD : #ˈakːwə#) :
+ˈa k w a m 
+Proto-Romance stage form : *#ˈakwam#
+Early Pre-Capestranese stage form : *#ˈakwam#
+*#ˈakwa# | 39 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈakwa#
+Middle Pre-Capestranese stage form : *#ˈakwa#
+*#ˈakwˌa# | 110 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈakwa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈakwa#

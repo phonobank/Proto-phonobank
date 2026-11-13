@@ -1,22 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 887:
-#fˌerrˈaːrium# >>> *#fərːˈaɾə# ( GOLD : #fərːˈaɾə#) :
-f ˌe r r ˈaː r i u m 
-*#fˌerrˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#fˌerrˈaːrjum#
-*#fˌɛrrˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#fˌɛrrˈaːrjʊm#
-*#fˌɛrrˈarjʊm# | 30 : [+syl] > [-long,-splng] 
-*#fˌɛrrˈarʲʊm# | 32 : r j > rʲ 
-*#fˌɛrrˈarʲʊ# | 39 : [+cons] > ∅ / __ #
-*#fˌerrˈarʲʊ# | 61 : [+stres,-prim,+front,-tense] > ˌe 
-*#fˌerrˈarʲu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#fˌerːˈarʲu# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#fˌerːˈarʲu#
-Middle Pre-Capestranese stage form : *#fˌerːˈarʲu#
-*#fˌerːˈaru# | 96 : rʲ > r 
-*#fˌerːˈarə# | 111 : [-stres,-lo] > ə 
-*#fˌerːˈaɾə# | 121 : r > ɾ 
-*#fərːˈaɾə# | 123 : [-prim,-hi,-lo] > ə 
-*#ferːˈaɾə# | 130 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
-*#fərːˈaɾə# | 131 : [+front,-lo,-stres] > ə / # ( ( @ )* [-prim] ) [-son,cfront,!clab] __ [+cor] ( k ) [+lo]
-Final form : *#fərːˈaɾə#
+#fˈerrum# >>> *#fˈerːə# ( GOLD : #fˈerːə#) :
+f ˈe r r u m 
+Proto-Romance stage form : *#fˈerrum#
+*#fˈɛrrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#fˈɛrrʊm#
+*#fˈɛrrʊ# | 39 : [+cons] > ∅ / __ #
+*#fˈɛrru# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fˈerru# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˈerːu# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#fˈerːu#
+Middle Pre-Capestranese stage form : *#fˈerːu#
+*#fˈerːə# | 111 : [-stres,-lo] > ə 
+Final form : *#fˈerːə#

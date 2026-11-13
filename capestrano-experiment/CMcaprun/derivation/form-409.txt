@@ -1,17 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 409:
-#ˌapplˌikˈaː# >>> *#apːjikˈa# ( GOLD : #apːjəkˈa#) :
-ˌa p p l ˌi k ˈaː 
-Proto-Romance stage form : *#ˌapplˌikˈaː#
-*#ˌapplˌɪkˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌapplˌɪkˈaː#
-*#ˌapplˌiːkˈaː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌapplˌikˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌapːlˌikˈa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-*#ˌapːʎˌikˈa# | 73 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌapːʎˌikˈa#
-Middle Pre-Capestranese stage form : *#ˌapːʎˌikˈa#
-*#ˌapːʎikˈa# | 109 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌapːʎˌikˈa# | 110 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌapːjˌikˈa# | 124 : {ʎ;ʎː} > {j;jː} 
-*#apːjikˈa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#apːjikˈa#
+#ˌapprˌetiˈaː# >>> *#apːɾət͡sːˈa# ( GOLD : #apːɾət͡sːˈa#) :
+ˌa p p r ˌe t i ˈaː 
+*#ˌapprˌetjˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌapprˌetjˈaː#
+*#ˌapprˌɛtjˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌapprˌɛtjˈaː#
+*#ˌapprˌɛtʲːˈaː# | 23 : t j > tʲː 
+*#ˌapprˌɛtʲːˈa# | 30 : [+syl] > [-long,-splng] 
+*#ˌapprˌɛt͡sːˈa# | 31 : tʲː > t͡sː 
+*#ˌapprˌet͡sːˈa# | 61 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌapːrˌet͡sːˈa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#ˌapːrˌet͡sːˈa#
+Middle Pre-Capestranese stage form : *#ˌapːrˌet͡sːˈa#
+*#ˌapːret͡sːˈa# | 109 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌapːrət͡sːˈa# | 111 : [-stres,-lo] > ə 
+*#ˌapːɾət͡sːˈa# | 122 : r > ɾ 
+*#apːɾət͡sːˈa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#apːɾət͡sːˈa#

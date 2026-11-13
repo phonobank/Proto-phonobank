@@ -1,17 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 302:
-#ˌinsˈimula# >>> *#nd͡zˈiməla# ( GOLD : #nd͡zˈɛmbɾa#) :
-ˌi n s ˈi m u l a 
-Proto-Romance stage form : *#ˌinsˈimula#
-*#ˌɪnsˈɪmʊla# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌɪnsˈɪmʊla#
-*#ˌɪnsˈiːmʊla# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌɪnsˈimʊla# | 30 : [+syl] > [-long,-splng] 
-*#ˌensˈimʊla# | 61 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌensˈimula# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌensˈimula#
-*#ənsˈimula# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#nsˈimula# | 91 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#nsˈimula#
-*#nsˈiməla# | 111 : [-stres,-lo] > ə 
-*#nd͡zˈiməla# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#nd͡zˈiməla#
+#ˌinimˈiːkum# >>> *#nəmˈikə# ( GOLD : #nəmːˈikə#) :
+ˌi n i m ˈiː k u m 
+Proto-Romance stage form : *#ˌinimˈiːkum#
+*#ˌɪnɪmˈiːkʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɪnɪmˈiːkʊm#
+*#ˌɪniːmˈiːkʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌɪnimˈikʊm# | 30 : [+syl] > [-long,-splng] 
+*#ˌɪnimˈikʊ# | 39 : [+cons] > ∅ / __ #
+*#ˌenimˈikʊ# | 61 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenimˈiku# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌenimˈiku#
+*#ənimˈiku# | 87 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#nimˈiku# | 91 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#nimˈiku#
+*#nəmˈikə# | 111 : [-stres,-lo] > ə 
+Final form : *#nəmˈikə#

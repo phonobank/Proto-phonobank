@@ -1,15 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 526:
-#kˌabˈalliː# >>> *#kavˈajːə# ( GOLD : #kævˈæjːə#) :
-k ˌa b ˈa l l iː 
-Proto-Romance stage form : *#kˌabˈalliː#
-Early Pre-Capestranese stage form : *#kˌabˈalliː#
-*#kˌabˈalli# | 30 : [+syl] > [-long,-splng] 
-*#kˌabˈalːi# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-*#kˌavˈalːi# | 77 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#kˌavˈalːi#
-Middle Pre-Capestranese stage form : *#kˌavˈalːi#
-*#kˌavˈaʎːi# | 98 : lː > ʎː / __ [+hi]
-*#kˌavˈaʎːə# | 111 : [-stres,-lo] > ə 
-*#kˌavˈajːə# | 124 : {ʎ;ʎː} > {j;jː} 
-*#kavˈajːə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kavˈajːə#
+#kˌaballˈiːnam# >>> *#kavajːˈina# ( GOLD : #kavajːˈina#) :
+k ˌa b a l l ˈiː n a m 
+Proto-Romance stage form : *#kˌaballˈiːnam#
+Early Pre-Capestranese stage form : *#kˌaballˈiːnam#
+*#kˌaballˈinam# | 30 : [+syl] > [-long,-splng] 
+*#kˌaballˈina# | 39 : [+cons] > ∅ / __ #
+*#kˌabalːˈina# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#kˌavalːˈina# | 77 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#kˌavalːˈina#
+Middle Pre-Capestranese stage form : *#kˌavalːˈina#
+*#kˌavaʎːˈina# | 98 : lː > ʎː / __ [+hi]
+*#kˌavajːˈina# | 125 : {ʎ;ʎː} > {j;jː} 
+*#kavajːˈina# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kavajːˈina#

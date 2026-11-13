@@ -1,18 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 959:
-#mˈaːrtium# >>> *#mˈaɾt͡sə# ( GOLD : #mˈaɾt͡sə#) :
-m ˈaː r t i u m 
-*#mˈaːrtjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#mˈaːrtjum#
-*#mˈaːrtjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#mˈaːrtjʊm#
-*#mˈaːrtʲːʊm# | 23 : t j > tʲː 
-*#mˈartʲːʊm# | 30 : [+syl] > [-long,-splng] 
-*#mˈart͡sːʊm# | 31 : tʲː > t͡sː 
-*#mˈart͡sːʊ# | 39 : [+cons] > ∅ / __ #
-*#mˈart͡sːu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈart͡sːu#
-Middle Pre-Capestranese stage form : *#mˈart͡sːu#
-*#mˈart͡su# | 103 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#mˈart͡sə# | 111 : [-stres,-lo] > ə 
-*#mˈaɾt͡sə# | 121 : r > ɾ 
-Final form : *#mˈaɾt͡sə#
+#mˌartˈellum# >>> *#maɾtˈejːə# ( GOLD : #maɾtˈejːə#) :
+m ˌa r t ˈe l l u m 
+Proto-Romance stage form : *#mˌartˈellum#
+*#mˌartˈɛllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˌartˈɛllʊm#
+*#mˌartˈɛllʊ# | 39 : [+cons] > ∅ / __ #
+*#mˌartˈɛllu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˌartˈellu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˌartˈelːu# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#mˌartˈelːu#
+Middle Pre-Capestranese stage form : *#mˌartˈelːu#
+*#mˌartˈeʎːu# | 98 : lː > ʎː / __ [+hi]
+*#mˌartˈeʎːə# | 111 : [-stres,-lo] > ə 
+*#mˌaɾtˈeʎːə# | 122 : r > ɾ 
+*#mˌaɾtˈejːə# | 125 : {ʎ;ʎː} > {j;jː} 
+*#maɾtˈejːə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#maɾtˈejːə#

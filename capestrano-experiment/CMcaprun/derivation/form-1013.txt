@@ -1,12 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1013:
-... >>> *#mˈanɡa# ( GOLD : #mˈanika#) :
+... >>> *#ɾəsˈaɾa# ( GOLD : #ɾusˈaɾja#) :
 ... 
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
-*#mˈaniːka# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#mˈanika# | 30 : [+syl] > [-long,-splng] 
-*#mˈanka# | 58 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
-Proto-South-Italo-Romance stage form : *#mˈanka#
-Middle Pre-Capestranese stage form : *#mˈanka#
-*#mˈanɡa# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#mˈanɡa#
+*#rˌɔsˈarʲa# | 32 : r j > rʲ 
+*#rˌosˈarʲa# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#rˌosˈarʲa#
+Middle Pre-Capestranese stage form : *#rˌosˈarʲa#
+*#rˌosˈara# | 96 : rʲ > r 
+*#ɾˌosˈaɾa# | 122 : r > ɾ 
+*#ɾəsˈaɾa# | 124 : [-prim,-hi,-lo] > ə 
+Final form : *#ɾəsˈaɾa#

@@ -1,13 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 476:
-#kˈattum# >>> *#kˈatːə# ( GOLD : #ɡˈatːə#) :
-k ˈa t t u m 
-Proto-Romance stage form : *#kˈattum#
-*#kˈattʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˈattʊm#
-*#kˈattʊ# | 39 : [+cons] > ∅ / __ #
-*#kˈattu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˈatːu# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#kˈatːu#
-Middle Pre-Capestranese stage form : *#kˈatːu#
-*#kˈatːə# | 111 : [-stres,-lo] > ə 
-Final form : *#kˈatːə#
+#kˌatˈeːnam# >>> *#katˈena# ( GOLD : #katˈena#) :
+k ˌa t ˈeː n a m 
+Proto-Romance stage form : *#kˌatˈeːnam#
+Early Pre-Capestranese stage form : *#kˌatˈeːnam#
+*#kˌatˈenam# | 30 : [+syl] > [-long,-splng] 
+*#kˌatˈena# | 39 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˌatˈena#
+Middle Pre-Capestranese stage form : *#kˌatˈena#
+*#katˈena# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#katˈena#

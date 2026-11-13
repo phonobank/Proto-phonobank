@@ -1,14 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 969:
-#mˈakulam# >>> *#mˈakːja# ( GOLD : #mˈakːja#) :
-m ˈa k u l a m 
-Proto-Romance stage form : *#mˈakulam#
-*#mˈakʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#mˈakʊlam#
-*#mˈaklam# | 29 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
-*#mˈakla# | 39 : [+cons] > ∅ / __ #
-*#mˈakʎa# | 73 : l > ʎ / [-son,-cor] __
-*#mˈakːʎa# | 75 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
-Proto-South-Italo-Romance stage form : *#mˈakːʎa#
-Middle Pre-Capestranese stage form : *#mˈakːʎa#
-*#mˈakːja# | 124 : {ʎ;ʎː} > {j;jː} 
-Final form : *#mˈakːja#
+#mˈammam# >>> *#mˈamːa# ( GOLD : #mˈamːa#) :
+m ˈa m m a m 
+Proto-Romance stage form : *#mˈammam#
+Early Pre-Capestranese stage form : *#mˈammam#
+*#mˈamma# | 39 : [+cons] > ∅ / __ #
+*#mˈamːa# | 66 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#mˈamːa#
+Middle Pre-Capestranese stage form : *#mˈamːa#
+Final form : *#mˈamːa#

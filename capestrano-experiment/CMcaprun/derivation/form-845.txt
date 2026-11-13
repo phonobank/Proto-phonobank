@@ -1,18 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 845:
-#bˌotˈellum# >>> *#betˈejːə# ( GOLD : #ɡudˈejːə#) :
-b ˌo t ˈe l l u m 
-Proto-Romance stage form : *#bˌotˈellum#
-*#bˌɔtˈɛllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#bˌɔtˈɛllʊm#
-*#bˌɔtˈɛllʊ# | 39 : [+cons] > ∅ / __ #
-*#bˌotˈɛllu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#bˌotˈellu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#bˌotˈelːu# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#bˌotˈelːu#
-Middle Pre-Capestranese stage form : *#bˌotˈelːu#
-*#bˌotˈeʎːu# | 98 : lː > ʎː / __ [+hi]
-*#bˌotˈeʎːə# | 111 : [-stres,-lo] > ə 
-*#bətˈeʎːə# | 123 : [-prim,-hi,-lo] > ə 
-*#bətˈejːə# | 124 : {ʎ;ʎː} > {j;jː} 
-*#betˈejːə# | 130 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
-Final form : *#betˈejːə#
+#bˈonam# >>> *#ɡˈona# ( GOLD : #bːˈona#) :
+b ˈo n a m 
+Proto-Romance stage form : *#bˈonam#
+*#bˈɔnam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#bˈɔnam#
+*#bˈɔna# | 39 : [+cons] > ∅ / __ #
+*#bˈona# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#bˈona#
+Middle Pre-Capestranese stage form : *#bˈona#
+*#vˈona# | 119 : b > v / # __ [+prim,+round] [+cons] [+syl]
+*#ɡˈona# | 127 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+Final form : *#ɡˈona#

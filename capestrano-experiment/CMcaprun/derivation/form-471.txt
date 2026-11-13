@@ -1,23 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 471:
-#kˌerebˈellum# >>> *#t͡ʃeɾvˈejːə# ( GOLD : #t͡ʃeɾvˈejːə#) :
-k ˌe r e b ˈe l l u m 
-Proto-Romance stage form : *#kˌerebˈellum#
-*#kˌɛrɛbˈɛllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌɛrɛbˈɛllʊm#
-*#t͡ʃˌɛrɛbˈɛllʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˌɛrɛbˈɛllʊ# | 39 : [+cons] > ∅ / __ #
-*#t͡ʃˌɛrbˈɛllʊ# | 45 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
-*#t͡ʃˌerbˈɛllʊ# | 61 : [+stres,-prim,+front,-tense] > ˌe 
-*#t͡ʃˌerbˈɛllu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃˌerbˈellu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃˌerbˈelːu# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-*#t͡ʃˌervˈelːu# | 78 : b > v / [+syl,alo,!atense] r __
-Proto-South-Italo-Romance stage form : *#t͡ʃˌervˈelːu#
-Middle Pre-Capestranese stage form : *#t͡ʃˌervˈelːu#
-*#t͡ʃˌervˈeʎːu# | 98 : lː > ʎː / __ [+hi]
-*#t͡ʃˌervˈeʎːə# | 111 : [-stres,-lo] > ə 
-*#t͡ʃˌeɾvˈeʎːə# | 121 : r > ɾ 
-*#t͡ʃəɾvˈeʎːə# | 123 : [-prim,-hi,-lo] > ə 
-*#t͡ʃəɾvˈejːə# | 124 : {ʎ;ʎː} > {j;jː} 
-*#t͡ʃeɾvˈejːə# | 129 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#t͡ʃeɾvˈejːə#
+#kˈeːra# >>> *#t͡ʃˈeɾa# ( GOLD : #t͡ʃˈæɾa#) :
+k ˈeː r a 
+Proto-Romance stage form : *#kˈeːra#
+Early Pre-Capestranese stage form : *#kˈeːra#
+*#t͡ʃˈeːra# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˈera# | 30 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#t͡ʃˈera#
+Middle Pre-Capestranese stage form : *#t͡ʃˈera#
+*#t͡ʃˈeɾa# | 122 : r > ɾ 
+Final form : *#t͡ʃˈeɾa#

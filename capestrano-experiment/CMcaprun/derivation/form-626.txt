@@ -1,15 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 626:
-#kwˈattuor# >>> *#kwˈatːə# ( GOLD : #kwˈatːɾə#) :
-k w ˈa t t u o r 
-*#kwˈattwor# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kwˈattwor#
-*#kwˈattwɔr# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kwˈattwɔr#
-*#kwˈattwɔ# | 39 : [+cons] > ∅ / __ #
-*#kwˈattɔ# | 56 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#kwˈatto# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kwˈatːo# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#kwˈatːo#
-Middle Pre-Capestranese stage form : *#kwˈatːo#
-*#kwˈatːə# | 111 : [-stres,-lo] > ə 
-Final form : *#kwˈatːə#
+#kwˌattuˈordeki# >>> *#kwatːˈoɾdet͡ʃə# ( GOLD : #kwatːˈoɾdet͡ʃə#) :
+k w ˌa t t u ˈo r d e k i 
+*#kwˌattwˈordeki# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kwˌattwˈordeki#
+*#kwˌattwˈɔrdɛkɪ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kwˌattwˈɔrdɛkɪ#
+*#kwˌattwˈɔrdɛt͡ʃɪ# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#kwˌattˈɔrdɛt͡ʃɪ# | 56 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
+*#kwˌattˈordet͡ʃe# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kwˌatːˈordet͡ʃe# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#kwˌatːˈordet͡ʃe#
+Middle Pre-Capestranese stage form : *#kwˌatːˈordet͡ʃe#
+*#kwˌatːˈordət͡ʃə# | 111 : [-stres,-lo] > ə 
+*#kwˌatːˈoɾdət͡ʃə# | 122 : r > ɾ 
+*#kwatːˈoɾdət͡ʃə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+*#kwatːˈoɾdet͡ʃə# | 133 : ə > e / [+cor] __ t͡ʃ
+Final form : *#kwatːˈoɾdet͡ʃə#

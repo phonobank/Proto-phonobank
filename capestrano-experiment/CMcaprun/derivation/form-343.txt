@@ -1,20 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 343:
-#ˌekswˌiɡilˈaː# >>> *#sːwijelˈa# ( GOLD : #zbijːˈa#) :
-ˌe k s w ˌi ɡ i l ˈaː 
-Proto-Romance stage form : *#ˌekswˌiɡilˈaː#
-*#ˌɛkswˌɪɡɪlˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌɛkswˌɪɡɪlˈaː#
-*#ˌɛkswˌɪjɪlˈaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#ˌɛsːwˌɪjɪlˈaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɛsːwˌiːjɪlˈaː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌɛsːwˌijɪlˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌesːwˌijɪlˈa# | 61 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌesːwˌijelˈa# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌesːwˌijelˈa#
-*#əsːwˌijelˈa# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#sːwˌijelˈa# | 91 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#sːwˌijelˈa#
-*#sːwˌijəlˈa# | 111 : [-stres,-lo] > ə 
-*#sːwijəlˈa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-*#sːwijelˈa# | 129 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#sːwijelˈa#
+#ˌeksplˌaːnˈaː# >>> *#spjanˈa# ( GOLD : #spjanˈa#) :
+ˌe k s p l ˌaː n ˈaː 
+Proto-Romance stage form : *#ˌeksplˌaːnˈaː#
+*#ˌɛksplˌaːnˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɛksplˌaːnˈaː#
+*#ˌɛsːplˌaːnˈaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛsːplˌanˈa# | 30 : [+syl] > [-long,-splng] 
+*#ˌesːplˌanˈa# | 61 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌesːpʎˌanˈa# | 73 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#ˌesːpʎˌanˈa#
+*#əsːpʎˌanˈa# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#sːpʎˌanˈa# | 91 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#sːpʎˌanˈa#
+*#spʎˌanˈa# | 103 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#spjˌanˈa# | 125 : {ʎ;ʎː} > {j;jː} 
+*#spjanˈa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#spjanˈa#

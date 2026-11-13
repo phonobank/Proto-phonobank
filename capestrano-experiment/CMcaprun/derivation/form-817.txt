@@ -1,9 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 817:
-#pˈuːpa# >>> *#pˈupa# ( GOLD : #pˈupa#) :
-p ˈuː p a 
-Proto-Romance stage form : *#pˈuːpa#
-Early Pre-Capestranese stage form : *#pˈuːpa#
-*#pˈupa# | 30 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#pˈupa#
-Middle Pre-Capestranese stage form : *#pˈupa#
-Final form : *#pˈupa#
+#blˌaspheːmˈaː# >>> *#bjaspəmˈa# ( GOLD : #bjastəmˈa#) :
+b l ˌa s p h eː m ˈaː 
+*#blˌaspeːmˈaː# | 4 : h > ∅ 
+Proto-Romance stage form : *#blˌaspeːmˈaː#
+Early Pre-Capestranese stage form : *#blˌaspeːmˈaː#
+*#blˌaspemˈa# | 30 : [+syl] > [-long,-splng] 
+*#bʎˌaspemˈa# | 73 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#bʎˌaspemˈa#
+Middle Pre-Capestranese stage form : *#bʎˌaspemˈa#
+*#bʎˌaspəmˈa# | 111 : [-stres,-lo] > ə 
+*#bjˌaspəmˈa# | 125 : {ʎ;ʎː} > {j;jː} 
+*#bjaspəmˈa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#bjaspəmˈa#

@@ -1,18 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 508:
-#kˌarbonˈaːrium# >>> *#kaɾbənˈaɾə# ( GOLD : #kaɾbonˈaɾə#) :
-k ˌa r b o n ˈaː r i u m 
-*#kˌarbonˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌarbonˈaːrjum#
-*#kˌarbɔnˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌarbɔnˈaːrjʊm#
-*#kˌarbɔnˈarjʊm# | 30 : [+syl] > [-long,-splng] 
-*#kˌarbɔnˈarʲʊm# | 32 : r j > rʲ 
-*#kˌarbɔnˈarʲʊ# | 39 : [+cons] > ∅ / __ #
-*#kˌarbonˈarʲu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌarbonˈarʲu#
-Middle Pre-Capestranese stage form : *#kˌarbonˈarʲu#
-*#kˌarbonˈaru# | 96 : rʲ > r 
-*#kˌarbənˈarə# | 111 : [-stres,-lo] > ə 
-*#kˌaɾbənˈaɾə# | 121 : r > ɾ 
-*#kaɾbənˈaɾə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kaɾbənˈaɾə#
+#kˈae̯lum# >>> *#t͡ʃˈelə# ( GOLD : #t͡ʃˈelə#) :
+k ˈa e̯ l u m 
+*#kˈɛːlum# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
+Proto-Romance stage form : *#kˈɛːlum#
+*#kˈɛːlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˈɛːlʊm#
+*#t͡ʃˈɛːlʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˈɛlʊm# | 30 : [+syl] > [-long,-splng] 
+*#t͡ʃˈɛlʊ# | 39 : [+cons] > ∅ / __ #
+*#t͡ʃˈɛlu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˈelu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#t͡ʃˈelu#
+Middle Pre-Capestranese stage form : *#t͡ʃˈelu#
+*#t͡ʃˈelə# | 111 : [-stres,-lo] > ə 
+Final form : *#t͡ʃˈelə#

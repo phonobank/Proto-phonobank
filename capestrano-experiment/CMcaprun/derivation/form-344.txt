@@ -1,18 +1,21 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 344:
-#ˌeksplˌaːnˈaː# >>> *#spjanˈa# ( GOLD : #spjanˈa#) :
-ˌe k s p l ˌaː n ˈaː 
-Proto-Romance stage form : *#ˌeksplˌaːnˈaː#
-*#ˌɛksplˌaːnˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌɛksplˌaːnˈaː#
-*#ˌɛsːplˌaːnˈaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɛsːplˌanˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌesːplˌanˈa# | 61 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌesːpʎˌanˈa# | 73 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌesːpʎˌanˈa#
-*#əsːpʎˌanˈa# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#sːpʎˌanˈa# | 91 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#sːpʎˌanˈa#
-*#spʎˌanˈa# | 103 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#spjˌanˈa# | 124 : {ʎ;ʎː} > {j;jː} 
-*#spjanˈa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#spjanˈa#
+#ˌekspˌoliˈaː# >>> *#spujːˈa# ( GOLD : #spijːˈa#) :
+ˌe k s p ˌo l i ˈaː 
+*#ˌekspˌoljˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌekspˌoljˈaː#
+*#ˌɛkspˌɔljˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɛkspˌɔljˈaː#
+*#ˌɛsːpˌɔljˈaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛsːpˌɔljˈa# | 30 : [+syl] > [-long,-splng] 
+*#ˌɛsːpˌɔʎːˈa# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#ˌesːpˌɔʎːˈa# | 61 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌesːpˌoʎːˈa# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌesːpˌoʎːˈa#
+*#əsːpˌoʎːˈa# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#sːpˌoʎːˈa# | 91 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#sːpˌoʎːˈa#
+*#spˌoʎːˈa# | 103 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#spˌuʎːˈa# | 108 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#spˌujːˈa# | 125 : {ʎ;ʎː} > {j;jː} 
+*#spujːˈa# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#spujːˈa#

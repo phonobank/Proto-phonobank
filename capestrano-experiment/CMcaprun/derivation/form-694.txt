@@ -1,11 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 694:
-#ˈuːwam# >>> *#ˈuva# ( GOLD : #ˈuva#) :
-ˈuː w a m 
-Proto-Romance stage form : *#ˈuːwam#
-Early Pre-Capestranese stage form : *#ˈuːwam#
-*#ˈuwam# | 30 : [+syl] > [-long,-splng] 
-*#ˈuwa# | 39 : [+cons] > ∅ / __ #
-*#ˈuva# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#ˈuva#
-Middle Pre-Capestranese stage form : *#ˈuva#
-Final form : *#ˈuva#
+#ˈuːmida# >>> *#ˈumːəda# ( GOLD : #ˈumːəda#) :
+ˈuː m i d a 
+Proto-Romance stage form : *#ˈuːmida#
+*#ˈuːmɪda# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈuːmɪda#
+*#ˈumɪda# | 30 : [+syl] > [-long,-splng] 
+*#ˈumːɪda# | 42 : m > mː / # ( [+lab] ) [-cons,-lo] __ [+syl] [+cons] [+syl] #
+*#ˈumːeda# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈumːeda#
+Middle Pre-Capestranese stage form : *#ˈumːeda#
+*#ˈumːəda# | 111 : [-stres,-lo] > ə 
+Final form : *#ˈumːəda#

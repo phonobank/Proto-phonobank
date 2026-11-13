@@ -1,16 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 549:
-#kˌornˈuːtum# >>> *#kuɾnˈutə# ( GOLD : #kuɾnˈutə#) :
-k ˌo r n ˈuː t u m 
-Proto-Romance stage form : *#kˌornˈuːtum#
-*#kˌɔrnˈuːtʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌɔrnˈuːtʊm#
-*#kˌɔrnˈutʊm# | 30 : [+syl] > [-long,-splng] 
-*#kˌɔrnˈutʊ# | 39 : [+cons] > ∅ / __ #
-*#kˌornˈutu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌornˈutu#
-Middle Pre-Capestranese stage form : *#kˌornˈutu#
-*#kˌurnˈutu# | 108 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌurnˈutə# | 111 : [-stres,-lo] > ə 
-*#kˌuɾnˈutə# | 121 : r > ɾ 
-*#kuɾnˈutə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kuɾnˈutə#
+#kˈornua# >>> *#kˈɔɾnəva# ( GOLD : #kˈɔɾna#) :
+k ˈo r n u a 
+*#kˈornuwa# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
+Proto-Romance stage form : *#kˈornuwa#
+*#kˈɔrnʊwa# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˈɔrnʊwa#
+*#kˈɔrnʊva# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#kˈɔrnuva# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˈɞˤrnuva# | 68 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#kˈɔrnuva# | 79 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#kˈɔrnuva#
+Middle Pre-Capestranese stage form : *#kˈɔrnuva#
+*#kˈɔrnəva# | 111 : [-stres,-lo] > ə 
+*#kˈɔɾnəva# | 122 : r > ɾ 
+Final form : *#kˈɔɾnəva#

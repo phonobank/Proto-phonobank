@@ -1,21 +1,22 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 561:
-#kˌokleˈaːriam# >>> *#kukjːˈaɾa# ( GOLD : #kucːˈaɾa#) :
-k ˌo k l e ˈaː r i a m 
-*#kˌokliˈaːriam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
-*#kˌokljˈaːrjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌokljˈaːrjam#
-*#kˌɔkljˈaːrjam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌɔkljˈaːrjam#
-*#kˌɔkljˈarjam# | 30 : [+syl] > [-long,-splng] 
-*#kˌɔkljˈarʲam# | 32 : r j > rʲ 
-*#kˌɔkʎːˈarʲam# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#kˌɔkʎːˈarʲa# | 39 : [+cons] > ∅ / __ #
-*#kˌokʎːˈarʲa# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌokʎːˈarʲa#
-Middle Pre-Capestranese stage form : *#kˌokʎːˈarʲa#
-*#kˌokʎːˈara# | 96 : rʲ > r 
-*#kˌukʎːˈara# | 108 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌukʎːˈaɾa# | 121 : r > ɾ 
-*#kˌukjːˈaɾa# | 124 : {ʎ;ʎː} > {j;jː} 
-*#kukjːˈaɾa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kukjːˈaɾa#
+#kˌokleˈaːrium# >>> *#kukjːˈaɾə# ( GOLD : #kukːjˈaɾə#) :
+k ˌo k l e ˈaː r i u m 
+*#kˌokliˈaːrium# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
+*#kˌokljˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌokljˈaːrjum#
+*#kˌɔkljˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˌɔkljˈaːrjʊm#
+*#kˌɔkljˈarjʊm# | 30 : [+syl] > [-long,-splng] 
+*#kˌɔkljˈarʲʊm# | 32 : r j > rʲ 
+*#kˌɔkʎːˈarʲʊm# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#kˌɔkʎːˈarʲʊ# | 39 : [+cons] > ∅ / __ #
+*#kˌokʎːˈarʲu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌokʎːˈarʲu#
+Middle Pre-Capestranese stage form : *#kˌokʎːˈarʲu#
+*#kˌokʎːˈaru# | 96 : rʲ > r 
+*#kˌukʎːˈaru# | 108 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌukʎːˈarə# | 111 : [-stres,-lo] > ə 
+*#kˌukʎːˈaɾə# | 122 : r > ɾ 
+*#kˌukjːˈaɾə# | 125 : {ʎ;ʎː} > {j;jː} 
+*#kukjːˈaɾə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kukjːˈaɾə#

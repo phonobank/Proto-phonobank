@@ -1,15 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1015:
-... >>> *#kːjˈeʃa# ( GOLD : #kːjˈesa#) :
+... >>> *#βˈiskəβə# ( GOLD : #vˈeskəvə#) :
 ... 
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
-*#ˌɛkklˈeʃa# | 34 : s j > ʃ 
-*#ˌekklˈeʃa# | 61 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌekːlˈeʃa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-*#ˌekːʎˈeʃa# | 73 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌekːʎˈeʃa#
-*#əkːʎˈeʃa# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#kːʎˈeʃa# | 91 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#kːʎˈeʃa#
-*#kːjˈeʃa# | 124 : {ʎ;ʎː} > {j;jː} 
-Final form : *#kːjˈeʃa#
+*#ˌɛβˈiːskɔβʊ# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌɛβˈiskɔβʊ# | 30 : [+syl] > [-long,-splng] 
+*#ˌeβˈiskɔβʊ# | 61 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌeβˈiskoβu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌeβˈiskoβu#
+*#əβˈiskoβu# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#βˈiskoβu# | 91 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#βˈiskoβu#
+*#βˈiskəβə# | 111 : [-stres,-lo] > ə 
+Final form : *#βˈiskəβə#

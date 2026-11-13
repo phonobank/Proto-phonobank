@@ -1,16 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 650:
-#wˌiːkˈiːnum# >>> *#vit͡ʃˈinə# ( GOLD : #vit͡ʃˈinə#) :
-w ˌiː k ˈiː n u m 
-Proto-Romance stage form : *#wˌiːkˈiːnum#
-*#wˌiːkˈiːnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#wˌiːkˈiːnʊm#
-*#wˌiːt͡ʃˈiːnʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#wˌit͡ʃˈinʊm# | 30 : [+syl] > [-long,-splng] 
-*#wˌit͡ʃˈinʊ# | 39 : [+cons] > ∅ / __ #
-*#vˌit͡ʃˈinʊ# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˌit͡ʃˈinu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˌit͡ʃˈinu#
-Middle Pre-Capestranese stage form : *#vˌit͡ʃˈinu#
-*#vˌit͡ʃˈinə# | 111 : [-stres,-lo] > ə 
-*#vit͡ʃˈinə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#vit͡ʃˈinə#
+#wiːɡˈintiː# >>> *#vijˈendə# ( GOLD : #vˈində#) :
+w iː ɡ ˈi n t iː 
+Proto-Romance stage form : *#wiːɡˈintiː#
+*#wiːɡˈɪntiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#wiːɡˈɪntiː#
+*#wiːjˈɪntiː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#wijˈɪnti# | 30 : [+syl] > [-long,-splng] 
+*#vijˈɪnti# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vijˈenti# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#vˌijˈenti# | 83 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
+Proto-South-Italo-Romance stage form : *#vˌijˈenti#
+Middle Pre-Capestranese stage form : *#vˌijˈenti#
+*#vˌijˈentə# | 111 : [-stres,-lo] > ə 
+*#vˌijˈendə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#vijˈendə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vijˈendə#

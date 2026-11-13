@@ -1,11 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 528:
-#kˌabˈalla# >>> *#kavˈalːa# ( GOLD : #kavˈalːa#) :
-k ˌa b ˈa l l a 
-Proto-Romance stage form : *#kˌabˈalla#
-Early Pre-Capestranese stage form : *#kˌabˈalla#
-*#kˌabˈalːa# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-*#kˌavˈalːa# | 77 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#kˌavˈalːa#
-Middle Pre-Capestranese stage form : *#kˌavˈalːa#
-*#kavˈalːa# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kavˈalːa#
+#kˌabˈallum# >>> *#kavˈajːə# ( GOLD : #kavˈajːə#) :
+k ˌa b ˈa l l u m 
+Proto-Romance stage form : *#kˌabˈallum#
+*#kˌabˈallʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˌabˈallʊm#
+*#kˌabˈallʊ# | 39 : [+cons] > ∅ / __ #
+*#kˌabˈallu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌabˈalːu# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#kˌavˈalːu# | 77 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#kˌavˈalːu#
+Middle Pre-Capestranese stage form : *#kˌavˈalːu#
+*#kˌavˈaʎːu# | 98 : lː > ʎː / __ [+hi]
+*#kˌavˈaʎːə# | 111 : [-stres,-lo] > ə 
+*#kˌavˈajːə# | 125 : {ʎ;ʎː} > {j;jː} 
+*#kavˈajːə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kavˈajːə#

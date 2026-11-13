@@ -1,20 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 813:
-#pˌullikˈiːnum# >>> *#pulːet͡ʃˈinə# ( GOLD : #pit͡ʃˈinə#) :
-p ˌu l l i k ˈiː n u m 
-Proto-Romance stage form : *#pˌullikˈiːnum#
-*#pˌʊllɪkˈiːnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌʊllˠɪkˈiːnʊm# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
-Early Pre-Capestranese stage form : *#pˌʊllˠɪkˈiːnʊm#
-*#pˌʊllˠɪt͡ʃˈiːnʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#pˌʊllˠɪt͡ʃˈinʊm# | 30 : [+syl] > [-long,-splng] 
-*#pˌʊllˠɪt͡ʃˈinʊ# | 39 : [+cons] > ∅ / __ #
-*#pˌʊllɪt͡ʃˈinʊ# | 50 : lˠ > l 
-*#pˌullɪt͡ʃˈinu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˌullet͡ʃˈinu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#pˌulːet͡ʃˈinu# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#pˌulːet͡ʃˈinu#
-Middle Pre-Capestranese stage form : *#pˌulːet͡ʃˈinu#
-*#pˌulːət͡ʃˈinə# | 111 : [-stres,-lo] > ə 
-*#pulːət͡ʃˈinə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-*#pulːet͡ʃˈinə# | 132 : ə > e / [+cor] __ t͡ʃ
-Final form : *#pulːet͡ʃˈinə#
+#pˌulˈentam# >>> *#pulˈænda# ( GOLD : #pulˈɛnda#) :
+p ˌu l ˈe n t a m 
+Proto-Romance stage form : *#pˌulˈentam#
+*#pˌʊlˈɛntam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#pˌʊlˈɛntam#
+*#pˌʊlˈɛnta# | 39 : [+cons] > ∅ / __ #
+*#pˌulˈɛnta# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˌulˈænta# | 68 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+Proto-South-Italo-Romance stage form : *#pˌulˈænta#
+Middle Pre-Capestranese stage form : *#pˌulˈænta#
+*#pˌulˈænda# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#pulˈænda# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#pulˈænda#

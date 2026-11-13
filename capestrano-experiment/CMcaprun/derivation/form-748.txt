@@ -1,16 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 748:
-#pˈikkulum# >>> *#pˈikːwələ# ( GOLD : #pˈikːwələ#) :
-p ˈi k k u l u m 
-Proto-Romance stage form : *#pˈikkulum#
-*#pˈɪkkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#pˈɪkkʊlʊm#
-*#pˈiːkkʊlʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#pˈikkʊlʊm# | 30 : [+syl] > [-long,-splng] 
-*#pˈikkʊlʊ# | 39 : [+cons] > ∅ / __ #
-*#pˈikkwʊlʊ# | 54 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#pˈikkwulu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˈikːwulu# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#pˈikːwulu#
-Middle Pre-Capestranese stage form : *#pˈikːwulu#
-*#pˈikːwələ# | 111 : [-stres,-lo] > ə 
-Final form : *#pˈikːwələ#
+#pˈikrum# >>> *#pˈiɡɾə# ( GOLD : #pˈiɡɾə#) :
+p ˈi k r u m 
+Proto-Romance stage form : *#pˈikrum#
+*#pˈɪkrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#pˈɪkrʊm#
+*#pˈiːkrʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#pˈikrʊm# | 30 : [+syl] > [-long,-splng] 
+*#pˈikrʊ# | 39 : [+cons] > ∅ / __ #
+*#pˈiɡrʊ# | 52 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
+*#pˈiɡru# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#pˈiɡru#
+Middle Pre-Capestranese stage form : *#pˈiɡru#
+*#pˈiɡrə# | 111 : [-stres,-lo] > ə 
+*#pˈiɡɾə# | 122 : r > ɾ 
+Final form : *#pˈiɡɾə#

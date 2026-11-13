@@ -1,13 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 948:
-#mˈatteam# >>> *#mˈat͡ʃːa# ( GOLD : #mˈat͡sːa#) :
-m ˈa t t e a m 
-*#mˈattiam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
-*#mˈattjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#mˈattjam#
-Early Pre-Capestranese stage form : *#mˈattjam#
-*#mˈattʲːam# | 23 : t j > tʲː 
-*#mˈat͡ʃːam# | 24 : [-cont] tʲː > t͡ʃː
-*#mˈat͡ʃːa# | 39 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#mˈat͡ʃːa#
-Middle Pre-Capestranese stage form : *#mˈat͡ʃːa#
-Final form : *#mˈat͡ʃːa#
+#mˌaːtˈeriam# >>> *#matˈeɾja# ( GOLD : #matˈæɾja#) :
+m ˌaː t ˈe r i a m 
+*#mˌaːtˈerjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#mˌaːtˈerjam#
+*#mˌaːtˈɛrjam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˌaːtˈɛrjam#
+*#mˌatˈɛrjam# | 30 : [+syl] > [-long,-splng] 
+*#mˌatˈɛrʲam# | 32 : r j > rʲ 
+*#mˌatˈɛrʲa# | 39 : [+cons] > ∅ / __ #
+*#mˌatˈerʲa# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˌatˈerʲa#
+Middle Pre-Capestranese stage form : *#mˌatˈerʲa#
+*#mˌatˈerja# | 94 : rʲ > r j / [+front,-lo,+syl] __ [+syl]
+*#mˌatˈeɾja# | 122 : r > ɾ 
+*#matˈeɾja# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#matˈeɾja#

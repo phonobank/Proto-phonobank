@@ -1,16 +1,20 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 398:
-#ˌawtˈumnum# >>> *#ətˈomnə# ( GOLD : #avətˈunːə#) :
-ˌa w t ˈu m n u m 
-Proto-Romance stage form : *#ˌawtˈumnum#
-*#ˌawtˈʊmnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌawtˈʊmnʊm#
-*#ˌawtˈʊmnʊ# | 39 : [+cons] > ∅ / __ #
-*#ˌawtˈʊmnu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌawtˈomnu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌowtˈomnu# | 71 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#ˌowtˈomnu#
-Middle Pre-Capestranese stage form : *#ˌowtˈomnu#
-*#ˌotˈomnu# | 97 : w > ∅ / [+round] __ [+cons]
-*#ˌotˈomnə# | 111 : [-stres,-lo] > ə 
-*#ətˈomnə# | 123 : [-prim,-hi,-lo] > ə 
-Final form : *#ətˈomnə#
+#ˌawrˈikulam# >>> *#uɾˈikwəla# ( GOLD : #ɾˈekːja#) :
+ˌa w r ˈi k u l a m 
+Proto-Romance stage form : *#ˌawrˈikulam#
+*#ˌawrˈɪkʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌawrˈɪkʊlam#
+*#ˌawrˈiːkʊlam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌawrˈikʊlam# | 30 : [+syl] > [-long,-splng] 
+*#ˌawrˈikʊla# | 39 : [+cons] > ∅ / __ #
+*#ˌawrˈikwʊla# | 54 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#ˌawrˈikwula# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌowrˈikwula# | 71 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+Proto-South-Italo-Romance stage form : *#ˌowrˈikwula#
+Middle Pre-Capestranese stage form : *#ˌowrˈikwula#
+*#ˌorˈikwula# | 97 : w > ∅ / [+round] __ [+cons]
+*#ˌurˈikwula# | 108 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#ˌurˈikwəla# | 111 : [-stres,-lo] > ə 
+*#ˌuɾˈikwəla# | 122 : r > ɾ 
+*#uɾˈikwəla# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#uɾˈikwəla#

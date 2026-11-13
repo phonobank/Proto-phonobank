@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 551:
-#kˈorem# >>> *#kˈoɾə# ( GOLD : #kˈoɾə#) :
-k ˈo r e m 
-Proto-Romance stage form : *#kˈorem#
-*#kˈɔrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˈɔrɛm#
-*#kˈɔrɛ# | 39 : [+cons] > ∅ / __ #
-*#kˈore# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈore#
-Middle Pre-Capestranese stage form : *#kˈore#
-*#kˈorə# | 111 : [-stres,-lo] > ə 
-*#kˈoɾə# | 121 : r > ɾ 
-Final form : *#kˈoɾə#
+#kˈorwu# >>> *#kˈoɾvə# ( GOLD : #kˈoɾvə#) :
+k ˈo r w u 
+Proto-Romance stage form : *#kˈorwu#
+*#kˈɔrwʊ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˈɔrwʊ#
+*#kˈɔrvʊ# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#kˈɔrvu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˈorvu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈorvu#
+Middle Pre-Capestranese stage form : *#kˈorvu#
+*#kˈorvə# | 111 : [-stres,-lo] > ə 
+*#kˈoɾvə# | 122 : r > ɾ 
+Final form : *#kˈoɾvə#

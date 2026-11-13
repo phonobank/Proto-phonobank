@@ -1,14 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 414:
-#ˌabˈietem# >>> *#avˈeətə# ( GOLD : #abˈɛtə#) :
-ˌa b ˈi e t e m 
-Proto-Romance stage form : *#ˌabˈietem#
-*#ˌabˈɪɛtɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌabˈɪɛtɛm#
-*#ˌabˈɪɛtɛ# | 39 : [+cons] > ∅ / __ #
-*#ˌabˈeete# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌavˈeete# | 77 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#ˌavˈeete#
-Middle Pre-Capestranese stage form : *#ˌavˈeete#
-*#ˌavˈeətə# | 111 : [-stres,-lo] > ə 
-*#avˈeətə# | 128 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#avˈeətə#
+#ˌabellˈaːnam# >>> *#avælːˈana# ( GOLD : #vəlːˈana#) :
+ˌa b e l l ˈaː n a m 
+Proto-Romance stage form : *#ˌabellˈaːnam#
+*#ˌabɛllˈaːnam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌabɛllˈaːnam#
+*#ˌabɛllˈanam# | 30 : [+syl] > [-long,-splng] 
+*#ˌabɛllˈana# | 39 : [+cons] > ∅ / __ #
+*#ˌabællˈana# | 68 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌabælːˈana# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#ˌavælːˈana# | 77 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#ˌavælːˈana#
+Middle Pre-Capestranese stage form : *#ˌavælːˈana#
+*#ˌavˌælːˈana# | 110 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#avælːˈana# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#avælːˈana#

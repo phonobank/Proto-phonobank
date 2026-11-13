@@ -1,23 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 305:
-#ˌinklˈawstrum# >>> *#ŋɡjˈostɾə# ( GOLD : #ɲˈɔstɾə#) :
-ˌi n k l ˈa w s t r u m 
-*#ˌiŋklˈawstrum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#ˌiŋklˈawstrum#
-*#ˌɪŋklˈawstrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌɪŋklˈawstrʊm#
-*#ˌiːŋklˈawstrʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌiŋklˈawstrʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˌiŋklˈawstrʊ# | 39 : [+cons] > ∅ / __ #
-*#ˌiŋklˈawstru# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌiŋklˈowstru# | 71 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-*#ˌiŋkʎˈowstru# | 73 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌiŋkʎˈowstru#
-*#əŋkʎˈowstru# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#ŋkʎˈowstru# | 91 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#ŋkʎˈowstru#
-*#ŋkʎˈostru# | 97 : w > ∅ / [+round] __ [+cons]
-*#ŋkʎˈostrə# | 111 : [-stres,-lo] > ə 
-*#ŋɡʎˈostrə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#ŋɡʎˈostɾə# | 121 : r > ɾ 
-*#ŋɡjˈostɾə# | 124 : {ʎ;ʎː} > {j;jː} 
-Final form : *#ŋɡjˈostɾə#
+#ˌinkˈontraː# >>> *#ŋɡˈɔndɾa# ( GOLD : #ŋɡˈondɾa#) :
+ˌi n k ˈo n t r aː 
+*#ˌiŋkˈontraː# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˌiŋkˈontraː#
+*#ˌɪŋkˈɔntraː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɪŋkˈɔntraː#
+*#ˌiːŋkˈɔntraː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌiŋkˈɔntra# | 30 : [+syl] > [-long,-splng] 
+*#ˌiŋkˈɞˤntra# | 68 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌiŋkˈɔntra# | 79 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#ˌiŋkˈɔntra#
+*#əŋkˈɔntra# | 88 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ŋkˈɔntra# | 91 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#ŋkˈɔntra#
+*#ŋɡˈɔndra# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ŋɡˈɔndɾa# | 122 : r > ɾ 
+Final form : *#ŋɡˈɔndɾa#
