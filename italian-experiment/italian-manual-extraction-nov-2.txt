@@ -17,6 +17,9 @@ $ 5a gliding of unstressed i and u in hiatus
 $ 3.3c tl / kl: Counterbled by 3.3a. He doesn't mention, but this is practically pan-Romance 
 t > k / __ l 
 
+$ 8.2b pan Romance (?) assimilations [he doesn't say it --- inferred]: d + C. See later ones -- 8.2c. Division between earlier/later in branching may need revision for source fidelity .TODO 
+d [+cons] > ∅ [+long]
+
 = Proto-Romance 
 
 $ 4.4d TENTATIVE "tendency" of aw >a before syllable with u (which later passes to /o/); all listed cases have a velar before it
@@ -37,13 +40,16 @@ $ 3.4a k , g palatalized before front vowels. Fed by 2.2a. 6.1a hits everywhere 
 	$ 6.1a outcome for ɡ is "something like" the glide /j/.  Exec decision going with ʝ
 {k;ɡ} > {t͡ʃ;ʝ} / __ [+syl,+front]
 
-$ 3.2a syllable initial w- to v- 
-w > v / # ((@)* [-syl]) __ 
 
 $ 3.2b intervocalic -b- to -β-. Counting post-diphthongal as "intervocalic", hence prior [-cons] not [+syl]. 
 b > β / [-cons] __ [+syl]
 
-$ 5.3.a.1 k,g >  j before n, s. Broaden this to k,g opening before coronals generally -- the palatalization is also seen for -xt- in Germanic loans (/waxta/ > *gwajta > Old French guaite > guette "watchtower"), appears directly attested in Mozarabic, and is also seen (areally?) in Gaulish (in the kt > xt phase) and in Brythonic (in the kt > xt > jt). Arguably also in Albanian. NON-MAIDEN RULE HERE -- do not use for comparison of manual vs. extracted vsn. Does not apply to -kr-, and perhaps not -kl-ː alpha feature used for voicing coherence.
+$ 5.3.a.1 k,g >  j before n, s. Broaden this to k,g opening before coronals generally 
+    $-- the palatalization is also seen for -xt- in Germanic loans (/waxta/ > *gwajta > Old French guaite > guette "watchtower"),
+        $ appears directly attested in Mozarabic, and is also seen (areally?) in Gaulish (in the kt > xt phase) and in Brythonic (in the kt > xt > jt). 
+        $Arguably also in Albanian. 
+        $NON-MAIDEN RULE HERE -- do not use for comparison of manual vs. extracted vsn. 
+        $ Does not apply to -kr-, and perhaps not -kl-ː alpha feature used for voicing coherence.
 [+back,ɣvoi] > [+cont] / [-cons] __ [+cor,ɣvoi]
 
 = Proto-West-Romance
@@ -60,7 +66,9 @@ $ 3.3b sl > skl. Counterbled by 3.3a.
 ∅ > k / s __ l 
 
 $ 5.3.a.2/p81n41 -- Italo-Romance ['and' Venetian?] kt (>xt?) and pt > tt. Vs. > xt > jt in Western Romance -- xt seen in Mozarabic, jt second stage preserved in French, Piedmontese, Portuguese, some Romansch, and jt > ch in Spanish, some Romansch, Lombard. ks > ss not yet, because some palatalization is seen for this.
-[-son,-cor] t > tː
+    $8.2a -gd- as well -- frigidum : feddo . Also cm gm 
+[-son,-cor] [-son] > ∅ [+long]
+
 
     $5.2d regular stj > ʃt͡ʃ > ʃʃ, first step. Notably, shared with Romanian in outcomes, but in parallel. Old Italian used -sci- for this likely indicating ʃt͡ʃ
         $angostia > angoʃʃa , osteum > <uscio > uʃʃo
@@ -88,7 +96,24 @@ $ 8.1a Italo-Romance (and Sardinian) gemination of consonants before j, w.
         $ even though gemination regular lost, not in Western Romance proper: aqua > Fr eau, Sp agua vs Italian acqua etc. 
     $ counterbled by 5.1a, 
         $likely counterfed by 4.2a 
-{p;b;m;t;d;n;l;r;k,ɡ} > {p p;b b;m m;t t;d d;n n;l l;r r;k k;ɡ ɡ} / __ [+hi,-syl,-cons] 
+        $ counterbled by 3.2a 
+    $ 8.1d --- rj , rw don't get "projected" in the same way as other consonants before glides
+{p;b;m;t;d;n;l;k,ɡ} > {p p;b b;m m;t t;d d;n n;l l;k k;ɡ ɡ} / __ [+hi,-syl,-cons] 
+
+
+$ 5.1a loss of w after a (non-velar) consonant; after kw preserved before a, gw preserved. 
+    $Counterbleeds 8.1a
+    $ counterbled by 3.2a
+$w > ∅ / [+cons,-back] __
+    $ MANUAL FIX -- implement for debugging TODO -- this DOENSN'T HAPPEN after l, r-- 
+w > ∅ / [+cons,-back,nnas,nson] __ 
+
+$ 3.2a syllable initial w- to v- 
+w > v / # ((@)* [-syl]) __ 
+
+    $8.2c also tv > vv 
+[+cor,-cont] v > vː 
+
 
 $6.1d lʝ > ʎ by way of j
 ʝ > j / l __
@@ -105,10 +130,6 @@ $ 5.2a palatalization of consonants by j-- palatal coalescence.
                 $ "tendency" to lenite, or imitation of northern (Gallo-Italic) speech
 {n j;n n j;l j;l l j;d j;t j;s j;n ɡ j;ŋ ɡ j;ɡ j;n k j;ŋ k j;k j;r j} > {ɲ;ɲ ɲ;ʎ;ʎ ʎ;d͡ʒ;t͡s;ʃ;ɲ d͡ʒ;ɲ d͡ʒ;d d͡ʒ;ɲ t͡ʃ;ɲ t͡ʃ;t t͡ʃ;rʲ}
 
-
-$ 5.1a loss of w after a (non-velar) consonant; after kw preserved before a, gw preserved. 
-    $Counterbleeds 8.1a
-w > ∅ / [+cons,-back] __
 
 $ 5.1b loss of w between k and non-low elements
     $Counterfeeds velar palatalization 3.4a
@@ -141,22 +162,36 @@ $ 4.4b *unstressed* aw to o
         $Conditioning unclear. Leaving out for now.
 [+lo,-prim] w > o ∅
 
-$5.3.a.2 palatalization of velar fricatives before coronals. -jn- and -js- survive in some cases in southern Italo-Romance
-[+back,-son] > [-back,+front] / __ [+cor]
+$ 8.2d some syncopes -- TODO may need to revise placement -- that at the very least remove intersonorant vowels,
+    $ feed 8.2e
+[-stres] > ∅ / [+son,+cons] __ [+son,+cons]
 
 = Proto-Italo-Romance
 
 
+
+
+$5.3.a.3 palatalization of velar fricatives from 5.3.a that survive, before coronals. 
+    $-jn- and -js- survive in some cases in southern Italo-Romance
+    $ Doesn't seem to occur for the far south --- gn (> *ɣn? ) > wn instead there. 
+    $Bled by kt ( > xt) > tt 5.3.a.2
+[+back,-son,+cont] > j / __ [+cor]
+
+
+$ 5.3.a.4  -- jn absorbed into ɲɲ
+        $-jn- preserved in some Neapolitan: "parts of Basilicata, Puglia, Campania and the Abruzzi, for reflexes of [gn]42: e.g., Ischitan 'lejn~ 'firewood'; 'ajn~ 'lamb'; 'pujn~ 'fist', < LIGNA; AGNU(M); PUGNU(M).. 
+j n > ɲː 
+
 $6.2a s > ʃ before ˈi in certain cases. At least partially shared with Capestranese.
 {s;sː} > {ʃ;ʃː} / __ ˈi
 
-$ 5.3.a.3  -- palatalization of velar elements before n, s. Causes palatalization. -jn- preserved in some Neapolitan. Bled by kt ( > xt) > tt. Doesn't seem to occur for the far south --- gn > wn instead there. 
-[+back,+cons,+cont] > j
 
-$ 5.3.a.4  -- js palatalizes to (*jʃ >) ʃʃ in uncertain conditions. Maiden attributes for this coxa, exit, axilla, ex(h)alare, vs . rexī > resse, coxit > cosse, texere, conduxi > condussi, fraxinu > frassino. Going with the one thing the affected set has in common to the exclusion of all but one of the counterexample: no anterior segments beforehand (s is anterior, ʃ is not) . TODO revision likely necessary.
+$ 5.3.a.5  -- js palatalizes to (*jʃ >) ʃʃ in uncertain conditions. 
+    $Maiden attributes for this coxa, exit, axilla, ex(h)alare, vs . rexī > resse, coxit > cosse, texere, conduxi > condussi, fraxinu > frassino. 
+    $Going with the one thing the affected set has in common to the exclusion of all but one of the counterexample: no anterior segments beforehand (s is anterior, ʃ is not) . TODO revision likely necessary.
 s > ʃ / # ([-ant])* j __ 
 
-$ 5.3.a.5 -- j absorbed by following s or ʃ 
+$ 5.3.a.6 -- j absorbed by following s or ʃ 
 j [+strid] > ∅ [+long]
 
 
@@ -182,6 +217,13 @@ $ 4.6.5a Tuscan prostetic I
 
 $ 5.2b assimilation of consonants to following palatalized s
 [+cons] > ʃ / __ ʃ
+
+$ 8.1b Tuscan insertion of v between o and another vowel: ruina, Genoa, victualia
+∅ > v / [+round,-hi,+syl] __ [+syl]
+
+$ 8.1c v > g in a,e __ o,u -- Maiden attributes it to hypercorrection but it's seen in various other places. 
+    $ *avuto > Old Sienese aguto; sevo > sego "tallow", pavonem > pagone (cf. Alb pagua, pallua)
+v > ɡ / [+front,+syl,-hi] __ [+round,+syl]
 
 = Proto-Tuscan 
 
@@ -212,6 +254,31 @@ $ 4.5b front vowel analophonesis before ɲ ʎ, and skj. For skj, fed by 3.3b -> 
 [+syl,+tense,-lo,+front] > [+hi] / __ {[+front,+son,+cons];s k j}
 
 = Old Florentine
+
+
+
+$ ch13 -- signs of learned words:
+    $ I preservation of unstressed prevocalic i and e where lost in indigenous words
+        $learned vizio vs native vezzo both from vitium -->  13a ; he later shows opzione
+        $ he seems to say that tiV becomes t͡sj in both cases
+    $ II i, u < Latin short i, u 
+    $ III preservation of [aw] 
+    $ IV stressed mid vowels, even if long in Latin, are pronounced OPEN -- lexical trait. 
+            $ except for -one endings, it seems. 
+    $ V preservatio nof preconsonantal l, not palatalized 
+    $ VI retention of word internal b 
+    $ VII preservation of nasals before sibilants
+    $ VIII consonantal assimilation e.g. kt pt > tt , ks > ss -> 13b, resisted for the "more recondite learned borrowings" (effectively reborrowed later)
+
+$ 13a -- tjV in learned vocab (not in inherited? TODO check) becomes t͡sj
+    $ TODO check for others
+t i > t͡s j / __ [+syl] 
+
+$ 13b -- regressive assimilation at least for k and p before s, t , again -- 
+        $ pt > tt attitudine, ks > ss deissi, also bs > ss assurdo, kt > tt victualia > vettovaglia 
+        $ not pt͡sj optionem > opzione (bled by 13a?); not ns -- pensare; 
+[-cont] [+cor,-voi] > ∅ [+long]
+
 $ 4.6.5b loss of prosthetic i, carrying with it certain cases of etymological i -- historia > storia, instrumentum > strumento. Not in Corsican and some Western varieties
 i > ∅ / # __ s [+cons]
 
@@ -224,6 +291,12 @@ t͡ʃ > ʃ / ʃ __
 $ 5.2c intervocalic ʃ < sj, to t͡ʃ. May have been motivated by hypercorrection
 ʃ > t͡ʃ / [-cons] __ [-cons]
 
+$ 7.3a -- Tuscan gorgia -- not in standard Italian, commented out. Intervocalic ktp spirantized. After glides counts as intervocalic
+$[-voi] > [+cont] / [-cons] __ [-cons]
+
+$Maiden has lots of words about the possibility that leniting voicing is ~partially~ indigenous, but states that the majority of words are unaffected  
+    $ he rejects that affected words could come from Gallo-Italic tho concedes some points, such as the rule of Tuscany by Gallo-Italic speaking areas into the 12th century , and into the 14th for Pisa and Lucca, and the limitation of /s/ > /z/ to 'high register' entities
+    $ this is a cascade for REGULAR sound change tho, and the majority of targets of intervocalic stop voicing are unaffected, so it is excluded.
 
 $= Modern Italian
 

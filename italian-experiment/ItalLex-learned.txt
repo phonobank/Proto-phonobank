@@ -1,0 +1,109 @@
+$=Latin,Italian
+$ Learned (and semi-learned) borrowings from Latin cited by Maiden (1995/2013). Kept apart from ItalLex.txt
+$ because these words did not go through the regular sound changes. Page numbers are printed pages
+$ (PDF page - 19). Latin follows ItalLex.txt conventions (CL length, accusative -m, ae = a e, au = a w,
+$ Greek aspirates pʰ tʰ kʰ, y). Where Maiden gives a non-classical etymon, his form is used and the CL
+$ form is noted. Italian = standard pronunciation; Maiden says learned words have open stressed mid
+$ vowels (p. 84) and a voiced intervocalic sibilant (p. 63).
+$ Left out: Greek-only words (deissi, ctonico, bdellio, mnemonico, atmosfera, eczema, rizoma, amnistia,
+$ tecnica, -ologo words), the modern coinage incapsulare, suffixes (-issimo, -ario, -izzare, -colo),
+$ ecclesiastical words cited for [z] (chiesa, cresima, battesimo etc., p. 63: Maiden treats these as
+$ evidence of northern borrowing, not as learned), and the place name Genova (p. 71).
+
+$ from ItalLEx 
+r ˈa w k a , r ˈa w k a $TODO FLAG hoarse. Italian rauca. au preserved. Not in Maiden; Latin supplied for word in AIS map title. ɸ698 – HO LA VOCE RAUCA
+ˌa w t ˈu m n o , a w t ˈu nː o $autumn. Italian autunno. unstressed au preserved. Not in Maiden; Latin cognate given as awtˈumnu in AIS-extraction forms.csv. ɸ313 – L'AUTUNNO
+
+
+$ --- sec. 13, "A note on 'learned' phonology" (p. 84), and Ch.1 sec. 5.1 (p. 14)
+k ˈa w s a , k ˈa w z a $cause. Italian causa. learned; au kept. popular doublet cosa. Maiden 1995: 14, 21. NOTE wiktionary has kawsa. 
+v ˈi t i o , v ˈi t͡sː j o $vice. Italian vizio. learned; prevocalic i kept, Latin TI read as [tsj]. popular doublet vezzo. Maiden 1995: 84
+v ˈi t r e o , v ˈi t r e o $vitreous. Italian vitreo. learned; short i > i, not e. cf. popular vetro < vitrum. Maiden 1995: 84
+ˌa b s ˈu r d o , a sː ˈu r d o $absurd. Italian assurdo. learned; short u > u, not o; bs assimilated. cf. popular sordo < surdum. Maiden 1995: 84
+ˈa w r e o , ˈa w r e o $golden. Italian aureo. learned; au kept. cf. popular oro < aurum. Maiden 1995: 84
+k r ˈɛ d o , k r ˈɛ d o $creed. Italian credo (noun). learned; open stressed vowel from long eː. doublet of credo [ˈkredo] 'I believe'. Maiden 1995: 84
+f l ˌo r ˈa l e , f l o r ˈa l e $floral. Italian florale. learned; postconsonantal l kept. cf. popular fiore. Maiden 1995: 84
+p l ˌe b ˈɛ j o , p l e b ˈɛ o $plebeian. Italian plebeo. learned; intervocalic b kept. Maiden cites PLEBEUM. cf. popular pieve. Maiden 1995: 84
+m ˌe n s ˈi l e , m e n s ˈi l e $monthly. Italian mensile. learned; n kept before s. Medieval Latin, as given by Maiden. cf. popular mese. Maiden 1995: 84
+ˌa p t i t ˈu d i n e , a tː i t ˈu d i n e $aptitude. Italian attitudine. learned, but pt assimilated. Late Latin. Maiden 1995: 84
+ˌo p t i ˈo n e , o p t͡s j ˈo n e $option. Italian opzione. learned; pt not assimilated. Maiden 1995: 84, 249
+
+$ --- Ch.5 sec. 3.1.1, learned words with clusters alien to Italo-Romance (p. 249)
+ˌo p t ˈa r e , o tː ˈa r e $verb, opt. Italian optare, popular central It. ottare. learned; pt not assimilated in 'correct' Italian (popular Central It. assimilates). Maiden 1995: 249
+ˌɛ n ˈi ɡ m a , e n ˈi mː a $riddle. Italian enigma vs popular enimma. Froma aenigma. learned; gm kept (popular Central It. eˈnimma). Latin from Greek. Maiden 1995: 249-250
+
+$ --- sec. 4.6.4.1, posttonic vowel of proparoxytones kept in learned words (p. 45)
+k ˈi r k u l o , t͡ʃ ˈi r k o l o $circle. Italian circolo. learned or semi-learned; penult u > o kept. popular doublet cerchio. Maiden 1995: 45
+v ˈi n k u l o , v ˈi n k o l o $bond. Italian vincolo. learned or semi-learned. popular doublet vinchio. Maiden 1995: 45
+ˈa n i m a , ˈa n i m a $soul. Italian anima. learned or semi-learned; penult kept. Maiden 1995: 45
+ˈu l t i m o , ˈu l t i m o $last. Italian ultimo. learned or semi-learned; penult kept, short u > u. Maiden 1995: 45
+
+$ --- sec. 3.1, no [h] in learned borrowings (p. 30)
+ˌo r r ˈi b i l e , o rː ˈi b i l e $horrible. Italian orribile. learned; h lost (spelling only). Maiden 1995: 30
+ˌa b i t ˈa r e , a b i t ˈa r e $verb, dwell. Italian abitare. learned; intervocalic b kept. Maiden 1995: 30
+
+$ --- sec. 8.1, [v] in hiatus in semi-learned words (p. 71)
+r ˌu ˈi n a , r o v ˈi n a $ruin. Italian rovina. semi-learned; v inserted in hiatus, via *roˈina. Maiden 1995: 71
+v ˌi k t u ˈa l i a , v e tː o v ˈa ʎː a $victuals. Italian vettovaglia < vīctuālia. semi-learned; v inserted in hiatus, via *vettoˈalja. neuter plural. Maiden 1995: 71
+
+$ --- sec. 9, nasal kept or lost before s (p. 76)
+d ˈɛ n s o , d ˈɛ n s o $dense. Italian denso. learned; n kept before s. Maiden 1995: 76
+p ˌe n s ˈa r e , p e n s ˈa r e $verb, think. Italian pensare. learned; n kept before s. popular doublet pesare. Maiden 1995: 76
+ˌi n s t r u ˈi r e , i s t r u ˈi r e $verb, instruct. Italian istruire. learned, but n lost in nsC. Maiden's IN-STRU-I-RE; CL instruere. Maiden 1995: 76
+ˌi n s t i t ˈu t o , i s t i t ˈu t o $institute. Italian istituto. learned, but n lost in nsC. Maiden 1995: 76
+t r ˌa n s p o r t ˈa r e , t r a s p o r t ˈa r e $verb, transport. Italian trasportare. learned, but n lost in nsC. Maiden 1995: 76
+ˌi n s t i ɡ ˈa r e , i s t i ɡ ˈa r e $verb, instigate. Italian istigare. learned, but n lost in nsC; variant instigare. Maiden 1995: 76
+
+$ --- sec. 12, palatalized plurals only in learned words (p. 83); sg. and pl. given
+ɡ r ˈɛ k o , ɡ r ˈɛ k o $Greek. Italian greco. learned. Maiden 1995: 83
+ɡ r ˈɛ k i , ɡ r ˈɛ t͡ʃ i $Greeks. Italian greci. learned; palatalized plural from spelling-pronunciation of ci. Maiden 1995: 83
+f ˈi s i k o , f ˈi z i k o $physical. Italian fisico. learned; voiced sibilant. Latin from Greek. Maiden 1995: 83
+f ˈi s i k i , f ˈi z i t͡ʃ i $physical (m.pl.). Italian fisici. learned; palatalized plural from spelling-pronunciation. Maiden 1995: 83
+s ˈi n d i k o , s ˈi n d a k o $mayor. Italian sindaco. learned; a for i unexplained. Latin from Greek. Maiden 1995: 83
+s ˈi n d i k i , s ˈi n d a t͡ʃ i $mayors. Italian sindaci. learned; palatalized plural from spelling-pronunciation. Maiden 1995: 83
+m ˈa ɡ o , m ˈa ɡ o $wizard. Italian mago. learned. Latin from Greek/Persian. Maiden 1995: 83
+m ˈa ɡ i , m ˈa d͡ʒ i $the Magi. Italian Magi. learned; plural of mago 'wizard' is maghi. Maiden 1995: 83
+
+ˌa s p ˈa r a ɡ o , a s p ˈa r a ɡ o $asparagus. Italian asparago. learned. Latin from Greek. Maiden 1995: 83
+ˌa s p ˈa r a ɡ i , a s p ˈa r a d͡ʒ i $asparagus (pl.). Italian asparagi. learned; palatalized plural. Maiden 1995: 83
+b ˈɛ l ɡ a , b ˈɛ l ɡ a $Belgian. Italian belga. learned. Maiden 1995: 83
+$b ˈe l ɡ a e , b ˈɛ l d͡ʒ i $Belgians. Italian belgi. learned; palatalized plural, but Italian -i not from Latin -ae. Maiden 1995: 83
+
+$ --- sec. 7.2.1, voiced intervocalic sibilant in learned words (p. 63)
+k w ˈa s i , k w ˈa z i $almost. Italian quasi. learned; voiced sibilant. Maiden 1995: 63
+f ˈi s i k a , f ˈi z i k a $physics. Italian fisica. learned; voiced sibilant. Latin from Greek. Maiden 1995: 63
+f ˌa n t a s ˈi a , f a n t a z ˈi a $fantasy. Italian fantasia. learned; voiced sibilant; Italian stress follows Greek, not Latin. Maiden 1995: 63
+
+$ --- Ch.3, nouns, adjectives and verbs
+s ˈɛ r i e , s ˈɛ r j e $series. Italian serie. learned; from CL fifth-declension nominative; invariable plural. Maiden 1995: 101
+k ˌo n ɡ ˈɛ r i e , k o n d͡ʒ ˈɛ r j e $heap, congeries. Italian congerie. learned; from CL fifth-declension nominative; invariable plural. Maiden 1995: 101
+s ˌu p e r f ˈi k i e , s u p e r f ˈi t͡ʃ e $surface. Italian superficie. learned; from CL fifth-declension nominative; plural superfici also admitted. Maiden 1995: 101
+s p ˈɛ k i eː s , s p ˈɛ t͡ʃ e $species. Italian specie. learned; from CL fifth-declension nominative; plural speci also admitted. Maiden 1995: 101
+d ˈɛ i , d ˈɛ i $gods. Italian dei. learned plural of dio. Maiden 1995: 104
+p ˈɛ s s i m o , p ˈɛ sː i m o $very bad. Italian pessimo. learned; continues CL superlative. Maiden 1995: 112
+ˈɔ p t i m o , ˈɔ tː i m o $excellent. Italian ottimo. learned; continues CL superlative. Maiden 1995: 112
+m ˈa k s i m o , m ˈa sː i m o $greatest. Italian massimo. learned; continues CL superlative. Maiden 1995: 112
+m ˈi n i m o , m ˈi n i m o $least. Italian minimo. learned; continues CL superlative. Maiden 1995: 112
+ˌe k s ˈa k t o , e z ˈa tː o $verb, demand, past participle. Italian esatto. learned imitation of CL EXACTUS. Maiden 1995: 127
+s k ˈi s s o , ʃ ˈi sː o $verb, cleave, past participle. Italian scisso. learned imitation of CL SCISSUS. Maiden 1995: 127
+ˌe k s p ˈu l s o , e s p ˈu l s o $verb, expel, past participle. Italian espulso. learned imitation of CL EXPULSUS. Maiden 1995: 127
+ˌe k s ˌi s t ˈi t o , e z i s t ˈi t o $verb, exist, past participle. Italian esistito. learned imitation of Maiden's EXISTITUS (CL exstitum). Italian stress is on -ito. Maiden 1995: 127
+k ˌo n s ˈi s t i t o , k o n s i s t ˈi t o $verb, consist, past participle. Italian consistito. learned imitation of Maiden's CONSISTITUS (CL constitum). Italian stress is on -ito. Maiden 1995: 127
+l ˌi b ˈɛ r k u l o , l i b ˈɛ r k o l o $booklet. Italian libercolo. learned -colo; Maiden's LIBERCULUM (CL libellus). Maiden 1995: 196 n. 93
+ˌo p ˈu s k u l o , o p ˈu s k o l o $pamphlet. Italian opuscolo. learned -colo. Maiden 1995: 196 n. 93
+n ˌo n o b s t ˈa n t e , n o n o s t ˈa n t e $notwithstanding. Italian nonostante. probably learned, from the phrase NON OBSTANTE. Maiden 1995: 203
+
+$ --- Ch.5, learned TI in southern regional Italian (p. 257); standard has long z in all four
+ˌa k t i ˈo n e , a t͡sː j ˈo n e $action. Italian azione. learned. Maiden 1995: 257
+k ˌo n k e p t i ˈo n e , k o n t͡ʃ e t͡sː j ˈo n e $conception. Italian concezione. learned; pt lost. Maiden 1995: 257
+n ˌa t i ˈo n e , n a t͡sː j ˈo n e $nation. Italian nazione. learned. Maiden 1995: 257
+s t ˌa t i ˈo n e , s t a t͡sː j ˈo n e $station. Italian stazione. learned. Maiden 1995: 257
+
+
+$ TOO RECENT BELOW: 
+$ˈɛ t n i k o , ˈɛ t n i k o $ethnic. Italian etnico. learned; tn kept. Late Latin ethnicus 'heathen', from Greek. Maiden 1995: 249
+$kʰ ˌi r ˈu r ɡ o , k i r ˈu r ɡ o $surgeon. Italian chirurgo. learned. Latin from Greek. Maiden 1995: 83
+$kʰ ˌi r ˈu r ɡ i , k i r ˈu r d͡ʒ i $surgeons. Italian chirurgi. learned; palatalized plural; also chirurghi. Maiden 1995: 83
+
+$ OTHERWISE uncertain
+$ unclear if from a dialect. Lacks open ɛ typical of learned borrwoings t ˈe ɡ u l a , t ˈe ɡ o l a $tile. Italian tegola. learned or semi-learned. popular doublet tegghia. Maiden 1995: 45
