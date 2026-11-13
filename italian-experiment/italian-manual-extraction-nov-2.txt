@@ -83,15 +83,15 @@ s t j > ʃ t͡ʃ
 $ 6.1b -- ʝ < palatalized g lost before stressed front vowels "sometimes". All examples are in lo __ e. Going with that. Bleeds 6.1c
 ʝ > ∅ / [+lo] __ [+front,+prim,-lo] 
 
-$6.1c -- where 6.1b doesn't apply, ʝ becomes d͡ʒ initially, and d͡ʒː intervocalically
-ʝ > d͡ʒː / [-cons] __ [+syl]
-
 $ 8.1a Italo-Romance (and Sardinian) gemination of consonants before j, w. 
     $ in Maiden's formulation, precedes palatalization of ʎ 5.2a -- alternatively can have the lj > ʎʎ but this isn't what happend
         $ even though gemination regular lost, not in Western Romance proper: aqua > Fr eau, Sp agua vs Italian acqua etc. 
     $ counterbled by 5.1a, 
         $likely counterfed by 4.2a 
 {p;b;m;t;d;n;l;r;k,ɡ} > {p p;b b;m m;t t;d d;n n;l l;r r;k k;ɡ ɡ} / __ [+hi,-syl,-cons] 
+
+$6.1d lʝ > ʎ by way of j
+ʝ > j / l __
 
 $ 5.2a palatalization of consonants by j-- palatal coalescence. 
     $ some whole clusters palatalized: nnj, ngj, nkj 
@@ -147,6 +147,9 @@ $5.3.a.2 palatalization of velar fricatives before coronals. -jn- and -js- survi
 = Proto-Italo-Romance
 
 
+$6.2a s > ʃ before ˈi in certain cases. At least partially shared with Capestranese.
+{s;sː} > {ʃ;ʃː} / __ ˈi
+
 $ 5.3.a.3  -- palatalization of velar elements before n, s. Causes palatalization. -jn- preserved in some Neapolitan. Bled by kt ( > xt) > tt. Doesn't seem to occur for the far south --- gn > wn instead there. 
 [+back,+cons,+cont] > j
 
@@ -155,6 +158,11 @@ s > ʃ / # ([-ant])* j __
 
 $ 5.3.a.5 -- j absorbed by following s or ʃ 
 j [+strid] > ∅ [+long]
+
+
+$6.1c -- where 6.1b doesn't apply, ʝ becomes d͡ʒ initially, and d͡ʒː intervocalically. Also handles n ʝ > nd͡ʒ and rʝ > 
+ʝ > d͡ʒː / [-cons] __ [+syl]
+ʝ > d͡ʒː
 
 $ 3.3a Italo-Romance l > j post-obstruent(?)-- he says tautosyllabic which may effectively mean this
     $in Abruzzo, post-Italo-Romance: limited to kl/gl in Abruzzo
