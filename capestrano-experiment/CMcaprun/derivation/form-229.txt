@@ -1,10 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 229:
-#lˌaksˈaː# >>> *#laʃːˈa# ( GOLD : #lasːˈa#) :
-l ˌa k s ˈaː 
-Proto-Romance stage form : *#lˌaksˈaː#
-*#lˌasːˈaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#lˌasːˈa# | 30 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#lˌasːˈa#
-*#lˌaʃːˈa# | 101 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#laʃːˈa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#laʃːˈa#
+#lˈakrimam# >>> *#lˈakɾəma# ( GOLD : #lˈakɾəma#) :
+l ˈa k r i m a m 
+Proto-Romance stage form : *#lˈakrimam#
+*#lˈakrɪmam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#lˈakrɪmam#
+*#lˈakriːmam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#lˈakrimam# | 30 : [+syl] > [-long,-splng] 
+*#lˈakrima# | 37 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#lˈakrima#
+Middle Pre-Capestranese stage form : *#lˈakrima#
+*#lˈakrəma# | 107 : [-stres,-lo] > ə 
+*#lˈakɾəma# | 117 : r > ɾ 
+Final form : *#lˈakɾəma#

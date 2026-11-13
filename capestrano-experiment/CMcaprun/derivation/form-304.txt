@@ -1,15 +1,24 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 304:
-#ˌinimˈiːkum# >>> *#nəmˈikə# ( GOLD : #nəmːˈikə#) :
-ˌi n i m ˈiː k u m 
-Proto-Romance stage form : *#ˌinimˈiːkum#
-*#ˌɪnɪmˈiːkʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪniːmˈiːkʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌɪnimˈikʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˌɪnimˈikʊ# | 37 : [+cons] > ∅ / __ #
-*#ˌenimˈikʊ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenimˈiku# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌenimˈiku#
-*#ənimˈiku# | 85 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#nimˈiku# | 89 : ə > ∅ / # __
-*#nəmˈikə# | 106 : [-stres,-lo] > ə 
-Final form : *#nəmˈikə#
+#ˌinˌeːbriaːkˈoːnem# >>> *#imːɾjakˈonə# ( GOLD : #mbɾiakˈonə#) :
+ˌi n ˌeː b r i aː k ˈoː n e m 
+*#ˌinˌeːbrjaːkˈoːnem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌinˌeːbrjaːkˈoːnem#
+*#ˌɪnˌeːbrjaːkˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɪnˌeːbrjaːkˈoːnɛm#
+*#ˌɪnˌebrjakˈonɛm# | 30 : [+syl] > [-long,-splng] 
+*#ˌɪnˌebrʲakˈonɛm# | 32 : r j > rʲ 
+*#ˌɪnˌebrʲakˈonɛ# | 37 : [+cons] > ∅ / __ #
+*#ˌɪnbrʲakˈonɛ# | 57 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#ˌenbrʲakˈonɛ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenbrʲakˈone# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌenvrʲakˈone# | 76 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#ˌenvrʲakˈone#
+*#ənvrʲakˈone# | 87 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ˌinvrʲakˈone# | 88 : ə > ˌi / __ n [+cons,+lab,+voi]
+Middle Pre-Capestranese stage form : *#ˌinvrʲakˈone#
+*#ˌinvrjakˈone# | 94 : rʲ > r j / [+cons] __
+*#ˌimːrjakˈone# | 99 : n v > mː 
+*#ˌimːrjakˈonə# | 107 : [-stres,-lo] > ə 
+*#ˌimːɾjakˈonə# | 117 : r > ɾ 
+*#imːɾjakˈonə# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#imːɾjakˈonə#

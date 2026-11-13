@@ -1,9 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 288:
-#jˌakˈeː# >>> *#jat͡ʃˈe# ( GOLD : #jat͡ʃˈe#) :
-j ˌa k ˈeː 
-Proto-Romance stage form : *#jˌakˈeː#
-*#jˌat͡ʃˈeː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#jˌat͡ʃˈe# | 30 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#jˌat͡ʃˈe#
-*#jat͡ʃˈe# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#jat͡ʃˈe#
+#jˌaktˈaː# >>> *#jətːˈa# ( GOLD : #jətːˈa#) :
+j ˌa k t ˈaː 
+Proto-Romance stage form : *#jˌaktˈaː#
+Early Pre-Capestranese stage form : *#jˌaktˈaː#
+*#jˌatːˈaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#jˌatːˈa# | 30 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#jˌatːˈa#
+Middle Pre-Capestranese stage form : *#jˌatːˈa#
+*#jətːˈa# | 123 : [-prim] > ə / # j __ [+cons,-front]
+Final form : *#jətːˈa#

@@ -1,21 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 610:
-#ɡˌenˈukulum# >>> *#jenˈokːjə# ( GOLD : #jenˈokːjə#) :
-ɡ ˌe n ˈu k u l u m 
-Proto-Romance stage form : *#ɡˌenˈukulum#
-*#ɡˌɛnˈʊkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˌɛnˈʊkʊlʊm# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˌɛnˈʊkʊlʊm# | 19 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-*#jˌɛnˈʊkʊlʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#jˌɛnˈʊklʊm# | 29 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
-*#jˌɛnˈʊklʊ# | 37 : [+cons] > ∅ / __ #
-*#jˌenˈʊklʊ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
-*#jˌenˈʊklu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˌenˈoklu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#jˌenˈokʎu# | 72 : l > ʎ / [-son,-cor] __
-*#jˌenˈokːʎu# | 74 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
-Proto-South-Italo-Romance stage form : *#jˌenˈokːʎu#
-*#jˌenˈokːʎə# | 106 : [-stres,-lo] > ə 
-*#jənˈokːʎə# | 118 : [-prim,-hi,-lo] > ə 
-*#jənˈokːjə# | 119 : {ʎ;ʎː} > {j;jː} 
-*#jenˈokːjə# | 125 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#jenˈokːjə#
+#ɡˌelˈoːnem# >>> *#jelˈonə# ( GOLD : #jelˈonə#) :
+ɡ ˌe l ˈoː n e m 
+Proto-Romance stage form : *#ɡˌelˈoːnem#
+*#ɡˌɛlˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˌɛlˈoːnɛm# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛlˈoːnɛm# | 19 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+Early Pre-Capestranese stage form : *#ɡˌɛlˈoːnɛm#
+*#jˌɛlˈoːnɛm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#jˌɛlˈonɛm# | 30 : [+syl] > [-long,-splng] 
+*#jˌɛlˈonɛ# | 37 : [+cons] > ∅ / __ #
+*#jˌelˈonɛ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#jˌelˈone# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jˌelˈone#
+Middle Pre-Capestranese stage form : *#jˌelˈone#
+*#jˌelˈonə# | 107 : [-stres,-lo] > ə 
+*#jəlˈonə# | 119 : [-prim,-hi,-lo] > ə 
+*#jelˈonə# | 126 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#jelˈonə#

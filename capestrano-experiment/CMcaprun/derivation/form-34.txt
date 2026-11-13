@@ -1,11 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 34:
-#tˈabulam# >>> *#tˈavəla# ( GOLD : #tˈavəla#) :
-t ˈa b u l a m 
-Proto-Romance stage form : *#tˈabulam#
-*#tˈabʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˈabʊla# | 37 : [+cons] > ∅ / __ #
-*#tˈabula# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tˈavula# | 75 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#tˈavula#
-*#tˈavəla# | 106 : [-stres,-lo] > ə 
-Final form : *#tˈavəla#
+#tˈostum# >>> *#tˈostə# ( GOLD : #tˈɔʃtə#) :
+t ˈo s t u m 
+Proto-Romance stage form : *#tˈostum#
+*#tˈɔstʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#tˈɔstʊm#
+*#tˈɔstʊ# | 37 : [+cons] > ∅ / __ #
+*#tˈɔstu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tˈostu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#tˈostu#
+Middle Pre-Capestranese stage form : *#tˈostu#
+*#tˈostə# | 107 : [-stres,-lo] > ə 
+Final form : *#tˈostə#

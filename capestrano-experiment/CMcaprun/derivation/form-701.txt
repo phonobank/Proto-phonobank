@@ -1,12 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 701:
-#ˈossum# >>> *#ˈosːə# ( GOLD : #ˈosːə#) :
-ˈo s s u m 
-Proto-Romance stage form : *#ˈossum#
-*#ˈɔssʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔssʊ# | 37 : [+cons] > ∅ / __ #
-*#ˈɔssu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈossu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˈosːu# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#ˈosːu#
-*#ˈosːə# | 106 : [-stres,-lo] > ə 
-Final form : *#ˈosːə#
+#ˈoleum# >>> *#ˈojːə# ( GOLD : #ˈɔjːə#) :
+ˈo l e u m 
+*#ˈoljum# | 11 : e > j / __ [+back,-cons]
+Proto-Romance stage form : *#ˈoljum#
+*#ˈɔljʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈɔljʊm#
+*#ˈɔʎːʊm# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#ˈɔʎːʊ# | 37 : [+cons] > ∅ / __ #
+*#ˈɔʎːu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈoʎːu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈoʎːu#
+Middle Pre-Capestranese stage form : *#ˈoʎːu#
+*#ˈoʎːə# | 107 : [-stres,-lo] > ə 
+*#ˈojːə# | 120 : {ʎ;ʎː} > {j;jː} 
+Final form : *#ˈojːə#

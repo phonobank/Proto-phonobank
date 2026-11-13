@@ -1,9 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 491:
-#kˈaneːs# >>> *#kˈanə# ( GOLD : #kˈenə#) :
-k ˈa n eː s 
-Proto-Romance stage form : *#kˈaneːs#
-*#kˈanes# | 30 : [+syl] > [-long,-splng] 
-*#kˈane# | 37 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#kˈane#
-*#kˈanə# | 106 : [-stres,-lo] > ə 
-Final form : *#kˈanə#
+#kˌaldˈaːriam# >>> *#kaldˈaɾa# ( GOLD : #kalːˈaɾa#) :
+k ˌa l d ˈaː r i a m 
+*#kˌaldˈaːrjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌaldˈaːrjam#
+Early Pre-Capestranese stage form : *#kˌaldˈaːrjam#
+*#kˌaldˈarjam# | 30 : [+syl] > [-long,-splng] 
+*#kˌaldˈarʲam# | 32 : r j > rʲ 
+*#kˌaldˈarʲa# | 37 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˌaldˈarʲa#
+Middle Pre-Capestranese stage form : *#kˌaldˈarʲa#
+*#kˌaldˈara# | 95 : rʲ > r 
+*#kˌaldˈaɾa# | 117 : r > ɾ 
+*#kaldˈaɾa# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaldˈaɾa#

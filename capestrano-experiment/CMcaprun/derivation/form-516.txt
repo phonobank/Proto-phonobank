@@ -1,9 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 516:
-#kˈawsam# >>> *#kˈosa# ( GOLD : #kˈosa#) :
-k ˈa w s a m 
-Proto-Romance stage form : *#kˈawsam#
-*#kˈawsa# | 37 : [+cons] > ∅ / __ #
-*#kˈowsa# | 70 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#kˈowsa#
-*#kˈosa# | 95 : w > ∅ / [+round] __ [+cons]
-Final form : *#kˈosa#
+#kˌawˈeolam# >>> *#kavjˈola# ( GOLD : #kajˈola#) :
+k ˌa w ˈe o l a m 
+*#kˌaweˈolam# | 7 : [+prim,+front] o > [-stres,-prim,+syl,+son] ˈo/ __ l [-stres]
+*#kˌawjˈolam# | 11 : e > j / __ [+back,-cons]
+Proto-Romance stage form : *#kˌawjˈolam#
+*#kˌawjˈɔlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˌawjˈɔlam#
+*#kˌawjˈɔla# | 37 : [+cons] > ∅ / __ #
+*#kˌavjˈɔla# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#kˌavjˈola# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌavjˈola#
+Middle Pre-Capestranese stage form : *#kˌavjˈola#
+*#kavjˈola# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kavjˈola#

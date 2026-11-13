@@ -1,16 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 294:
-#jˌunktˈuːram# >>> *#jəŋdˈuɾa# ( GOLD : #ɟundˈuɾa#) :
-j ˌu n k t ˈuː r a m 
-*#jˌuŋktˈuːram# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#jˌuŋktˈuːram#
-*#jˌʊŋktˈuːram# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˌʊŋtːˈuːram# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#jˌʊŋtːˈuram# | 30 : [+syl] > [-long,-splng] 
-*#jˌʊŋtːˈura# | 37 : [+cons] > ∅ / __ #
-*#jˌʊŋtˈura# | 39 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#jˌuŋtˈura# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#jˌuŋtˈura#
-*#jˌuŋdˈura# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#jˌuŋdˈuɾa# | 116 : r > ɾ 
-*#jəŋdˈuɾa# | 122 : [-prim] > ə / # j __ [+cons,-front]
-Final form : *#jəŋdˈuɾa#
+#jˈuːlium# >>> *#jˈujːə# ( GOLD : #lˈujːə#) :
+j ˈuː l i u m 
+*#jˈuːljum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#jˈuːljum#
+*#jˈuːljʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#jˈuːljʊm#
+*#jˈuljʊm# | 30 : [+syl] > [-long,-splng] 
+*#jˈuʎːʊm# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#jˈuʎːʊ# | 37 : [+cons] > ∅ / __ #
+*#jˈuʎːu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jˈuʎːu#
+Middle Pre-Capestranese stage form : *#jˈuʎːu#
+*#jˈuʎːə# | 107 : [-stres,-lo] > ə 
+*#jˈujːə# | 120 : {ʎ;ʎː} > {j;jː} 
+Final form : *#jˈujːə#

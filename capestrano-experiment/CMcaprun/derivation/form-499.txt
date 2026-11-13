@@ -1,16 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 499:
-#kˌalkˈaːriam# >>> *#kaləkˈaɾa# ( GOLD : #kaləkˈaɾa#) :
-k ˌa l k ˈaː r i a m 
-*#kˌalkˈaːrjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌalkˈaːrjam#
-*#kˌalˠkˈaːrjam# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
-*#kˌalˠkˈarjam# | 30 : [+syl] > [-long,-splng] 
-*#kˌalˠkˈarʲam# | 32 : r j > rʲ 
-*#kˌalˠkˈarʲa# | 37 : [+cons] > ∅ / __ #
-*#kˌalˠəkˈarʲa# | 46 : ∅ > ə / lˠ __ [-syl]
-*#kˌaləkˈarʲa# | 49 : lˠ > l 
-Proto-South-Italo-Romance stage form : *#kˌaləkˈarʲa#
-*#kˌaləkˈara# | 94 : rʲ > r 
-*#kˌaləkˈaɾa# | 116 : r > ɾ 
-*#kaləkˈaɾa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kaləkˈaɾa#
+#kˈartaːs# >>> *#kˈaɾta# ( GOLD : #kˈaɾtə#) :
+k ˈa r t aː s 
+Proto-Romance stage form : *#kˈartaːs#
+Early Pre-Capestranese stage form : *#kˈartaːs#
+*#kˈartas# | 30 : [+syl] > [-long,-splng] 
+*#kˈarta# | 37 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˈarta#
+Middle Pre-Capestranese stage form : *#kˈarta#
+*#kˈaɾta# | 117 : r > ɾ 
+Final form : *#kˈaɾta#

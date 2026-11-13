@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 957:
-#mˈaːnsum# >>> *#mˈand͡zə# ( GOLD : #mˈand͡zə#) :
-m ˈaː n s u m 
-Proto-Romance stage form : *#mˈaːnsum#
-*#mˈaːnsʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈansʊm# | 30 : [+syl] > [-long,-splng] 
-*#mˈansʊ# | 37 : [+cons] > ∅ / __ #
-*#mˈansu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˈansu#
-*#mˈansə# | 106 : [-stres,-lo] > ə 
-*#mˈand͡zə# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#mˈand͡zə#
+#mˈale# >>> *#mˈalə# ( GOLD : #mˈalə#) :
+m ˈa l e 
+Proto-Romance stage form : *#mˈale#
+*#mˈalɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˈalɛ#
+*#mˈale# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈale#
+Middle Pre-Capestranese stage form : *#mˈale#
+*#mˈalə# | 107 : [-stres,-lo] > ə 
+Final form : *#mˈalə#

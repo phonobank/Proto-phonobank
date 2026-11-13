@@ -1,19 +1,21 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 312:
-#ˌinflˌoːrˈiː# >>> *#mbjuɾˈi# ( GOLD : #mbjuɾˈi#) :
-ˌi n f l ˌoː r ˈiː 
-*#ˌimflˌoːrˈiː# | 0 : n > m / __ [+lab,+cons]
-Proto-Romance stage form : *#ˌimflˌoːrˈiː#
-*#ˌɪmflˌoːrˈiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌiːmflˌoːrˈiː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌimflˌorˈi# | 30 : [+syl] > [-long,-splng] 
-*#ˌimfʎˌorˈi# | 72 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌimfʎˌorˈi#
-*#əmfʎˌorˈi# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#mfʎˌorˈi# | 89 : ə > ∅ / # __
-*#mfʎˌurˈi# | 103 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#mb͡vʎˌurˈi# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbʎˌurˈi# | 109 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
-*#mbʎˌuɾˈi# | 116 : r > ɾ 
-*#mbjˌuɾˈi# | 119 : {ʎ;ʎː} > {j;jː} 
-*#mbjuɾˈi# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#mbjuɾˈi#
+#ˌinfˈernum# >>> *#mbˈeɾnə# ( GOLD : #mvˈɛɾnə#) :
+ˌi n f ˈe r n u m 
+*#ˌimfˈernum# | 0 : n > m / __ [+lab,+cons]
+Proto-Romance stage form : *#ˌimfˈernum#
+*#ˌɪmfˈɛrnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɪmfˈɛrnʊm#
+*#ˌiːmfˈɛrnʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌimfˈɛrnʊm# | 30 : [+syl] > [-long,-splng] 
+*#ˌimfˈɛrnʊ# | 37 : [+cons] > ∅ / __ #
+*#ˌimfˈɛrnu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌimfˈernu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌimfˈernu#
+*#əmfˈernu# | 87 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#mfˈernu# | 90 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#mfˈernu#
+*#mfˈernə# | 107 : [-stres,-lo] > ə 
+*#mb͡vˈernə# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbˈernə# | 110 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#mbˈeɾnə# | 117 : r > ɾ 
+Final form : *#mbˈeɾnə#

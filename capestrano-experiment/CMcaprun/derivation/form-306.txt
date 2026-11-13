@@ -1,21 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 306:
-#ˌinklˈawstrum# >>> *#ŋɡjˈostɾə# ( GOLD : #ɲˈɔstɾə#) :
-ˌi n k l ˈa w s t r u m 
-*#ˌiŋklˈawstrum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#ˌiŋklˈawstrum#
-*#ˌɪŋklˈawstrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌiːŋklˈawstrʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌiŋklˈawstrʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˌiŋklˈawstrʊ# | 37 : [+cons] > ∅ / __ #
-*#ˌiŋklˈawstru# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌiŋklˈowstru# | 70 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-*#ˌiŋkʎˈowstru# | 72 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌiŋkʎˈowstru#
-*#əŋkʎˈowstru# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#ŋkʎˈowstru# | 89 : ə > ∅ / # __
-*#ŋkʎˈostru# | 95 : w > ∅ / [+round] __ [+cons]
-*#ŋkʎˈostrə# | 106 : [-stres,-lo] > ə 
-*#ŋɡʎˈostrə# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#ŋɡʎˈostɾə# | 116 : r > ɾ 
-*#ŋɡjˈostɾə# | 119 : {ʎ;ʎː} > {j;jː} 
-Final form : *#ŋɡjˈostɾə#
+#ˌinkˈontraː# >>> *#ŋɡˈɔndɾa# ( GOLD : #ŋɡˈondɾa#) :
+ˌi n k ˈo n t r aː 
+*#ˌiŋkˈontraː# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˌiŋkˈontraː#
+*#ˌɪŋkˈɔntraː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɪŋkˈɔntraː#
+*#ˌiːŋkˈɔntraː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌiŋkˈɔntra# | 30 : [+syl] > [-long,-splng] 
+*#ˌiŋkˈɞˤntra# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˌiŋkˈɔntra# | 78 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#ˌiŋkˈɔntra#
+*#əŋkˈɔntra# | 87 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ŋkˈɔntra# | 90 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#ŋkˈɔntra#
+*#ŋɡˈɔndra# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ŋɡˈɔndɾa# | 117 : r > ɾ 
+Final form : *#ŋɡˈɔndɾa#

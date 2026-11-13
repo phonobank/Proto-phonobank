@@ -1,11 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 656:
-#wˌestˈiː# >>> *#vəstˈi# ( GOLD : #vəstˈi#) :
-w ˌe s t ˈiː 
-Proto-Romance stage form : *#wˌestˈiː#
-*#wˌɛstˈiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#wˌɛstˈi# | 30 : [+syl] > [-long,-splng] 
-*#vˌɛstˈi# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#vˌestˈi# | 60 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#vˌestˈi#
-*#vəstˈi# | 118 : [-prim,-hi,-lo] > ə 
-Final form : *#vəstˈi#
+#wˌeːssˈiːka# >>> *#vesːˈika# ( GOLD : #veʃˈika#) :
+w ˌeː s s ˈiː k a 
+Proto-Romance stage form : *#wˌeːssˈiːka#
+Early Pre-Capestranese stage form : *#wˌeːssˈiːka#
+*#wˌessˈika# | 30 : [+syl] > [-long,-splng] 
+*#vˌessˈika# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+*#vˌesːˈika# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#vˌesːˈika#
+Middle Pre-Capestranese stage form : *#vˌesːˈika#
+*#vəsːˈika# | 119 : [-prim,-hi,-lo] > ə 
+*#vesːˈika# | 127 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
+Final form : *#vesːˈika#

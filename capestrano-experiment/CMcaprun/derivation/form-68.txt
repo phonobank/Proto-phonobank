@@ -1,11 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 68:
-#dˈominam# >>> *#dˈɔmna# ( GOLD : #dˈonːa#) :
-d ˈo m i n a m 
-Proto-Romance stage form : *#dˈominam#
-*#dˈɔmɪnam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈɔmɪna# | 37 : [+cons] > ∅ / __ #
-*#dˈɔmna# | 43 : [+hi,-stres] > ∅ / [+round,+syl] ( [+son,-syl] ) [+lab,-syl,-long] __ [nnas,nvoi,+cor,-front] [+syl]
-*#dˈɞˤmna# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#dˈɔmna# | 77 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#dˈɔmna#
-Final form : *#dˈɔmna#
+#dˌomˈinulam# >>> *#dəmˈenəla# ( GOLD : #dˈonːəla#) :
+d ˌo m ˈi n u l a m 
+Proto-Romance stage form : *#dˌomˈinulam#
+*#dˌɔmˈɪnʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#dˌɔmˈɪnʊlam#
+*#dˌɔmˈɪnʊla# | 37 : [+cons] > ∅ / __ #
+*#dˌomˈɪnula# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dˌomˈenula# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#dˌomˈenula#
+Middle Pre-Capestranese stage form : *#dˌomˈenula#
+*#dˌomˈenəla# | 107 : [-stres,-lo] > ə 
+*#dəmˈenəla# | 119 : [-prim,-hi,-lo] > ə 
+Final form : *#dəmˈenəla#

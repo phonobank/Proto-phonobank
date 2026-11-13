@@ -1,8 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 392:
-#ˈaka# >>> *#ˈaka# ( GOLD : #ˈaka#) :
-ˈa k a 
-Proto-Romance stage form : *#ˈaka#
-Proto-South-Italo-Romance stage form : *#ˈaka#
-*#ˈakˌa# | 105 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈaka# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈaka#
+#ˌakwˈaːrium# >>> *#akwˈaɾə# ( GOLD : #akːwˈaɾə#) :
+ˌa k w ˈaː r i u m 
+*#ˌakwˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌakwˈaːrjum#
+*#ˌakwˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌakwˈaːrjʊm#
+*#ˌakwˈarjʊm# | 30 : [+syl] > [-long,-splng] 
+*#ˌakwˈarʲʊm# | 32 : r j > rʲ 
+*#ˌakwˈarʲʊ# | 37 : [+cons] > ∅ / __ #
+*#ˌakwˈarʲu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌakwˈarʲu#
+Middle Pre-Capestranese stage form : *#ˌakwˈarʲu#
+*#ˌakwˈaru# | 95 : rʲ > r 
+*#ˌakwˈarə# | 107 : [-stres,-lo] > ə 
+*#ˌakwˈaɾə# | 117 : r > ɾ 
+*#akwˈaɾə# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#akwˈaɾə#

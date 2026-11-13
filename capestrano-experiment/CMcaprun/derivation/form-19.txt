@@ -1,10 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 19:
-#tˌenˈeː# >>> *#tənˈe# ( GOLD : #tənˈe#) :
-t ˌe n ˈeː 
-Proto-Romance stage form : *#tˌenˈeː#
-*#tˌɛnˈeː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˌɛnˈe# | 30 : [+syl] > [-long,-splng] 
-*#tˌenˈe# | 60 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#tˌenˈe#
-*#tənˈe# | 118 : [-prim,-hi,-lo] > ə 
-Final form : *#tənˈe#
+#tˌenˈaːkula# >>> *#tənˈakwəla# ( GOLD : #tənˈajːa#) :
+t ˌe n ˈaː k u l a 
+Proto-Romance stage form : *#tˌenˈaːkula#
+*#tˌɛnˈaːkʊla# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#tˌɛnˈaːkʊla#
+*#tˌɛnˈakʊla# | 30 : [+syl] > [-long,-splng] 
+*#tˌɛnˈakwʊla# | 53 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#tˌenˈakwʊla# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#tˌenˈakwula# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#tˌenˈakwula#
+Middle Pre-Capestranese stage form : *#tˌenˈakwula#
+*#tˌenˈakwəla# | 107 : [-stres,-lo] > ə 
+*#tənˈakwəla# | 119 : [-prim,-hi,-lo] > ə 
+Final form : *#tənˈakwəla#

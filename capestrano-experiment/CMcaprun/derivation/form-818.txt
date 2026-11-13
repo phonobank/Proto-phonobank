@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 818:
-#pˌulmˈoːnem# >>> *#pulmˈonə# ( GOLD : #polmˈonə#) :
-p ˌu l m ˈoː n e m 
-Proto-Romance stage form : *#pˌulmˈoːnem#
-*#pˌʊlmˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌʊlmˈonɛm# | 30 : [+syl] > [-long,-splng] 
-*#pˌʊlmˈonɛ# | 37 : [+cons] > ∅ / __ #
-*#pˌulmˈonɛ# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˌulmˈone# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˌulmˈone#
-*#pˌulmˈonə# | 106 : [-stres,-lo] > ə 
-*#pulmˈonə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#pulmˈonə#
+#blˌaspheːmˈaː# >>> *#bjaspəmˈa# ( GOLD : #bjastəmˈa#) :
+b l ˌa s p h eː m ˈaː 
+*#blˌaspeːmˈaː# | 4 : h > ∅ 
+Proto-Romance stage form : *#blˌaspeːmˈaː#
+Early Pre-Capestranese stage form : *#blˌaspeːmˈaː#
+*#blˌaspemˈa# | 30 : [+syl] > [-long,-splng] 
+*#bʎˌaspemˈa# | 72 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#bʎˌaspemˈa#
+Middle Pre-Capestranese stage form : *#bʎˌaspemˈa#
+*#bʎˌaspəmˈa# | 107 : [-stres,-lo] > ə 
+*#bjˌaspəmˈa# | 120 : {ʎ;ʎː} > {j;jː} 
+*#bjaspəmˈa# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#bjaspəmˈa#

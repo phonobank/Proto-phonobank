@@ -1,14 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 831:
-#bˈellum# >>> *#bˈejːə# ( GOLD : #bːˈejːə#) :
-b ˈe l l u m 
-Proto-Romance stage form : *#bˈellum#
-*#bˈɛllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˈɛllʊ# | 37 : [+cons] > ∅ / __ #
-*#bˈɛllu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#bˈellu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#bˈelːu# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#bˈelːu#
-*#bˈeʎːu# | 96 : lː > ʎː / __ [+hi]
-*#bˈeʎːə# | 106 : [-stres,-lo] > ə 
-*#bˈejːə# | 119 : {ʎ;ʎː} > {j;jː} 
-Final form : *#bˈejːə#
+#bˈaːsium# >>> *#bˈaʃə# ( GOLD : #bːˈaʃə#) :
+b ˈaː s i u m 
+*#bˈaːsjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#bˈaːsjum#
+*#bˈaːsjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#bˈaːsjʊm#
+*#bˈasjʊm# | 30 : [+syl] > [-long,-splng] 
+*#bˈaʃʊm# | 34 : s j > ʃ 
+*#bˈaʃʊ# | 37 : [+cons] > ∅ / __ #
+*#bˈaʃu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#bˈaʃu#
+Middle Pre-Capestranese stage form : *#bˈaʃu#
+*#bˈaʃə# | 107 : [-stres,-lo] > ə 
+Final form : *#bˈaʃə#

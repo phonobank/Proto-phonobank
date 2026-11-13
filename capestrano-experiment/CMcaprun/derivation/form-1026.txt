@@ -1,21 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1026:
-#kˌondikiˈoːnem# >>> *#kunːet͡ʃjˈonə# ( GOLD : #kundit͡sjˈonə#) :
-k ˌo n d i k i ˈoː n e m 
-*#kˌondikjˈoːnem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌondikjˈoːnem#
-*#kˌɔndɪkjˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɔndɪt͡ʃjˈoːnɛm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#kˌɔndiːt͡ʃjˈoːnɛm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#kˌɔndit͡ʃjˈonɛm# | 30 : [+syl] > [-long,-splng] 
-*#kˌɔndit͡ʃjˈonɛ# | 37 : [+cons] > ∅ / __ #
-*#kˌondit͡ʃjˈonɛ# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌonːit͡ʃjˈonɛ# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#kˌonːit͡ʃjˈone# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kˌonːˌit͡ʃjˈone# | 81 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
-Proto-South-Italo-Romance stage form : *#kˌonːˌit͡ʃjˈone#
-*#kˌunːˌit͡ʃjˈone# | 103 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌunːit͡ʃjˈone# | 104 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#kˌunːət͡ʃjˈonə# | 106 : [-stres,-lo] > ə 
-*#kunːət͡ʃjˈonə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-*#kunːet͡ʃjˈonə# | 128 : ə > e / [+cor] __ t͡ʃ
-Final form : *#kunːet͡ʃjˈonə#
+#kˈoːpulam# >>> *#kˈopəla# ( GOLD : #kˈopːja#) :
+k ˈoː p u l a m 
+Proto-Romance stage form : *#kˈoːpulam#
+*#kˈoːpʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˈoːpʊlam#
+*#kˈopʊlam# | 30 : [+syl] > [-long,-splng] 
+*#kˈopʊla# | 37 : [+cons] > ∅ / __ #
+*#kˈopula# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈopula#
+Middle Pre-Capestranese stage form : *#kˈopula#
+*#kˈopəla# | 107 : [-stres,-lo] > ə 
+Final form : *#kˈopəla#

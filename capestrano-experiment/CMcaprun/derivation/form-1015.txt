@@ -1,15 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1015:
-#dˌomˈinikam# >>> *#dəmˈenɡa# ( GOLD : #dəmˈenəka#) :
-d ˌo m ˈi n i k a m 
-Proto-Romance stage form : *#dˌomˈinikam#
-*#dˌɔmˈɪnɪkam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˌɔmˈɪniːkam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#dˌɔmˈɪnikam# | 30 : [+syl] > [-long,-splng] 
-*#dˌɔmˈɪnika# | 37 : [+cons] > ∅ / __ #
-*#dˌɔmˈɪnka# | 57 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
-*#dˌomˈɪnka# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dˌomˈenka# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#dˌomˈenka#
-*#dˌomˈenɡa# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#dəmˈenɡa# | 118 : [-prim,-hi,-lo] > ə 
-Final form : *#dəmˈenɡa#
+#rˌosˈaːria# >>> *#ɾəsˈaɾa# ( GOLD : #ɾusˈaɾja#) :
+r ˌo s ˈaː r i a 
+*#rˌosˈaːrja# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#rˌosˈaːrja#
+*#rˌɔsˈaːrja# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#rˌɔsˈaːrja#
+*#rˌɔsˈarja# | 30 : [+syl] > [-long,-splng] 
+*#rˌɔsˈarʲa# | 32 : r j > rʲ 
+*#rˌosˈarʲa# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#rˌosˈarʲa#
+Middle Pre-Capestranese stage form : *#rˌosˈarʲa#
+*#rˌosˈara# | 95 : rʲ > r 
+*#ɾˌosˈaɾa# | 117 : r > ɾ 
+*#ɾəsˈaɾa# | 119 : [-prim,-hi,-lo] > ə 
+Final form : *#ɾəsˈaɾa#

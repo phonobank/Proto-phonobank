@@ -1,11 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 921:
-#fˈokum# >>> *#fˈokə# ( GOLD : #fˈokə#) :
-f ˈo k u m 
-Proto-Romance stage form : *#fˈokum#
-*#fˈɔkʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈɔkʊ# | 37 : [+cons] > ∅ / __ #
-*#fˈɔku# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#fˈoku# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#fˈoku#
-*#fˈokə# | 106 : [-stres,-lo] > ə 
-Final form : *#fˈokə#
+#fˈundum# >>> *#fˈunːə# ( GOLD : #fˈunːə#) :
+f ˈu n d u m 
+Proto-Romance stage form : *#fˈundum#
+*#fˈʊndʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#fˈʊndʊm#
+*#fˈʊndʊ# | 37 : [+cons] > ∅ / __ #
+*#fˈʊndu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fˈʊnːu# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#fˈunːu# | 66 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
+Proto-South-Italo-Romance stage form : *#fˈunːu#
+Middle Pre-Capestranese stage form : *#fˈunːu#
+*#fˈunːə# | 107 : [-stres,-lo] > ə 
+Final form : *#fˈunːə#

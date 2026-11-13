@@ -1,13 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 482:
-#kˈaːseum# >>> *#kˈaʃə# ( GOLD : #kˈaʃə#) :
-k ˈaː s e u m 
-*#kˈaːsjum# | 11 : e > j / __ [+back,-cons]
-Proto-Romance stage form : *#kˈaːsjum#
-*#kˈaːsjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈasjʊm# | 30 : [+syl] > [-long,-splng] 
-*#kˈaʃʊm# | 34 : s j > ʃ 
-*#kˈaʃʊ# | 37 : [+cons] > ∅ / __ #
-*#kˈaʃu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˈaʃu#
-*#kˈaʃə# | 106 : [-stres,-lo] > ə 
-Final form : *#kˈaʃə#
+#kˌantˈaː# >>> *#kandˈa# ( GOLD : #kandˈa#) :
+k ˌa n t ˈaː 
+Proto-Romance stage form : *#kˌantˈaː#
+Early Pre-Capestranese stage form : *#kˌantˈaː#
+*#kˌantˈa# | 30 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#kˌantˈa#
+Middle Pre-Capestranese stage form : *#kˌantˈa#
+*#kˌandˈa# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kandˈa# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kandˈa#

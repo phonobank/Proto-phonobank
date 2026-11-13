@@ -1,16 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 699:
-#ˌumbilˈicum# >>> *#mːəlˈicə# ( GOLD : #mːəjːˈikə#) :
-ˌu m b i l ˈi c u m 
-Proto-Romance stage form : *#ˌumbilˈicum#
-*#ˌʊmbɪlˈɪcʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌʊmbɪlˈiːcʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌʊmbɪlˈicʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˌʊmbɪlˈicʊ# | 37 : [+cons] > ∅ / __ #
-*#ˌumbɪlˈicu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌumːɪlˈicu# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#ˌumːelˈicu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌumːelˈicu#
-*#əmːelˈicu# | 85 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#mːelˈicu# | 89 : ə > ∅ / # __
-*#mːəlˈicə# | 106 : [-stres,-lo] > ə 
-Final form : *#mːəlˈicə#
+#ˈossum# >>> *#ˈosːə# ( GOLD : #ˈosːə#) :
+ˈo s s u m 
+Proto-Romance stage form : *#ˈossum#
+*#ˈɔssʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈɔssʊm#
+*#ˈɔssʊ# | 37 : [+cons] > ∅ / __ #
+*#ˈɔssu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈossu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈosːu# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#ˈosːu#
+Middle Pre-Capestranese stage form : *#ˈosːu#
+*#ˈosːə# | 107 : [-stres,-lo] > ə 
+Final form : *#ˈosːə#

@@ -1,17 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 709:
-#ˌoktˈoːbrem# >>> *#tːˈobːɾə# ( GOLD : #otːˈɔbɾə#) :
-ˌo k t ˈoː b r e m 
-Proto-Romance stage form : *#ˌoktˈoːbrem#
-*#ˌɔktˈoːbrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɔtːˈoːbrɛm# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɔtːˈobrɛm# | 30 : [+syl] > [-long,-splng] 
-*#ˌɔtːˈobrɛ# | 37 : [+cons] > ∅ / __ #
-*#ˌotːˈobrɛ# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌotːˈobre# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌotːˈobːre# | 73 : b > bː / [-cons] __ r
-Proto-South-Italo-Romance stage form : *#ˌotːˈobːre#
-*#ətːˈobːre# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#tːˈobːre# | 89 : ə > ∅ / # __
-*#tːˈobːrə# | 106 : [-stres,-lo] > ə 
-*#tːˈobːɾə# | 116 : r > ɾ 
-Final form : *#tːˈobːɾə#
+#ˈokulum# >>> *#ˈokːjə# ( GOLD : #ˈɔkːjə#) :
+ˈo k u l u m 
+Proto-Romance stage form : *#ˈokulum#
+*#ˈɔkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈɔkʊlʊm#
+*#ˈɔklʊm# | 29 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
+*#ˈɔklʊ# | 37 : [+cons] > ∅ / __ #
+*#ˈɔklu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈoklu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈokʎu# | 72 : l > ʎ / [-son,-cor] __
+*#ˈokːʎu# | 74 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+Proto-South-Italo-Romance stage form : *#ˈokːʎu#
+Middle Pre-Capestranese stage form : *#ˈokːʎu#
+*#ˈokːʎə# | 107 : [-stres,-lo] > ə 
+*#ˈokːjə# | 120 : {ʎ;ʎː} > {j;jː} 
+Final form : *#ˈokːjə#

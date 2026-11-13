@@ -1,16 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 139:
-#skˈorteam# >>> *#skˈɔɾt͡sa# ( GOLD : #skˈɔɾt͡ʃa#) :
-s k ˈo r t e a m 
-*#skˈortiam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
-*#skˈortjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#skˈortjam#
-*#skˈɔrtjam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#skˈɔrtʲːam# | 23 : t j > tʲː 
-*#skˈɔrt͡sːam# | 31 : tʲː > t͡sː 
-*#skˈɔrt͡sːa# | 37 : [+cons] > ∅ / __ #
-*#skˈɔrt͡sa# | 39 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#skˈɞˤrt͡sa# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#skˈɔrt͡sa# | 77 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#skˈɔrt͡sa#
-*#skˈɔɾt͡sa# | 116 : r > ɾ 
-Final form : *#skˈɔɾt͡sa#
+#skˈoːpam# >>> *#skˈopa# ( GOLD : #skˈupa#) :
+s k ˈoː p a m 
+Proto-Romance stage form : *#skˈoːpam#
+Early Pre-Capestranese stage form : *#skˈoːpam#
+*#skˈopam# | 30 : [+syl] > [-long,-splng] 
+*#skˈopa# | 37 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#skˈopa#
+Middle Pre-Capestranese stage form : *#skˈopa#
+Final form : *#skˈopa#

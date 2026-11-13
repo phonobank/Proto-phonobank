@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1004:
-#xlˈanku# >>> *#xjˈaŋɡə# ( GOLD : #fjˈaŋɡə#) :
-x l ˈa n k u 
-*#xlˈaŋku# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#xlˈaŋku#
-*#xlˈaŋkʊ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#xlˈaŋku# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#xʎˈaŋku# | 72 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#xʎˈaŋku#
-*#xʎˈaŋkə# | 106 : [-stres,-lo] > ə 
-*#xʎˈaŋɡə# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#xjˈaŋɡə# | 119 : {ʎ;ʎː} > {j;jː} 
-Final form : *#xjˈaŋɡə#
+#wˌadaniˈaː# >>> *#vadaɲˈa# ( GOLD : #wadanˈa#) :
+w ˌa d a n i ˈaː 
+*#wˌadanjˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#wˌadanjˈaː#
+Early Pre-Capestranese stage form : *#wˌadanjˈaː#
+*#wˌadanjˈa# | 30 : [+syl] > [-long,-splng] 
+*#wˌadaɲːˈa# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#vˌadaɲːˈa# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#vˌadaɲːˈa#
+Middle Pre-Capestranese stage form : *#vˌadaɲːˈa#
+*#vˌadaɲˈa# | 121 : ɲː > ɲ 
+*#vadaɲˈa# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#vadaɲˈa#

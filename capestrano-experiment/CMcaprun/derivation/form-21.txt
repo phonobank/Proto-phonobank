@@ -1,16 +1,10 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 21:
-#tˌeːlˈaːrium# >>> *#təlˈaɾə# ( GOLD : #telˈaɾə#) :
-t ˌeː l ˈaː r i u m 
-*#tˌeːlˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#tˌeːlˈaːrjum#
-*#tˌeːlˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˌelˈarjʊm# | 30 : [+syl] > [-long,-splng] 
-*#tˌelˈarʲʊm# | 32 : r j > rʲ 
-*#tˌelˈarʲʊ# | 37 : [+cons] > ∅ / __ #
-*#tˌelˈarʲu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#tˌelˈarʲu#
-*#tˌelˈaru# | 94 : rʲ > r 
-*#tˌelˈarə# | 106 : [-stres,-lo] > ə 
-*#tˌelˈaɾə# | 116 : r > ɾ 
-*#təlˈaɾə# | 118 : [-prim,-hi,-lo] > ə 
-Final form : *#təlˈaɾə#
+#tˈeːlam# >>> *#tˈela# ( GOLD : #tˈæla#) :
+t ˈeː l a m 
+Proto-Romance stage form : *#tˈeːlam#
+Early Pre-Capestranese stage form : *#tˈeːlam#
+*#tˈelam# | 30 : [+syl] > [-long,-splng] 
+*#tˈela# | 37 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#tˈela#
+Middle Pre-Capestranese stage form : *#tˈela#
+Final form : *#tˈela#

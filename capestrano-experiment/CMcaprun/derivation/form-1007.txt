@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1007:
-#wˌardoːn# >>> *#vaɾdə# ( GOLD : #wardˈa#) :
-w ˌa r d oː n 
-Proto-Romance stage form : *#wˌardoːn#
-*#wˌardon# | 30 : [+syl] > [-long,-splng] 
-*#wˌardo# | 37 : [+cons] > ∅ / __ #
-*#vˌardo# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-Proto-South-Italo-Romance stage form : *#vˌardo#
-*#vˌardə# | 106 : [-stres,-lo] > ə 
-*#vˌaɾdə# | 116 : r > ɾ 
-*#vaɾdə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#vaɾdə#
+#pˌalːˈiːna# >>> *#pajːˈina# ( GOLD : #palːˈina#) :
+p ˌa lː ˈiː n a 
+Proto-Romance stage form : *#pˌalːˈiːna#
+Early Pre-Capestranese stage form : *#pˌalːˈiːna#
+*#pˌalːˈina# | 30 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#pˌalːˈina#
+Middle Pre-Capestranese stage form : *#pˌalːˈina#
+*#pˌaʎːˈina# | 97 : lː > ʎː / __ [+hi]
+*#pˌajːˈina# | 120 : {ʎ;ʎː} > {j;jː} 
+*#pajːˈina# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#pajːˈina#

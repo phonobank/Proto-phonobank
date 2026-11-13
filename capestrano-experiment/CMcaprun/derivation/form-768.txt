@@ -1,12 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 768:
-#pˈektinat# >>> *#pˈætːəna# ( GOLD : #pˈætːena#) :
-p ˈe k t i n a t 
-Proto-Romance stage form : *#pˈektinat#
-*#pˈɛktɪnat# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɛtːɪnat# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#pˈɛtːɪna# | 37 : [+cons] > ∅ / __ #
-*#pˈætːɪna# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#pˈætːena# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˈætːena#
-*#pˈætːəna# | 106 : [-stres,-lo] > ə 
-Final form : *#pˈætːəna#
+#pˈekora# >>> *#pˈækwəɾa# ( GOLD : #pˈækoɾa#) :
+p ˈe k o r a 
+Proto-Romance stage form : *#pˈekora#
+*#pˈɛkɔra# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#pˈɛkɔra#
+*#pˈɛkwɔra# | 53 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#pˈɛkwora# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˈækwora# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+Proto-South-Italo-Romance stage form : *#pˈækwora#
+Middle Pre-Capestranese stage form : *#pˈækwora#
+*#pˈækwəra# | 107 : [-stres,-lo] > ə 
+*#pˈækwəɾa# | 117 : r > ɾ 
+Final form : *#pˈækwəɾa#

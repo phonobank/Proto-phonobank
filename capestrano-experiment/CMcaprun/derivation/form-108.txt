@@ -1,16 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 108:
-#sˌeptimˈaːnae̯# >>> *#setːəmˈanə# ( GOLD : #setːimˈanə#) :
-s ˌe p t i m ˈaː n a e̯ 
-*#sˌeptimˈaːnɛː# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
-Proto-Romance stage form : *#sˌeptimˈaːnɛː#
-*#sˌɛptɪmˈaːnɛː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌɛptiːmˈaːnɛː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#sˌɛptimˈanɛ# | 30 : [+syl] > [-long,-splng] 
-*#sˌɛtːimˈanɛ# | 35 : [+lab,-son] [+cor,-son] > ∅ [+long]
-*#sˌetːimˈanɛ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
-*#sˌetːimˈane# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˌetːimˈane#
-*#sˌetːəmˈanə# | 106 : [-stres,-lo] > ə 
-*#sətːəmˈanə# | 118 : [-prim,-hi,-lo] > ə 
-*#setːəmˈanə# | 126 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
-Final form : *#setːəmˈanə#
+#sˌeptuaːɡˈintaː# >>> *#sətːwajˈenda# ( GOLD : #setːˈanda#) :
+s ˌe p t u aː ɡ ˈi n t aː 
+*#sˌeptwaːɡˈintaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#sˌeptwaːɡˈintaː#
+*#sˌɛptwaːɡˈɪntaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#sˌɛptwaːɡˈɪntaː#
+*#sˌɛptwaːjˈɪntaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#sˌɛptwajˈɪnta# | 30 : [+syl] > [-long,-splng] 
+*#sˌɛtːwajˈɪnta# | 35 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#sˌetːwajˈɪnta# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#sˌetːwajˈenta# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˌetːwajˈenta#
+Middle Pre-Capestranese stage form : *#sˌetːwajˈenta#
+*#sˌetːwajˈenda# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#sətːwajˈenda# | 119 : [-prim,-hi,-lo] > ə 
+Final form : *#sətːwajˈenda#

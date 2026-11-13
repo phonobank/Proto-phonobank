@@ -1,12 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 146:
-#sˈoːrikam# >>> *#sˈoɾəka# ( GOLD : #sˈoɾka#) :
-s ˈoː r i k a m 
-Proto-Romance stage form : *#sˈoːrikam#
-*#sˈoːrɪkam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈoːriːkam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#sˈorikam# | 30 : [+syl] > [-long,-splng] 
-*#sˈorika# | 37 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#sˈorika#
-*#sˈorəka# | 106 : [-stres,-lo] > ə 
-*#sˈoɾəka# | 116 : r > ɾ 
-Final form : *#sˈoɾəka#
+#sˈorba# >>> *#sˈɔɾva# ( GOLD : #sˈɔɾva#) :
+s ˈo r b a 
+Proto-Romance stage form : *#sˈorba#
+*#sˈɔrba# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#sˈɔrba#
+*#sˈɞˤrba# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#sˈɞˤrva# | 77 : b > v / [+syl,alo,!atense] r __
+*#sˈɔrva# | 78 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#sˈɔrva#
+Middle Pre-Capestranese stage form : *#sˈɔrva#
+*#sˈɔɾva# | 117 : r > ɾ 
+Final form : *#sˈɔɾva#

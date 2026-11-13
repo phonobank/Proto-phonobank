@@ -1,11 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 410:
-#ˌaperˈiː# >>> *#apɾˈi# ( GOLD : #apɾˈi#) :
-ˌa p e r ˈiː 
-Proto-Romance stage form : *#ˌaperˈiː#
-*#ˌapɛrˈiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌapɛrˈi# | 30 : [+syl] > [-long,-splng] 
-*#ˌaprˈi# | 42 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
-Proto-South-Italo-Romance stage form : *#ˌaprˈi#
-*#ˌapɾˈi# | 116 : r > ɾ 
-*#apɾˈi# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#apɾˈi#
+#ˌapprˌetiˈaː# >>> *#apːɾət͡sːˈa# ( GOLD : #apːɾət͡sːˈa#) :
+ˌa p p r ˌe t i ˈaː 
+*#ˌapprˌetjˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌapprˌetjˈaː#
+*#ˌapprˌɛtjˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌapprˌɛtjˈaː#
+*#ˌapprˌɛtʲːˈaː# | 23 : t j > tʲː 
+*#ˌapprˌɛtʲːˈa# | 30 : [+syl] > [-long,-splng] 
+*#ˌapprˌɛt͡sːˈa# | 31 : tʲː > t͡sː 
+*#ˌapprˌet͡sːˈa# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌapːrˌet͡sːˈa# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+Proto-South-Italo-Romance stage form : *#ˌapːrˌet͡sːˈa#
+Middle Pre-Capestranese stage form : *#ˌapːrˌet͡sːˈa#
+*#ˌapːret͡sːˈa# | 105 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌapːrət͡sːˈa# | 107 : [-stres,-lo] > ə 
+*#ˌapːɾət͡sːˈa# | 117 : r > ɾ 
+*#apːɾət͡sːˈa# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#apːɾət͡sːˈa#

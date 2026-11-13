@@ -1,20 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 51:
-#dˌiɡitˈellum# >>> *#ditˈejːə# ( GOLD : #ditˈejːə#) :
-d ˌi ɡ i t ˈe l l u m 
-Proto-Romance stage form : *#dˌiɡitˈellum#
-*#dˌɪɡɪtˈɛllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˌɪjɪtˈɛllʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#dˌiːjɪtˈɛllʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#dˌijɪtˈɛllʊm# | 30 : [+syl] > [-long,-splng] 
-*#dˌijɪtˈɛllʊ# | 37 : [+cons] > ∅ / __ #
-*#dˌijtˈɛllʊ# | 47 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
-*#dˌitˈɛllʊ# | 59 : [+syl,-lo] j > [+tense,-cons,-lat,+cont,0delrel] ∅/ __ ( [+cons,-nas] ( @ )* ) #
-*#dˌitˈɛllu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dˌitˈellu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#dˌitˈelːu# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#dˌitˈelːu#
-*#dˌitˈeʎːu# | 96 : lː > ʎː / __ [+hi]
-*#dˌitˈeʎːə# | 106 : [-stres,-lo] > ə 
-*#dˌitˈejːə# | 119 : {ʎ;ʎː} > {j;jː} 
-*#ditˈejːə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ditˈejːə#
+#diˈurnum# >>> *#d͡ʒˈoɾnə# ( GOLD : #d͡ʒˈoɾnə#) :
+d i ˈu r n u m 
+*#djˈurnum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#djˈurnum#
+*#djˈʊrnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#djˈʊrnʊm#
+*#d͡ʒˈʊrnʊm# | 26 : {n d j;n ɡ j;d j;dː j;ɡ j;ɡː j} > {n d͡ʒ;n d͡ʒ;d͡ʒ;d͡ʒː;d͡ʒ;d͡ʒː} 
+*#d͡ʒˈʊrnʊ# | 37 : [+cons] > ∅ / __ #
+*#d͡ʒˈʊrnu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#d͡ʒˈornu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#d͡ʒˈornu#
+Middle Pre-Capestranese stage form : *#d͡ʒˈornu#
+*#d͡ʒˈornə# | 107 : [-stres,-lo] > ə 
+*#d͡ʒˈoɾnə# | 117 : r > ɾ 
+Final form : *#d͡ʒˈoɾnə#

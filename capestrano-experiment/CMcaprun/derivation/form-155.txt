@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 155:
-#sˈuːbulam# >>> *#sˈuvəla# ( GOLD : #sˈubːja#) :
-s ˈuː b u l a m 
-Proto-Romance stage form : *#sˈuːbulam#
-*#sˈuːbʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈubʊlam# | 30 : [+syl] > [-long,-splng] 
-*#sˈubʊla# | 37 : [+cons] > ∅ / __ #
-*#sˈubula# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sˈuvula# | 75 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#sˈuvula#
-*#sˈuvəla# | 106 : [-stres,-lo] > ə 
-Final form : *#sˈuvəla#
+#sˌudˈaː# >>> *#sudˈa# ( GOLD : #sudˈa#) :
+s ˌu d ˈaː 
+Proto-Romance stage form : *#sˌudˈaː#
+*#sˌʊdˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#sˌʊdˈaː#
+*#sˌʊdˈa# | 30 : [+syl] > [-long,-splng] 
+*#sˌudˈa# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˌudˈa#
+Middle Pre-Capestranese stage form : *#sˌudˈa#
+*#sudˈa# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#sudˈa#

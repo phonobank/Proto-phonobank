@@ -1,12 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 480:
-#kˌastˈaneam# >>> *#kastˈaɲa# ( GOLD : #kastˈaɲa#) :
-k ˌa s t ˈa n e a m 
-*#kˌastˈaniam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
-*#kˌastˈanjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌastˈanjam#
-*#kˌastˈaɲːam# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#kˌastˈaɲːa# | 37 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#kˌastˈaɲːa#
-*#kˌastˈaɲa# | 120 : ɲː > ɲ 
-*#kastˈaɲa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kastˈaɲa#
+#kˈaːseum# >>> *#kˈaʃə# ( GOLD : #kˈaʃə#) :
+k ˈaː s e u m 
+*#kˈaːsjum# | 11 : e > j / __ [+back,-cons]
+Proto-Romance stage form : *#kˈaːsjum#
+*#kˈaːsjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˈaːsjʊm#
+*#kˈasjʊm# | 30 : [+syl] > [-long,-splng] 
+*#kˈaʃʊm# | 34 : s j > ʃ 
+*#kˈaʃʊ# | 37 : [+cons] > ∅ / __ #
+*#kˈaʃu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈaʃu#
+Middle Pre-Capestranese stage form : *#kˈaʃu#
+*#kˈaʃə# | 107 : [-stres,-lo] > ə 
+Final form : *#kˈaʃə#

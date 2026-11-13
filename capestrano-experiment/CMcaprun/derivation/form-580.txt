@@ -1,15 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 580:
-#kˌomptiˈaː# >>> *#kəmd͡ʒˈa# ( GOLD : #kund͡ʒˈa#) :
-k ˌo m p t i ˈaː 
-*#kˌomptjˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌomptjˈaː#
-*#kˌɔmptjˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɔmptʲːˈaː# | 23 : t j > tʲː 
-*#kˌɔmt͡ʃːˈaː# | 24 : [-cont] tʲː > t͡ʃː
-*#kˌɔmt͡ʃːˈa# | 30 : [+syl] > [-long,-splng] 
-*#kˌɔmt͡ʃˈa# | 39 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#kˌomt͡ʃˈa# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌomt͡ʃˈa#
-*#kˌomd͡ʒˈa# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kəmd͡ʒˈa# | 118 : [-prim,-hi,-lo] > ə 
-Final form : *#kəmd͡ʒˈa#
+#kˌommˈatrem# >>> *#kəmːˈatɾə# ( GOLD : #komːˈaɾə#) :
+k ˌo m m ˈa t r e m 
+Proto-Romance stage form : *#kˌommˈatrem#
+*#kˌɔmmˈatrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˌɔmmˈatrɛm#
+*#kˌɔmmˈatrɛ# | 37 : [+cons] > ∅ / __ #
+*#kˌommˈatrɛ# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌomːˈatrɛ# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#kˌomːˈatre# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌomːˈatre#
+Middle Pre-Capestranese stage form : *#kˌomːˈatre#
+*#kˌomːˈatrə# | 107 : [-stres,-lo] > ə 
+*#kˌomːˈatɾə# | 117 : r > ɾ 
+*#kəmːˈatɾə# | 119 : [-prim,-hi,-lo] > ə 
+Final form : *#kəmːˈatɾə#

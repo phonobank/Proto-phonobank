@@ -1,9 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 179:
-#spˈoːnsam# >>> *#spˈond͡za# ( GOLD : #spˈosa#) :
-s p ˈoː n s a m 
-Proto-Romance stage form : *#spˈoːnsam#
-*#spˈonsam# | 30 : [+syl] > [-long,-splng] 
-*#spˈonsa# | 37 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#spˈonsa#
-*#spˈond͡za# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#spˈond͡za#
+#spˈoːnsum# >>> *#spˈond͡zə# ( GOLD : #spˈosə#) :
+s p ˈoː n s u m 
+Proto-Romance stage form : *#spˈoːnsum#
+*#spˈoːnsʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#spˈoːnsʊm#
+*#spˈonsʊm# | 30 : [+syl] > [-long,-splng] 
+*#spˈonsʊ# | 37 : [+cons] > ∅ / __ #
+*#spˈonsu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#spˈonsu#
+Middle Pre-Capestranese stage form : *#spˈonsu#
+*#spˈonsə# | 107 : [-stres,-lo] > ə 
+*#spˈond͡zə# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#spˈond͡zə#

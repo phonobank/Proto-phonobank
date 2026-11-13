@@ -1,14 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 149:
-#sˈokera# >>> *#sˈɔt͡ʃeɾa# ( GOLD : #sˈɔt͡ʃeɾa#) :
-s ˈo k e r a 
-Proto-Romance stage form : *#sˈokera#
-*#sˈɔkɛra# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɔt͡ʃɛra# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#sˈɞˤt͡ʃɛra# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#sˈɞˤt͡ʃera# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#sˈɔt͡ʃera# | 77 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#sˈɔt͡ʃera#
-*#sˈɔt͡ʃəra# | 106 : [-stres,-lo] > ə 
-*#sˈɔt͡ʃəɾa# | 116 : r > ɾ 
-*#sˈɔt͡ʃeɾa# | 125 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#sˈɔt͡ʃeɾa#
+#sˌomniˈaːre# >>> *#sumɲˈaɾə# ( GOLD : #sənːˈaɾə#) :
+s ˌo m n i ˈaː r e 
+*#sˌomnjˈaːre# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#sˌomnjˈaːre#
+*#sˌɔmnjˈaːrɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#sˌɔmnjˈaːrɛ#
+*#sˌɔmnjˈarɛ# | 30 : [+syl] > [-long,-splng] 
+*#sˌɔmɲːˈarɛ# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#sˌomɲːˈarɛ# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sˌomɲːˈare# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˌomɲːˈare#
+Middle Pre-Capestranese stage form : *#sˌomɲːˈare#
+*#sˌumɲːˈare# | 104 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#sˌumɲːˈarə# | 107 : [-stres,-lo] > ə 
+*#sˌumɲːˈaɾə# | 117 : r > ɾ 
+*#sˌumɲˈaɾə# | 121 : ɲː > ɲ 
+*#sumɲˈaɾə# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#sumɲˈaɾə#

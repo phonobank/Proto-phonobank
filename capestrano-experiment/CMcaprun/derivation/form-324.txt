@@ -1,15 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 324:
-#ˌimprae̯stˈaː# >>> *#mbɾæstˈa# ( GOLD : #mbɾɛstˈa#) :
-ˌi m p r a e̯ s t ˈaː 
-*#ˌimprɛːstˈaː# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
-Proto-Romance stage form : *#ˌimprɛːstˈaː#
-*#ˌɪmprɛːstˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌiːmprɛːstˈaː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌimprɛstˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌimpræstˈa# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-Proto-South-Italo-Romance stage form : *#ˌimpræstˈa#
-*#əmpræstˈa# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#mpræstˈa# | 89 : ə > ∅ / # __
-*#mbræstˈa# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbɾæstˈa# | 116 : r > ɾ 
-Final form : *#mbɾæstˈa#
+#ˈipse# >>> *#ˈisːə# ( GOLD : #ˈisːə#) :
+ˈi p s e 
+Proto-Romance stage form : *#ˈipse#
+*#ˈɪpsɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈɪpsɛ#
+*#ˈiːpsɛ# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˈipsɛ# | 30 : [+syl] > [-long,-splng] 
+*#ˈisːɛ# | 35 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#ˈisːe# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈisːe#
+Middle Pre-Capestranese stage form : *#ˈisːe#
+*#ˈisːə# | 107 : [-stres,-lo] > ə 
+Final form : *#ˈisːə#

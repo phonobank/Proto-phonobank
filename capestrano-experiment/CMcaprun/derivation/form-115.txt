@@ -1,15 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 115:
-#sˈaːnktum# >>> *#sˈaŋdə# ( GOLD : #sˈandə#) :
-s ˈaː n k t u m 
-*#sˈaːŋktum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#sˈaːŋktum#
-*#sˈaːŋktʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈaːŋtːʊm# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#sˈaŋtːʊm# | 30 : [+syl] > [-long,-splng] 
-*#sˈaŋtːʊ# | 37 : [+cons] > ∅ / __ #
-*#sˈaŋtʊ# | 39 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#sˈaŋtu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˈaŋtu#
-*#sˈaŋtə# | 106 : [-stres,-lo] > ə 
-*#sˈaŋdə# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#sˈaŋdə#
+#sˈanɡwem# >>> *#sˈaŋɡwə# ( GOLD : #sˈaŋɡwə#) :
+s ˈa n ɡ w e m 
+*#sˈaŋɡwem# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#sˈaŋɡwem#
+*#sˈaŋɡwɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#sˈaŋɡwɛm#
+*#sˈaŋɡwɛ# | 37 : [+cons] > ∅ / __ #
+*#sˈaŋɡwe# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˈaŋɡwe#
+Middle Pre-Capestranese stage form : *#sˈaŋɡwe#
+*#sˈaŋɡwə# | 107 : [-stres,-lo] > ə 
+Final form : *#sˈaŋɡwə#

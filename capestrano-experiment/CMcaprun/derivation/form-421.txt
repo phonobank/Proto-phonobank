@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 421:
-#ˌamˈiːkum# >>> *#amˈikə# ( GOLD : #amˈikə#) :
-ˌa m ˈiː k u m 
-Proto-Romance stage form : *#ˌamˈiːkum#
-*#ˌamˈiːkʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌamˈikʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˌamˈikʊ# | 37 : [+cons] > ∅ / __ #
-*#ˌamˈiku# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌamˈiku#
-*#ˌamˈikə# | 106 : [-stres,-lo] > ə 
-*#amˈikə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#amˈikə#
+#ˈamat# >>> *#ˈama# ( GOLD : #ˈama#) :
+ˈa m a t 
+Proto-Romance stage form : *#ˈamat#
+Early Pre-Capestranese stage form : *#ˈamat#
+*#ˈama# | 37 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈama#
+Middle Pre-Capestranese stage form : *#ˈama#
+*#ˈamˌa# | 106 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈama# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈama#

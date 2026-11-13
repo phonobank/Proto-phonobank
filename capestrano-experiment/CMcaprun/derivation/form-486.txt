@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 486:
-#kˈannabim# >>> *#kˈanːavə# ( GOLD : #kˈanːəva#) :
-k ˈa n n a b i m 
-Proto-Romance stage form : *#kˈannabim#
-*#kˈannabɪm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈannabiːm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#kˈannabim# | 30 : [+syl] > [-long,-splng] 
-*#kˈannabi# | 37 : [+cons] > ∅ / __ #
-*#kˈanːabi# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#kˈanːavi# | 75 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#kˈanːavi#
-*#kˈanːavə# | 106 : [-stres,-lo] > ə 
-Final form : *#kˈanːavə#
+#kˌanˈiːliam# >>> *#kanˈijːa# ( GOLD : #kanːˈijːa#) :
+k ˌa n ˈiː l i a m 
+*#kˌanˈiːljam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌanˈiːljam#
+Early Pre-Capestranese stage form : *#kˌanˈiːljam#
+*#kˌanˈiljam# | 30 : [+syl] > [-long,-splng] 
+*#kˌanˈiʎːam# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#kˌanˈiʎːa# | 37 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kˌanˈiʎːa#
+Middle Pre-Capestranese stage form : *#kˌanˈiʎːa#
+*#kˌanˈijːa# | 120 : {ʎ;ʎː} > {j;jː} 
+*#kanˈijːa# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kanˈijːa#

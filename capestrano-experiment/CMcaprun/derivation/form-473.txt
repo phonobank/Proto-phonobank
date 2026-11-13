@@ -1,21 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 473:
-#kˌerebˈellum# >>> *#t͡ʃeɾvˈejːə# ( GOLD : #t͡ʃeɾvˈejːə#) :
-k ˌe r e b ˈe l l u m 
-Proto-Romance stage form : *#kˌerebˈellum#
-*#kˌɛrɛbˈɛllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃˌɛrɛbˈɛllʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˌɛrɛbˈɛllʊ# | 37 : [+cons] > ∅ / __ #
-*#t͡ʃˌɛrbˈɛllʊ# | 44 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
-*#t͡ʃˌerbˈɛllʊ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
-*#t͡ʃˌerbˈɛllu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃˌerbˈellu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃˌerbˈelːu# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-*#t͡ʃˌervˈelːu# | 76 : b > v / [+syl,alo,!atense] r __
-Proto-South-Italo-Romance stage form : *#t͡ʃˌervˈelːu#
-*#t͡ʃˌervˈeʎːu# | 96 : lː > ʎː / __ [+hi]
-*#t͡ʃˌervˈeʎːə# | 106 : [-stres,-lo] > ə 
-*#t͡ʃˌeɾvˈeʎːə# | 116 : r > ɾ 
-*#t͡ʃəɾvˈeʎːə# | 118 : [-prim,-hi,-lo] > ə 
-*#t͡ʃəɾvˈejːə# | 119 : {ʎ;ʎː} > {j;jː} 
-*#t͡ʃeɾvˈejːə# | 125 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#t͡ʃeɾvˈejːə#
+#kˌerˈaseam# >>> *#t͡ʃəɾˈaʃa# ( GOLD : #t͡ʃəɾˈaʃa#) :
+k ˌe r ˈa s e a m 
+*#kˌerˈasiam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
+*#kˌerˈasjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌerˈasjam#
+*#kˌɛrˈasjam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˌɛrˈasjam#
+*#t͡ʃˌɛrˈasjam# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˌɛrˈaʃam# | 34 : s j > ʃ 
+*#t͡ʃˌɛrˈaʃa# | 37 : [+cons] > ∅ / __ #
+*#t͡ʃˌerˈaʃa# | 60 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#t͡ʃˌerˈaʃa#
+Middle Pre-Capestranese stage form : *#t͡ʃˌerˈaʃa#
+*#t͡ʃˌeɾˈaʃa# | 117 : r > ɾ 
+*#t͡ʃəɾˈaʃa# | 119 : [-prim,-hi,-lo] > ə 
+*#t͡ʃeɾˈaʃa# | 126 : ə > e / [+front,-syl] __ [+cor,+son]
+*#t͡ʃəɾˈaʃa# | 128 : [+front,-lo,-stres] > ə / # ( ( @ )* [-prim] ) [-son,cfront,!clab] __ [+cor] ( k ) [+lo]
+Final form : *#t͡ʃəɾˈaʃa#

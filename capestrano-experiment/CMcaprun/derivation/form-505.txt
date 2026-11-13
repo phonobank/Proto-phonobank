@@ -1,14 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 505:
-#kˌarrˈuːkula# >>> *#karːˈukəla# ( GOLD : #karːˈukəla#) :
-k ˌa r r ˈuː k u l a 
-Proto-Romance stage form : *#kˌarrˈuːkula#
-*#kˌarrˈuːkʊla# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌarrˈukʊla# | 30 : [+syl] > [-long,-splng] 
-*#kˌarrˈukwʊla# | 53 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#kˌarrˈukʊla# | 55 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#kˌarrˈukula# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌarːˈukula# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#kˌarːˈukula#
-*#kˌarːˈukəla# | 106 : [-stres,-lo] > ə 
-*#karːˈukəla# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#karːˈukəla#
+#kˈarkerem# >>> *#kˈaɾt͡ʃeɾə# ( GOLD : #kˈaɾt͡ʃələ#) :
+k ˈa r k e r e m 
+Proto-Romance stage form : *#kˈarkerem#
+*#kˈarkɛrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˈarkɛrɛm#
+*#kˈart͡ʃɛrɛm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#kˈart͡ʃɛrɛ# | 37 : [+cons] > ∅ / __ #
+*#kˈart͡ʃere# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˈart͡ʃere#
+Middle Pre-Capestranese stage form : *#kˈart͡ʃere#
+*#kˈart͡ʃərə# | 107 : [-stres,-lo] > ə 
+*#kˈaɾt͡ʃəɾə# | 117 : r > ɾ 
+*#kˈaɾt͡ʃeɾə# | 126 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#kˈaɾt͡ʃeɾə#

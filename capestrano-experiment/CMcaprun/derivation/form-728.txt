@@ -1,14 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 728:
-#plˈumbum# >>> *#pjˈumːə# ( GOLD : #pjˈumːə#) :
-p l ˈu m b u m 
-Proto-Romance stage form : *#plˈumbum#
-*#plˈʊmbʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#plˈʊmbʊ# | 37 : [+cons] > ∅ / __ #
-*#plˈʊmbu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#plˈʊmːu# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#plˈumːu# | 66 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
-*#pʎˈumːu# | 72 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#pʎˈumːu#
-*#pʎˈumːə# | 106 : [-stres,-lo] > ə 
-*#pjˈumːə# | 119 : {ʎ;ʎː} > {j;jː} 
-Final form : *#pjˈumːə#
+#priːmawˈeːra# >>> *#pɾəmavˈeɾa# ( GOLD : #pɾimavˈeɾa#) :
+p r iː m a w ˈeː r a 
+Proto-Romance stage form : *#priːmawˈeːra#
+Early Pre-Capestranese stage form : *#priːmawˈeːra#
+*#primawˈera# | 30 : [+syl] > [-long,-splng] 
+*#primavˈera# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#primavˈera#
+Middle Pre-Capestranese stage form : *#primavˈera#
+*#prəmavˈera# | 107 : [-stres,-lo] > ə 
+*#pɾəmavˈeɾa# | 117 : r > ɾ 
+Final form : *#pɾəmavˈeɾa#

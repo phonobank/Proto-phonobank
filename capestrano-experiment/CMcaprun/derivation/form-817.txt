@@ -1,13 +1,9 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 817:
-#pˈulwerem# >>> *#pˈolɾə# ( GOLD : #pˈolvəɾə#) :
-p ˈu l w e r e m 
-Proto-Romance stage form : *#pˈulwerem#
-*#pˈʊlwɛrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈʊlwɛrɛ# | 37 : [+cons] > ∅ / __ #
-*#pˈʊlwrɛ# | 42 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
-*#pˈʊlrɛ# | 55 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#pˈolre# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˈolre#
-*#pˈolrə# | 106 : [-stres,-lo] > ə 
-*#pˈolɾə# | 116 : r > ɾ 
-Final form : *#pˈolɾə#
+#pˈuːpa# >>> *#pˈupa# ( GOLD : #pˈupa#) :
+p ˈuː p a 
+Proto-Romance stage form : *#pˈuːpa#
+Early Pre-Capestranese stage form : *#pˈuːpa#
+*#pˈupa# | 30 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#pˈupa#
+Middle Pre-Capestranese stage form : *#pˈupa#
+Final form : *#pˈupa#

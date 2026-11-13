@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 628:
-#kwˈattuor# >>> *#kwˈatːə# ( GOLD : #kwˈatːɾə#) :
-k w ˈa t t u o r 
-*#kwˈattwor# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kwˈattwor#
-*#kwˈattwɔr# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kwˈattwɔ# | 37 : [+cons] > ∅ / __ #
-*#kwˈattɔ# | 55 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#kwˈatto# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kwˈatːo# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#kwˈatːo#
-*#kwˈatːə# | 106 : [-stres,-lo] > ə 
-Final form : *#kwˈatːə#
+#kwˌadraɡˈinta# >>> *#kwadɾajˈenda# ( GOLD : #kwaɾˈanta#) :
+k w ˌa d r a ɡ ˈi n t a 
+Proto-Romance stage form : *#kwˌadraɡˈinta#
+*#kwˌadraɡˈɪnta# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kwˌadraɡˈɪnta#
+*#kwˌadrajˈɪnta# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#kwˌadrajˈenta# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kwˌadrajˈenta#
+Middle Pre-Capestranese stage form : *#kwˌadrajˈenta#
+*#kwˌadrajˈenda# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kwˌadɾajˈenda# | 117 : r > ɾ 
+*#kwadɾajˈenda# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kwadɾajˈenda#

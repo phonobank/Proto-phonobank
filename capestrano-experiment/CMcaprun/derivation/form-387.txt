@@ -1,12 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 387:
-#ˈaksem# >>> *#ˈaʃːə# ( GOLD : #ˈasːə#) :
-ˈa k s e m 
-Proto-Romance stage form : *#ˈaksem#
-*#ˈaksɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈasːɛm# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˈasːɛ# | 37 : [+cons] > ∅ / __ #
-*#ˈasːe# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈasːe#
-*#ˈaʃːe# | 101 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#ˈaʃːə# | 106 : [-stres,-lo] > ə 
-Final form : *#ˈaʃːə#
+#ˈakram# >>> *#ˈakɾa# ( GOLD : #ˈaɡɾa#) :
+ˈa k r a m 
+Proto-Romance stage form : *#ˈakram#
+Early Pre-Capestranese stage form : *#ˈakram#
+*#ˈakra# | 37 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈakra#
+Middle Pre-Capestranese stage form : *#ˈakra#
+*#ˈakrˌa# | 106 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈakɾˌa# | 117 : r > ɾ 
+*#ˈakɾa# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈakɾa#

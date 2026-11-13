@@ -1,21 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 114:
-#sˌanktufrˌankˈiskum# >>> *#saŋdfɾand͡ʒˈiskə# ( GOLD : #sambɾanʃˈiskə#) :
-s ˌa n k t u f r ˌa n k ˈi s k u m 
-*#sˌaŋktufrˌaŋkˈiskum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#sˌaŋktufrˌaŋkˈiskum#
-*#sˌaŋktʊfrˌaŋkˈɪskʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌaŋktʊfrˌant͡ʃˈɪskʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#sˌaŋtːʊfrˌant͡ʃˈɪskʊm# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#sˌaŋtːʊfrˌant͡ʃˈiːskʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#sˌaŋtːʊfrˌant͡ʃˈiskʊm# | 30 : [+syl] > [-long,-splng] 
-*#sˌaŋtːʊfrˌant͡ʃˈiskʊ# | 37 : [+cons] > ∅ / __ #
-*#sˌaŋtʊfrˌant͡ʃˈiskʊ# | 39 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#sˌaŋtfrˌant͡ʃˈiskʊ# | 57 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
-*#sˌaŋtfrˌant͡ʃˈisku# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˌaŋtfrˌant͡ʃˈisku#
-*#sˌaŋtfrant͡ʃˈisku# | 104 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#sˌaŋtfrant͡ʃˈiskə# | 106 : [-stres,-lo] > ə 
-*#sˌaŋdfrand͡ʒˈiskə# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#sˌaŋdfɾand͡ʒˈiskə# | 116 : r > ɾ 
-*#saŋdfɾand͡ʒˈiskə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#saŋdfɾand͡ʒˈiskə#
+#sˈaːnktum# >>> *#sˈaŋdə# ( GOLD : #sˈandə#) :
+s ˈaː n k t u m 
+*#sˈaːŋktum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#sˈaːŋktum#
+*#sˈaːŋktʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#sˈaːŋktʊm#
+*#sˈaːŋtːʊm# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#sˈaŋtːʊm# | 30 : [+syl] > [-long,-splng] 
+*#sˈaŋtːʊ# | 37 : [+cons] > ∅ / __ #
+*#sˈaŋtʊ# | 39 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#sˈaŋtu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˈaŋtu#
+Middle Pre-Capestranese stage form : *#sˈaŋtu#
+*#sˈaŋtə# | 107 : [-stres,-lo] > ə 
+*#sˈaŋdə# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+Final form : *#sˈaŋdə#

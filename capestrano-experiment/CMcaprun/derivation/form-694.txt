@@ -1,11 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 694:
-#ˌurtˈiːka# >>> *#uɾtˈika# ( GOLD : #aɾdˈika#) :
-ˌu r t ˈiː k a 
-Proto-Romance stage form : *#ˌurtˈiːka#
-*#ˌʊrtˈiːka# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌʊrtˈika# | 30 : [+syl] > [-long,-splng] 
-*#ˌurtˈika# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌurtˈika#
-*#ˌuɾtˈika# | 116 : r > ɾ 
-*#uɾtˈika# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#uɾtˈika#
+#ˈuːwam# >>> *#ˈuva# ( GOLD : #ˈuva#) :
+ˈuː w a m 
+Proto-Romance stage form : *#ˈuːwam#
+Early Pre-Capestranese stage form : *#ˈuːwam#
+*#ˈuwam# | 30 : [+syl] > [-long,-splng] 
+*#ˈuwa# | 37 : [+cons] > ∅ / __ #
+*#ˈuva# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
+Proto-South-Italo-Romance stage form : *#ˈuva#
+Middle Pre-Capestranese stage form : *#ˈuva#
+Final form : *#ˈuva#

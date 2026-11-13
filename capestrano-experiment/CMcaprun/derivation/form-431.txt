@@ -1,14 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 431:
-#hˈerbam# >>> *#ˈæɾva# ( GOLD : #jˈæɾva#) :
-h ˈe r b a m 
-*#ˈerbam# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˈerbam#
-*#ˈɛrbam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɛrba# | 37 : [+cons] > ∅ / __ #
-*#ˈærba# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˈærva# | 76 : b > v / [+syl,alo,!atense] r __
-Proto-South-Italo-Romance stage form : *#ˈærva#
-*#ˈærvˌa# | 105 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈæɾvˌa# | 116 : r > ɾ 
-*#ˈæɾva# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈæɾva#
+#hˌaːlˈaː# >>> *#alˈa# ( GOLD : #alˈa#) :
+h ˌaː l ˈaː 
+*#ˌaːlˈaː# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˌaːlˈaː#
+Early Pre-Capestranese stage form : *#ˌaːlˈaː#
+*#ˌalˈa# | 30 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#ˌalˈa#
+Middle Pre-Capestranese stage form : *#ˌalˈa#
+*#alˈa# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#alˈa#

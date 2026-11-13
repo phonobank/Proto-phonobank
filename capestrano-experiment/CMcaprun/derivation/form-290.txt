@@ -1,11 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 290:
-#jˌokˈaː# >>> *#jəkˈa# ( GOLD : #jəkˈa#) :
-j ˌo k ˈaː 
-Proto-Romance stage form : *#jˌokˈaː#
-*#jˌɔkˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˌɔkˈa# | 30 : [+syl] > [-long,-splng] 
-*#jˌokˈa# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#jˌokˈa#
-*#jˌukˈa# | 103 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#jəkˈa# | 122 : [-prim] > ə / # j __ [+cons,-front]
-Final form : *#jəkˈa#
+#jˈokum# >>> *#jˈokə# ( GOLD : #jˈokə#) :
+j ˈo k u m 
+Proto-Romance stage form : *#jˈokum#
+*#jˈɔkʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#jˈɔkʊm#
+*#jˈɔkʊ# | 37 : [+cons] > ∅ / __ #
+*#jˈɔku# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈoku# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jˈoku#
+Middle Pre-Capestranese stage form : *#jˈoku#
+*#jˈokə# | 107 : [-stres,-lo] > ə 
+Final form : *#jˈokə#

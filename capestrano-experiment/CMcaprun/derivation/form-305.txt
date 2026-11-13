@@ -1,22 +1,23 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 305:
-#ˌinˌeːbriaːkˈoːnem# >>> *#imːɾjakˈonə# ( GOLD : #mbɾiakˈonə#) :
-ˌi n ˌeː b r i aː k ˈoː n e m 
-*#ˌinˌeːbrjaːkˈoːnem# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#ˌinˌeːbrjaːkˈoːnem#
-*#ˌɪnˌeːbrjaːkˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɪnˌebrjakˈonɛm# | 30 : [+syl] > [-long,-splng] 
-*#ˌɪnˌebrʲakˈonɛm# | 32 : r j > rʲ 
-*#ˌɪnˌebrʲakˈonɛ# | 37 : [+cons] > ∅ / __ #
-*#ˌɪnbrʲakˈonɛ# | 57 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
-*#ˌenbrʲakˈonɛ# | 60 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenbrʲakˈone# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌenvrʲakˈone# | 75 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#ˌenvrʲakˈone#
-*#ənvrʲakˈone# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#ˌinvrʲakˈone# | 87 : ə > ˌi / __ n [+cons,+lab,+voi]
-*#ˌinvrjakˈone# | 93 : rʲ > r j / [+cons] __
-*#ˌimːrjakˈone# | 98 : n v > mː 
-*#ˌimːrjakˈonə# | 106 : [-stres,-lo] > ə 
-*#ˌimːɾjakˈonə# | 116 : r > ɾ 
-*#imːɾjakˈonə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#imːɾjakˈonə#
+#ˌinklˈawstrum# >>> *#ŋɡjˈostɾə# ( GOLD : #ɲˈɔstɾə#) :
+ˌi n k l ˈa w s t r u m 
+*#ˌiŋklˈawstrum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˌiŋklˈawstrum#
+*#ˌɪŋklˈawstrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌɪŋklˈawstrʊm#
+*#ˌiːŋklˈawstrʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#ˌiŋklˈawstrʊm# | 30 : [+syl] > [-long,-splng] 
+*#ˌiŋklˈawstrʊ# | 37 : [+cons] > ∅ / __ #
+*#ˌiŋklˈawstru# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌiŋklˈowstru# | 70 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
+*#ˌiŋkʎˈowstru# | 72 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#ˌiŋkʎˈowstru#
+*#əŋkʎˈowstru# | 87 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ŋkʎˈowstru# | 90 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#ŋkʎˈowstru#
+*#ŋkʎˈostru# | 96 : w > ∅ / [+round] __ [+cons]
+*#ŋkʎˈostrə# | 107 : [-stres,-lo] > ə 
+*#ŋɡʎˈostrə# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ŋɡʎˈostɾə# | 117 : r > ɾ 
+*#ŋɡjˈostɾə# | 120 : {ʎ;ʎː} > {j;jː} 
+Final form : *#ŋɡjˈostɾə#

@@ -1,13 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 42:
-#tˈurbidum# >>> *#tˈoɾvədə# ( GOLD : #tɾˈuvədə#) :
-t ˈu r b i d u m 
-Proto-Romance stage form : *#tˈurbidum#
-*#tˈʊrbɪdʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˈʊrbɪdʊ# | 37 : [+cons] > ∅ / __ #
-*#tˈʊrbɪdu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tˈorbedu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#tˈorvedu# | 76 : b > v / [+syl,alo,!atense] r __
-Proto-South-Italo-Romance stage form : *#tˈorvedu#
-*#tˈorvədə# | 106 : [-stres,-lo] > ə 
-*#tˈoɾvədə# | 116 : r > ɾ 
-Final form : *#tˈoɾvədə#
+#tˌurbulˈaː# >>> *#tuɾvəlˈa# ( GOLD : #tɾuvulˈa#) :
+t ˌu r b u l ˈaː 
+Proto-Romance stage form : *#tˌurbulˈaː#
+*#tˌʊrbʊlˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#tˌʊrbʊlˈaː#
+*#tˌʊrbʊlˈa# | 30 : [+syl] > [-long,-splng] 
+*#tˌurbulˈa# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tˌurvulˈa# | 77 : b > v / [+syl,alo,!atense] r __
+Proto-South-Italo-Romance stage form : *#tˌurvulˈa#
+Middle Pre-Capestranese stage form : *#tˌurvulˈa#
+*#tˌurvəlˈa# | 107 : [-stres,-lo] > ə 
+*#tˌuɾvəlˈa# | 117 : r > ɾ 
+*#tuɾvəlˈa# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#tuɾvəlˈa#

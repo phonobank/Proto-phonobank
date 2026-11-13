@@ -1,16 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 363:
-#ˈanɡelum# >>> *#ˈanːələ# ( GOLD : #ˈand͡ʒələ#) :
-ˈa n ɡ e l u m 
-*#ˈaŋɡelum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#ˈaŋɡelum#
-*#ˈaŋɡɛlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaŋɡɡɛlʊm# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ˈand͡ʒːɛlʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#ˈand͡ʒːɛlʊ# | 37 : [+cons] > ∅ / __ #
-*#ˈand͡ʒɛlʊ# | 39 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#ˈand͡ʒɛlu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈanːɛlu# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#ˈanːelu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈanːelu#
-*#ˈanːələ# | 106 : [-stres,-lo] > ə 
-Final form : *#ˈanːələ#
+#ˈanɡulum# >>> *#ˈaŋɡwulə# ( GOLD : #ˈaŋɡwələ#) :
+ˈa n ɡ u l u m 
+*#ˈaŋɡulum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˈaŋɡulum#
+*#ˈaŋɡʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈaŋɡʊlʊm#
+*#ˈaŋɡʊlʊ# | 37 : [+cons] > ∅ / __ #
+*#ˈaŋɡwʊlʊ# | 53 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#ˈaŋɡwulu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈaŋɡwulu#
+Middle Pre-Capestranese stage form : *#ˈaŋɡwulu#
+*#ˈaŋɡwˌulu# | 106 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈaŋɡwˌulə# | 107 : [-stres,-lo] > ə 
+*#ˈaŋɡwulə# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈaŋɡwulə#

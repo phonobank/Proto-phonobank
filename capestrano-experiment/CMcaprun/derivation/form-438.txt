@@ -1,13 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 438:
-#hˈortum# >>> *#ˈoɾtə# ( GOLD : #ˈoɾtə#) :
-h ˈo r t u m 
-*#ˈortum# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˈortum#
-*#ˈɔrtʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔrtʊ# | 37 : [+cons] > ∅ / __ #
-*#ˈɔrtu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈortu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈortu#
-*#ˈortə# | 106 : [-stres,-lo] > ə 
-*#ˈoɾtə# | 116 : r > ɾ 
-Final form : *#ˈoɾtə#
+#hˈoːram# >>> *#ˈoɾa# ( GOLD : #ˈoɾa#) :
+h ˈoː r a m 
+*#ˈoːram# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˈoːram#
+Early Pre-Capestranese stage form : *#ˈoːram#
+*#ˈoram# | 30 : [+syl] > [-long,-splng] 
+*#ˈora# | 37 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#ˈora#
+Middle Pre-Capestranese stage form : *#ˈora#
+*#ˈoɾa# | 117 : r > ɾ 
+Final form : *#ˈoɾa#

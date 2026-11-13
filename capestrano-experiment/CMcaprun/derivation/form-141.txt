@@ -1,12 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 141:
-#skˌutˈellam# >>> *#skutˈælːa# ( GOLD : #ʃkudˈɛlːa#) :
-s k ˌu t ˈe l l a m 
-Proto-Romance stage form : *#skˌutˈellam#
-*#skˌʊtˈɛllam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#skˌʊtˈɛlla# | 37 : [+cons] > ∅ / __ #
-*#skˌutˈɛlla# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#skˌutˈælla# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#skˌutˈælːa# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#skˌutˈælːa#
-*#skutˈælːa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#skutˈælːa#
+#sˈolidum# >>> *#sˈoldə# ( GOLD : #sˈɔldə#) :
+s ˈo l i d u m 
+Proto-Romance stage form : *#sˈolidum#
+*#sˈɔlɪdʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#sˈɔlɪdʊm#
+*#sˈɔlɪdʊ# | 37 : [+cons] > ∅ / __ #
+*#sˈɔldʊ# | 44 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
+*#sˈɔldu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sˈoldu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˈoldu#
+Middle Pre-Capestranese stage form : *#sˈoldu#
+*#sˈoldə# | 107 : [-stres,-lo] > ə 
+Final form : *#sˈoldə#

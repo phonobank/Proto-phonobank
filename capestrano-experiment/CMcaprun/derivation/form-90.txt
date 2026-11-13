@@ -1,15 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 90:
-#sˌimˈiliat# >>> *#ʃimˈijːa# ( GOLD : #somˈijːə#) :
-s ˌi m ˈi l i a t 
-*#sˌimˈiljat# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#sˌimˈiljat#
-*#sˌɪmˈɪljat# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌiːmˈiːljat# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#sˌimˈiljat# | 30 : [+syl] > [-long,-splng] 
-*#sˌimˈiʎːat# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#sˌimˈiʎːa# | 37 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#sˌimˈiʎːa#
-*#ʃˌimˈiʎːa# | 102 : s > ʃ / # __ [+hi,+front]
-*#ʃˌimˈijːa# | 119 : {ʎ;ʎː} > {j;jː} 
-*#ʃimˈijːa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ʃimˈijːa#
+#sˈiːmiam# >>> *#ʃˈimja# ( GOLD : #ʃˈimːja#) :
+s ˈiː m i a m 
+*#sˈiːmjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#sˈiːmjam#
+Early Pre-Capestranese stage form : *#sˈiːmjam#
+*#sˈimjam# | 30 : [+syl] > [-long,-splng] 
+*#sˈimja# | 37 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#sˈimja#
+Middle Pre-Capestranese stage form : *#sˈimja#
+*#ʃˈimja# | 103 : s > ʃ / # __ [+hi,+front]
+Final form : *#ʃˈimja#

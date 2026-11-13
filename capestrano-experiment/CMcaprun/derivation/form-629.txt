@@ -1,16 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 629:
-#kwˌattuˈordeki# >>> *#kwatːˈoɾdet͡ʃə# ( GOLD : #kwatːˈoɾdet͡ʃə#) :
-k w ˌa t t u ˈo r d e k i 
-*#kwˌattwˈordeki# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kwˌattwˈordeki#
-*#kwˌattwˈɔrdɛkɪ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kwˌattwˈɔrdɛt͡ʃɪ# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#kwˌattˈɔrdɛt͡ʃɪ# | 55 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#kwˌattˈordet͡ʃe# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#kwˌatːˈordet͡ʃe# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#kwˌatːˈordet͡ʃe#
-*#kwˌatːˈordət͡ʃə# | 106 : [-stres,-lo] > ə 
-*#kwˌatːˈoɾdət͡ʃə# | 116 : r > ɾ 
-*#kwatːˈoɾdət͡ʃə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-*#kwatːˈoɾdet͡ʃə# | 128 : ə > e / [+cor] __ t͡ʃ
-Final form : *#kwatːˈoɾdet͡ʃə#
+#kwˌadraɡˈeːsimam# >>> *#kwadɾajˈesəma# ( GOLD : #kwaɾˈɛsəma#) :
+k w ˌa d r a ɡ ˈeː s i m a m 
+Proto-Romance stage form : *#kwˌadraɡˈeːsimam#
+*#kwˌadraɡˈeːsɪmam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kwˌadraɡˈeːsɪmam#
+*#kwˌadrajˈeːsɪmam# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#kwˌadrajˈeːsiːmam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#kwˌadrajˈesimam# | 30 : [+syl] > [-long,-splng] 
+*#kwˌadrajˈesima# | 37 : [+cons] > ∅ / __ #
+Proto-South-Italo-Romance stage form : *#kwˌadrajˈesima#
+Middle Pre-Capestranese stage form : *#kwˌadrajˈesima#
+*#kwˌadrajˈesəma# | 107 : [-stres,-lo] > ə 
+*#kwˌadɾajˈesəma# | 117 : r > ɾ 
+*#kwadɾajˈesəma# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kwadɾajˈesəma#

@@ -1,16 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 716:
-#ˌoblˌiɡˈaː# >>> *#vjiɡˈa# ( GOLD : #ubːliɡˈa#) :
-ˌo b l ˌi ɡ ˈaː 
-Proto-Romance stage form : *#ˌoblˌiɡˈaː#
-*#ˌɔblˌɪɡˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɔblˌiːɡˈaː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌɔblˌiɡˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌoblˌiɡˈa# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌobʎˌiɡˈa# | 72 : l > ʎ / [-son,-cor] __
-*#ˌovʎˌiɡˈa# | 75 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#ˌovʎˌiɡˈa#
-*#əvʎˌiɡˈa# | 86 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#vʎˌiɡˈa# | 89 : ə > ∅ / # __
-*#vjˌiɡˈa# | 119 : {ʎ;ʎː} > {j;jː} 
-*#vjiɡˈa# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#vjiɡˈa#
+#plˈikat# >>> *#pjˈika# ( GOLD : #pjˈɛka#) :
+p l ˈi k a t 
+Proto-Romance stage form : *#plˈikat#
+*#plˈɪkat# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#plˈɪkat#
+*#plˈiːkat# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#plˈikat# | 30 : [+syl] > [-long,-splng] 
+*#plˈika# | 37 : [+cons] > ∅ / __ #
+*#pʎˈika# | 72 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#pʎˈika#
+Middle Pre-Capestranese stage form : *#pʎˈika#
+*#pjˈika# | 120 : {ʎ;ʎː} > {j;jː} 
+Final form : *#pjˈika#

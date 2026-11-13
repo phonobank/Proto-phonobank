@@ -1,20 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 213:
-#lˌintˈeolum# >>> *#lind͡zˈolə# ( GOLD : #lind͡zˈɔlə#) :
-l ˌi n t ˈe o l u m 
-*#lˌinteˈolum# | 7 : [+prim,+front] o > [-stres,-prim,+syl,+son] ˈo/ __ l [-stres]
-*#lˌintjˈolum# | 11 : e > j / __ [+back,-cons]
-Proto-Romance stage form : *#lˌintjˈolum#
-*#lˌɪntjˈɔlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˌɪntʲːˈɔlʊm# | 23 : t j > tʲː 
-*#lˌiːntʲːˈɔlʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#lˌintʲːˈɔlʊm# | 30 : [+syl] > [-long,-splng] 
-*#lˌint͡sːˈɔlʊm# | 31 : tʲː > t͡sː 
-*#lˌint͡sːˈɔlʊ# | 37 : [+cons] > ∅ / __ #
-*#lˌint͡sˈɔlʊ# | 39 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#lˌint͡sˈɔlu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#lˌint͡sˈolu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#lˌint͡sˈolu#
-*#lˌint͡sˈolə# | 106 : [-stres,-lo] > ə 
-*#lˌind͡zˈolə# | 108 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#lind͡zˈolə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#lind͡zˈolə#
+#lˈiːnum# >>> *#lˈinə# ( GOLD : #lˈinə#) :
+l ˈiː n u m 
+Proto-Romance stage form : *#lˈiːnum#
+*#lˈiːnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#lˈiːnʊm#
+*#lˈinʊm# | 30 : [+syl] > [-long,-splng] 
+*#lˈinʊ# | 37 : [+cons] > ∅ / __ #
+*#lˈinu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#lˈinu#
+Middle Pre-Capestranese stage form : *#lˈinu#
+*#lˈinə# | 107 : [-stres,-lo] > ə 
+Final form : *#lˈinə#

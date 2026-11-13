@@ -1,10 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 975:
-#mˌoːnstrˈaː# >>> *#məstɾˈa# ( GOLD : #mustɾˈa#) :
-m ˌoː n s t r ˈaː 
-Proto-Romance stage form : *#mˌoːnstrˈaː#
-*#mˌonstrˈa# | 30 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#mˌonstrˈa#
-*#mˌostrˈa# | 97 : n > ∅ / __ s [+cons] [+cons]
-*#mˌostɾˈa# | 116 : r > ɾ 
-*#məstɾˈa# | 118 : [-prim,-hi,-lo] > ə 
-Final form : *#məstɾˈa#
+#mˈonakham# >>> *#mˈɔnaka# ( GOLD : #mˈɔnaka#) :
+m ˈo n a k h a m 
+*#mˈonakam# | 4 : h > ∅ 
+Proto-Romance stage form : *#mˈonakam#
+*#mˈɔnakam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˈɔnakam#
+*#mˈɔnaka# | 37 : [+cons] > ∅ / __ #
+*#mˈɞˤnaka# | 67 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#mˈɔnaka# | 78 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#mˈɔnaka#
+Middle Pre-Capestranese stage form : *#mˈɔnaka#
+Final form : *#mˈɔnaka#

@@ -1,12 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1013:
-#mˌattˈoːne# >>> *#matːˈonə# ( GOLD : #matːˈonə#) :
-m ˌa t t ˈoː n e 
-Proto-Romance stage form : *#mˌattˈoːne#
-*#mˌattˈoːnɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˌattˈonɛ# | 30 : [+syl] > [-long,-splng] 
-*#mˌattˈone# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#mˌatːˈone# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
-Proto-South-Italo-Romance stage form : *#mˌatːˈone#
-*#mˌatːˈonə# | 106 : [-stres,-lo] > ə 
-*#matːˈonə# | 124 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#matːˈonə#
+#dˌomˈinikam# >>> *#dəmˈenɡa# ( GOLD : #dəmˈenəka#) :
+d ˌo m ˈi n i k a m 
+Proto-Romance stage form : *#dˌomˈinikam#
+*#dˌɔmˈɪnɪkam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#dˌɔmˈɪnɪkam#
+*#dˌɔmˈɪniːkam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#dˌɔmˈɪnikam# | 30 : [+syl] > [-long,-splng] 
+*#dˌɔmˈɪnika# | 37 : [+cons] > ∅ / __ #
+*#dˌɔmˈɪnka# | 57 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#dˌomˈɪnka# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dˌomˈenka# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#dˌomˈenka#
+Middle Pre-Capestranese stage form : *#dˌomˈenka#
+*#dˌomˈenɡa# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#dəmˈenɡa# | 119 : [-prim,-hi,-lo] > ə 
+Final form : *#dəmˈenɡa#

@@ -1,11 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 365:
-#ˈalter# >>> *#ˈaldə# ( GOLD : #ˈatɾə#) :
-ˈa l t e r 
-Proto-Romance stage form : *#ˈalter#
-*#ˈaltɛr# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈaltɛ# | 37 : [+cons] > ∅ / __ #
-*#ˈalte# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈalte#
-*#ˈaltə# | 106 : [-stres,-lo] > ə 
-*#ˈaldə# | 110 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
-Final form : *#ˈaldə#
+#ˈalteriː# >>> *#ˈaldəɾə# ( GOLD : #ˈetɾə#) :
+ˈa l t e r iː 
+Proto-Romance stage form : *#ˈalteriː#
+*#ˈaltɛriː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈaltɛriː#
+*#ˈaltɛri# | 30 : [+syl] > [-long,-splng] 
+*#ˈalteri# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈalteri#
+Middle Pre-Capestranese stage form : *#ˈalteri#
+*#ˈaltərə# | 107 : [-stres,-lo] > ə 
+*#ˈaldərə# | 111 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
+*#ˈaldəɾə# | 117 : r > ɾ 
+Final form : *#ˈaldəɾə#
