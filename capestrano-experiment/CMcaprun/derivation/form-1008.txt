@@ -1,16 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1008:
-#blˈankum# >>> *#bjˈaŋɡə# ( GOLD : #bːjˈaŋɡə#) :
-b l ˈa n k u m 
-*#blˈaŋkum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#blˈaŋkum#
-*#blˈaŋkʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#blˈaŋkʊm#
-*#blˈaŋkʊ# | 37 : [+cons] > ∅ / __ #
-*#blˈaŋku# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#bʎˈaŋku# | 72 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#bʎˈaŋku#
-Middle Pre-Capestranese stage form : *#bʎˈaŋku#
-*#bʎˈaŋkə# | 107 : [-stres,-lo] > ə 
-*#bʎˈaŋɡə# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#bjˈaŋɡə# | 120 : {ʎ;ʎː} > {j;jː} 
-Final form : *#bjˈaŋɡə#
+... >>> *#bjˈanɡə# ( GOLD : #bːjˈaŋɡə#) :
+... 
+Proto-Romance stage form : ...
+Early Pre-Capestranese stage form : ...
+*#blˈanku# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#bʎˈanku# | 72 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#bʎˈanku#
+Middle Pre-Capestranese stage form : *#bʎˈanku#
+*#bʎˈankə# | 107 : [-stres,-lo] > ə 
+*#bʎˈanɡə# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#bjˈanɡə# | 120 : {ʎ;ʎː} > {j;jː} 
+Final form : *#bjˈanɡə#

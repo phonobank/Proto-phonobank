@@ -1,10 +1,8 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1004:
-#wˌadaniˈaː# >>> *#vadaɲˈa# ( GOLD : #wadanˈa#) :
-w ˌa d a n i ˈaː 
-*#wˌadanjˈaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#wˌadanjˈaː#
-Early Pre-Capestranese stage form : *#wˌadanjˈaː#
-*#wˌadanjˈa# | 30 : [+syl] > [-long,-splng] 
+... >>> *#vadaɲˈa# ( GOLD : #wadanˈa#) :
+... 
+Proto-Romance stage form : ...
+Early Pre-Capestranese stage form : ...
 *#wˌadaɲːˈa# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
 *#vˌadaɲːˈa# | 54 : w > v / # ( ( @ )* [+son] ) __ [-cons]
 Proto-South-Italo-Romance stage form : *#vˌadaɲːˈa#

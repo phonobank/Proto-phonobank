@@ -1,15 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1002:
-#xlˈanku# >>> *#xjˈaŋɡə# ( GOLD : #fjˈaŋɡə#) :
-x l ˈa n k u 
-*#xlˈaŋku# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#xlˈaŋku#
-*#xlˈaŋkʊ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#xlˈaŋkʊ#
-*#xlˈaŋku# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#xʎˈaŋku# | 72 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#xʎˈaŋku#
-Middle Pre-Capestranese stage form : *#xʎˈaŋku#
-*#xʎˈaŋkə# | 107 : [-stres,-lo] > ə 
-*#xʎˈaŋɡə# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#xjˈaŋɡə# | 120 : {ʎ;ʎː} > {j;jː} 
-Final form : *#xjˈaŋɡə#
+... >>> *#xjˈanɡə# ( GOLD : #fjˈaŋɡə#) :
+... 
+Proto-Romance stage form : ...
+Early Pre-Capestranese stage form : ...
+*#xlˈanku# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#xʎˈanku# | 72 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#xʎˈanku#
+Middle Pre-Capestranese stage form : *#xʎˈanku#
+*#xʎˈankə# | 107 : [-stres,-lo] > ə 
+*#xʎˈanɡə# | 109 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#xjˈanɡə# | 120 : {ʎ;ʎː} > {j;jː} 
+Final form : *#xjˈanɡə#

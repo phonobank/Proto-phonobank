@@ -1,15 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 998:
-#skˌarpˈaːrjo# >>> *#skaɾpˈaɾə# ( GOLD : #ʃkaɾpˈaɾə#) :
-s k ˌa r p ˈaː r j o 
-Proto-Romance stage form : *#skˌarpˈaːrjo#
-*#skˌarpˈaːrjɔ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#skˌarpˈaːrjɔ#
-*#skˌarpˈarjɔ# | 30 : [+syl] > [-long,-splng] 
-*#skˌarpˈarʲɔ# | 32 : r j > rʲ 
-*#skˌarpˈarʲo# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#skˌarpˈarʲo#
-Middle Pre-Capestranese stage form : *#skˌarpˈarʲo#
-*#skˌarpˈaro# | 95 : rʲ > r 
+... >>> *#skaɾpˈaɾə# ( GOLD : #ʃkaɾpˈaɾə#) :
+... 
+Proto-Romance stage form : ...
+Early Pre-Capestranese stage form : ...
+*#skˌarpˈarʲʊ# | 32 : r j > rʲ 
+*#skˌarpˈarʲu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#skˌarpˈarʲu#
+Middle Pre-Capestranese stage form : *#skˌarpˈarʲu#
+*#skˌarpˈaru# | 95 : rʲ > r 
 *#skˌarpˈarə# | 107 : [-stres,-lo] > ə 
 *#skˌaɾpˈaɾə# | 117 : r > ɾ 
 *#skaɾpˈaɾə# | 125 : [-prim] > [-stres,-prim,+syl,+son] 
