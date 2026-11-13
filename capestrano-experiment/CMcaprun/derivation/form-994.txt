@@ -3,11 +3,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 ... 
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
-*#trˈɔppu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#trˈoppu# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#trˈopːu# | 71 : {t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː} 
+*#trˈɔppu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#trˈoppu# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#trˈopːu# | 72 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
 Proto-South-Italo-Romance stage form : *#trˈopːu#
 Middle Pre-Capestranese stage form : *#trˈopːu#
-*#trˈopːə# | 107 : [-stres,-lo] > ə 
-*#tɾˈopːə# | 117 : r > ɾ 
+*#trˈopːə# | 111 : [-stres,-lo] > ə 
+*#tɾˈopːə# | 121 : r > ɾ 
 Final form : *#tɾˈopːə#

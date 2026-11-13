@@ -1,11 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 953:
-#mˈandram# >>> *#mˈanːɾa# ( GOLD : #mˈandɾa#) :
+#mˈandram# >>> *#mˈandɾa# ( GOLD : #mˈandɾa#) :
 m ˈa n d r a m 
 Proto-Romance stage form : *#mˈandram#
 Early Pre-Capestranese stage form : *#mˈandram#
-*#mˈandra# | 37 : [+cons] > ∅ / __ #
-*#mˈanːra# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#mˈandra# | 39 : [+cons] > ∅ / __ #
+*#mˈanːra# | 66 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
 Proto-South-Italo-Romance stage form : *#mˈanːra#
 Middle Pre-Capestranese stage form : *#mˈanːra#
-*#mˈanːɾa# | 117 : r > ɾ 
-Final form : *#mˈanːɾa#
+*#mˈanːdra# | 102 : ∅ > d / [+nas,+cor] __ r
+*#mˈandra# | 103 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#mˈandɾa# | 121 : r > ɾ 
+Final form : *#mˈandɾa#

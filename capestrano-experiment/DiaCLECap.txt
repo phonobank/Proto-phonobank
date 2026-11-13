@@ -147,6 +147,12 @@ $ combine with LXIVa -- lj to ʎʎ; have inferred from other Italo-Romance and e
 $ ICIIIa sj > ʃ; not lengthened. 
 s j > ʃ 
 
+$ MANUAL FIX 11.13.2026.3 -- j to d͡ʒ before u - nasal. The specialty of ju- is seen also in Aromanian and Romanian, e.g. d͡ʒ > d͡z in Aromanian except before u. 
+j > d͡ʒ / # __ [+hi] [+nas,+hi] 
+
+$ MANUAL FIX A20 -- non-tonic after initial j to e before coronal sonorant and schwa otherwise. Handled as passage to schwa feeding A21 -- ianuarius, iumentum, iuniperum, gelare, genuculu, etc.. Doesn't occur before a palatal o rhigh element element, or non-consonantal. 
+[-prim] > ə / # j __ [+cons,-front]
+
 
 $ MANUAL FIX: both of the above are wrong. 
 	$Instead, rʲ > r generally much later, rʲ > rj in specific conditions: 
@@ -164,10 +170,6 @@ s > j / # ([-syl])* [+syl] ([-syl]) __ #
 $ ICIVa elimination of all word final consonantals. Bled by ICIVb
 [+cons] > ∅ / __ #
 [+cons] > ∅ / __ #
-
-$ LXXIXe semi-bandaid -- degeminate geminates in clusters, except when second element is a sonorant [e.g. allowing bbr etc.]
-	$ bst > st not sst etc; mpt , nct > nt , later to nd ,etc.
-[+cons] [-son] > [-long] [-long] 
 
 $ LXXXId lt, lk to rt, rk if there's lateral later in word. Bleeds LXXXf. FIX -- this also happens to lp -- scalpellum > ʃkarpejjə. Just assume all stops at this point.
 l > r / __ [-cont] (@)* [+lat] 
@@ -335,9 +337,8 @@ $ LIVc aw > o. FIX -- only preconsonantal
 [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 
 $LXXVIIIa -- apply geminations. Must come after LVIIa. 
-{t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː}
-
-
+	${t t;d d;s s;z z;r r;l l;t t͡s;d d͡z;n n;m m;b b;p p;f f;v v;w w;j j;k k;ɡ ɡ;t t͡ʃ;d d͡ʒ;ŋ ŋ;ɲ ɲ;ʎ ʎ} > {tː;dː;sː;zː;rː;lː;t͡sː;d͡zː;nː;mː;bː;pː;fː;vː;wː;jː;kː;ɡː;t͡ʃː;d͡ʒː;ŋː;ɲː;ʎː}
+[+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
 
 $ LXXXIb pl and pr to ppl , ppr unless initial syllable. 
 	$OG was Counterbled by LVXIXb
@@ -414,7 +415,6 @@ $ ICIɲ -- mbi, ngj , ndj ,ndzj > ɲ. Counterfed by LXId
 $ ICIʎ lɲ > ɲ 
 l > ∅ / __ ɲ
 
-
 =Proto-South-Italo-Romance
 
 $ undated changes presented as specific 
@@ -472,6 +472,15 @@ n > ∅ / __ s [+cons] [+cons]
 
 $ LXXXIIIb nw to mm 
 n v > mː 
+
+$ MANUAL FIX (going with dates then number on that day from now on) 11.13.2026.2 ː excrescence mr > mbr, nr > ndr. Fed by LXXXIIIb. Feeds LXXIXe
+∅ > b / [+nas,+lab] __ r
+∅ > d / [+nas,+cor] __ r
+
+
+$ LXXIXe semi-bandaid -- degeminate geminates in clusters, except when second element is a sonorant [e.g. allowing bbr etc.]
+	$ bst > st not sst etc; mpt , nct > nt , later to nd ,etc.
+[+cons] [-son] > [-long] [-long] 
 
 $ LXXXIVa rs to rts
 s > t͡s / r __
@@ -553,12 +562,8 @@ $ XVIIe initial v/w to g.
 	$ TODO debug this.
 [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl] 
 
-$ MANUAL FIX A20 -- non-tonic after initial j to e before coronal sonorant and schwa otherwise. Handled as passage to schwa feeding A21. Doesn't occur before a palatal element, or non-consonantal -- ianuarius, iumentum, iuniperum, gelare, genuculu, etc. 
-[-prim] > ə / # j __ [+cons,-front]
-
 $ XXXVIIa implicit (?) -- j revocalizes after laterals
 j > i / [+lat] __
-
 
 $BANDAID notational loss of countertonic stress
 [-prim] > [-stres]

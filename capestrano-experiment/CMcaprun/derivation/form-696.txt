@@ -1,13 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 696:
-#ˈumbram# >>> *#ˈomːɾa# ( GOLD : #ˈombɾa#) :
+#ˈumbram# >>> *#ˈombɾa# ( GOLD : #ˈombɾa#) :
 ˈu m b r a m 
 Proto-Romance stage form : *#ˈumbram#
 *#ˈʊmbram# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˈʊmbram#
-*#ˈʊmbra# | 37 : [+cons] > ∅ / __ #
-*#ˈombra# | 64 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-*#ˈomːra# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˈʊmbra# | 39 : [+cons] > ∅ / __ #
+*#ˈombra# | 65 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#ˈomːra# | 66 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
 Proto-South-Italo-Romance stage form : *#ˈomːra#
 Middle Pre-Capestranese stage form : *#ˈomːra#
-*#ˈomːɾa# | 117 : r > ɾ 
-Final form : *#ˈomːɾa#
+*#ˈomːbra# | 101 : ∅ > b / [+nas,+lab] __ r
+*#ˈombra# | 103 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˈombɾa# | 121 : r > ɾ 
+Final form : *#ˈombɾa#

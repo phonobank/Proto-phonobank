@@ -1,13 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 618:
-#ɡˈummi# >>> *#ɡˈumːə# ( GOLD : #ɡˈɔmːa#) :
-ɡ ˈu m m i 
-Proto-Romance stage form : *#ɡˈummi#
-*#ɡˈʊmmɪ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ɡˈʊmmɪ#
-*#ɡˈʊmːɪ# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#ɡˈumːɪ# | 66 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
-*#ɡˈumːe# | 68 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ɡˈumːe#
-Middle Pre-Capestranese stage form : *#ɡˈumːe#
-*#ɡˈumːə# | 107 : [-stres,-lo] > ə 
-Final form : *#ɡˈumːə#
+#ɡˈumma# >>> *#ɡˈomːa# ( GOLD : #ɡˈɔmːa#) :
+ɡ ˈu m m a 
+Proto-Romance stage form : *#ɡˈumma#
+*#ɡˈʊmma# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ɡˈʊmma#
+*#ɡˈomma# | 65 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#ɡˈomːa# | 66 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#ɡˈomːa#
+Middle Pre-Capestranese stage form : *#ɡˈomːa#
+Final form : *#ɡˈomːa#

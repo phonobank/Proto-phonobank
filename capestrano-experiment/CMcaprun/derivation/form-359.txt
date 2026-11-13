@@ -4,11 +4,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˈannum#
 *#ˈannʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˈannʊm#
-*#ˈannʊ# | 37 : [+cons] > ∅ / __ #
-*#ˈannu# | 61 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈanːu# | 65 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˈannʊ# | 39 : [+cons] > ∅ / __ #
+*#ˈannu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈanːu# | 66 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
 Proto-South-Italo-Romance stage form : *#ˈanːu#
 Middle Pre-Capestranese stage form : *#ˈanːu#
-*#ˈanːˌu# | 106 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈanːə# | 112 : [-prim,-lo] > ə / __ #
+*#ˈanːˌu# | 110 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈanːə# | 116 : [-prim,-lo] > ə / __ #
 Final form : *#ˈanːə#
