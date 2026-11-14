@@ -1,13 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 724:
 #plˈue# >>> *#pjˈovə# ( GOLD : #pjˈovə#) :
 p l ˈu e 
-*#plˈuwe# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
+*#plˈuwe# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl]
 Proto-Romance stage form : *#plˈuwe#
 *#plˈʊwɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#plˈʊwɛ#
-*#plˈʊvɛ# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#plˈove# | 69 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#pʎˈove# | 73 : l > ʎ / [-son,-cor] __
+*#plˈʊvɛ# | 56 : {w;wː} > {v;vː} / # ( ( @ )* [+son] ) __ [-cons]
+*#plˈove# | 70 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pʎˈove# | 74 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#pʎˈove#
 Middle Pre-Capestranese stage form : *#pʎˈove#
 *#pʎˈovə# | 111 : [-stres,-lo] > ə 

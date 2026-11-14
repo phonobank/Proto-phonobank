@@ -1,7 +1,7 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 285:
 #jˌaːnuˈaːriu# >>> *#jimːˈaɾə# ( GOLD : #jenːˈaɾə#) :
 j ˌaː n u ˈaː r i u 
-*#jˌaːnuwˈaːriu# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
+*#jˌaːnuwˈaːriu# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl]
 *#jˌaːnuwˈaːrju# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#jˌaːnuwˈaːrju#
 *#jˌaːnʊwˈaːrjʊ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -9,9 +9,9 @@ Early Pre-Capestranese stage form : *#jˌaːnʊwˈaːrjʊ#
 *#jˌanʊwˈarjʊ# | 30 : [+syl] > [-long,-splng] 
 *#jˌanʊwˈarʲʊ# | 32 : r j > rʲ 
 *#jənʊwˈarʲʊ# | 36 : [-prim] > ə / # j __ [+cons,-front]
-*#jənʊvˈarʲʊ# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#jənvˈarʲʊ# | 58 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
-*#jənvˈarʲu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jənʊvˈarʲʊ# | 56 : {w;wː} > {v;vː} / # ( ( @ )* [+son] ) __ [-cons]
+*#jənvˈarʲʊ# | 59 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#jənvˈarʲu# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#jənvˈarʲu#
 *#jˌinvˈarʲu# | 89 : ə > ˌi / __ n [+cons,+lab,+voi]
 Middle Pre-Capestranese stage form : *#jˌinvˈarʲu#

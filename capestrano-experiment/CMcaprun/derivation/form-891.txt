@@ -1,7 +1,7 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 891:
 #fˌebruˈaːrium# >>> *#fəbːɾəvˈaɾə# ( GOLD : #fɾəbːˈaɾə#) :
 f ˌe b r u ˈaː r i u m 
-*#fˌebruwˈaːrium# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
+*#fˌebruwˈaːrium# | 8 : ∅ > w / [+voi] [+syl,+round] __ [+syl]
 *#fˌebruwˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#fˌebruwˈaːrjum#
 *#fˌɛbrʊwˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -9,10 +9,10 @@ Early Pre-Capestranese stage form : *#fˌɛbrʊwˈaːrjʊm#
 *#fˌɛbrʊwˈarjʊm# | 30 : [+syl] > [-long,-splng] 
 *#fˌɛbrʊwˈarʲʊm# | 32 : r j > rʲ 
 *#fˌɛbrʊwˈarʲʊ# | 39 : [+cons] > ∅ / __ #
-*#fˌɛbrʊvˈarʲʊ# | 55 : w > v / # ( ( @ )* [+son] ) __ [-cons]
-*#fˌebrʊvˈarʲʊ# | 61 : [+stres,-prim,+front,-tense] > ˌe 
-*#fˌebruvˈarʲu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#fˌebːruvˈarʲu# | 74 : b > bː / [-cons] __ r
+*#fˌɛbrʊvˈarʲʊ# | 56 : {w;wː} > {v;vː} / # ( ( @ )* [+son] ) __ [-cons]
+*#fˌebrʊvˈarʲʊ# | 62 : [+stres,-prim,+front,-tense] > ˌe 
+*#fˌebruvˈarʲu# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fˌebːruvˈarʲu# | 75 : b > bː / [-cons] __ r
 Proto-South-Italo-Romance stage form : *#fˌebːruvˈarʲu#
 Middle Pre-Capestranese stage form : *#fˌebːruvˈarʲu#
 *#fˌebːruvˈaru# | 96 : rʲ > r 

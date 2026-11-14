@@ -24,7 +24,7 @@ $ shared with French and Albano-Romance it seems éolu > eólu etc.
 [+prim,+front] o > [-stres] ˈo / __ l [-stres] 
 
 $ MANUAL FIX 17: -w-  insertion in Cvoi Vround V-round. Evidence in Romanian possibly for àstru(w)icˈāre, perhaps bo(w)ārium,  du(w)ae , -- and pecu(w)īnam, tho it doesn't fit the voicedness of the prior context posited here.
-∅ > w / [+voi] [+syl,+round] __ [+syl,-round]
+∅ > w / [+voi] [+syl,+round] __ [+syl]
 
 $ LXVb gliding of i and u in hiatus 
 	$ FIX, MANUAL -- gliding of ea eo eu and oa too. Also, any length is lost, but countertonics do not glide if they are long. 
@@ -62,7 +62,10 @@ l > lˠ / __ ([-stres]) k [-cons]
 =Early Pre-Capestranese
 
 $LXXIXd dv to vv, dm to mm; throw in db and dp while at it
-d [+lab,+cons] > ∅ [+long]
+$d [-cor,+cons] > ∅ [+long]
+		$manual fix 11.14.26.a -- hit d + any consonant or w
+			$11.14.26.b --but not if postconsonantal 
+d [bcons,-bround,-syl] > ∅ [+long] / # ((@)* [-cons]) __
 
 
 $ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidism. Counterbled by ɛ metaphony LIIc, and by reduction to schwa. 
@@ -189,6 +192,8 @@ $ MANUAL FIX A12 deletions in l/m/f Clab __ r contexts.
 	$ affected: sufferīre, iūniperum? , aperīre, camera, comparāre, comparātum, opera, offerīre
 [-prim] > ∅ / [+syl,alo,afront] ([+cont,llat,-llab]) [-syl,+lab,-long] __ r [+syl]
 
+	$ MANUAL FIX NOV 13 -- gemination of b in cor VbVtV -- debitum tributum subito 
+b > bː / [+cor] [+syl] __ [+syl] t @
 
 $ MANUAL FIX A13 unstressed high vowels deleted in Vround (m/l) Clab,-long __ t/n V 
 	$ domina > donna, computare > cundar, cubitu > vutë, volvita > vota, comitem > condë
@@ -246,7 +251,7 @@ $ LXXVIIa medial w to v, if prevocalic
 		$w > v / # __
 		$w > v / __ [-cons]
 	$ MANUAL FIX -- does not happen after obstruents
-w > v / # ((@)* [+son]) __ [-cons]
+{w;wː}> {v;vː} / # ((@)* [+son]) __ [-cons]
 
 	$ MANUAL FIX w lost in gw if there's w or u in prior syllable -- 
 		$ungula , coagula, rukəla, karrukəla, mokkəla < mʊkkʊla
@@ -367,8 +372,6 @@ $ OG: b > bː / __ [rcor,-rfront,+son,-nas,-syl]
 	$ MANUAL FIX -- this only happens for any of these after tonic vowel -- results in gain 1% acc.
 [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
 
-	$ MANUAL FIX NOV 13 -- gemination of b in cor VbVtV -- debitum tributum subito 
-b > bː / [+cor] [+syl] __ [+syl] t @
 
 $ LXXc medial b to v. 
 	$Merger attributed to begin in midst of "confusion" in third century CE.

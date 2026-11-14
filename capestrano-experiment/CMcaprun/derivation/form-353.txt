@@ -4,10 +4,10 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌadmˌiːrˈaːtum#
 *#ˌadmˌiːrˈaːtʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌadmˌiːrˈaːtʊm#
-*#ˌamːˌiːrˈaːtʊm# | 21 : d [+lab,+cons] > ∅ [+long]
+*#ˌamːˌiːrˈaːtʊm# | 21 : d [bcons,!bround,-syl] > ∅ [+long]/ # ( ( @ )* [-cons] ) __
 *#ˌamːˌirˈatʊm# | 30 : [+syl] > [-long,-splng] 
 *#ˌamːˌirˈatʊ# | 39 : [+cons] > ∅ / __ #
-*#ˌamːˌirˈatu# | 62 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌamːˌirˈatu# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌamːˌirˈatu#
 Middle Pre-Capestranese stage form : *#ˌamːˌirˈatu#
 *#ˌamːirˈatu# | 109 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
