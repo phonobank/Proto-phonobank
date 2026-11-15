@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 737:
-#prˈoːmptus# >>> *#pɾˈomdə# ( GOLD : #pɾˈondə#) :
+#prˈoːmptus# >>> *#pɾˈondə# ( GOLD : #pɾˈondə#) :
 p r ˈoː m p t u s 
 Proto-Romance stage form : *#prˈoːmptus#
 *#prˈoːmptʊs# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -8,10 +8,11 @@ Early Pre-Capestranese stage form : *#prˈoːmptʊs#
 *#prˈomtːʊs# | 37 : [+lab,-son] [+cor,-son] > ∅ [+long]
 *#prˈomtːʊ# | 39 : [+cons] > ∅ / __ #
 *#prˈomtːu# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#prˈomtːu#
-Middle Pre-Capestranese stage form : *#prˈomtːu#
-*#prˈomtu# | 103 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#prˈomtə# | 111 : [-stres,-lo] > ə 
-*#prˈomdə# | 113 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#pɾˈomdə# | 122 : r > ɾ 
-Final form : *#pɾˈomdə#
+*#prˈontːu# | 67 : m > n / [-cons] __ [+cor,nnas,nson]
+Proto-South-Italo-Romance stage form : *#prˈontːu#
+Middle Pre-Capestranese stage form : *#prˈontːu#
+*#prˈontu# | 104 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#prˈontə# | 112 : [-stres,-lo] > ə 
+*#prˈondə# | 114 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#pɾˈondə# | 123 : r > ɾ 
+Final form : *#pɾˈondə#

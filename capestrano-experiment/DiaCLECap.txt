@@ -182,8 +182,8 @@ $LXXVa gemination of m before in proparoxytones with another nasal involved -- h
 $m > mː / [+nas] [+syl] __ [+syl] [+cons] [+syl] #
 $m > mː / __ [+syl] [+nas] [+syl] #
 	$ executive decision    -- MANUAL FIX -- just any proparoxytones, with initial labial if they have any labial.
-			$ not after lo.
-m > mː / # ([+lab]) [-cons,-lo] __ [+syl] [+cons] [+syl] #
+			$ not after or before lo, after tonic or countertonic
+m > mː / # ((@)* [+ant]) [+stres,-lo] __ [+syl,-lo] [+cons,-front] [+syl]
 
 $ MANUAL FIX A12 deletions in l/m/f Clab __ r contexts. 
 	$ not for mː -- numerum > nummërë, admirātum > ammiratë
@@ -192,8 +192,8 @@ $ MANUAL FIX A12 deletions in l/m/f Clab __ r contexts.
 	$ affected: sufferīre, iūniperum? , aperīre, camera, comparāre, comparātum, opera, offerīre
 [-prim] > ∅ / [+syl,alo,afront] ([+cont,llat,-llab]) [-syl,+lab,-long] __ r [+syl]
 
-	$ MANUAL FIX NOV 13 -- gemination of b in cor VbVtV -- debitum tributum subito 
-b > bː / [+cor] [+syl] __ [+syl] t @
+	$ MANUAL FIX NOV 13 -- gemination of b and p in cor.obs Vb V tV -- debitum tributum subito trapetum
+[+lab,-cont] > [+long] / [+cor,-son] (r) [+syl] __ [+syl] t @
 
 $ MANUAL FIX A13 unstressed high vowels deleted in Vround (m/l) Clab,-long __ t/n V 
 	$ domina > donna, computare > cundar, cubitu > vutë, volvita > vota, comitem > condë
@@ -310,7 +310,10 @@ $ FIX: it's actually ʊ to o before multiple consonants than a. (FIX -- inferred
 	$ˈʊ > ˈo / __ [+nas,+long] a ([+cons]) #
 		$ combined into LVIIa 
 
-$ XXXIa nd to nn, argued to be due to Oscan influence. 
+$ MANUAL FIX 11.15.26.a postvocalic m > n before coronals other than r. Counterfeeds XXXIa but feeds LVIIc 
+m > n / [-cons] __ [+cor,nnas,nson]
+
+$ XXXIa.1 nd to nn, argued to be due to Oscan influence. 
 $d > n / n __ 
 	$ LVIIb -- this applies to mp to mm too 
 	$treating these as long nasals, as well as nn and mm
@@ -319,10 +322,12 @@ $d > n / n __
 	$ MANUAL FIX: doesn't absorb d͡ʒ.. .yet.
 [+nas,mlab,-mcor] [+cons,+voi,nnas,nson,mlab,-mcor] > [+long] ∅
 
+
 $ LVIIc ˈʊ > ˈu before nasal geminate unless bled by LVIIa above
-	$ MANUAL FIX -- only if theres labiality on one side, but its ɔ too 
-		$ mundus fung(i)us plumbum spongia lumbum , but not axungia , hirundinella 
-[+round,-tense] > [+tense,+hi] / [-mlab] __ [+nas,+long,mlab]
+	$ MANUAL FIX -- its ɔ too, but needs anterior segment beforehand
+		$ mundus fung(i)us plumbum spongia lumbum somnum numerum rotundum autumnum fundum mundum , but not axungia , hirundinella, cannula
+		$ fed by mn > nn -- autumnum, somnum
+[+round,-tense] > [+tense,+hi] / [+ant] __ [+nas,+long]
 
 
 $ LIIc ɛ > æ under a-metaphony : bbælla (v/g)udælla vækkja fæsta

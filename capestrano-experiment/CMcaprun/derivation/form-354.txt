@@ -4,11 +4,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌassˈide#
 *#ˌassˈɪdɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌassˈɪdɛ#
-*#ˌassˈede# | 70 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#ˌasːˈede# | 73 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#ˌassˈede# | 71 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌasːˈede# | 74 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
 Proto-South-Italo-Romance stage form : *#ˌasːˈede#
 Middle Pre-Capestranese stage form : *#ˌasːˈede#
-*#ˌaʃːˈede# | 106 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#ˌaʃːˈedə# | 111 : [-stres,-lo] > ə 
-*#aʃːˈedə# | 129 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌaʃːˈede# | 107 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+*#ˌaʃːˈedə# | 112 : [-stres,-lo] > ə 
+*#aʃːˈedə# | 130 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#aʃːˈedə#

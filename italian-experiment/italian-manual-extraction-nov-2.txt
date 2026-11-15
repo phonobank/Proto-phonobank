@@ -11,6 +11,9 @@ $$ NOTATION:
 $ 3.1a loss of h. Pan-Romance 
 h > ∅ 
 
+$ 9d -- final m > n in monosyllables, to be spared from deletions. Counterbled by gliding in iam
+m > n / # ([-syl])* [+syl] __ #
+
 $ 5a gliding of unstressed i and u in hiatus 
 [+syl,+hi,-stres] > [-syl] / __ [+syl]
 
@@ -19,6 +22,9 @@ t > k / __ l
 
 $ 8.2b pan Romance (?) assimilations [he doesn't say it --- inferred]: d + C. See later ones -- 8.2c. Division between earlier/later in branching may need revision for source fidelity .TODO 
 d [+cons] > ∅ [+long]
+
+$9a deletion of n in ns, pan-Romance, words without this e.g. denso are learned loans.
+n > ∅ / __ s
 
 = Proto-Romance 
 
@@ -166,10 +172,8 @@ $ 8.2d some syncopes -- TODO may need to revise placement -- that at the very le
     $ feed 8.2e
 [-stres] > ∅ / [+son,+cons] __ [+son,+cons]
 
+
 = Proto-Italo-Romance
-
-
-
 
 $5.3.a.3 palatalization of velar fricatives from 5.3.a that survive, before coronals. 
     $-jn- and -js- survive in some cases in southern Italo-Romance
@@ -194,6 +198,12 @@ s > ʃ / # ([-ant])* j __
 $ 5.3.a.6 -- j absorbed by following s or ʃ 
 j [+strid] > ∅ [+long]
 
+$10b gliding of final or quasifinal s
+s > j / __ ([+cons]) #
+
+$10a deletion of final consonants
+[+cons] > ∅ / __ #
+[+cons] > ∅ / __ #
 
 $6.1c -- where 6.1b doesn't apply, ʝ becomes d͡ʒ initially, and d͡ʒː intervocalically. Also handles n ʝ > nd͡ʒ and rʝ > 
 ʝ > d͡ʒː / [-cons] __ [+syl]
@@ -204,6 +214,7 @@ $ 3.3a Italo-Romance l > j post-obstruent(?)-- he says tautosyllabic which may e
     $fed by syncope 4.5.4.1
 l > j / [-son] __ 
 
+$ 9c "tendency" to vocalize l before consontants -- talpo vs. topo e.g. -- but most cases are excluded. Not included as a rule.
 $ 4.4a aw > ɔ; does not apply to Abruzzo and north Campania southwards
     $ counterfeeds 4.2a , fed by aβ > aw in PARABOLA etc. 
 [+lo,+syl] w > [+lab,+round,-front,+back,-lo,-tense] ∅
@@ -225,6 +236,9 @@ $ 8.1c v > g in a,e __ o,u -- Maiden attributes it to hypercorrection but it's s
     $ *avuto > Old Sienese aguto; sevo > sego "tallow", pavonem > pagone (cf. Alb pagua, pallua)
 v > ɡ / [+front,+syl,-hi] __ [+round,+syl]
 
+$9c apocope after post-vocalic sonorants l r n 
+[-stres] > ∅ / [-cons] [+cor,+son] __ #
+ 
 = Proto-Tuscan 
 
 $ 4.6.1a pretonic o raises to u "sometimes" (TODO: clarify)
@@ -242,7 +256,7 @@ a > e / [+syl] (@)* __ r [-cons]
 
 $ 4.6.4 syncope -- too "sometimes" -y generally; aphaeresis understood as analogical. 
 
-$ 4.6.4.1 penultimate proparoxytone syncope "cannot be accounted for ... [by] regular sound chagne"
+$ 4.6.4.1 penultimate proparoxytone syncope "cannot be accounted for ... [by] regular sound change"
 
 $ 3.3b "low" Tuscan ggj, ʎʎ } > ɟɟ
 {ɡ ɡ j;ʎ ʎ} > {ɟ ɟ;ɟ ɟ}
@@ -269,6 +283,9 @@ $ ch13 -- signs of learned words:
     $ VI retention of word internal b 
     $ VII preservation of nasals before sibilants
     $ VIII consonantal assimilation e.g. kt pt > tt , ks > ss -> 13b, resisted for the "more recondite learned borrowings" (effectively reborrowed later)
+
+$ 9b -- deletion of n in nsC: istituto, istigare, istruire, trasportare
+n > ∅ / __ s [+cons] 
 
 $ 13a -- tjV in learned vocab (not in inherited? TODO check) becomes t͡sj
     $ TODO check for others

@@ -1,14 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 68:
-#dˌomˈinulam# >>> *#dəmˈenəla# ( GOLD : #dˈonːəla#) :
-d ˌo m ˈi n u l a m 
-Proto-Romance stage form : *#dˌomˈinulam#
-*#dˌɔmˈɪnʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#dˌɔmˈɪnʊlam#
-*#dˌɔmˈɪnʊla# | 39 : [+cons] > ∅ / __ #
-*#dˌomˈɪnula# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dˌomˈenula# | 70 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#dˌomˈenula#
-Middle Pre-Capestranese stage form : *#dˌomˈenula#
-*#dˌomˈenəla# | 111 : [-stres,-lo] > ə 
-*#dəmˈenəla# | 124 : [-prim,-hi,-lo] > ə 
-Final form : *#dəmˈenəla#
+... >>> *#dˈonːəla# ( GOLD : #dˈonːəla#) :
+... 
+Proto-Romance stage form : ...
+Early Pre-Capestranese stage form : ...
+*#dˈonnula# | 67 : m > n / [-cons] __ [+cor,nnas,nson]
+*#dˈonːula# | 68 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+Proto-South-Italo-Romance stage form : *#dˈonːula#
+Middle Pre-Capestranese stage form : *#dˈonːula#
+*#dˈonːəla# | 112 : [-stres,-lo] > ə 
+Final form : *#dˈonːəla#

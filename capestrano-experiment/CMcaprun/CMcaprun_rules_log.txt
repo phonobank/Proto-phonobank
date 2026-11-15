@@ -40,9 +40,9 @@ s > j / # ( [-syl] )* [+syl] ( [-syl] ) __ #
 [+cons] > ∅ / __ #
 [+cons] > ∅ / __ #
 l > r / __ [-cont] ( @ )* [+lat]
-m > mː / # ( [+lab] ) [-cons,-lo] __ [+syl] [+cons] [+syl] #
+m > mː / # ( ( @ )* [+ant] ) [+stres,-lo] __ [+syl,-lo] [+cons,-front] [+syl]
 [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
-b > bː / [+cor] [+syl] __ [+syl] t @
+[+lab,-cont] > [+long] / [+cor,-son] ( r ) [+syl] __ [+syl] t @
 [+hi,-stres] > ∅ / [+round,+syl] ( [+son,-syl] ) [+lab,-syl,-long] __ [nnas,nvoi,+cor,-front] [+syl]
 [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
 r > l / __ b ( @ )* r
@@ -65,8 +65,9 @@ w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
 j n > ɲː / [+front,-lo,+syl] __
 j n > ɲː / __ [+front,-lo,+syl]
 ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+m > n / [-cons] __ [+cor,nnas,nson]
 [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-[+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [!mlab] __ [+nas,+long,mlab]
+[+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [+ant] __ [+nas,+long]
 [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
 [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
 ɡ > w / __ m
