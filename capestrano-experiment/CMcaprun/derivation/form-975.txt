@@ -1,17 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 975:
-#mˌollˈiːkam# >>> *#mujːˈika# ( GOLD : #mijːˈika#) :
-m ˌo l l ˈiː k a m 
-Proto-Romance stage form : *#mˌollˈiːkam#
-*#mˌɔllˈiːkam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#mˌɔllˈiːkam#
-*#mˌɔllˈikam# | 33 : [+syl] > [-long,-splng] 
-*#mˌɔllˈika# | 42 : [+cons] > ∅ / __ #
-*#mˌollˈika# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˌolːˈika# | 81 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#mˌolːˈika#
-Middle Pre-Capestranese stage form : *#mˌolːˈika#
-*#mˌoʎːˈika# | 106 : lː > ʎː / __ [+hi]
-*#mˌuʎːˈika# | 115 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#mˌujːˈika# | 132 : {ʎ;ʎː} > {j;jː} 
-*#mujːˈika# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#mujːˈika#
+#mˈortuam# >>> *#mˈɔɾta# ( GOLD : #mˈɔɾta#) :
+m ˈo r t u a m 
+*#mˈortwam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#mˈortwam#
+*#mˈɔrtwam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˈɔrtwam#
+*#mˈɔrtam# | 24 : w > ∅ / [-back,-son] __
+*#mˈɔrta# | 42 : [+cons] > ∅ / __ #
+*#mˈɞˤrta# | 75 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#mˈɔrta# | 88 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#mˈɔrta#
+Middle Pre-Capestranese stage form : *#mˈɔrta#
+*#mˈɔɾta# | 128 : r > ɾ 
+Final form : *#mˈɔɾta#

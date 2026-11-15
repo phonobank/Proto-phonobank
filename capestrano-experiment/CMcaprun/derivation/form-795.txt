@@ -1,15 +1,20 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 795:
-#pˈampinos# >>> *#pˈambənə# ( GOLD : #pˈambənə#) :
-p ˈa m p i n o s 
-Proto-Romance stage form : *#pˈampinos#
-*#pˈampɪnɔs# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#pˈampɪnɔs#
-*#pˈampɪnɔ# | 42 : [+cons] > ∅ / __ #
-*#pˈampɪno# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˈampɛno# | 75 : [+syl,-tense] > [-hi] 
-*#pˈampeno# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#pˈampeno#
-Middle Pre-Capestranese stage form : *#pˈampeno#
-*#pˈampənə# | 118 : [-stres,-lo] > ə 
-*#pˈambənə# | 120 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#pˈambənə#
+#pʰˌasˈeolum# >>> *#faʃˈoɾə# ( GOLD : #faʃˈɔɾə#) :
+pʰ ˌa s ˈe o l u m 
+*#fˌasˈeolum# | 5 : pʰ > f 
+*#fˌaseˈolum# | 7 : [+prim,+front] o > [-stres,-prim,+syl,+son] ˈo/ __ l [-stres]
+*#fˌasjˈolum# | 11 : e > j / __ [+back,-cons]
+Proto-Romance stage form : *#fˌasjˈolum#
+*#fˌasjˈɔlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#fˌasjˈɔlʊm#
+*#fˌaʃˈɔlʊm# | 37 : s j > ʃ 
+*#fˌaʃˈɔlʊ# | 42 : [+cons] > ∅ / __ #
+*#fˌaʃˈɔrʊ# | 55 : l > r / [-voi,-ant] [+round,+prim] __ [+syl] #
+*#fˌaʃˈɔru# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fˌaʃˈoru# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#fˌaʃˈoru#
+Middle Pre-Capestranese stage form : *#fˌaʃˈoru#
+*#fˌaʃˈorə# | 117 : [-stres,-lo] > ə 
+*#fˌaʃˈoɾə# | 128 : r > ɾ 
+*#faʃˈoɾə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#faʃˈoɾə#

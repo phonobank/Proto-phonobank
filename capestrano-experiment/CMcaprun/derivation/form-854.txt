@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 854:
-#bˌuːkˈaːtu# >>> *#bukˈatə# ( GOLD : #vəkˈatə#) :
-b ˌuː k ˈaː t u 
-Proto-Romance stage form : *#bˌuːkˈaːtu#
-*#bˌuːkˈaːtʊ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#bˌuːkˈaːtʊ#
-*#bˌukˈatʊ# | 33 : [+syl] > [-long,-splng] 
-*#bˌukˈatu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#bˌukˈatu#
-Middle Pre-Capestranese stage form : *#bˌukˈatu#
-*#bˌukˈatə# | 118 : [-stres,-lo] > ə 
-*#bukˈatə# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#bukˈatə#
+#bˈukkam# >>> *#ɡˈokːa# ( GOLD : #vˈokːa#) :
+b ˈu k k a m 
+Proto-Romance stage form : *#bˈukkam#
+*#bˈʊkkam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#bˈʊkkam#
+*#bˈʊkka# | 42 : [+cons] > ∅ / __ #
+*#bˈokka# | 71 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#bˈokːa# | 82 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#bˈokːa#
+Middle Pre-Capestranese stage form : *#bˈokːa#
+*#vˈokːa# | 125 : b > v / # __ [+prim,+round] [+cons] [+syl]
+*#ɡˈokːa# | 133 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+Final form : *#ɡˈokːa#

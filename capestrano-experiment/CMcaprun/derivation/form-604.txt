@@ -1,15 +1,19 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 604:
-#ɡˈentem# >>> *#d͡ʒːˈendə# ( GOLD : #d͡ʒːˈændə#) :
-ɡ ˈe n t e m 
-Proto-Romance stage form : *#ɡˈentem#
-*#ɡˈɛntɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˈɛntɛm# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-Early Pre-Capestranese stage form : *#ɡɡˈɛntɛm#
-*#d͡ʒːˈɛntɛm# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#d͡ʒːˈɛntɛ# | 42 : [+cons] > ∅ / __ #
-*#d͡ʒːˈente# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#d͡ʒːˈente#
-Middle Pre-Capestranese stage form : *#d͡ʒːˈente#
-*#d͡ʒːˈentə# | 118 : [-stres,-lo] > ə 
-*#d͡ʒːˈendə# | 120 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-Final form : *#d͡ʒːˈendə#
+#ɡˌenˈestram# >>> *#jenˈæstɾa# ( GOLD : #jenˈestɾa#) :
+ɡ ˌe n ˈe s t r a m 
+Proto-Romance stage form : *#ɡˌenˈestram#
+*#ɡˌɛnˈɛstram# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˌɛnˈɛstram# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛnˈɛstram# | 19 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+Early Pre-Capestranese stage form : *#ɡˌɛnˈɛstram#
+*#jˌɛnˈɛstram# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#jənˈɛstram# | 39 : [-prim] > ə / # j __ [+cons,-front]
+*#jənˈɛstra# | 42 : [+cons] > ∅ / __ #
+*#jənˈæstra# | 75 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#jɘnˈæstra# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#jɘnˈæstra#
+Middle Pre-Capestranese stage form : *#jɘnˈæstra#
+*#jənˈæstra# | 117 : [-stres,-lo] > ə 
+*#jənˈæstɾa# | 128 : r > ɾ 
+*#jenˈæstɾa# | 136 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#jenˈæstɾa#

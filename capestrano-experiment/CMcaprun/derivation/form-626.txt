@@ -1,19 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 626:
-#kwˌattuˈordeki# >>> *#kwatːˈoɾdet͡ʃə# ( GOLD : #kwatːˈoɾdet͡ʃə#) :
-k w ˌa t t u ˈo r d e k i 
-*#kwˌattwˈordeki# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kwˌattwˈordeki#
-*#kwˌattwˈɔrdɛkɪ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kwˌattwˈɔrdɛkɪ#
-*#kwˌattˈɔrdɛkɪ# | 24 : w > ∅ / [-back,-son] __
-*#kwˌattˈɔrdɛt͡ʃɪ# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#kwˌattˈɔrdɛt͡ʃɛ# | 75 : [+syl,-tense] > [-hi] 
-*#kwˌattˈordet͡ʃe# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kwˌatːˈordet͡ʃe# | 81 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#kwˌatːˈordet͡ʃe#
-Middle Pre-Capestranese stage form : *#kwˌatːˈordet͡ʃe#
-*#kwˌatːˈordət͡ʃə# | 118 : [-stres,-lo] > ə 
-*#kwˌatːˈoɾdət͡ʃə# | 129 : r > ɾ 
-*#kwatːˈoɾdət͡ʃə# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-*#kwatːˈoɾdet͡ʃə# | 140 : ə > e / [+cor] __ t͡ʃ
-Final form : *#kwatːˈoɾdet͡ʃə#
+#kwˌadraɡˈinta# >>> *#kwarːajˈenda# ( GOLD : #kwaɾˈanta#) :
+k w ˌa d r a ɡ ˈi n t a 
+Proto-Romance stage form : *#kwˌadraɡˈinta#
+*#kwˌadraɡˈɪnta# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kwˌadraɡˈɪnta#
+*#kwˌarːaɡˈɪnta# | 23 : d [bcons,!bround,-syl] > ∅ [+long]/ # ( ( @ )* [-cons] ) __
+*#kwˌarːajˈɪnta# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#kwˌarːajˈɛnta# | 76 : [+syl,-tense] > [-hi] 
+*#kwˌarːajˈenta# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kwˌarːajˈenta#
+Middle Pre-Capestranese stage form : *#kwˌarːajˈenta#
+*#kwˌarːajˈenda# | 119 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#kwarːajˈenda# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kwarːajˈenda#

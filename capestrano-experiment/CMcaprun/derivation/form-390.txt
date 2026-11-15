@@ -1,16 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 390:
-#ˌakklˌaːrˈaː# >>> *#akːjaɾˈa# ( GOLD : #akːjaɾˈa#) :
-ˌa k k l ˌaː r ˈaː 
-Proto-Romance stage form : *#ˌakklˌaːrˈaː#
-Early Pre-Capestranese stage form : *#ˌakklˌaːrˈaː#
-*#ˌakklˌarˈa# | 33 : [+syl] > [-long,-splng] 
-*#ˌakːlˌarˈa# | 81 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-*#ˌakːʎˌarˈa# | 82 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#ˌakːʎˌarˈa#
-Middle Pre-Capestranese stage form : *#ˌakːʎˌarˈa#
-*#ˌakːʎarˈa# | 116 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌakːʎˌarˈa# | 117 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌakːʎˌaɾˈa# | 129 : r > ɾ 
-*#ˌakːjˌaɾˈa# | 132 : {ʎ;ʎː} > {j;jː} 
-*#akːjaɾˈa# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#akːjaɾˈa#
+#ˌakwˈaːrium# >>> *#akwˈaɾə# ( GOLD : #akːwˈaɾə#) :
+ˌa k w ˈaː r i u m 
+*#ˌakwˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌakwˈaːrjum#
+*#ˌakwˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌakwˈaːrjʊm#
+*#ˌakwˈarjʊm# | 33 : [+syl] > [-long,-splng] 
+*#ˌakwˈarʲʊm# | 35 : r j > rʲ 
+*#ˌakwˈarʲʊ# | 42 : [+cons] > ∅ / __ #
+*#ˌakwˈarʲu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌakwˈarʲu#
+Middle Pre-Capestranese stage form : *#ˌakwˈarʲu#
+*#ˌakwˈaru# | 104 : rʲ > r 
+*#ˌakwˈarə# | 117 : [-stres,-lo] > ə 
+*#ˌakwˈaɾə# | 128 : r > ɾ 
+*#akwˈaɾə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#akwˈaɾə#

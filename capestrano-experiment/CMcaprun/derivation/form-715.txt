@@ -1,14 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 715:
-#plˈikat# >>> *#pjˈika# ( GOLD : #pjˈɛka#) :
-p l ˈi k a t 
-Proto-Romance stage form : *#plˈikat#
-*#plˈɪkat# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#plˈɪkat#
-*#plˈiːkat# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
-*#plˈikat# | 33 : [+syl] > [-long,-splng] 
-*#plˈika# | 42 : [+cons] > ∅ / __ #
-*#pʎˈika# | 82 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#pʎˈika#
-Middle Pre-Capestranese stage form : *#pʎˈika#
-*#pjˈika# | 132 : {ʎ;ʎː} > {j;jː} 
-Final form : *#pjˈika#
+#plˈeːnam# >>> *#pjˈena# ( GOLD : #pjˈena#) :
+p l ˈeː n a m 
+Proto-Romance stage form : *#plˈeːnam#
+Early Pre-Capestranese stage form : *#plˈeːnam#
+*#plˈenam# | 33 : [+syl] > [-long,-splng] 
+*#plˈena# | 42 : [+cons] > ∅ / __ #
+*#pʎˈena# | 83 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#pʎˈena#
+Middle Pre-Capestranese stage form : *#pʎˈena#
+*#pjˈena# | 131 : {ʎ;ʎː} > {j;jː} 
+Final form : *#pjˈena#

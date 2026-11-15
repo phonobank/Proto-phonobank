@@ -1,16 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 356:
-#ˈasinum# >>> *#ˈaʃenə# ( GOLD : #ˈasənə#) :
-ˈa s i n u m 
-Proto-Romance stage form : *#ˈasinum#
-*#ˈasɪnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˈasɪnʊm#
-*#ˈasɪnʊ# | 42 : [+cons] > ∅ / __ #
-*#ˈasɪnu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈasɛnu# | 75 : [+syl,-tense] > [-hi] 
-*#ˈasenu# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈasenu#
-Middle Pre-Capestranese stage form : *#ˈasenu#
-*#ˈaʃenu# | 114 : [+cor,+ant,+strid] > [-ant,+distr,+front,+cor] / [+lo] __ [+syl] [+cor,dcont,dson] [+syl]
-*#ˈaʃənə# | 118 : [-stres,-lo] > ə 
-*#ˈaʃenə# | 137 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#ˈaʃenə#
+#ˈantius# >>> *#ˈand͡zə# ( GOLD : #ˈand͡zə#) :
+ˈa n t i u s 
+*#ˈantjus# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˈantjus#
+*#ˈantjʊs# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈantjʊs#
+*#ˈantʲːʊs# | 26 : t j > tʲː 
+*#ˈant͡sːʊs# | 34 : tʲː > t͡sː 
+*#ˈant͡sːʊ# | 42 : [+cons] > ∅ / __ #
+*#ˈant͡sːu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈant͡sːu#
+Middle Pre-Capestranese stage form : *#ˈant͡sːu#
+*#ˈant͡su# | 110 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˈant͡sˌu# | 116 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈand͡zˌu# | 119 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ˈand͡zə# | 123 : [-prim,-lo] > ə / __ #
+Final form : *#ˈand͡zə#

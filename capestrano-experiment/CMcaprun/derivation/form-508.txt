@@ -1,16 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 508:
-#kˈae̯lum# >>> *#t͡ʃˈelə# ( GOLD : #t͡ʃˈelə#) :
-k ˈa e̯ l u m 
-*#kˈɛːlum# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
-Proto-Romance stage form : *#kˈɛːlum#
-*#kˈɛːlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˈɛːlʊm#
-*#t͡ʃˈɛːlʊm# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#t͡ʃˈɛlʊm# | 33 : [+syl] > [-long,-splng] 
-*#t͡ʃˈɛlʊ# | 42 : [+cons] > ∅ / __ #
-*#t͡ʃˈɛlu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃˈelu# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#t͡ʃˈelu#
-Middle Pre-Capestranese stage form : *#t͡ʃˈelu#
-*#t͡ʃˈelə# | 118 : [-stres,-lo] > ə 
-Final form : *#t͡ʃˈelə#
+#kˌae̯kˈaːtum# >>> *#t͡ʃəkˈatə# ( GOLD : #t͡ʃekˈatə#) :
+k ˌa e̯ k ˈaː t u m 
+*#kˌɛːkˈaːtum# | 3 : [+lo] e̯ > [+front,-back,-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅
+Proto-Romance stage form : *#kˌɛːkˈaːtum#
+*#kˌɛːkˈaːtʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˌɛːkˈaːtʊm#
+*#t͡ʃˌɛːkˈaːtʊm# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#t͡ʃˌɛkˈatʊm# | 33 : [+syl] > [-long,-splng] 
+*#t͡ʃˌɛkˈatʊ# | 42 : [+cons] > ∅ / __ #
+*#t͡ʃˌekˈatʊ# | 67 : [+stres,-prim,+front,-tense] > ˌe 
+*#t͡ʃˌekˈatu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#t͡ʃˌekˈatu#
+Middle Pre-Capestranese stage form : *#t͡ʃˌekˈatu#
+*#t͡ʃˌekˈatə# | 117 : [-stres,-lo] > ə 
+*#t͡ʃəkˈatə# | 130 : [-prim,-hi,-lo] > ə 
+Final form : *#t͡ʃəkˈatə#

@@ -1,15 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 506:
-#kˌarbˈoːnem# >>> *#kaɾbˈonə# ( GOLD : #kaɾbˈonə#) :
-k ˌa r b ˈoː n e m 
-Proto-Romance stage form : *#kˌarbˈoːnem#
-*#kˌarbˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌarbˈoːnɛm#
-*#kˌarbˈonɛm# | 33 : [+syl] > [-long,-splng] 
-*#kˌarbˈonɛ# | 42 : [+cons] > ∅ / __ #
-*#kˌarbˈone# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌarbˈone#
-Middle Pre-Capestranese stage form : *#kˌarbˈone#
-*#kˌarbˈonə# | 118 : [-stres,-lo] > ə 
-*#kˌaɾbˈonə# | 129 : r > ɾ 
-*#kaɾbˈonə# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kaɾbˈonə#
+#kˌarbonˈaːrium# >>> *#kaɾbənˈaɾə# ( GOLD : #kaɾbonˈaɾə#) :
+k ˌa r b o n ˈaː r i u m 
+*#kˌarbonˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌarbonˈaːrjum#
+*#kˌarbɔnˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˌarbɔnˈaːrjʊm#
+*#kˌarbɔnˈarjʊm# | 33 : [+syl] > [-long,-splng] 
+*#kˌarbɔnˈarʲʊm# | 35 : r j > rʲ 
+*#kˌarbɔnˈarʲʊ# | 42 : [+cons] > ∅ / __ #
+*#kˌarbonˈarʲu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌarbonˈarʲu#
+Middle Pre-Capestranese stage form : *#kˌarbonˈarʲu#
+*#kˌarbonˈaru# | 104 : rʲ > r 
+*#kˌarbənˈarə# | 117 : [-stres,-lo] > ə 
+*#kˌaɾbənˈaɾə# | 128 : r > ɾ 
+*#kaɾbənˈaɾə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaɾbənˈaɾə#

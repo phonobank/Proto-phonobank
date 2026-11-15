@@ -1,16 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 502:
-#kˌarrˈuːkula# >>> *#karːˈukəla# ( GOLD : #karːˈukəla#) :
-k ˌa r r ˈuː k u l a 
-Proto-Romance stage form : *#kˌarrˈuːkula#
-*#kˌarrˈuːkʊla# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌarrˈuːkʊla#
-*#kˌarrˈukʊla# | 33 : [+syl] > [-long,-splng] 
-*#kˌarrˈukwʊla# | 59 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#kˌarrˈukʊla# | 61 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#kˌarrˈukula# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌarːˈukula# | 81 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#kˌarːˈukula#
-Middle Pre-Capestranese stage form : *#kˌarːˈukula#
-*#kˌarːˈukəla# | 118 : [-stres,-lo] > ə 
-*#karːˈukəla# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#karːˈukəla#
+#kˈarrum# >>> *#kˈarːə# ( GOLD : #kˈarːə#) :
+k ˈa r r u m 
+Proto-Romance stage form : *#kˈarrum#
+*#kˈarrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˈarrʊm#
+*#kˈarrʊ# | 42 : [+cons] > ∅ / __ #
+*#kˈarru# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˈarːu# | 82 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#kˈarːu#
+Middle Pre-Capestranese stage form : *#kˈarːu#
+*#kˈarːə# | 117 : [-stres,-lo] > ə 
+Final form : *#kˈarːə#

@@ -243,6 +243,9 @@ lˠ > w / __ (ə) t͡ʃ
 $ LXXXg lˠ reverts to l if not bled by LXXXd. 
 lˠ > l
 
+$ MANUAL FIX 11.15.26.j -- l tapping after C-voi,-ant Vround __ V #
+l > r / [-voi,-ant] [+round,+prim] __ [+syl] #
+
 $ LXXXe -- FIX, manual inferred -- wək to wk after stressed vowel -- dulcem falcem -- if there is labiality on it or beforehand. 
 	$Bleeds LXXVIIa. 
 ə > ∅ / [-blab] [+prim,blab] w __ k
@@ -425,7 +428,8 @@ $LXXb sce sci to ʃ. Fed by LXIIc.
 s t͡ʃ > ʃ 
 
 $ICIb and ICIc -- ttj ; ctj to t͡ʃːj
-tː > t͡ʃː / __ j
+	$ now redundant. Removed.
+$tː > t͡ʃː / __ j
 
 $ ICIa : -cj- , now -t͡ʃ- , goes > -t͡sj-
 $t͡ʃ > t͡s / @ __ j
@@ -505,8 +509,8 @@ lː > ʎː / __ [+hi]
 
 $ LXXXIc ng to ɲ but conditions unclear, left out
 
-$ LXXXIIIc nstr to str 
-n > ∅ / __ s [+cons] [+cons]
+$ LXXXIIIc nstr to str. Usurped by earlier ns > s
+$n > ∅ / __ s [+cons] [+cons]
 
 $ LXXXIIIb nw to mm 
 n v > mː 
@@ -599,8 +603,8 @@ $ XVIIe initial v/w to g.
 	$ TODO debug this.
 [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl] 
 
-$ XXXVIIa implicit (?) -- j revocalizes after laterals
-j > i / [+lat] __
+$ XXXVIIa implicit (?) -- j revocalizes after laterals. MANUAL FIX -- in sonorant __ vowel 
+j > i / [+son,+cor] __ [+syl]
 
 $BANDAID notational loss of countertonic stress
 [-prim] > [-stres]

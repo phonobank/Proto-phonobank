@@ -1,12 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 445:
-#klˈaːmat# >>> *#kjˈama# ( GOLD : #kjˈama#) :
-k l ˈaː m a t 
-Proto-Romance stage form : *#klˈaːmat#
-Early Pre-Capestranese stage form : *#klˈaːmat#
-*#klˈamat# | 33 : [+syl] > [-long,-splng] 
-*#klˈama# | 42 : [+cons] > ∅ / __ #
-*#kʎˈama# | 82 : l > ʎ / [-son,-cor] __
-Proto-South-Italo-Romance stage form : *#kʎˈama#
-Middle Pre-Capestranese stage form : *#kʎˈama#
-*#kjˈama# | 132 : {ʎ;ʎː} > {j;jː} 
-Final form : *#kjˈama#
+#krˈiːnem# >>> *#kɾˈinə# ( GOLD : #kɾˈinə#) :
+k r ˈiː n e m 
+Proto-Romance stage form : *#krˈiːnem#
+*#krˈiːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#krˈiːnɛm#
+*#krˈinɛm# | 33 : [+syl] > [-long,-splng] 
+*#krˈinɛ# | 42 : [+cons] > ∅ / __ #
+*#krˈine# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#krˈine#
+Middle Pre-Capestranese stage form : *#krˈine#
+*#krˈinə# | 117 : [-stres,-lo] > ə 
+*#kɾˈinə# | 128 : r > ɾ 
+Final form : *#kɾˈinə#

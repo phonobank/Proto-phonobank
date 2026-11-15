@@ -1,11 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1006:
-... >>> *#pajːˈina# ( GOLD : #palːˈina#) :
+... >>> *#mˈild͡za# ( GOLD : #mˈilt͡sa#) :
 ... 
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
-Proto-South-Italo-Romance stage form : *#pˌalːˈina#
-Middle Pre-Capestranese stage form : *#pˌalːˈina#
-*#pˌaʎːˈina# | 106 : lː > ʎː / __ [+hi]
-*#pˌajːˈina# | 132 : {ʎ;ʎː} > {j;jː} 
-*#pajːˈina# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#pajːˈina#
+*#mˈiltʲːa# | 26 : t j > tʲː 
+*#mˈiːltʲːa# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
+*#mˈiltʲːa# | 33 : [+syl] > [-long,-splng] 
+*#mˈilt͡sːa# | 34 : tʲː > t͡sː 
+Proto-South-Italo-Romance stage form : *#mˈilt͡sːa#
+Middle Pre-Capestranese stage form : *#mˈilt͡sːa#
+*#mˈilt͡sa# | 110 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#mˈild͡za# | 121 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
+Final form : *#mˈild͡za#

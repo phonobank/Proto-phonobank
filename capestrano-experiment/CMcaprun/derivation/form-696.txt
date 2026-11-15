@@ -1,19 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 696:
-#ˌumbilˈikum# >>> *#mːəlˈikə# ( GOLD : #mːəjːˈikə#) :
-ˌu m b i l ˈi k u m 
-Proto-Romance stage form : *#ˌumbilˈikum#
-*#ˌʊmbɪlˈɪkʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌʊmbɪlˈɪkʊm#
-*#ˌʊmbɪlˈiːkʊm# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
-*#ˌʊmbɪlˈikʊm# | 33 : [+syl] > [-long,-splng] 
-*#ˌʊmbɪlˈikʊ# | 42 : [+cons] > ∅ / __ #
-*#ˌumbɪlˈiku# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌumːɪlˈiku# | 72 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#ˌumːɛlˈiku# | 75 : [+syl,-tense] > [-hi] 
-*#ˌumːelˈiku# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌumːelˈiku#
-*#əmːelˈiku# | 95 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#mːelˈiku# | 99 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#mːelˈiku#
-*#mːəlˈikə# | 118 : [-stres,-lo] > ə 
-Final form : *#mːəlˈikə#
+#ˈossua# >>> *#ˈɔsːa# ( GOLD : #ˈɔsːa#) :
+ˈo s s u a 
+*#ˈosswa# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˈosswa#
+*#ˈɔsswa# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈɔsswa#
+*#ˈɔssa# | 24 : w > ∅ / [-back,-son] __
+*#ˈɞˤssa# | 75 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˈɞˤsːa# | 82 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#ˈɔsːa# | 88 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#ˈɔsːa#
+Middle Pre-Capestranese stage form : *#ˈɔsːa#
+Final form : *#ˈɔsːa#

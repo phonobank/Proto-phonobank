@@ -1,16 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 677:
-#wˌomitˈaː# >>> *#vəndˈa# ( GOLD : #vumːitˈa#) :
-w ˌo m i t ˈaː 
-Proto-Romance stage form : *#wˌomitˈaː#
-*#wˌɔmɪtˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#wˌɔmɪtˈaː#
-*#wˌɔmɪtˈa# | 33 : [+syl] > [-long,-splng] 
-*#wˌɔmtˈa# | 48 : [+hi,-stres] > ∅ / [+round,+syl] ( [+son,-syl] ) [+lab,-syl,-long] __ [nnas,nvoi,+cor,-front] [+syl]
-*#vˌɔmtˈa# | 60 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
-*#vˌomtˈa# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vˌontˈa# | 71 : [+nas,-cor] > n / [-cons] __ [+cor,nnas,nson]
-Proto-South-Italo-Romance stage form : *#vˌontˈa#
-Middle Pre-Capestranese stage form : *#vˌontˈa#
-*#vˌondˈa# | 120 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#vəndˈa# | 131 : [-prim,-hi,-lo] > ə 
-Final form : *#vəndˈa#
+#wˈoliam# >>> *#ɡˈojːa# ( GOLD : #ɡˈulia#) :
+w ˈo l i a m 
+*#wˈoljam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#wˈoljam#
+*#wˈɔljam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#wˈɔljam#
+*#wˈɔʎːam# | 36 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#wˈɔʎːa# | 42 : [+cons] > ∅ / __ #
+*#vˈɔʎːa# | 61 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
+*#vˈoʎːa# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#vˈoʎːa#
+Middle Pre-Capestranese stage form : *#vˈoʎːa#
+*#vˈojːa# | 131 : {ʎ;ʎː} > {j;jː} 
+*#ɡˈojːa# | 133 : [+lab,+cont,-syl,+voi,-nas] > ɡ / # __ [+round,+syl]
+Final form : *#ɡˈojːa#

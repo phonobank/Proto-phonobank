@@ -1,16 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 686:
-#ˈunɡe# >>> *#ˈonːə# ( GOLD : #ˈoɲə#) :
-ˈu n ɡ e 
-*#ˈuŋɡe# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#ˈuŋɡe#
-*#ˈʊŋɡɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈʊŋɡɡɛ# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-Early Pre-Capestranese stage form : *#ˈʊŋɡɡɛ#
-*#ˈʊnd͡ʒːɛ# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#ˈʊnːɛ# | 72 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#ˈɔnːɛ# | 75 : [+syl,-tense] > [-hi] 
-*#ˈonːe# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈonːe#
-Middle Pre-Capestranese stage form : *#ˈonːe#
-*#ˈonːə# | 118 : [-stres,-lo] > ə 
-Final form : *#ˈonːə#
+#ˈunɡulam# >>> *#ˈoɲa# ( GOLD : #ˈoɲa#) :
+ˈu n ɡ u l a m 
+*#ˈuŋɡulam# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˈuŋɡulam#
+*#ˈʊŋɡʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈʊŋɡʊlam#
+*#ˈʊŋɡʊla# | 42 : [+cons] > ∅ / __ #
+*#ˈʊŋɡla# | 57 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
+*#ˈʊŋʎːa# | 58 : ɡ l > ʎː 
+*#ˈʊŋʎa# | 59 : ʎː > ʎ / # ( ( @ )* [+cons] ) __
+*#ˈoŋʎa# | 71 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+Proto-South-Italo-Romance stage form : *#ˈoŋʎa#
+Middle Pre-Capestranese stage form : *#ˈoŋʎa#
+*#ˈoɲːa# | 101 : [+nas,-lab] [+front,-syl,+voi] > ɲː
+*#ˈoɲa# | 132 : ɲː > ɲ 
+Final form : *#ˈoɲa#

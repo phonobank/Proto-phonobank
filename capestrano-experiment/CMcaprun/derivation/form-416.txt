@@ -1,15 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 416:
-#ˈaːfrikam# >>> *#ˈafɾika# ( GOLD : #ˈafɾəka#) :
-ˈaː f r i k a m 
-Proto-Romance stage form : *#ˈaːfrikam#
-*#ˈaːfrɪkam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˈaːfrɪkam#
-*#ˈaːfriːkam# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
-*#ˈafrikam# | 33 : [+syl] > [-long,-splng] 
-*#ˈafrika# | 42 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#ˈafrika#
-Middle Pre-Capestranese stage form : *#ˈafrika#
-*#ˈafrˌika# | 117 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈafɾˌika# | 129 : r > ɾ 
-*#ˈafɾika# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈafɾika#
+#ˌaffˌoːkˈaː# >>> *#afːukˈa# ( GOLD : #afːəkˈa#) :
+ˌa f f ˌoː k ˈaː 
+Proto-Romance stage form : *#ˌaffˌoːkˈaː#
+Early Pre-Capestranese stage form : *#ˌaffˌoːkˈaː#
+*#ˌaffˌokˈa# | 33 : [+syl] > [-long,-splng] 
+*#ˌafːˌokˈa# | 82 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#ˌafːˌokˈa#
+Middle Pre-Capestranese stage form : *#ˌafːˌokˈa#
+*#ˌafːˌukˈa# | 114 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#ˌafːukˈa# | 115 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌafːˌukˈa# | 116 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#afːukˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#afːukˈa#

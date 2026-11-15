@@ -1,12 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 359:
-#ˈanniː# >>> *#ˈanːə# ( GOLD : #ˈænːə#) :
-ˈa n n iː 
-Proto-Romance stage form : *#ˈanniː#
-Early Pre-Capestranese stage form : *#ˈanniː#
-*#ˈanni# | 33 : [+syl] > [-long,-splng] 
-*#ˈanːi# | 72 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-Proto-South-Italo-Romance stage form : *#ˈanːi#
-Middle Pre-Capestranese stage form : *#ˈanːi#
-*#ˈanːˌi# | 117 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈanːə# | 124 : [-prim,-lo] > ə / __ #
-Final form : *#ˈanːə#
+#ˌanˈatria# >>> *#anˈatɾia# ( GOLD : #anˈitɾa#) :
+ˌa n ˈa t r i a 
+*#ˌanˈatrja# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˌanˈatrja#
+Early Pre-Capestranese stage form : *#ˌanˈatrja#
+*#ˌanˈatrʲa# | 35 : r j > rʲ 
+Proto-South-Italo-Romance stage form : *#ˌanˈatrʲa#
+Middle Pre-Capestranese stage form : *#ˌanˈatrʲa#
+*#ˌanˈatrja# | 103 : rʲ > r j / [+cons] __
+*#ˌanˈatɾja# | 128 : r > ɾ 
+*#ˌanˈatɾia# | 134 : j > i / [+son,+cor] __ [+syl]
+*#anˈatɾia# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#anˈatɾia#

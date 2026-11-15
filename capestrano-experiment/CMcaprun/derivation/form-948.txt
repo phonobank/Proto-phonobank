@@ -1,17 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 948:
-#mˌaːtˈeriam# >>> *#matˈeɾja# ( GOLD : #matˈæɾja#) :
-m ˌaː t ˈe r i a m 
-*#mˌaːtˈerjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#mˌaːtˈerjam#
-*#mˌaːtˈɛrjam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#mˌaːtˈɛrjam#
-*#mˌatˈɛrjam# | 33 : [+syl] > [-long,-splng] 
-*#mˌatˈɛrʲam# | 35 : r j > rʲ 
-*#mˌatˈɛrʲa# | 42 : [+cons] > ∅ / __ #
-*#mˌatˈerʲa# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#mˌatˈerʲa#
-Middle Pre-Capestranese stage form : *#mˌatˈerʲa#
-*#mˌatˈerja# | 102 : rʲ > r j / [+front,-lo,+syl] __ [+syl]
-*#mˌatˈeɾja# | 129 : r > ɾ 
-*#matˈeɾja# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#matˈeɾja#
+#mˌaːtuːtˈiːna# >>> *#matːˈina# ( GOLD : #matːˈina#) :
+m ˌaː t uː t ˈiː n a 
+Proto-Romance stage form : *#mˌaːtuːtˈiːna#
+Early Pre-Capestranese stage form : *#mˌaːtuːtˈiːna#
+*#mˌatutˈina# | 33 : [+syl] > [-long,-splng] 
+*#mˌattˈina# | 49 : [-stres] > ∅ / # ( [-syl] )* [+syl] ( [-syl,-cons] ) [+cor,-front] __ [+ant,-front,llat,lcont] [+syl]
+*#mˌatːˈina# | 82 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#mˌatːˈina#
+Middle Pre-Capestranese stage form : *#mˌatːˈina#
+*#matːˈina# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#matːˈina#

@@ -1,14 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 422:
-#ˌamˈaːtum# >>> *#amˈatə# ( GOLD : #amˈatə#) :
-ˌa m ˈaː t u m 
-Proto-Romance stage form : *#ˌamˈaːtum#
-*#ˌamˈaːtʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌamˈaːtʊm#
-*#ˌamˈatʊm# | 33 : [+syl] > [-long,-splng] 
-*#ˌamˈatʊ# | 42 : [+cons] > ∅ / __ #
-*#ˌamˈatu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌamˈatu#
-Middle Pre-Capestranese stage form : *#ˌamˈatu#
-*#ˌamˈatə# | 118 : [-stres,-lo] > ə 
-*#amˈatə# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#amˈatə#
+#ˌamˈoːrem# >>> *#amˈoɾə# ( GOLD : #amˈoɾə#) :
+ˌa m ˈoː r e m 
+Proto-Romance stage form : *#ˌamˈoːrem#
+*#ˌamˈoːrɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˌamˈoːrɛm#
+*#ˌamˈorɛm# | 33 : [+syl] > [-long,-splng] 
+*#ˌamˈorɛ# | 42 : [+cons] > ∅ / __ #
+*#ˌamˈore# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌamˈore#
+Middle Pre-Capestranese stage form : *#ˌamˈore#
+*#ˌamˈorə# | 117 : [-stres,-lo] > ə 
+*#ˌamˈoɾə# | 128 : r > ɾ 
+*#amˈoɾə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#amˈoɾə#

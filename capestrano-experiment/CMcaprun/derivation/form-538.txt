@@ -1,21 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 538:
-#kˌoːnsˈilium# >>> *#kund͡zˈijːə# ( GOLD : #kund͡zˈijːə#) :
-k ˌoː n s ˈi l i u m 
-*#kˌoːnsˈiljum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌoːnsˈiljum#
-*#kˌoːnsˈɪljʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌoːnt͡sˈɪljʊm# | 21 : s > t͡s / n __ [+hi,-tense]
-Early Pre-Capestranese stage form : *#kˌoːnt͡sˈɪljʊm#
-*#kˌoːnt͡sˈiːljʊm# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
-*#kˌont͡sˈiljʊm# | 33 : [+syl] > [-long,-splng] 
-*#kˌont͡sˈiʎːʊm# | 36 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#kˌont͡sˈiʎːʊ# | 42 : [+cons] > ∅ / __ #
-*#kˌont͡sˈiʎːu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌont͡sˈiʎːu#
-Middle Pre-Capestranese stage form : *#kˌont͡sˈiʎːu#
-*#kˌunt͡sˈiʎːu# | 115 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌunt͡sˈiʎːə# | 118 : [-stres,-lo] > ə 
-*#kˌund͡zˈiʎːə# | 120 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#kˌund͡zˈijːə# | 132 : {ʎ;ʎː} > {j;jː} 
-*#kund͡zˈijːə# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kund͡zˈijːə#
+#kˌoːnsobrˈiːnum# >>> *#kəsəbːɾˈinə# ( GOLD : #kund͡zubːɾˈinə#) :
+k ˌoː n s o b r ˈiː n u m 
+Proto-Romance stage form : *#kˌoːnsobrˈiːnum#
+*#kˌoːnsɔbrˈiːnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌoːsɔbrˈiːnʊm# | 22 : n > ∅ / __ s
+Early Pre-Capestranese stage form : *#kˌoːsɔbrˈiːnʊm#
+*#kˌosɔbrˈinʊm# | 33 : [+syl] > [-long,-splng] 
+*#kˌosɔbrˈinʊ# | 42 : [+cons] > ∅ / __ #
+*#kˌosobrˈinu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌosobːrˈinu# | 84 : b > bː / [-cons] __ r
+Proto-South-Italo-Romance stage form : *#kˌosobːrˈinu#
+Middle Pre-Capestranese stage form : *#kˌosobːrˈinu#
+*#kˌosəbːrˈinə# | 117 : [-stres,-lo] > ə 
+*#kˌosəbːɾˈinə# | 128 : r > ɾ 
+*#kəsəbːɾˈinə# | 130 : [-prim,-hi,-lo] > ə 
+Final form : *#kəsəbːɾˈinə#

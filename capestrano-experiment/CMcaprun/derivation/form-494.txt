@@ -1,19 +1,21 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 494:
-#kˈalkem# >>> *#kˈot͡ʃə# ( GOLD : #kˈavət͡ʃə#) :
-k ˈa l k e m 
-Proto-Romance stage form : *#kˈalkem#
-*#kˈalkɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈalˠkɛm# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
-Early Pre-Capestranese stage form : *#kˈalˠkɛm#
-*#kˈalˠt͡ʃɛm# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#kˈalˠt͡ʃɛ# | 42 : [+cons] > ∅ / __ #
-*#kˈalˠət͡ʃɛ# | 51 : ∅ > ə / lˠ __ [-syl]
-*#kˈalˠt͡ʃɛ# | 52 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
-*#kˈawt͡ʃɛ# | 53 : lˠ > w / __ ( ə ) t͡ʃ
-*#kˈawt͡ʃe# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˈowt͡ʃe# | 80 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#kˈowt͡ʃe#
-Middle Pre-Capestranese stage form : *#kˈowt͡ʃe#
-*#kˈot͡ʃe# | 105 : w > ∅ / [+round] __ [+cons]
-*#kˈot͡ʃə# | 118 : [-stres,-lo] > ə 
-Final form : *#kˈot͡ʃə#
+#kˌalkˈaːneum# >>> *#kaləkˈaɲə# ( GOLD : #kaləkˈaɲə#) :
+k ˌa l k ˈaː n e u m 
+*#kˌalkˈaːnjum# | 11 : e > j / __ [+back,-cons]
+Proto-Romance stage form : *#kˌalkˈaːnjum#
+*#kˌalkˈaːnjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌalˠkˈaːnjʊm# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
+Early Pre-Capestranese stage form : *#kˌalˠkˈaːnjʊm#
+*#kˌalˠkˈanjʊm# | 33 : [+syl] > [-long,-splng] 
+*#kˌalˠkˈaɲːʊm# | 36 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#kˌalˠkˈaɲːʊ# | 42 : [+cons] > ∅ / __ #
+*#kˌalˠəkˈaɲːʊ# | 51 : ∅ > ə / lˠ __ [-syl]
+*#kˌaləkˈaɲːʊ# | 54 : lˠ > l 
+*#kˌaləkˈaɲːu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌalɘkˈaɲːu# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌalɘkˈaɲːu#
+Middle Pre-Capestranese stage form : *#kˌalɘkˈaɲːu#
+*#kˌaləkˈaɲːə# | 117 : [-stres,-lo] > ə 
+*#kˌaləkˈaɲə# | 132 : ɲː > ɲ 
+*#kaləkˈaɲə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaləkˈaɲə#

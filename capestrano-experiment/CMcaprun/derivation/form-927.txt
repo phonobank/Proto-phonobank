@@ -1,10 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 927:
-#fˌuːmˈaː# >>> *#fumˈa# ( GOLD : #fumˈa#) :
-f ˌuː m ˈaː 
-Proto-Romance stage form : *#fˌuːmˈaː#
-Early Pre-Capestranese stage form : *#fˌuːmˈaː#
-*#fˌumˈa# | 33 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#fˌumˈa#
-Middle Pre-Capestranese stage form : *#fˌumˈa#
-*#fumˈa# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#fumˈa#
+#fˈuːmum# >>> *#fˈumə# ( GOLD : #fˈumə#) :
+f ˈuː m u m 
+Proto-Romance stage form : *#fˈuːmum#
+*#fˈuːmʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#fˈuːmʊm#
+*#fˈumʊm# | 33 : [+syl] > [-long,-splng] 
+*#fˈumʊ# | 42 : [+cons] > ∅ / __ #
+*#fˈumu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#fˈumu#
+Middle Pre-Capestranese stage form : *#fˈumu#
+*#fˈumə# | 117 : [-stres,-lo] > ə 
+Final form : *#fˈumə#

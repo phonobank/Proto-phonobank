@@ -1,17 +1,23 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 606:
-#ɡˈenerum# >>> *#jˈenəɾə# ( GOLD : #jˈenəɾə#) :
-ɡ ˈe n e r u m 
-Proto-Romance stage form : *#ɡˈenerum#
-*#ɡˈɛnɛrʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡɡˈɛnɛrʊm# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
-*#ɡˈɛnɛrʊm# | 19 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
-Early Pre-Capestranese stage form : *#ɡˈɛnɛrʊm#
-*#jˈɛnɛrʊm# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#jˈɛnɛrʊ# | 42 : [+cons] > ∅ / __ #
-*#jˈɛnɛru# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈeneru# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#jˈeneru#
-Middle Pre-Capestranese stage form : *#jˈeneru#
-*#jˈenərə# | 118 : [-stres,-lo] > ə 
-*#jˈenəɾə# | 129 : r > ɾ 
-Final form : *#jˈenəɾə#
+#ɡˌenˈukulum# >>> *#jenˈokːjə# ( GOLD : #jenˈokːjə#) :
+ɡ ˌe n ˈu k u l u m 
+Proto-Romance stage form : *#ɡˌenˈukulum#
+*#ɡˌɛnˈʊkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡɡˌɛnˈʊkʊlʊm# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+*#ɡˌɛnˈʊkʊlʊm# | 19 : ɡ > ∅ / # ɡ __ [+syl] [+cons] [+syl]
+Early Pre-Capestranese stage form : *#ɡˌɛnˈʊkʊlʊm#
+*#jˌɛnˈʊkʊlʊm# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#jˌɛnˈʊklʊm# | 32 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
+*#jənˈʊklʊm# | 39 : [-prim] > ə / # j __ [+cons,-front]
+*#jənˈʊklʊ# | 42 : [+cons] > ∅ / __ #
+*#jənˈʊklu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jənˈɔklu# | 76 : [+syl,-tense] > [-hi] 
+*#jɘnˈoklu# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jɘnˈokʎu# | 83 : l > ʎ / [-son,-cor] __
+*#jɘnˈokːʎu# | 85 : [-delrel,-cor] > [+long] / [+prim] __ [-syl,+son,+front]
+Proto-South-Italo-Romance stage form : *#jɘnˈokːʎu#
+Middle Pre-Capestranese stage form : *#jɘnˈokːʎu#
+*#jənˈokːʎə# | 117 : [-stres,-lo] > ə 
+*#jənˈokːjə# | 131 : {ʎ;ʎː} > {j;jː} 
+*#jenˈokːjə# | 136 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#jenˈokːjə#

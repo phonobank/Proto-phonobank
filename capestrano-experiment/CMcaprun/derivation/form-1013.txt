@@ -1,13 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1013:
-... >>> *#ɾəsˈaɾa# ( GOLD : #ɾusˈaɾja#) :
+... >>> *#vˈiskəvə# ( GOLD : #vˈeskəvə#) :
 ... 
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
-*#rˌɔsˈarʲa# | 35 : r j > rʲ 
-*#rˌosˈarʲa# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#rˌosˈarʲa#
-Middle Pre-Capestranese stage form : *#rˌosˈarʲa#
-*#rˌosˈara# | 104 : rʲ > r 
-*#ɾˌosˈaɾa# | 129 : r > ɾ 
-*#ɾəsˈaɾa# | 131 : [-prim,-hi,-lo] > ə 
-Final form : *#ɾəsˈaɾa#
+*#ˌɛβˈiːskɔβʊ# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
+*#ˌɛβˈiskɔβʊ# | 33 : [+syl] > [-long,-splng] 
+*#ˌɛvˈiskɔvʊ# | 61 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
+*#ˌevˈiskɔvʊ# | 67 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌevˈiskovu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌevˈiskovu#
+*#əvˈiskovu# | 96 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#vˈiskovu# | 99 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#vˈiskovu#
+*#vˈiskəvə# | 117 : [-stres,-lo] > ə 
+Final form : *#vˈiskəvə#

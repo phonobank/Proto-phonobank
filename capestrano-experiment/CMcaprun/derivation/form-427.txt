@@ -1,14 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 427:
-#hˈeriː# >>> *#ˈeɾə# ( GOLD : #jˈeɾə#) :
-h ˈe r iː 
-*#ˈeriː# | 4 : h > ∅ 
-Proto-Romance stage form : *#ˈeriː#
-*#ˈɛriː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˈɛriː#
-*#ˈɛri# | 33 : [+syl] > [-long,-splng] 
-*#ˈeri# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˈeri#
-Middle Pre-Capestranese stage form : *#ˈeri#
-*#ˈerə# | 118 : [-stres,-lo] > ə 
-*#ˈeɾə# | 129 : r > ɾ 
-Final form : *#ˈeɾə#
+#hˈerbam# >>> *#ˈæɾva# ( GOLD : #jˈæɾva#) :
+h ˈe r b a m 
+*#ˈerbam# | 4 : h > ∅ 
+Proto-Romance stage form : *#ˈerbam#
+*#ˈɛrbam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈɛrbam#
+*#ˈɛrba# | 42 : [+cons] > ∅ / __ #
+*#ˈærba# | 75 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˈærva# | 87 : b > v / [+syl,alo,!atense] r __
+Proto-South-Italo-Romance stage form : *#ˈærva#
+Middle Pre-Capestranese stage form : *#ˈærva#
+*#ˈærvˌa# | 116 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈæɾvˌa# | 128 : r > ɾ 
+*#ˈæɾva# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈæɾva#

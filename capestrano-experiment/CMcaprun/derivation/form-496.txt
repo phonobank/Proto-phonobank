@@ -1,20 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 496:
-#kˌalkˈaːriam# >>> *#kaləkˈaɾa# ( GOLD : #kaləkˈaɾa#) :
-k ˌa l k ˈaː r i a m 
-*#kˌalkˈaːrjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌalkˈaːrjam#
-*#kˌalˠkˈaːrjam# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
-Early Pre-Capestranese stage form : *#kˌalˠkˈaːrjam#
-*#kˌalˠkˈarjam# | 33 : [+syl] > [-long,-splng] 
-*#kˌalˠkˈarʲam# | 35 : r j > rʲ 
-*#kˌalˠkˈarʲa# | 42 : [+cons] > ∅ / __ #
-*#kˌalˠəkˈarʲa# | 51 : ∅ > ə / lˠ __ [-syl]
-*#kˌaləkˈarʲa# | 54 : lˠ > l 
-*#kˌalɘkˈarʲa# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌalɘkˈarʲa#
-Middle Pre-Capestranese stage form : *#kˌalɘkˈarʲa#
-*#kˌalɘkˈara# | 104 : rʲ > r 
-*#kˌaləkˈara# | 118 : [-stres,-lo] > ə 
-*#kˌaləkˈaɾa# | 129 : r > ɾ 
-*#kaləkˈaɾa# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kaləkˈaɾa#
+#kˌalkulˈaː# >>> *#kaləkwəlˈa# ( GOLD : #kaɾkulˈa#) :
+k ˌa l k u l ˈaː 
+Proto-Romance stage form : *#kˌalkulˈaː#
+*#kˌalkʊlˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌalˠkʊlˈaː# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
+Early Pre-Capestranese stage form : *#kˌalˠkʊlˈaː#
+*#kˌalˠkʊlˈa# | 33 : [+syl] > [-long,-splng] 
+*#kˌalˠəkʊlˈa# | 51 : ∅ > ə / lˠ __ [-syl]
+*#kˌaləkʊlˈa# | 54 : lˠ > l 
+*#kˌaləkwʊlˈa# | 60 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#kˌaləkwulˈa# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌalɘkwulˈa# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌalɘkwulˈa#
+Middle Pre-Capestranese stage form : *#kˌalɘkwulˈa#
+*#kˌaləkwəlˈa# | 117 : [-stres,-lo] > ə 
+*#kaləkwəlˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kaləkwəlˈa#

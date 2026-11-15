@@ -1,23 +1,24 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 560:
-#kˌokleˈaːriam# >>> *#kucːˈaɾa# ( GOLD : #kucːˈaɾa#) :
-k ˌo k l e ˈaː r i a m 
-*#kˌokliˈaːriam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
-*#kˌokljˈaːrjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌokljˈaːrjam#
-*#kˌɔkljˈaːrjam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌɔkljˈaːrjam#
-*#kˌɔkljˈarjam# | 33 : [+syl] > [-long,-splng] 
-*#kˌɔkljˈarʲam# | 35 : r j > rʲ 
-*#kˌɔkʎːˈarʲam# | 36 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#kˌɔkʎːˈarʲa# | 42 : [+cons] > ∅ / __ #
-*#kˌɔkʎˈarʲa# | 58 : ʎː > ʎ / # ( ( @ )* [+cons] ) __
-*#kˌokʎˈarʲa# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌokʎˈarʲa#
-Middle Pre-Capestranese stage form : *#kˌokʎˈarʲa#
-*#kˌokʎˈara# | 104 : rʲ > r 
-*#kˌukʎˈara# | 115 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌukʎˈaɾa# | 129 : r > ɾ 
-*#kˌukjˈaɾa# | 132 : {ʎ;ʎː} > {j;jː} 
-*#kukjˈaɾa# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-*#kucːˈaɾa# | 141 : {k j;kː j;s k j} > {cː;cː;ʃ c} / @ __ [+prim]
-Final form : *#kucːˈaɾa#
+#kˌokleˈaːrium# >>> *#kucːˈaɾə# ( GOLD : #kucːˈaɾə#) :
+k ˌo k l e ˈaː r i u m 
+*#kˌokliˈaːrium# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
+*#kˌokljˈaːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#kˌokljˈaːrjum#
+*#kˌɔkljˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˌɔkljˈaːrjʊm#
+*#kˌɔkljˈarjʊm# | 33 : [+syl] > [-long,-splng] 
+*#kˌɔkljˈarʲʊm# | 35 : r j > rʲ 
+*#kˌɔkʎːˈarʲʊm# | 36 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#kˌɔkʎːˈarʲʊ# | 42 : [+cons] > ∅ / __ #
+*#kˌɔkʎˈarʲʊ# | 59 : ʎː > ʎ / # ( ( @ )* [+cons] ) __
+*#kˌokʎˈarʲu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌokʎˈarʲu#
+Middle Pre-Capestranese stage form : *#kˌokʎˈarʲu#
+*#kˌokʎˈaru# | 104 : rʲ > r 
+*#kˌukʎˈaru# | 114 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌukʎˈarə# | 117 : [-stres,-lo] > ə 
+*#kˌukʎˈaɾə# | 128 : r > ɾ 
+*#kˌukjˈaɾə# | 131 : {ʎ;ʎː} > {j;jː} 
+*#kukjˈaɾə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+*#kucːˈaɾə# | 140 : {k j;kː j;s k j} > {cː;cː;ʃ c} / @ __ [+prim]
+Final form : *#kucːˈaɾə#

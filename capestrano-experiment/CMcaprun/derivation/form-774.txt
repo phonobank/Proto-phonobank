@@ -1,10 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 774:
-#pˈaskham# >>> *#pˈaska# ( GOLD : #pˈaskwa#) :
-p ˈa s k h a m 
-*#pˈaskam# | 4 : h > ∅ 
-Proto-Romance stage form : *#pˈaskam#
-Early Pre-Capestranese stage form : *#pˈaskam#
-*#pˈaska# | 42 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#pˈaska#
-Middle Pre-Capestranese stage form : *#pˈaska#
-Final form : *#pˈaska#
+#pˌaskwˈaːlem# >>> *#paskwˈalə# ( GOLD : #paskwˈalə#) :
+p ˌa s k w ˈaː l e m 
+Proto-Romance stage form : *#pˌaskwˈaːlem#
+*#pˌaskwˈaːlɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#pˌaskwˈaːlɛm#
+*#pˌaskwˈalɛm# | 33 : [+syl] > [-long,-splng] 
+*#pˌaskwˈalɛ# | 42 : [+cons] > ∅ / __ #
+*#pˌaskwˈale# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#pˌaskwˈale#
+Middle Pre-Capestranese stage form : *#pˌaskwˈale#
+*#pˌaskwˈalə# | 117 : [-stres,-lo] > ə 
+*#paskwˈalə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#paskwˈalə#

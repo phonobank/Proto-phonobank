@@ -1,12 +1,21 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 925:
-#fˈurkam# >>> *#fˈoɾka# ( GOLD : #fˈɔɾka#) :
-f ˈu r k a m 
-Proto-Romance stage form : *#fˈurkam#
-*#fˈʊrkam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#fˈʊrkam#
-*#fˈʊrka# | 42 : [+cons] > ∅ / __ #
-*#fˈorka# | 70 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-Proto-South-Italo-Romance stage form : *#fˈorka#
-Middle Pre-Capestranese stage form : *#fˈorka#
-*#fˈoɾka# | 129 : r > ɾ 
-Final form : *#fˈoɾka#
+#fˌuːrˈunkulum# >>> *#fuɾˈoŋɡələ# ( GOLD : #fɾˈuŋkələ#) :
+f ˌuː r ˈu n k u l u m 
+*#fˌuːrˈuŋkulum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#fˌuːrˈuŋkulum#
+*#fˌuːrˈʊŋkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#fˌuːrˈʊŋkʊlʊm#
+*#fˌurˈʊŋkʊlʊm# | 33 : [+syl] > [-long,-splng] 
+*#fˌurˈʊŋkʊlʊ# | 42 : [+cons] > ∅ / __ #
+*#fˌurˈʊŋkwʊlʊ# | 60 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
+*#fˌurˈʊŋkʊlʊ# | 62 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
+*#fˌurˈʊŋkulu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fˌurˈɔŋkulu# | 76 : [+syl,-tense] > [-hi] 
+*#fˌurˈoŋkulu# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#fˌurˈoŋkulu#
+Middle Pre-Capestranese stage form : *#fˌurˈoŋkulu#
+*#fˌurˈoŋkələ# | 117 : [-stres,-lo] > ə 
+*#fˌurˈoŋɡələ# | 119 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#fˌuɾˈoŋɡələ# | 128 : r > ɾ 
+*#fuɾˈoŋɡələ# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#fuɾˈoŋɡələ#

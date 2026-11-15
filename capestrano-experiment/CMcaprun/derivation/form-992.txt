@@ -1,17 +1,12 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 992:
-#mˈukkulum# >>> *#mˈokːələ# ( GOLD : #mˈokːələ#) :
-m ˈu k k u l u m 
-Proto-Romance stage form : *#mˈukkulum#
-*#mˈʊkkʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#mˈʊkkʊlʊm#
-*#mˈʊkkʊlʊ# | 42 : [+cons] > ∅ / __ #
-*#mˈʊkkwʊlʊ# | 59 : ∅ > w / [-cont,+back] __ [-prim,+round] [+cor,+son,-nas] [+syl] #
-*#mˈʊkkʊlʊ# | 61 : w > ∅ / [+hi,+round] ( [-cons] ) [+cons] ( [+cons] )* __
-*#mˈʊkkulu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˈɔkkulu# | 75 : [+syl,-tense] > [-hi] 
-*#mˈokkulu# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˈokːulu# | 81 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#mˈokːulu#
-Middle Pre-Capestranese stage form : *#mˈokːulu#
-*#mˈokːələ# | 118 : [-stres,-lo] > ə 
-Final form : *#mˈokːələ#
+... >>> *#t͡θɾiskˈa# ( GOLD : #tɾəskˈa#) :
+... 
+Proto-Romance stage form : ...
+Early Pre-Capestranese stage form : ...
+*#t͡θrˌiːskˈaː# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
+*#t͡θrˌiskˈa# | 33 : [+syl] > [-long,-splng] 
+Proto-South-Italo-Romance stage form : *#t͡θrˌiskˈa#
+Middle Pre-Capestranese stage form : *#t͡θrˌiskˈa#
+*#t͡θɾˌiskˈa# | 128 : r > ɾ 
+*#t͡θɾiskˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#t͡θɾiskˈa#

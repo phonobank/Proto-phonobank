@@ -1,15 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 354:
-#ˌassˈide# >>> *#aʃːˈedə# ( GOLD : #aʃːˈidə#) :
-ˌa s s ˈi d e 
-Proto-Romance stage form : *#ˌassˈide#
-*#ˌassˈɪdɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌassˈɪdɛ#
-*#ˌassˈɛdɛ# | 75 : [+syl,-tense] > [-hi] 
-*#ˌassˈede# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌasːˈede# | 81 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#ˌasːˈede#
-Middle Pre-Capestranese stage form : *#ˌasːˈede#
-*#ˌaʃːˈede# | 114 : [+cor,+ant,+strid] > [-ant,+distr,+front,+cor] / [+lo] __ [+syl] [+cor,dcont,dson] [+syl]
-*#ˌaʃːˈedə# | 118 : [-stres,-lo] > ə 
-*#aʃːˈedə# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#aʃːˈedə#
+#ˈaskiam# >>> *#ˈaʃja# ( GOLD : #ˈaʃːə#) :
+ˈa s k i a m 
+*#ˈaskjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#ˈaskjam#
+Early Pre-Capestranese stage form : *#ˈaskjam#
+*#ˈast͡ʃjam# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#ˈast͡ʃja# | 42 : [+cons] > ∅ / __ #
+*#ˈaʃja# | 89 : s t͡ʃ > ʃ 
+Proto-South-Italo-Romance stage form : *#ˈaʃja#
+Middle Pre-Capestranese stage form : *#ˈaʃja#
+*#ˈaʃjˌa# | 116 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˈaʃja# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ˈaʃja#

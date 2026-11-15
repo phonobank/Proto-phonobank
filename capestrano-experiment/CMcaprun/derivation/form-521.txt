@@ -1,20 +1,18 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 521:
-#kˌapistˈeːrium# >>> *#kapəstˈeɾjə# ( GOLD : #kapistˈeɾə#) :
-k ˌa p i s t ˈeː r i u m 
-*#kˌapistˈeːrjum# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#kˌapistˈeːrjum#
-*#kˌapɪstˈeːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kˌapɪstˈeːrjʊm#
-*#kˌapɪstˈerjʊm# | 33 : [+syl] > [-long,-splng] 
-*#kˌapɪstˈerʲʊm# | 35 : r j > rʲ 
-*#kˌapɪstˈerʲʊ# | 42 : [+cons] > ∅ / __ #
-*#kˌapɪstˈerʲu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌapɛstˈerʲu# | 75 : [+syl,-tense] > [-hi] 
-*#kˌapestˈerʲu# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌapestˈerʲu#
-Middle Pre-Capestranese stage form : *#kˌapestˈerʲu#
-*#kˌapestˈerju# | 102 : rʲ > r j / [+front,-lo,+syl] __ [+syl]
-*#kˌapəstˈerjə# | 118 : [-stres,-lo] > ə 
-*#kˌapəstˈeɾjə# | 129 : r > ɾ 
-*#kapəstˈeɾjə# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kapəstˈeɾjə#
+#kˌapˈillum# >>> *#kapˈejːə# ( GOLD : #kepˈijːə#) :
+k ˌa p ˈi l l u m 
+Proto-Romance stage form : *#kˌapˈillum#
+*#kˌapˈɪllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#kˌapˈɪllʊm#
+*#kˌapˈɪllʊ# | 42 : [+cons] > ∅ / __ #
+*#kˌapˈɪllu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌapˈɛllu# | 76 : [+syl,-tense] > [-hi] 
+*#kˌapˈellu# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌapˈelːu# | 82 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+Proto-South-Italo-Romance stage form : *#kˌapˈelːu#
+Middle Pre-Capestranese stage form : *#kˌapˈelːu#
+*#kˌapˈeʎːu# | 106 : lː > ʎː / __ [+hi]
+*#kˌapˈeʎːə# | 117 : [-stres,-lo] > ə 
+*#kˌapˈejːə# | 131 : {ʎ;ʎː} > {j;jː} 
+*#kapˈejːə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kapˈejːə#

@@ -1,13 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 950:
-#mˌastikˈaː# >>> *#mastəkˈa# ( GOLD : #mastikˈa#) :
-m ˌa s t i k ˈaː 
-Proto-Romance stage form : *#mˌastikˈaː#
-*#mˌastɪkˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#mˌastɪkˈaː#
-*#mˌastiːkˈaː# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
-*#mˌastikˈa# | 33 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#mˌastikˈa#
-Middle Pre-Capestranese stage form : *#mˌastikˈa#
-*#mˌastəkˈa# | 118 : [-stres,-lo] > ə 
-*#mastəkˈa# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#mastəkˈa#
+#mˈaskulum# >>> *#mˈaskjə# ( GOLD : #mˈaskjə#) :
+m ˈa s k u l u m 
+Proto-Romance stage form : *#mˈaskulum#
+*#mˈaskʊlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˈaskʊlʊm#
+*#mˈasklʊm# | 32 : [-prim,+round] > ∅ / [+stres,-long] ( s ) [-cont,-voi] __ [+lat] [-stres,ælo,!æround]
+*#mˈasklʊ# | 42 : [+cons] > ∅ / __ #
+*#mˈasklu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˈaskʎu# | 83 : l > ʎ / [-son,-cor] __
+Proto-South-Italo-Romance stage form : *#mˈaskʎu#
+Middle Pre-Capestranese stage form : *#mˈaskʎu#
+*#mˈaskʎə# | 117 : [-stres,-lo] > ə 
+*#mˈaskjə# | 131 : {ʎ;ʎː} > {j;jː} 
+Final form : *#mˈaskjə#

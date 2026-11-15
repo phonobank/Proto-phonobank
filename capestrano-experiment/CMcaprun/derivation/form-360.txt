@@ -1,13 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 360:
-#ˌanˈatria# >>> *#anˈatɾja# ( GOLD : #anˈitɾa#) :
-ˌa n ˈa t r i a 
-*#ˌanˈatrja# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-Proto-Romance stage form : *#ˌanˈatrja#
-Early Pre-Capestranese stage form : *#ˌanˈatrja#
-*#ˌanˈatrʲa# | 35 : r j > rʲ 
-Proto-South-Italo-Romance stage form : *#ˌanˈatrʲa#
-Middle Pre-Capestranese stage form : *#ˌanˈatrʲa#
-*#ˌanˈatrja# | 103 : rʲ > r j / [+cons] __
-*#ˌanˈatɾja# | 129 : r > ɾ 
-*#anˈatɾja# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#anˈatɾja#
+#ˈanɡelum# >>> *#ˈanːələ# ( GOLD : #ˈand͡ʒələ#) :
+ˈa n ɡ e l u m 
+*#ˈaŋɡelum# | 1 : n > ŋ / __ [+back,+cons]
+Proto-Romance stage form : *#ˈaŋɡelum#
+*#ˈaŋɡɛlʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈaŋɡɡɛlʊm# | 18 : ɡ > ɡ ɡ / __ [+front,-tense,-hi]
+Early Pre-Capestranese stage form : *#ˈaŋɡɡɛlʊm#
+*#ˈand͡ʒːɛlʊm# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#ˈand͡ʒːɛlʊ# | 42 : [+cons] > ∅ / __ #
+*#ˈand͡ʒːɛlu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈanːɛlu# | 73 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˈanːelu# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈanːelu#
+Middle Pre-Capestranese stage form : *#ˈanːelu#
+*#ˈanːələ# | 117 : [-stres,-lo] > ə 
+Final form : *#ˈanːələ#

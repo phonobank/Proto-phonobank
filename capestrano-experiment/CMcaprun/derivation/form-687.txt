@@ -1,17 +1,13 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 687:
-#ˈunɡulam# >>> *#ˈoɲa# ( GOLD : #ˈoɲa#) :
-ˈu n ɡ u l a m 
-*#ˈuŋɡulam# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#ˈuŋɡulam#
-*#ˈʊŋɡʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˈʊŋɡʊlam#
-*#ˈʊŋɡʊla# | 42 : [+cons] > ∅ / __ #
-*#ˈʊŋɡla# | 56 : {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ( [+cons,-cor] ) [+lab,bant,!bhi,-strid] ( [+cor] )* [vsyl,!vnas,-lab] __
-*#ˈʊŋʎːa# | 57 : ɡ l > ʎː 
-*#ˈʊŋʎa# | 58 : ʎː > ʎ / # ( ( @ )* [+cons] ) __
-*#ˈoŋʎa# | 70 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-Proto-South-Italo-Romance stage form : *#ˈoŋʎa#
-Middle Pre-Capestranese stage form : *#ˈoŋʎa#
-*#ˈoɲːa# | 101 : [+nas,-lab] [+front,-syl,+voi] > ɲː
-*#ˈoɲa# | 133 : ɲː > ɲ 
-Final form : *#ˈoɲa#
+#ˈuːnum# >>> *#ˈunə# ( GOLD : #ˈunə#) :
+ˈuː n u m 
+Proto-Romance stage form : *#ˈuːnum#
+*#ˈuːnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#ˈuːnʊm#
+*#ˈunʊm# | 33 : [+syl] > [-long,-splng] 
+*#ˈunʊ# | 42 : [+cons] > ∅ / __ #
+*#ˈunu# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈunu#
+Middle Pre-Capestranese stage form : *#ˈunu#
+*#ˈunə# | 117 : [-stres,-lo] > ə 
+Final form : *#ˈunə#

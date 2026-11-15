@@ -1,17 +1,16 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 987:
-#mˈullum# >>> *#mˈojːə# ( GOLD : #mˈũjə#) :
-m ˈu l l u m 
-Proto-Romance stage form : *#mˈullum#
-*#mˈʊllʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#mˈʊllʊm#
-*#mˈʊllʊ# | 42 : [+cons] > ∅ / __ #
-*#mˈʊllu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˈɔllu# | 75 : [+syl,-tense] > [-hi] 
-*#mˈollu# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˈolːu# | 81 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-Proto-South-Italo-Romance stage form : *#mˈolːu#
-Middle Pre-Capestranese stage form : *#mˈolːu#
-*#mˈoʎːu# | 106 : lː > ʎː / __ [+hi]
-*#mˈoʎːə# | 118 : [-stres,-lo] > ə 
-*#mˈojːə# | 132 : {ʎ;ʎː} > {j;jː} 
+#mˈulier# >>> *#mˈojːə# ( GOLD : #mˈujːə#) :
+m ˈu l i e r 
+*#mˈuljer# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#mˈuljer#
+*#mˈʊljɛr# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#mˈʊljɛr#
+*#mˈʊʎːɛr# | 36 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#mˈʊʎːɛ# | 42 : [+cons] > ∅ / __ #
+*#mˈɔʎːɛ# | 76 : [+syl,-tense] > [-hi] 
+*#mˈoʎːe# | 79 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#mˈoʎːe#
+Middle Pre-Capestranese stage form : *#mˈoʎːe#
+*#mˈoʎːə# | 117 : [-stres,-lo] > ə 
+*#mˈojːə# | 131 : {ʎ;ʎː} > {j;jː} 
 Final form : *#mˈojːə#

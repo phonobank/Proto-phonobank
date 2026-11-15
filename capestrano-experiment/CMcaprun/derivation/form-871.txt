@@ -1,17 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 871:
-#frˌuːmˈentum# >>> *#fɾumˈendə# ( GOLD : #fɾumˈendə#) :
-f r ˌuː m ˈe n t u m 
-Proto-Romance stage form : *#frˌuːmˈentum#
-*#frˌuːmˈɛntʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#frˌuːmˈɛntʊm#
-*#frˌumˈɛntʊm# | 33 : [+syl] > [-long,-splng] 
-*#frˌumˈɛntʊ# | 42 : [+cons] > ∅ / __ #
-*#frˌumˈɛntu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#frˌumˈentu# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#frˌumˈentu#
-Middle Pre-Capestranese stage form : *#frˌumˈentu#
-*#frˌumˈentə# | 118 : [-stres,-lo] > ə 
-*#frˌumˈendə# | 120 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#fɾˌumˈendə# | 129 : r > ɾ 
-*#fɾumˈendə# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#fɾumˈendə#
+#fˌistulˈaː# >>> *#fəstəlˈa# ( GOLD : #fiʃcˈa#) :
+f ˌi s t u l ˈaː 
+Proto-Romance stage form : *#fˌistulˈaː#
+*#fˌɪstʊlˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+Early Pre-Capestranese stage form : *#fˌɪstʊlˈaː#
+*#fˌɪstʊlˈa# | 33 : [+syl] > [-long,-splng] 
+*#fˌestʊlˈa# | 67 : [+stres,-prim,+front,-tense] > ˌe 
+*#fˌestulˈa# | 68 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#fˌestulˈa#
+Middle Pre-Capestranese stage form : *#fˌestulˈa#
+*#fˌestəlˈa# | 117 : [-stres,-lo] > ə 
+*#fəstəlˈa# | 130 : [-prim,-hi,-lo] > ə 
+Final form : *#fəstəlˈa#
