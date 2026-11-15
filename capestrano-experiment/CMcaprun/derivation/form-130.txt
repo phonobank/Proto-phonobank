@@ -1,17 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 130:
-#ˌinsˌabˈurra# >>> *#nd͡zavˈorːa# ( GOLD : #d͡zavˈorːa#) :
+#ˌinsˌabˈurra# >>> *#savˈorːa# ( GOLD : #d͡zavˈorːa#) :
 ˌi n s ˌa b ˈu r r a 
 Proto-Romance stage form : *#ˌinsˌabˈurra#
 *#ˌɪnsˌabˈʊrra# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#ˌɪnsˌabˈʊrra#
-*#ˌensˌabˈʊrra# | 62 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌensˌabˈorra# | 66 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-*#ˌensˌabˈorːa# | 76 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-*#ˌensˌavˈorːa# | 80 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#ˌensˌavˈorːa#
-*#ənsˌavˈorːa# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#nsˌavˈorːa# | 94 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#nsˌavˈorːa#
-*#nd͡zˌavˈorːa# | 116 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#nd͡zavˈorːa# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#nd͡zavˈorːa#
+*#ˌɪsˌabˈʊrra# | 22 : n > ∅ / __ s
+Early Pre-Capestranese stage form : *#ˌɪsˌabˈʊrra#
+*#ˌesˌabˈʊrra# | 66 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌesˌabˈorra# | 70 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#ˌesˌabˈorːa# | 80 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#ˌesˌavˈorːa# | 84 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#ˌesˌavˈorːa#
+*#əsˌavˈorːa# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#sˌavˈorːa# | 98 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#sˌavˈorːa#
+*#savˈorːa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#savˈorːa#

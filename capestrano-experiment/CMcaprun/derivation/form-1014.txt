@@ -3,13 +3,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 ... 
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
-*#ˌɛkklˈeʃa# | 34 : s j > ʃ 
-*#ˌekklˈeʃa# | 62 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌekːlˈeʃa# | 76 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-*#ˌekːʎˈeʃa# | 77 : l > ʎ / [-son,-cor] __
+*#ˌɛkklˈeʃa# | 38 : s j > ʃ 
+*#ˌekklˈeʃa# | 66 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌekːlˈeʃa# | 80 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#ˌekːʎˈeʃa# | 81 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌekːʎˈeʃa#
-*#əkːʎˈeʃa# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#kːʎˈeʃa# | 94 : ə > ∅ / # __
+*#əkːʎˈeʃa# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#kːʎˈeʃa# | 98 : ə > ∅ / # __
 Middle Pre-Capestranese stage form : *#kːʎˈeʃa#
-*#kːjˈeʃa# | 128 : {ʎ;ʎː} > {j;jː} 
+*#kːjˈeʃa# | 131 : {ʎ;ʎː} > {j;jː} 
 Final form : *#kːjˈeʃa#

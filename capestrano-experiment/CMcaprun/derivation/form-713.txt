@@ -4,15 +4,15 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌoblˌiɡˈaː#
 *#ˌɔblˌɪɡˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌɔblˌɪɡˈaː#
-*#ˌɔblˌiːɡˈaː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌɔblˌiɡˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌoblˌiɡˈa# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌobʎˌiɡˈa# | 77 : l > ʎ / [-son,-cor] __
-*#ˌovʎˌiɡˈa# | 80 : b > v / [-cons] ( n ) __
+*#ˌɔblˌiːɡˈaː# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
+*#ˌɔblˌiɡˈa# | 34 : [+syl] > [-long,-splng] 
+*#ˌoblˌiɡˈa# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌobʎˌiɡˈa# | 81 : l > ʎ / [-son,-cor] __
+*#ˌovʎˌiɡˈa# | 84 : b > v / [-cons] ( n ) __
 Proto-South-Italo-Romance stage form : *#ˌovʎˌiɡˈa#
-*#əvʎˌiɡˈa# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#vʎˌiɡˈa# | 94 : ə > ∅ / # __
+*#əvʎˌiɡˈa# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#vʎˌiɡˈa# | 98 : ə > ∅ / # __
 Middle Pre-Capestranese stage form : *#vʎˌiɡˈa#
-*#vjˌiɡˈa# | 128 : {ʎ;ʎː} > {j;jː} 
-*#vjiɡˈa# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+*#vjˌiɡˈa# | 131 : {ʎ;ʎː} > {j;jː} 
+*#vjiɡˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#vjiɡˈa#

@@ -4,16 +4,17 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌinsˌiɡnˈaː#
 *#ˌɪnsˌɪɡnˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#ˌɪnsˌɪjnˈaː# | 17 : [+back,+cons] > j / __ n
-Early Pre-Capestranese stage form : *#ˌɪnsˌɪjnˈaː#
-*#ˌɪnsˌiːjnˈaː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌɪnsˌijnˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌensˌijnˈa# | 62 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌensˌiɲːˈa# | 64 : j n > ɲː / [+front,-lo,+syl] __
-Proto-South-Italo-Romance stage form : *#ˌensˌiɲːˈa#
-*#ənsˌiɲːˈa# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#nsˌiɲːˈa# | 94 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#nsˌiɲːˈa#
-*#nd͡zˌiɲːˈa# | 116 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#nd͡zˌiɲˈa# | 129 : ɲː > ɲ 
-*#nd͡ziɲˈa# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌɪnt͡sˌɪjnˈaː# | 21 : s > t͡s / n __ [+hi,-tense]
+Early Pre-Capestranese stage form : *#ˌɪnt͡sˌɪjnˈaː#
+*#ˌɪnt͡sˌiːjnˈaː# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
+*#ˌɪnt͡sˌijnˈa# | 34 : [+syl] > [-long,-splng] 
+*#ˌent͡sˌijnˈa# | 66 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌent͡sˌiɲːˈa# | 68 : j n > ɲː / [+front,-lo,+syl] __
+Proto-South-Italo-Romance stage form : *#ˌent͡sˌiɲːˈa#
+*#ənt͡sˌiɲːˈa# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#nt͡sˌiɲːˈa# | 98 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#nt͡sˌiɲːˈa#
+*#nd͡zˌiɲːˈa# | 119 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#nd͡zˌiɲˈa# | 132 : ɲː > ɲ 
+*#nd͡ziɲˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#nd͡ziɲˈa#

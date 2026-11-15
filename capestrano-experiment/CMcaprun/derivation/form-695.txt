@@ -4,12 +4,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˈumbram#
 *#ˈʊmbram# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˈʊmbram#
-*#ˈʊmbra# | 39 : [+cons] > ∅ / __ #
-*#ˈombra# | 66 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
-*#ˈomːra# | 68 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˈʊmbra# | 43 : [+cons] > ∅ / __ #
+*#ˈombra# | 70 : ˈʊ > ˈo / __ [+cons] [+cons] ( [+cons] )* [+lo]
+*#ˈomːra# | 72 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
 Proto-South-Italo-Romance stage form : *#ˈomːra#
 Middle Pre-Capestranese stage form : *#ˈomːra#
-*#ˈomːbra# | 104 : ∅ > b / [+nas,+lab] __ r
-*#ˈombra# | 106 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#ˈombɾa# | 125 : r > ɾ 
+*#ˈomːbra# | 108 : ∅ > b / [+nas,+lab] __ r
+*#ˈombra# | 110 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˈombɾa# | 128 : r > ɾ 
 Final form : *#ˈombɾa#

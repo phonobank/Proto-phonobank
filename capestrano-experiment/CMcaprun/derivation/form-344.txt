@@ -5,17 +5,17 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌekspˌoljˈaː#
 *#ˌɛkspˌɔljˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌɛkspˌɔljˈaː#
-*#ˌɛsːpˌɔljˈaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɛsːpˌɔljˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌɛsːpˌɔʎːˈa# | 33 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
-*#ˌesːpˌɔʎːˈa# | 62 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌesːpˌoʎːˈa# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛsːpˌɔljˈaː# | 30 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛsːpˌɔljˈa# | 34 : [+syl] > [-long,-splng] 
+*#ˌɛsːpˌɔʎːˈa# | 37 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
+*#ˌesːpˌɔʎːˈa# | 66 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌesːpˌoʎːˈa# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌesːpˌoʎːˈa#
-*#əsːpˌoʎːˈa# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#sːpˌoʎːˈa# | 94 : ə > ∅ / # __
+*#əsːpˌoʎːˈa# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#sːpˌoʎːˈa# | 98 : ə > ∅ / # __
 Middle Pre-Capestranese stage form : *#sːpˌoʎːˈa#
-*#spˌoʎːˈa# | 106 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#spˌuʎːˈa# | 111 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#spˌujːˈa# | 128 : {ʎ;ʎː} > {j;jː} 
-*#spujːˈa# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+*#spˌoʎːˈa# | 110 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#spˌuʎːˈa# | 114 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#spˌujːˈa# | 131 : {ʎ;ʎː} > {j;jː} 
+*#spujːˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#spujːˈa#

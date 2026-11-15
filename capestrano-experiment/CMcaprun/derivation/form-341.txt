@@ -4,13 +4,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌekskˌuːsˈaː#
 *#ˌɛkskˌuːsˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌɛkskˌuːsˈaː#
-*#ˌɛsːkˌuːsˈaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɛsːkˌusˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌesːkˌusˈa# | 62 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌɛsːkˌuːsˈaː# | 30 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛsːkˌusˈa# | 34 : [+syl] > [-long,-splng] 
+*#ˌesːkˌusˈa# | 66 : [+stres,-prim,+front,-tense] > ˌe 
 Proto-South-Italo-Romance stage form : *#ˌesːkˌusˈa#
-*#əsːkˌusˈa# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#sːkˌusˈa# | 94 : ə > ∅ / # __
+*#əsːkˌusˈa# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#sːkˌusˈa# | 98 : ə > ∅ / # __
 Middle Pre-Capestranese stage form : *#sːkˌusˈa#
-*#skˌusˈa# | 106 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#skusˈa# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+*#skˌusˈa# | 110 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#skusˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#skusˈa#

@@ -1,12 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 1018:
-... >>> *#ˈanima# ( GOLD : #ˈalma#) :
+... >>> *#ˈanəma# ( GOLD : #ˈalma#) :
 ... 
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
-*#ˈaniːma# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˈanima# | 30 : [+syl] > [-long,-splng] 
-Proto-South-Italo-Romance stage form : *#ˈanima#
-Middle Pre-Capestranese stage form : *#ˈanima#
-*#ˈanˌima# | 113 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˈanima# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ˈanima#
+*#ˈanɛma# | 75 : [+syl,-tense] > [-hi] 
+*#ˈanema# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˈanema#
+Middle Pre-Capestranese stage form : *#ˈanema#
+*#ˈanəma# | 117 : [-stres,-lo] > ə 
+Final form : *#ˈanəma#

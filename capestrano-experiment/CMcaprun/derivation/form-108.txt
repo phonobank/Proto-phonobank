@@ -1,18 +1,20 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 108:
-#sˌeptuaːɡˈintaː# >>> *#sətːwajˈenda# ( GOLD : #setːˈanda#) :
+#sˌeptuaːɡˈintaː# >>> *#setːajˈenda# ( GOLD : #setːˈanda#) :
 s ˌe p t u aː ɡ ˈi n t aː 
 *#sˌeptwaːɡˈintaː# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#sˌeptwaːɡˈintaː#
 *#sˌɛptwaːɡˈɪntaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#sˌɛptwaːɡˈɪntaː#
-*#sˌɛptwaːjˈɪntaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#sˌɛptwajˈɪnta# | 30 : [+syl] > [-long,-splng] 
-*#sˌɛtːwajˈɪnta# | 37 : [+lab,-son] [+cor,-son] > ∅ [+long]
-*#sˌetːwajˈɪnta# | 62 : [+stres,-prim,+front,-tense] > ˌe 
-*#sˌetːwajˈɛnta# | 71 : [+syl,-tense] > [-hi] 
-*#sˌetːwajˈenta# | 73 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˌetːwajˈenta#
-Middle Pre-Capestranese stage form : *#sˌetːwajˈenta#
-*#sˌetːwajˈenda# | 116 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#sətːwajˈenda# | 127 : [-prim,-hi,-lo] > ə 
-Final form : *#sətːwajˈenda#
+*#sˌɛptaːɡˈɪntaː# | 24 : w > ∅ / [-back,-son] __
+*#sˌɛptaːjˈɪntaː# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#sˌɛptajˈɪnta# | 34 : [+syl] > [-long,-splng] 
+*#sˌɛtːajˈɪnta# | 41 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#sˌetːajˈɪnta# | 66 : [+stres,-prim,+front,-tense] > ˌe 
+*#sˌetːajˈɛnta# | 75 : [+syl,-tense] > [-hi] 
+*#sˌetːajˈenta# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#sˌetːajˈenta#
+Middle Pre-Capestranese stage form : *#sˌetːajˈenta#
+*#sˌetːajˈenda# | 119 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#sətːajˈenda# | 130 : [-prim,-hi,-lo] > ə 
+*#setːajˈenda# | 137 : ə > e / # ( [+syl] ) [+ant,-son] __ [+cor,-nas,-lat,rson,rvoi] [+syl,-round]
+Final form : *#setːajˈenda#

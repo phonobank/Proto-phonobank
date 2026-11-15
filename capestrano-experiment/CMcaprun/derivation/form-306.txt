@@ -5,14 +5,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌiŋkˈuːdulam#
 *#ˌɪŋkˈuːdʊlam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌɪŋkˈuːdʊlam#
-*#ˌiːŋkˈuːdʊlam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌiŋkˈudʊlam# | 30 : [+syl] > [-long,-splng] 
-*#ˌiŋkˈudʊla# | 39 : [+cons] > ∅ / __ #
-*#ˌiŋkˈudula# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌiŋkˈudula#
-*#əŋkˈudula# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#ŋkˈudula# | 94 : ə > ∅ / # __
+*#ˌɪŋkˈudʊlam# | 34 : [+syl] > [-long,-splng] 
+*#ˌɪŋkˈudʊla# | 43 : [+cons] > ∅ / __ #
+*#ˌeŋkˈudʊla# | 66 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌeŋkˈudula# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌeŋkˈudula#
+*#əŋkˈudula# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ŋkˈudula# | 98 : ə > ∅ / # __
 Middle Pre-Capestranese stage form : *#ŋkˈudula#
-*#ŋkˈudəla# | 114 : [-stres,-lo] > ə 
-*#ŋɡˈudəla# | 116 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#ŋkˈudəla# | 117 : [-stres,-lo] > ə 
+*#ŋɡˈudəla# | 119 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
 Final form : *#ŋɡˈudəla#

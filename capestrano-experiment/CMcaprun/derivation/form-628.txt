@@ -1,16 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 628:
-#kwˌadraɡˈeːsimam# >>> *#kwarːajˈesəma# ( GOLD : #kwaɾˈɛsəma#) :
+#kwˌadraɡˈeːsimam# >>> *#kwarːajˈesəma# ( GOLD : #kwaɾˈesəma#) :
 k w ˌa d r a ɡ ˈeː s i m a m 
 Proto-Romance stage form : *#kwˌadraɡˈeːsimam#
 *#kwˌadraɡˈeːsɪmam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#kwˌadraɡˈeːsɪmam#
-*#kwˌarːaɡˈeːsɪmam# | 21 : d [bcons,!bround,-syl] > ∅ [+long]/ # ( ( @ )* [-cons] ) __
-*#kwˌarːajˈeːsɪmam# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#kwˌarːajˈeːsiːmam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#kwˌarːajˈesimam# | 30 : [+syl] > [-long,-splng] 
-*#kwˌarːajˈesima# | 39 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#kwˌarːajˈesima#
-Middle Pre-Capestranese stage form : *#kwˌarːajˈesima#
-*#kwˌarːajˈesəma# | 114 : [-stres,-lo] > ə 
-*#kwarːajˈesəma# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+*#kwˌarːaɡˈeːsɪmam# | 23 : d [bcons,!bround,-syl] > ∅ [+long]/ # ( ( @ )* [-cons] ) __
+*#kwˌarːajˈeːsɪmam# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#kwˌarːajˈesɪmam# | 34 : [+syl] > [-long,-splng] 
+*#kwˌarːajˈesɪma# | 43 : [+cons] > ∅ / __ #
+*#kwˌarːajˈesɛma# | 75 : [+syl,-tense] > [-hi] 
+*#kwˌarːajˈesema# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kwˌarːajˈesema#
+Middle Pre-Capestranese stage form : *#kwˌarːajˈesema#
+*#kwˌarːajˈesəma# | 117 : [-stres,-lo] > ə 
+*#kwarːajˈesəma# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#kwarːajˈesəma#

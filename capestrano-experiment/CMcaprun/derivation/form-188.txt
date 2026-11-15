@@ -1,14 +1,15 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 188:
-#nˌepˈoːtatuam# >>> *#nəpˈotatwa# ( GOLD : #nəpˈɔtata#) :
+#nˌepˈoːtatuam# >>> *#nəpˈotata# ( GOLD : #nəpˈɔtata#) :
 n ˌe p ˈoː t a t u a m 
 *#nˌepˈoːtatwam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#nˌepˈoːtatwam#
 *#nˌɛpˈoːtatwam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#nˌɛpˈoːtatwam#
-*#nˌɛpˈotatwam# | 30 : [+syl] > [-long,-splng] 
-*#nˌɛpˈotatwa# | 39 : [+cons] > ∅ / __ #
-*#nˌepˈotatwa# | 62 : [+stres,-prim,+front,-tense] > ˌe 
-Proto-South-Italo-Romance stage form : *#nˌepˈotatwa#
-Middle Pre-Capestranese stage form : *#nˌepˈotatwa#
-*#nəpˈotatwa# | 127 : [-prim,-hi,-lo] > ə 
-Final form : *#nəpˈotatwa#
+*#nˌɛpˈoːtatam# | 24 : w > ∅ / [-back,-son] __
+*#nˌɛpˈotatam# | 34 : [+syl] > [-long,-splng] 
+*#nˌɛpˈotata# | 43 : [+cons] > ∅ / __ #
+*#nˌepˈotata# | 66 : [+stres,-prim,+front,-tense] > ˌe 
+Proto-South-Italo-Romance stage form : *#nˌepˈotata#
+Middle Pre-Capestranese stage form : *#nˌepˈotata#
+*#nəpˈotata# | 130 : [-prim,-hi,-lo] > ə 
+Final form : *#nəpˈotata#

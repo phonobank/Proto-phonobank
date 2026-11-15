@@ -59,6 +59,12 @@ $LXIVb -- fIX, personal inference -- g > gg to become d͡ʒː in before ɛ stres
 $ development of dark L -- FIX exec decis. -- before k V. Similar things may happen before s -- falsum > fald͡zə , favət͡sə-- but not enough data. -- LXXXIb . Sees thru unstressed vowel. 
 l > lˠ / __ ([-stres]) k [-cons] 
 
+$ manual fix 11.15.26.d ns > s unless the s is followed by ɪ or ʊ -- exceptions mansum, insinum, insignare, insimula. These go to dz instead, perhaps via ts
+	$11.15.26.d.1 affrication of s before lax high vowels
+s > [+delrel] / n __ [+hi,-tense]
+
+	$11.15.26.d.2 loss of ns > s elsewhere
+n > ∅ / __ s
 
 =Early Pre-Capestranese
 
@@ -68,6 +74,8 @@ $d [-cor,+cons] > ∅ [+long]
 			$11.14.26.b --but not if postconsonantal 
 d [bcons,-bround,-syl] > ∅ [+long] / # ((@)* [-cons]) __
 
+$ MANUAL FIX w lost after non-back obstruents
+w > ∅ / [-back,-son] __
 
 $ LXIIc LXIVa c, cc, g, gg> t͡ʃ t͡ʃː j d͡ʒː before non-low front vocoidism. Counterbled by ɛ metaphony LIIc, and by reduction to schwa. 
 	$ Attributed to 2nd century on page 72. Affrication of g attributed to be as early as 1st century on page 74. 
@@ -94,10 +102,14 @@ $ LXXIXc LXXXVx Italo-Romance kt, bt, pt to tt and ps, ks to ss
 	$coded so it can handle an intermediate xt or xs if necessary, or even çt çs
 [+hi,-son] [+cor,-son] > ∅ [+long]
 
+
 $ MANUAL FIX RULE A1 -- ˈɪ appears to tense back to ˈi before peripheral non-stridents, including tʲ > t͡sʲ but not t͡ʃ;
 		$ can see thru s 
 	$ before sk : sanctufranciscum > sambranʃiskə
-	$ before k : lenticula, craticula, picculu, picru, butticula, moricolum 
+	$ before k : lenticula, craticula, picculu, picru, butticula, moricolum, rasicare 
+			$ not before g? : striga -- or is htat aloan
+				$vs obligare , figura, 
+			$ not before ng: lingua to lengua -- or is this a lonaș ingingula
 	$ before p : iuniperum/iunipelum, 
 			$ does occur before ps : ipse > issə 
 	$ before b -- tributum > tribːutə, librum 
@@ -105,17 +117,23 @@ $ MANUAL FIX RULE A1 -- ˈɪ appears to tense back to ˈi before peripheral non-
 			$ before tj : avaritsja 
 		$ not before tt: mitte > mettə, sagitta > saettə, littera > lettərə 
 			$ not before kt > tt : strictum > strettə
-		$ not before st͡ʃ, t͡ʃ -- stridents -- thus bled by LXIIc: piscem, picem, picea 
+			$ not before kk -- siccum 
+		$ not before st͡ʃ, t͡ʃ -- stridents -- thus bled by LXIIc: piscem, picem, picea
+			$ but can see through t͡ʃ to j : salsicia, ericium
 	$ not before f,v -- stridents -- 
+	$ not before m ? -- insimula? 
+	$ before ntʲ ː linteolum
 	$ before ɲ: tinea etc 
-	$ before ʎ: liliu etc 
+	$ before ʎ: liliu supracilia etc 
 	$ before g > j : digitu, digitone, nigru 
 	$ altho this is seen elsewhere (French seems to inherit crāticula as if it was crātīcula, long ī...), 
 		$ it is BLED by LXXIXc Italo-Romance kt > tt, so seems to be secondary
 			$ unless we reconceive a pan-Romance kt > xt, which becomes tt in Italo-Romance...
 	$ This also resembles the Classical Proto-Albanian i-tensing rule...
-[+hi,+front,+syl] > [+tense,+long] / __ ([+cor]) [-syl,blab,-bhi,-strid]
+[+hi,+front,+syl] > [+tense,+long] / __ ([+cor]) [-syl,blab,-bhi,-strid,-nas]
 
+$ LXVIIIa -- FIX, INFERRED -- #si- to ʃi-. fed by A1
+s > ʃ / # __ [+hi,+front,+tense]
 
 $ LXXXVIIb -- FIX; MANUAL INFERENCE -- accounts for some of the syncope dated to 2nd to 4th cents C.E. 
 	$ deletions of atonic round vowels -- bleeding W insertion 
@@ -506,10 +524,6 @@ t > tː / __ l
 
 $ XXXIb s , ss to ʃ, ʃʃ in unclear contexts but all seemingly after a? TODO revise. He attributes to the Arabic superstrate from Saracen rule in the 6th to 8th centuries.
 {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-
-
-$ LXVIIIa -- FIX, INFERRED -- #si- to ʃi-
-s > ʃ / # __ [+hi,+front]
 
 $ LVIIIb FIX inferred from examples -- countertonic ˌo metaphony to ˌu before high vowel, before intertonic / unstressed high vowels reduceː consutūram > cˌosutúra > cusətura; solidātum > sˌolidˈatu > suldatə 
 ˌo > ˌu / __ ([+cons])* [+hi]

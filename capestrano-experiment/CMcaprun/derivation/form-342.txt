@@ -1,21 +1,22 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 342:
-#ˌekswˌiɡilˈaː# >>> *#sːwijelˈa# ( GOLD : #zbijːˈa#) :
+#ˌekswˌiɡilˈaː# >>> *#sːijelˈa# ( GOLD : #zbijːˈa#) :
 ˌe k s w ˌi ɡ i l ˈaː 
 Proto-Romance stage form : *#ˌekswˌiɡilˈaː#
 *#ˌɛkswˌɪɡɪlˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌɛkswˌɪɡɪlˈaː#
-*#ˌɛkswˌɪjɪlˈaː# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#ˌɛsːwˌɪjɪlˈaː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɛsːwˌiːjɪlˈaː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌɛsːwˌijɪlˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌesːwˌijɪlˈa# | 62 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌesːwˌijɛlˈa# | 71 : [+syl,-tense] > [-hi] 
-*#ˌesːwˌijelˈa# | 73 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌesːwˌijelˈa#
-*#əsːwˌijelˈa# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#sːwˌijelˈa# | 94 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#sːwˌijelˈa#
-*#sːwˌijəlˈa# | 114 : [-stres,-lo] > ə 
-*#sːwijəlˈa# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
-*#sːwijelˈa# | 133 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#sːwijelˈa#
+*#ˌɛksˌɪɡɪlˈaː# | 24 : w > ∅ / [-back,-son] __
+*#ˌɛksˌɪjɪlˈaː# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#ˌɛsːˌɪjɪlˈaː# | 30 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛsːˌiːjɪlˈaː# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
+*#ˌɛsːˌijɪlˈa# | 34 : [+syl] > [-long,-splng] 
+*#ˌesːˌijɪlˈa# | 66 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌesːˌijɛlˈa# | 75 : [+syl,-tense] > [-hi] 
+*#ˌesːˌijelˈa# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌesːˌijelˈa#
+*#əsːˌijelˈa# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#sːˌijelˈa# | 98 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#sːˌijelˈa#
+*#sːˌijəlˈa# | 117 : [-stres,-lo] > ə 
+*#sːijəlˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+*#sːijelˈa# | 136 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#sːijelˈa#

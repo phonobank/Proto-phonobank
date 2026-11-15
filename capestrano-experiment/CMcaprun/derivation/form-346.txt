@@ -4,14 +4,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌeksmowˈeː#
 *#ˌɛksmɔwˈeː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌɛksmɔwˈeː#
-*#ˌɛsːmɔwˈeː# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#ˌɛsːmɔwˈe# | 30 : [+syl] > [-long,-splng] 
-*#ˌɛsːmɔvˈe# | 56 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
-*#ˌesːmɔvˈe# | 62 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌesːmovˈe# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛsːmɔwˈeː# | 30 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#ˌɛsːmɔwˈe# | 34 : [+syl] > [-long,-splng] 
+*#ˌɛsːmɔvˈe# | 60 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
+*#ˌesːmɔvˈe# | 66 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌesːmovˈe# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌesːmovˈe#
-*#əsːmovˈe# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#sːmovˈe# | 94 : ə > ∅ / # __
+*#əsːmovˈe# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#sːmovˈe# | 98 : ə > ∅ / # __
 Middle Pre-Capestranese stage form : *#sːmovˈe#
-*#sːməvˈe# | 114 : [-stres,-lo] > ə 
+*#sːməvˈe# | 117 : [-stres,-lo] > ə 
 Final form : *#sːməvˈe#

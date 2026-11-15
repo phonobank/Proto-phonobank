@@ -5,13 +5,13 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌadlˌewjˈaː#
 *#ˌadlˌɛwjˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌadlˌɛwjˈaː#
-*#ˌalːˌɛwjˈaː# | 21 : d [bcons,!bround,-syl] > ∅ [+long]/ # ( ( @ )* [-cons] ) __
-*#ˌalːˌɛwjˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌalːˌɛvjˈa# | 56 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
-*#ˌalːˌevjˈa# | 62 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌalːˌɛwjˈaː# | 23 : d [bcons,!bround,-syl] > ∅ [+long]/ # ( ( @ )* [-cons] ) __
+*#ˌalːˌɛwjˈa# | 34 : [+syl] > [-long,-splng] 
+*#ˌalːˌɛvjˈa# | 60 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
+*#ˌalːˌevjˈa# | 66 : [+stres,-prim,+front,-tense] > ˌe 
 Proto-South-Italo-Romance stage form : *#ˌalːˌevjˈa#
 Middle Pre-Capestranese stage form : *#ˌalːˌevjˈa#
-*#ˌalːevjˈa# | 112 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌalːəvjˈa# | 114 : [-stres,-lo] > ə 
-*#alːəvjˈa# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌalːevjˈa# | 115 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌalːəvjˈa# | 117 : [-stres,-lo] > ə 
+*#alːəvjˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#alːəvjˈa#

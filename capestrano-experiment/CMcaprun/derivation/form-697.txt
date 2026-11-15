@@ -1,13 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 697:
-#ˈossua# >>> *#ˈɔsːwa# ( GOLD : #ˈɔsːa#) :
+#ˈossua# >>> *#ˈɔsːa# ( GOLD : #ˈɔsːa#) :
 ˈo s s u a 
 *#ˈosswa# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#ˈosswa#
 *#ˈɔsswa# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˈɔsswa#
-*#ˈɞˤsswa# | 70 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
-*#ˈɞˤsːwa# | 76 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-*#ˈɔsːwa# | 82 : [+lo,-tense,+round] > [-lo] 
-Proto-South-Italo-Romance stage form : *#ˈɔsːwa#
-Middle Pre-Capestranese stage form : *#ˈɔsːwa#
-Final form : *#ˈɔsːwa#
+*#ˈɔssa# | 24 : w > ∅ / [-back,-son] __
+*#ˈɞˤssa# | 74 : [+syl,-hi,-tense] > [+lo] / __ @ @ ( @ )* [+lo] #
+*#ˈɞˤsːa# | 80 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#ˈɔsːa# | 86 : [+lo,-tense,+round] > [-lo] 
+Proto-South-Italo-Romance stage form : *#ˈɔsːa#
+Middle Pre-Capestranese stage form : *#ˈɔsːa#
+Final form : *#ˈɔsːa#

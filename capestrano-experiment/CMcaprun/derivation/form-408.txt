@@ -4,14 +4,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌapplˌikˈaː#
 *#ˌapplˌɪkˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌapplˌɪkˈaː#
-*#ˌapplˌiːkˈaː# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#ˌapplˌikˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌapːlˌikˈa# | 76 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
-*#ˌapːʎˌikˈa# | 77 : l > ʎ / [-son,-cor] __
+*#ˌapplˌiːkˈaː# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
+*#ˌapplˌikˈa# | 34 : [+syl] > [-long,-splng] 
+*#ˌapːlˌikˈa# | 80 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#ˌapːʎˌikˈa# | 81 : l > ʎ / [-son,-cor] __
 Proto-South-Italo-Romance stage form : *#ˌapːʎˌikˈa#
 Middle Pre-Capestranese stage form : *#ˌapːʎˌikˈa#
-*#ˌapːʎikˈa# | 112 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌapːʎˌikˈa# | 113 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#ˌapːjˌikˈa# | 128 : {ʎ;ʎː} > {j;jː} 
-*#apːjikˈa# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌapːʎikˈa# | 115 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌapːʎˌikˈa# | 116 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#ˌapːjˌikˈa# | 131 : {ʎ;ʎː} > {j;jː} 
+*#apːjikˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#apːjikˈa#

@@ -4,14 +4,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌofferˈiː#
 *#ˌɔffɛrˈiː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌɔffɛrˈiː#
-*#ˌɔffɛrˈi# | 30 : [+syl] > [-long,-splng] 
-*#ˌɔffrˈi# | 43 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
-*#ˌoffrˈi# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌofːrˈi# | 76 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#ˌɔffɛrˈi# | 34 : [+syl] > [-long,-splng] 
+*#ˌɔffrˈi# | 47 : [-prim] > ∅ / [+syl,alo,afront] ( [+cont,llat,!llab] ) [-syl,+lab,-long] __ r [+syl]
+*#ˌoffrˈi# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌofːrˈi# | 80 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
 Proto-South-Italo-Romance stage form : *#ˌofːrˈi#
-*#əfːrˈi# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#ˌufːrˈi# | 93 : ə > ˌu / __ [+cons,+lab] [+cor,+son]
+*#əfːrˈi# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ˌufːrˈi# | 97 : ə > ˌu / __ [+cons,+lab] [+cor,+son]
 Middle Pre-Capestranese stage form : *#ˌufːrˈi#
-*#ˌufːɾˈi# | 125 : r > ɾ 
-*#ufːɾˈi# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌufːɾˈi# | 128 : r > ɾ 
+*#ufːɾˈi# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#ufːɾˈi#

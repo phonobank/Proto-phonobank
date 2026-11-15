@@ -4,11 +4,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌillˌa#
 *#ˌɪllˌa# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌɪllˌa#
-*#ˌellˌa# | 62 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌelːˌa# | 76 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#ˌellˌa# | 66 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌelːˌa# | 80 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
 Proto-South-Italo-Romance stage form : *#ˌelːˌa#
-*#əlːˌa# | 90 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
-*#lːˌa# | 94 : ə > ∅ / # __
+*#əlːˌa# | 94 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]
+*#lːˌa# | 98 : ə > ∅ / # __
 Middle Pre-Capestranese stage form : *#lːˌa#
-*#lːa# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+*#lːa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#lːa#

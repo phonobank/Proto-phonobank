@@ -5,15 +5,15 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌapjˈaːrjum#
 *#ˌapjˈaːrjʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌapjˈaːrjʊm#
-*#ˌapjˈarjʊm# | 30 : [+syl] > [-long,-splng] 
-*#ˌapjˈarʲʊm# | 32 : r j > rʲ 
-*#ˌapjˈarʲʊ# | 39 : [+cons] > ∅ / __ #
-*#ˌapjˈarʲu# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌat͡ʃːˈarʲu# | 87 : [+lab,-cont,-voi] j > t͡ʃː
+*#ˌapjˈarjʊm# | 34 : [+syl] > [-long,-splng] 
+*#ˌapjˈarʲʊm# | 36 : r j > rʲ 
+*#ˌapjˈarʲʊ# | 43 : [+cons] > ∅ / __ #
+*#ˌapjˈarʲu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌat͡ʃːˈarʲu# | 91 : [+lab,-cont,-voi] j > t͡ʃː
 Proto-South-Italo-Romance stage form : *#ˌat͡ʃːˈarʲu#
 Middle Pre-Capestranese stage form : *#ˌat͡ʃːˈarʲu#
-*#ˌat͡ʃːˈaru# | 99 : rʲ > r 
-*#ˌat͡ʃːˈarə# | 114 : [-stres,-lo] > ə 
-*#ˌat͡ʃːˈaɾə# | 125 : r > ɾ 
-*#at͡ʃːˈaɾə# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌat͡ʃːˈaru# | 103 : rʲ > r 
+*#ˌat͡ʃːˈarə# | 117 : [-stres,-lo] > ə 
+*#ˌat͡ʃːˈaɾə# | 128 : r > ɾ 
+*#at͡ʃːˈaɾə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#at͡ʃːˈaɾə#

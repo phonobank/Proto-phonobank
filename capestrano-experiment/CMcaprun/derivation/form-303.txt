@@ -5,22 +5,22 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌinˌeːbrjaːkˈoːnem#
 *#ˌɪnˌeːbrjaːkˈoːnɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌɪnˌeːbrjaːkˈoːnɛm#
-*#ˌɪnˌebrjakˈonɛm# | 30 : [+syl] > [-long,-splng] 
-*#ˌɪnˌebrʲakˈonɛm# | 32 : r j > rʲ 
-*#ˌɪnˌebrʲakˈonɛ# | 39 : [+cons] > ∅ / __ #
-*#ˌɪnbrʲakˈonɛ# | 59 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
-*#ˌenbrʲakˈonɛ# | 62 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌenbrʲakˈone# | 73 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌenvrʲakˈone# | 80 : b > v / [-cons] ( n ) __
+*#ˌɪnˌebrjakˈonɛm# | 34 : [+syl] > [-long,-splng] 
+*#ˌɪnˌebrʲakˈonɛm# | 36 : r j > rʲ 
+*#ˌɪnˌebrʲakˈonɛ# | 43 : [+cons] > ∅ / __ #
+*#ˌɪnbrʲakˈonɛ# | 63 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#ˌenbrʲakˈonɛ# | 66 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌenbrʲakˈone# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌenvrʲakˈone# | 84 : b > v / [-cons] ( n ) __
 Proto-South-Italo-Romance stage form : *#ˌenvrʲakˈone#
-*#ənvrʲakˈone# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#ˌinvrʲakˈone# | 92 : ə > ˌi / __ n [+cons,+lab,+voi]
+*#ənvrʲakˈone# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ˌinvrʲakˈone# | 96 : ə > ˌi / __ n [+cons,+lab,+voi]
 Middle Pre-Capestranese stage form : *#ˌinvrʲakˈone#
-*#ˌinvrjakˈone# | 98 : rʲ > r j / [+cons] __
-*#ˌimːrjakˈone# | 103 : n v > mː 
-*#ˌimːbrjakˈone# | 104 : ∅ > b / [+nas,+lab] __ r
-*#ˌimbrjakˈone# | 106 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#ˌimbrjakˈonə# | 114 : [-stres,-lo] > ə 
-*#ˌimbɾjakˈonə# | 125 : r > ɾ 
-*#imbɾjakˈonə# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌinvrjakˈone# | 102 : rʲ > r j / [+cons] __
+*#ˌimːrjakˈone# | 107 : n v > mː 
+*#ˌimːbrjakˈone# | 108 : ∅ > b / [+nas,+lab] __ r
+*#ˌimbrjakˈone# | 110 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#ˌimbrjakˈonə# | 117 : [-stres,-lo] > ə 
+*#ˌimbɾjakˈonə# | 128 : r > ɾ 
+*#imbɾjakˈonə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#imbɾjakˈonə#

@@ -5,14 +5,14 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌiːmfantˈiːlem#
 *#ˌiːmfantˈiːlɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌiːmfantˈiːlɛm#
-*#ˌimfantˈilɛm# | 30 : [+syl] > [-long,-splng] 
-*#ˌimfantˈilɛ# | 39 : [+cons] > ∅ / __ #
-*#ˌimfantˈile# | 73 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌimfantˈilɛm# | 34 : [+syl] > [-long,-splng] 
+*#ˌimfantˈilɛ# | 43 : [+cons] > ∅ / __ #
+*#ˌimfantˈile# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌimfantˈile#
-*#əmfantˈile# | 91 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#mfantˈile# | 94 : ə > ∅ / # __
+*#əmfantˈile# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#mfantˈile# | 98 : ə > ∅ / # __
 Middle Pre-Capestranese stage form : *#mfantˈile#
-*#mfantˈilə# | 114 : [-stres,-lo] > ə 
-*#mb͡vandˈilə# | 116 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#mbandˈilə# | 117 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
+*#mfantˈilə# | 117 : [-stres,-lo] > ə 
+*#mb͡vandˈilə# | 119 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#mbandˈilə# | 120 : [+lab,-cont] > [-delrel,-strid,-cont,+cons,0tense] 
 Final form : *#mbandˈilə#
