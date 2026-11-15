@@ -4,11 +4,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
 *#dˌɔmˈɪniːka# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
-*#dˌɔmˈɪnika# | 34 : [+syl] > [-long,-splng] 
-*#dˌɔmːˈɪnika# | 46 : m > mː / # ( ( @ )* [+ant] ) [+stres,-lo] __ [+syl,-lo] [+cons,-front] [+syl]
-*#dˌɔmːˈɪnka# | 63 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
-*#dˌomːˈɪnka# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dˌomːˈɛnka# | 75 : [+syl,-tense] > [-hi] 
+*#dˌɔmˈɪnika# | 33 : [+syl] > [-long,-splng] 
+*#dˌɔmːˈɪnika# | 45 : m > mː / # ( ( @ )* [+ant] ) [+stres,-lo] __ [+syl,-lo] [+cons,-front] [+syl]
+*#dˌɔmːˈɪnka# | 62 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
+*#dˌomːˈɪnka# | 66 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dˌomːˈɛnka# | 74 : [+syl,-tense] > [-hi] 
 *#dˌomːˈenka# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#dˌomːˈenka#
 Middle Pre-Capestranese stage form : *#dˌomːˈenka#

@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 117:
-#sˌalsˈikiam# >>> *#sald͡zˈit͡ʃja# ( GOLD : #savət͡ʃˈit͡ʃːa#) :
+#sˌalsˈikiam# >>> *#sald͡ʒˈit͡ʃja# ( GOLD : #savət͡ʃˈit͡ʃːa#) :
 s ˌa l s ˈi k i a m 
 *#sˌalsˈikjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 Proto-Romance stage form : *#sˌalsˈikjam#
@@ -7,10 +7,11 @@ Proto-Romance stage form : *#sˌalsˈikjam#
 Early Pre-Capestranese stage form : *#sˌalsˈɪkjam#
 *#sˌalsˈɪt͡ʃjam# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
 *#sˌalsˈiːt͡ʃjam# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
-*#sˌalsˈit͡ʃjam# | 34 : [+syl] > [-long,-splng] 
-*#sˌalsˈit͡ʃja# | 43 : [+cons] > ∅ / __ #
-Proto-South-Italo-Romance stage form : *#sˌalsˈit͡ʃja#
-Middle Pre-Capestranese stage form : *#sˌalsˈit͡ʃja#
-*#sˌald͡zˈit͡ʃja# | 121 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
-*#sald͡zˈit͡ʃja# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#sald͡zˈit͡ʃja#
+*#sˌalsˈit͡ʃjam# | 33 : [+syl] > [-long,-splng] 
+*#sˌalsˈit͡ʃja# | 42 : [+cons] > ∅ / __ #
+*#sˌalʃˈit͡ʃja# | 76 : {s;sː} > {ʃ;ʃ} / __ [+hi,+front,+tense]
+Proto-South-Italo-Romance stage form : *#sˌalʃˈit͡ʃja#
+Middle Pre-Capestranese stage form : *#sˌalʃˈit͡ʃja#
+*#sˌald͡ʒˈit͡ʃja# | 121 : [-voi,-lab,ʃstrid] > [+voi,-cont,ʃdelrel,+cons,0tense] / [+lat] __
+*#sald͡ʒˈit͡ʃja# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#sald͡ʒˈit͡ʃja#

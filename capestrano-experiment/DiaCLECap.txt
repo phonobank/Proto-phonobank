@@ -132,8 +132,6 @@ $ MANUAL FIX RULE A1 -- ˈɪ appears to tense back to ˈi before peripheral non-
 	$ This also resembles the Classical Proto-Albanian i-tensing rule...
 [+hi,+front,+syl] > [+tense,+long] / __ ([+cor]) [-syl,blab,-bhi,-strid,-nas]
 
-$ LXVIIIa -- FIX, INFERRED -- #si- to ʃi-. fed by A1
-s > ʃ / # __ [+hi,+front,+tense]
 
 $ LXXXVIIb -- FIX; MANUAL INFERENCE -- accounts for some of the syncope dated to 2nd to 4th cents C.E. 
 	$ deletions of atonic round vowels -- bleeding W insertion 
@@ -362,6 +360,9 @@ $ LVIId ɪ and ʊ, , pass to e and o unless raised,
 $ manual fix 11.15.26.b -- ē > e before intervocalic n/t becomes ī > i under influence of following u -- plēnum > pjinə, trapētu > trappitə, acētum > ać́itə, venēnum > vəlinə, consuētūra > cuʃiturə , tenerum > tinːərə
 [+front,+tense,-lo,+stres] > [+hi] / __ [+cor,nnas,nvoi] ([-stres] [-syl]) [+hi,+round,+syl]
 
+$ LXVIIIa -- FIX 11.15.26.f, INFERRED; Fontecchio considers it irregular-- si- to ʃi-. fed by A1. Moved later -- fed by 11.15.26.b
+{s;sː} > {ʃ;ʃ} / __ [+hi,+front,+tense]
+
 $ LId {?} ɛ and ɔ unless metaphonized raise to e and o 
 [-lo,+syl] > [+tense]
 
@@ -523,7 +524,8 @@ t > tː / __ l
 
 
 $ XXXIb s , ss to ʃ, ʃʃ in unclear contexts but all seemingly after a? TODO revise. He attributes to the Arabic superstrate from Saracen rule in the 6th to 8th centuries.
-{s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+	$ MANUAL FIX 11.15.26.c -- only seems to happen if next consonant is coronal intervocalic 
+[+cor,+ant,+strid] > [-ant,+distr,+front] / [+lo] __ [+syl] [+cor,dcont,dson] [+syl]
 
 $ LVIIIb FIX inferred from examples -- countertonic ˌo metaphony to ˌu before high vowel, before intertonic / unstressed high vowels reduceː consutūram > cˌosutúra > cusətura; solidātum > sˌolidˈatu > suldatə 
 ˌo > ˌu / __ ([+cons])* [+hi]

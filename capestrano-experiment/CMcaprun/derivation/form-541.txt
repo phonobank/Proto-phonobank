@@ -1,16 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 541:
-#kˌonsˈiːbat# >>> *#kusˈiva# ( GOLD : #kuʃˈiva#) :
+#kˌonsˈiːbat# >>> *#kuʃˈiva# ( GOLD : #kuʃˈiva#) :
 k ˌo n s ˈiː b a t 
 Proto-Romance stage form : *#kˌonsˈiːbat#
 *#kˌɔnsˈiːbat# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 *#kˌɔsˈiːbat# | 22 : n > ∅ / __ s
 Early Pre-Capestranese stage form : *#kˌɔsˈiːbat#
-*#kˌɔsˈibat# | 34 : [+syl] > [-long,-splng] 
-*#kˌɔsˈiba# | 43 : [+cons] > ∅ / __ #
-*#kˌosˈiba# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌosˈiva# | 84 : b > v / [-cons] ( n ) __
-Proto-South-Italo-Romance stage form : *#kˌosˈiva#
-Middle Pre-Capestranese stage form : *#kˌosˈiva#
-*#kˌusˈiva# | 114 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kusˈiva# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kusˈiva#
+*#kˌɔsˈibat# | 33 : [+syl] > [-long,-splng] 
+*#kˌɔsˈiba# | 42 : [+cons] > ∅ / __ #
+*#kˌosˈiba# | 66 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌoʃˈiba# | 76 : {s;sː} > {ʃ;ʃ} / __ [+hi,+front,+tense]
+*#kˌoʃˈiva# | 84 : b > v / [-cons] ( n ) __
+Proto-South-Italo-Romance stage form : *#kˌoʃˈiva#
+Middle Pre-Capestranese stage form : *#kˌoʃˈiva#
+*#kˌuʃˈiva# | 114 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kuʃˈiva# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kuʃˈiva#

@@ -1,15 +1,14 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 412:
-#ˌabsˈolwe# >>> *#aʃːˈolvə# ( GOLD : #asːˈolvə#) :
+#ˌabsˈolwe# >>> *#asːˈolvə# ( GOLD : #asːˈolvə#) :
 ˌa b s ˈo l w e 
 Proto-Romance stage form : *#ˌabsˈolwe#
 *#ˌabsˈɔlwɛ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌabsˈɔlwɛ#
-*#ˌasːˈɔlwɛ# | 41 : [+lab,-son] [+cor,-son] > ∅ [+long]
-*#ˌasːˈɔlvɛ# | 60 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
+*#ˌasːˈɔlwɛ# | 40 : [+lab,-son] [+cor,-son] > ∅ [+long]
+*#ˌasːˈɔlvɛ# | 59 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
 *#ˌasːˈolve# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
 Proto-South-Italo-Romance stage form : *#ˌasːˈolve#
 Middle Pre-Capestranese stage form : *#ˌasːˈolve#
-*#ˌaʃːˈolve# | 113 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
-*#ˌaʃːˈolvə# | 117 : [-stres,-lo] > ə 
-*#aʃːˈolvə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#aʃːˈolvə#
+*#ˌasːˈolvə# | 117 : [-stres,-lo] > ə 
+*#asːˈolvə# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#asːˈolvə#

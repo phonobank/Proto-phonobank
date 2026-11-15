@@ -4,9 +4,9 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌillˌum#
 *#ˌɪllˌʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌɪllˌʊm#
-*#ˌɪllˌʊ# | 43 : [+cons] > ∅ / __ #
-*#ˌellˌʊ# | 66 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌellˌu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪllˌʊ# | 42 : [+cons] > ∅ / __ #
+*#ˌellˌʊ# | 65 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌellˌu# | 66 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
 *#ˌelːˌu# | 80 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
 Proto-South-Italo-Romance stage form : *#ˌelːˌu#
 *#əlːˌu# | 94 : [-prim,-lo] > ə / # __ [+son,+cons] [-cons]

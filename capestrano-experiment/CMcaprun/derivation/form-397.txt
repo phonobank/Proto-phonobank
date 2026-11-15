@@ -4,11 +4,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌawtˈumnum#
 *#ˌawtˈʊmnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#ˌawtˈʊmnʊm#
-*#ˌawtˈʊmnʊ# | 43 : [+cons] > ∅ / __ #
-*#ˌawtˈʊmnu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌawtˈʊnnu# | 71 : [+nas,-cor] > n / [-cons] __ [+cor,nnas,nson]
-*#ˌawtˈʊnːu# | 72 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
-*#ˌawtˈunːu# | 73 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [+ant] __ [+nas,+long]
+*#ˌawtˈʊmnʊ# | 42 : [+cons] > ∅ / __ #
+*#ˌawtˈʊmnu# | 66 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌawtˈʊnnu# | 70 : [+nas,-cor] > n / [-cons] __ [+cor,nnas,nson]
+*#ˌawtˈʊnːu# | 71 : [+nas,mlab,!mcor] [+cons,+voi,nnas,nson,mlab,!mcor] > [+long] ∅
+*#ˌawtˈunːu# | 72 : [+round,-tense] > [+tense,+hi,-cons,-lat,+cont,0delrel] / [+ant] __ [+nas,+long]
 *#ˌowtˈunːu# | 79 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
 Proto-South-Italo-Romance stage form : *#ˌowtˈunːu#
 Middle Pre-Capestranese stage form : *#ˌowtˈunːu#

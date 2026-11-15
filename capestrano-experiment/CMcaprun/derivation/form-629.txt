@@ -1,13 +1,11 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 629:
-#kwˈasi# >>> *#kwˈaʃə# ( GOLD : #kwˈaʃə#) :
-k w ˈa s i 
-Proto-Romance stage form : *#kwˈasi#
-*#kwˈasɪ# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#kwˈasɪ#
-*#kwˈasɛ# | 75 : [+syl,-tense] > [-hi] 
-*#kwˈase# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kwˈase#
-Middle Pre-Capestranese stage form : *#kwˈase#
-*#kwˈaʃe# | 113 : {s;s s;sː} > {ʃ;ʃ ʃ;ʃː} / [+lo] __ [+syl]
+#kwˈasiː# >>> *#kwˈaʃə# ( GOLD : #kwˈaʃə#) :
+k w ˈa s iː 
+Proto-Romance stage form : *#kwˈasiː#
+Early Pre-Capestranese stage form : *#kwˈasiː#
+*#kwˈasi# | 33 : [+syl] > [-long,-splng] 
+*#kwˈaʃi# | 76 : {s;sː} > {ʃ;ʃ} / __ [+hi,+front,+tense]
+Proto-South-Italo-Romance stage form : *#kwˈaʃi#
+Middle Pre-Capestranese stage form : *#kwˈaʃi#
 *#kwˈaʃə# | 117 : [-stres,-lo] > ə 
 Final form : *#kwˈaʃə#

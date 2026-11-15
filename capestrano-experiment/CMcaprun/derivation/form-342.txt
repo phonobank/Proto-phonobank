@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 342:
-#ˌekswˌiɡilˈaː# >>> *#sːijelˈa# ( GOLD : #zbijːˈa#) :
+#ˌekswˌiɡilˈaː# >>> *#ʃijelˈa# ( GOLD : #zbijːˈa#) :
 ˌe k s w ˌi ɡ i l ˈaː 
 Proto-Romance stage form : *#ˌekswˌiɡilˈaː#
 *#ˌɛkswˌɪɡɪlˈaː# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -8,15 +8,16 @@ Early Pre-Capestranese stage form : *#ˌɛkswˌɪɡɪlˈaː#
 *#ˌɛksˌɪjɪlˈaː# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
 *#ˌɛsːˌɪjɪlˈaː# | 30 : [+hi,-son] [+cor,-son] > ∅ [+long]
 *#ˌɛsːˌiːjɪlˈaː# | 31 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid,-nas]
-*#ˌɛsːˌijɪlˈa# | 34 : [+syl] > [-long,-splng] 
-*#ˌesːˌijɪlˈa# | 66 : [+stres,-prim,+front,-tense] > ˌe 
-*#ˌesːˌijɛlˈa# | 75 : [+syl,-tense] > [-hi] 
-*#ˌesːˌijelˈa# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌesːˌijelˈa#
-*#əsːˌijelˈa# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
-*#sːˌijelˈa# | 98 : ə > ∅ / # __
-Middle Pre-Capestranese stage form : *#sːˌijelˈa#
-*#sːˌijəlˈa# | 117 : [-stres,-lo] > ə 
-*#sːijəlˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
-*#sːijelˈa# | 136 : ə > e / [+front,-syl] __ [+cor,+son]
-Final form : *#sːijelˈa#
+*#ˌɛsːˌijɪlˈa# | 33 : [+syl] > [-long,-splng] 
+*#ˌesːˌijɪlˈa# | 65 : [+stres,-prim,+front,-tense] > ˌe 
+*#ˌesːˌijɛlˈa# | 74 : [+syl,-tense] > [-hi] 
+*#ˌeʃˌijɛlˈa# | 76 : {s;sː} > {ʃ;ʃ} / __ [+hi,+front,+tense]
+*#ˌeʃˌijelˈa# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#ˌeʃˌijelˈa#
+*#əʃˌijelˈa# | 95 : [-prim,-lo] > ə / # __ ( [+nas] ) [-son]
+*#ʃˌijelˈa# | 98 : ə > ∅ / # __
+Middle Pre-Capestranese stage form : *#ʃˌijelˈa#
+*#ʃˌijəlˈa# | 117 : [-stres,-lo] > ə 
+*#ʃijəlˈa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ʃijelˈa# | 136 : ə > e / [+front,-syl] __ [+cor,+son]
+Final form : *#ʃijelˈa#
