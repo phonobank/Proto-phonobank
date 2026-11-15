@@ -1,16 +1,17 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 658:
-#wˌenˈeːnum# >>> *#vənˈenə# ( GOLD : #vəlˈinə#) :
+#wˌenˈeːnum# >>> *#vənˈinə# ( GOLD : #vəlˈinə#) :
 w ˌe n ˈeː n u m 
 Proto-Romance stage form : *#wˌenˈeːnum#
 *#wˌɛnˈeːnʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
 Early Pre-Capestranese stage form : *#wˌɛnˈeːnʊm#
 *#wˌɛnˈenʊm# | 30 : [+syl] > [-long,-splng] 
 *#wˌɛnˈenʊ# | 39 : [+cons] > ∅ / __ #
-*#vˌɛnˈenʊ# | 56 : {w;wː} > {v;vː} / # ( ( @ )* [+son] ) __ [-cons]
+*#vˌɛnˈenʊ# | 56 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
 *#vˌenˈenʊ# | 62 : [+stres,-prim,+front,-tense] > ˌe 
 *#vˌenˈenu# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#vˌenˈenu#
-Middle Pre-Capestranese stage form : *#vˌenˈenu#
-*#vˌenˈenə# | 112 : [-stres,-lo] > ə 
-*#vənˈenə# | 125 : [-prim,-hi,-lo] > ə 
-Final form : *#vənˈenə#
+*#vˌenˈinu# | 72 : [+front,+tense,-lo,+stres] > [+hi] / __ [+cor,nnas,nvoi] ( [-stres] [-syl] ) [+hi,+round,+syl]
+Proto-South-Italo-Romance stage form : *#vˌenˈinu#
+Middle Pre-Capestranese stage form : *#vˌenˈinu#
+*#vˌenˈinə# | 114 : [-stres,-lo] > ə 
+*#vənˈinə# | 127 : [-prim,-hi,-lo] > ə 
+Final form : *#vənˈinə#

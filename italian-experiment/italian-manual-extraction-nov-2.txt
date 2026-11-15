@@ -58,6 +58,8 @@ $ 5.3.a.1 k,g >  j before n, s. Broaden this to k,g opening before coronals gene
         $ Does not apply to -kr-, and perhaps not -kl-ː alpha feature used for voicing coherence.
 [+back,ɣvoi] > [+cont] / [-cons] __ [+cor,ɣvoi]
 
+$10c insertion of final -e in sale < sal, cuore < cor, is taken to be analogical 
+
 = Proto-West-Romance
 
 $ 2.3a unstressed ɛ and ɔ merge with reflexes of long mid vowels
@@ -168,13 +170,21 @@ $ 4.4b *unstressed* aw to o
         $Conditioning unclear. Leaving out for now.
 [+lo,-prim] w > o ∅
 
-$ 8.2d some syncopes -- TODO may need to revise placement -- that at the very least remove intersonorant vowels,
-    $ feed 8.2e
-[-stres] > ∅ / [+son,+cons] __ [+son,+cons]
+$ 8.2d some syncopes -- TODO may need to revise placement -- that at the very least remove presonorant vowels,
+    $ to feed 8.2e and 11.2a
+[-stres] > ∅ / [+cons] __ [+son,+cons]
 
+$12a -- after palatalization complete, final -aj < as becomes -e and -ej < es and -oj < -os become i
+[-stres,alo] j > [+front,-back,-round,-lab,-lo,+tense,-ahi] ∅ / __ #
 
 = Proto-Italo-Romance
 
+$ not including "sporadic" dissimilations of ch11.1 unless designated as regular 
+
+$11.2a 'metathetic' movement of l into earlier syllable, a "marked tendency". Not described as regular. Examples fabula > flaba > fiaba, comula >.. .> chimoa, fundula > ... > fionda, populu > pioppo. Based on examples, PROPOSAL as attracted by earlier peripheral obstruent. [ wouldn't be expected for l to migrate to create an undesirable -dl- cluster anyways, e.g. duplum > doppio not dioppo via *diopo] 
+∅ [+prim] [-syl] [+cons] l > l [+prim] [-syl] [+cons] ∅ / [-son,-cor,+cons] __ 
+∅ [+prim] [+cons] l > l [+prim] [+cons] ∅ / [-son,-cor,+cons] __ 
+ 
 $5.3.a.3 palatalization of velar fricatives from 5.3.a that survive, before coronals. 
     $-jn- and -js- survive in some cases in southern Italo-Romance
     $ Doesn't seem to occur for the far south --- gn (> *ɣn? ) > wn instead there. 
@@ -211,7 +221,7 @@ $6.1c -- where 6.1b doesn't apply, ʝ becomes d͡ʒ initially, and d͡ʒː inter
 
 $ 3.3a Italo-Romance l > j post-obstruent(?)-- he says tautosyllabic which may effectively mean this
     $in Abruzzo, post-Italo-Romance: limited to kl/gl in Abruzzo
-    $fed by syncope 4.5.4.1
+    $fed by syncope 4.6.4.1
 l > j / [-son] __ 
 
 $ 9c "tendency" to vocalize l before consontants -- talpo vs. topo e.g. -- but most cases are excluded. Not included as a rule.

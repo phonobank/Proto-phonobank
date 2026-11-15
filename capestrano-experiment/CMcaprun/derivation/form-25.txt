@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 25:
-#tˈeːktum# >>> *#tˈetːə# ( GOLD : #tˈitːə#) :
+#tˈeːktum# >>> *#tˈitːə# ( GOLD : #tˈitːə#) :
 t ˈeː k t u m 
 Proto-Romance stage form : *#tˈeːktum#
 *#tˈeːktʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -8,7 +8,8 @@ Early Pre-Capestranese stage form : *#tˈeːktʊm#
 *#tˈetːʊm# | 30 : [+syl] > [-long,-splng] 
 *#tˈetːʊ# | 39 : [+cons] > ∅ / __ #
 *#tˈetːu# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#tˈetːu#
-Middle Pre-Capestranese stage form : *#tˈetːu#
-*#tˈetːə# | 112 : [-stres,-lo] > ə 
-Final form : *#tˈetːə#
+*#tˈitːu# | 72 : [+front,+tense,-lo,+stres] > [+hi] / __ [+cor,nnas,nvoi] ( [-stres] [-syl] ) [+hi,+round,+syl]
+Proto-South-Italo-Romance stage form : *#tˈitːu#
+Middle Pre-Capestranese stage form : *#tˈitːu#
+*#tˈitːə# | 114 : [-stres,-lo] > ə 
+Final form : *#tˈitːə#

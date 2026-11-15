@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 388:
-#ˌakˈeːtum# >>> *#at͡ʃˈetə# ( GOLD : #at͡ʃˈitə#) :
+#ˌakˈeːtum# >>> *#at͡ʃˈitə# ( GOLD : #at͡ʃˈitə#) :
 ˌa k ˈeː t u m 
 Proto-Romance stage form : *#ˌakˈeːtum#
 *#ˌakˈeːtʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -8,8 +8,9 @@ Early Pre-Capestranese stage form : *#ˌakˈeːtʊm#
 *#ˌat͡ʃˈetʊm# | 30 : [+syl] > [-long,-splng] 
 *#ˌat͡ʃˈetʊ# | 39 : [+cons] > ∅ / __ #
 *#ˌat͡ʃˈetu# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#ˌat͡ʃˈetu#
-Middle Pre-Capestranese stage form : *#ˌat͡ʃˈetu#
-*#ˌat͡ʃˈetə# | 112 : [-stres,-lo] > ə 
-*#at͡ʃˈetə# | 130 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#at͡ʃˈetə#
+*#ˌat͡ʃˈitu# | 72 : [+front,+tense,-lo,+stres] > [+hi] / __ [+cor,nnas,nvoi] ( [-stres] [-syl] ) [+hi,+round,+syl]
+Proto-South-Italo-Romance stage form : *#ˌat͡ʃˈitu#
+Middle Pre-Capestranese stage form : *#ˌat͡ʃˈitu#
+*#ˌat͡ʃˈitə# | 114 : [-stres,-lo] > ə 
+*#at͡ʃˈitə# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#at͡ʃˈitə#

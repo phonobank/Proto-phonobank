@@ -4,11 +4,11 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : *#ˌaffˌoːkˈaː#
 Early Pre-Capestranese stage form : *#ˌaffˌoːkˈaː#
 *#ˌaffˌokˈa# | 30 : [+syl] > [-long,-splng] 
-*#ˌafːˌokˈa# | 74 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#ˌafːˌokˈa# | 76 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
 Proto-South-Italo-Romance stage form : *#ˌafːˌokˈa#
 Middle Pre-Capestranese stage form : *#ˌafːˌokˈa#
-*#ˌafːˌukˈa# | 109 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#ˌafːukˈa# | 110 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#ˌafːˌukˈa# | 111 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
-*#afːukˈa# | 130 : [-prim] > [-stres,-prim,+syl,+son] 
+*#ˌafːˌukˈa# | 111 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#ˌafːukˈa# | 112 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#ˌafːˌukˈa# | 113 : [-prim,αlo,!αhi] > [+stres,+syl,+son] / # [+lo] ( [-syl] )* __
+*#afːukˈa# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
 Final form : *#afːukˈa#

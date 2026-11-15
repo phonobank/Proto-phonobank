@@ -59,6 +59,7 @@ $LXIVb -- fIX, personal inference -- g > gg to become d͡ʒː in before ɛ stres
 $ development of dark L -- FIX exec decis. -- before k V. Similar things may happen before s -- falsum > fald͡zə , favət͡sə-- but not enough data. -- LXXXIb . Sees thru unstressed vowel. 
 l > lˠ / __ ([-stres]) k [-cons] 
 
+
 =Early Pre-Capestranese
 
 $LXXIXd dv to vv, dm to mm; throw in db and dp while at it
@@ -251,7 +252,7 @@ $ LXXVIIa medial w to v, if prevocalic
 		$w > v / # __
 		$w > v / __ [-cons]
 	$ MANUAL FIX -- does not happen after obstruents
-{w;wː}> {v;vː} / # ((@)* [+son]) __ [-cons]
+{w;wː;β;βː}> {v;vː;v;vː} / # ((@)* [+son]) __ [-cons]
 
 	$ MANUAL FIX w lost in gw if there's w or u in prior syllable -- 
 		$ungula , coagula, rukəla, karrukəla, mokkəla < mʊkkʊla
@@ -310,8 +311,8 @@ $ FIX: it's actually ʊ to o before multiple consonants than a. (FIX -- inferred
 	$ˈʊ > ˈo / __ [+nas,+long] a ([+cons]) #
 		$ combined into LVIIa 
 
-$ MANUAL FIX 11.15.26.a postvocalic m > n before coronals other than r. Counterfeeds XXXIa but feeds LVIIc 
-m > n / [-cons] __ [+cor,nnas,nson]
+$ MANUAL FIX 11.15.26.a postvocalic m > n before coronals other than r. Counterfeeds XXXIa but feeds LVIIc. Throw in ŋ
+[+nas,-cor] > n / [-cons] __ [+cor,nnas,nson]
 
 $ XXXIa.1 nd to nn, argued to be due to Oscan influence. 
 $d > n / n __ 
@@ -337,8 +338,14 @@ $ LVa -- tentatively -- tonic o > ɔ under metaphony, i.e. before final a. FIX -
 	$ FIX combining LIIc and La
 [+syl,-hi,-tense] > [+lo] / __ @ @ (@)* [+lo] #
 
-$ LVIId and LId ɪ and ʊ, unless raised, and ɛ and ɔ unless metathesized, pass to e and o
-[+syl,-lo,-tense] > [-hi,+tense]
+$ LVIId ɪ and ʊ, , pass to e and o unless raised, 
+[+syl,-tense] > [-hi]
+
+$ manual fix 11.15.26.b -- ē > e before intervocalic n/t becomes ī > i under influence of following u -- plēnum > pjinə, trapētu > trappitə, acētum > ać́itə, venēnum > vəlinə, consuētūra > cuʃiturə , tenerum > tinːərə
+[+front,+tense,-lo,+stres] > [+hi] / __ [+cor,nnas,nvoi] ([-stres] [-syl]) [+hi,+round,+syl]
+
+$ LId {?} ɛ and ɔ unless metaphonized raise to e and o 
+[-lo,+syl] > [+tense]
 
 $ LIVd ag > aw, feeding LIIc
 ɡ > w / __ m

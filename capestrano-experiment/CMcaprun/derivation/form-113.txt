@@ -1,23 +1,20 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 113:
-#sˌanktufrˌankˈiskum# >>> *#saŋdfɾand͡ʒˈiskə# ( GOLD : #sambɾanʃˈiskə#) :
-s ˌa n k t u f r ˌa n k ˈi s k u m 
-*#sˌaŋktufrˌaŋkˈiskum# | 1 : n > ŋ / __ [+back,+cons]
-Proto-Romance stage form : *#sˌaŋktufrˌaŋkˈiskum#
-*#sˌaŋktʊfrˌaŋkˈɪskʊm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-Early Pre-Capestranese stage form : *#sˌaŋktʊfrˌaŋkˈɪskʊm#
-*#sˌaŋktʊfrˌant͡ʃˈɪskʊm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#sˌaŋtːʊfrˌant͡ʃˈɪskʊm# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
-*#sˌaŋtːʊfrˌant͡ʃˈiːskʊm# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
-*#sˌaŋtːʊfrˌant͡ʃˈiskʊm# | 30 : [+syl] > [-long,-splng] 
-*#sˌaŋtːʊfrˌant͡ʃˈiskʊ# | 39 : [+cons] > ∅ / __ #
+... >>> *#sandfɾand͡ʒˈiskə# ( GOLD : #sambɾanʃˈiskə#) :
+... 
+Proto-Romance stage form : ...
+Early Pre-Capestranese stage form : ...
+*#sˌaŋtːʊfrˌant͡ʃˈɪskʊ# | 27 : [+hi,-son] [+cor,-son] > ∅ [+long]
+*#sˌaŋtːʊfrˌant͡ʃˈiːskʊ# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#sˌaŋtːʊfrˌant͡ʃˈiskʊ# | 30 : [+syl] > [-long,-splng] 
 *#sˌaŋtːfrˌant͡ʃˈiskʊ# | 59 : [-prim,-lo] > ∅ / [+syl] [+nas,-lab] ( [+cons,-strid] )* __ [+cons,nnas,nson,ncor] ( [-syl] )* [+syl]
 *#sˌaŋtːfrˌant͡ʃˈisku# | 63 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#sˌaŋtːfrˌant͡ʃˈisku#
-Middle Pre-Capestranese stage form : *#sˌaŋtːfrˌant͡ʃˈisku#
-*#sˌaŋtfrˌant͡ʃˈisku# | 104 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#sˌaŋtfrant͡ʃˈisku# | 110 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
-*#sˌaŋtfrant͡ʃˈiskə# | 112 : [-stres,-lo] > ə 
-*#sˌaŋdfrand͡ʒˈiskə# | 114 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
-*#sˌaŋdfɾand͡ʒˈiskə# | 123 : r > ɾ 
-*#saŋdfɾand͡ʒˈiskə# | 130 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#saŋdfɾand͡ʒˈiskə#
+*#sˌantːfrˌant͡ʃˈisku# | 67 : [+nas,-cor] > n / [-cons] __ [+cor,nnas,nson]
+Proto-South-Italo-Romance stage form : *#sˌantːfrˌant͡ʃˈisku#
+Middle Pre-Capestranese stage form : *#sˌantːfrˌant͡ʃˈisku#
+*#sˌantfrˌant͡ʃˈisku# | 106 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#sˌantfrant͡ʃˈisku# | 112 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#sˌantfrant͡ʃˈiskə# | 114 : [-stres,-lo] > ə 
+*#sˌandfrand͡ʒˈiskə# | 116 : [-voi,sstrid] > [+voi,-cont,sdelrel,+cons,0tense] / [+nas] __
+*#sˌandfɾand͡ʒˈiskə# | 125 : r > ɾ 
+*#sandfɾand͡ʒˈiskə# | 132 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#sandfɾand͡ʒˈiskə#

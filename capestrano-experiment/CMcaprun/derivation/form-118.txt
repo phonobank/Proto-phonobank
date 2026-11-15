@@ -1,18 +1,20 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 118:
-#sˈalikem# >>> *#sˈot͡ʃə# ( GOLD : #sˈawt͡ʃa#) :
-s ˈa l i k e m 
-Proto-Romance stage form : *#sˈalikem#
-*#sˈalɪkɛm# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈalˠɪkɛm# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
-Early Pre-Capestranese stage form : *#sˈalˠɪkɛm#
-*#sˈalˠɪt͡ʃɛm# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#sˈalˠɪt͡ʃɛ# | 39 : [+cons] > ∅ / __ #
-*#sˈalˠt͡ʃɛ# | 49 : [-stres] > ∅ / [+syl] [+son,glat,gback,-nas] __ [-cont,-back] [+syl]
-*#sˈawt͡ʃɛ# | 50 : lˠ > w / __ ( ə ) t͡ʃ
-*#sˈawt͡ʃe# | 71 : [+syl,-lo,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
-*#sˈowt͡ʃe# | 73 : [+lo] > [+back,-front,-lo,+lab,+round] / __ w [+cons]
-Proto-South-Italo-Romance stage form : *#sˈowt͡ʃe#
-Middle Pre-Capestranese stage form : *#sˈowt͡ʃe#
-*#sˈot͡ʃe# | 98 : w > ∅ / [+round] __ [+cons]
-*#sˈot͡ʃə# | 112 : [-stres,-lo] > ə 
-Final form : *#sˈot͡ʃə#
+#sˈalikiam# >>> *#sˈalet͡ʃja# ( GOLD : #sˈawt͡ʃa#) :
+s ˈa l i k i a m 
+*#sˈalikjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+Proto-Romance stage form : *#sˈalikjam#
+*#sˈalɪkjam# | 15 : [-lo,-long,+syl] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈalˠɪkjam# | 20 : l > lˠ / __ ( [-stres] ) k [-cons]
+Early Pre-Capestranese stage form : *#sˈalˠɪkjam#
+*#sˈalˠɪt͡ʃjam# | 22 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
+*#sˈalˠiːt͡ʃjam# | 28 : [+hi,+front,+syl] > [+tense,+long,-cons,-lat,+cont,0delrel] / __ ( [+cor] ) [-syl,blab,!bhi,-strid]
+*#sˈalˠit͡ʃjam# | 30 : [+syl] > [-long,-splng] 
+*#sˈalˠit͡ʃja# | 39 : [+cons] > ∅ / __ #
+*#sˈalit͡ʃja# | 51 : lˠ > l 
+*#sˈalˌit͡ʃja# | 86 : i > ˌi / __ ( [-syl] )* [+front,-strid,-syl]
+Proto-South-Italo-Romance stage form : *#sˈalˌit͡ʃja#
+Middle Pre-Capestranese stage form : *#sˈalˌit͡ʃja#
+*#sˈalit͡ʃja# | 112 : [-prim] > [-stres,-prim,+syl,+son] / [+syl] ( @ )* __
+*#sˈalət͡ʃja# | 114 : [-stres,-lo] > ə 
+*#sˈalet͡ʃja# | 136 : ə > e / [+cor] __ t͡ʃ
+Final form : *#sˈalet͡ʃja#
