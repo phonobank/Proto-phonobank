@@ -4,12 +4,12 @@ Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CM
 Proto-Romance stage form : ...
 Early Pre-Capestranese stage form : ...
 *#jˈɛllwʊ# | 25 : {ŋ k;k;kː;k k;ŋ ɡ;ɡ;ɡː;ɡ ɡ;ŋ ɡ ɡ} > {n t͡ʃ;t͡ʃ;t͡ʃː;t͡ʃː;n d͡ʒ;j;d͡ʒː;d͡ʒː;n d͡ʒː} / __ [+front,-lo,-cons]
-*#jˈɛllvʊ# | 59 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
-*#jˈɛllvu# | 66 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈellvu# | 77 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈelːvu# | 80 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
+*#jˈɛllvʊ# | 60 : {w;wː;β;βː} > {v;vː;v;vː} / # ( ( @ )* [+son] ) __ [-cons]
+*#jˈɛllvu# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈellvu# | 78 : [-lo,+syl] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈelːvu# | 81 : [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] [+cons,ason,bcont,clat,dnas,eant,fcor,glab,hhi,iback] > ∅ [+long]
 Proto-South-Italo-Romance stage form : *#jˈelːvu#
 Middle Pre-Capestranese stage form : *#jˈelːvu#
-*#jˈelvu# | 110 : [+cons] [-son] > [-long,-splng] [-long,-splng]
-*#jˈelvə# | 117 : [-stres,-lo] > ə 
+*#jˈelvu# | 111 : [+cons] [-son] > [-long,-splng] [-long,-splng]
+*#jˈelvə# | 118 : [-stres,-lo] > ə 
 Final form : *#jˈelvə#

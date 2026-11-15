@@ -1,5 +1,5 @@
 Derivation file for run '../mpi ai work/Proto-phonobank/capestrano-experiment/CMcaprun'; form ID 560:
-#kˌokleˈaːriam# >>> *#kukjːˈaɾa# ( GOLD : #kucːˈaɾa#) :
+#kˌokleˈaːriam# >>> *#kucːˈaɾa# ( GOLD : #kucːˈaɾa#) :
 k ˌo k l e ˈaː r i a m 
 *#kˌokliˈaːriam# | 9 : [-stres,-lo] > [+hi] / __ [+lo]
 *#kˌokljˈaːrjam# | 12 : [+hi,-prim] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
@@ -10,12 +10,14 @@ Early Pre-Capestranese stage form : *#kˌɔkljˈaːrjam#
 *#kˌɔkljˈarʲam# | 35 : r j > rʲ 
 *#kˌɔkʎːˈarʲam# | 36 : [+cor,+son] j > [-cor,-ant,+hi,+front,+long,0distr] ∅
 *#kˌɔkʎːˈarʲa# | 42 : [+cons] > ∅ / __ #
-*#kˌokʎːˈarʲa# | 66 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-South-Italo-Romance stage form : *#kˌokʎːˈarʲa#
-Middle Pre-Capestranese stage form : *#kˌokʎːˈarʲa#
-*#kˌokʎːˈara# | 103 : rʲ > r 
-*#kˌukʎːˈara# | 114 : ˌo > ˌu / __ ( [+cons] )* [+hi]
-*#kˌukʎːˈaɾa# | 128 : r > ɾ 
-*#kˌukjːˈaɾa# | 131 : {ʎ;ʎː} > {j;jː} 
-*#kukjːˈaɾa# | 135 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#kukjːˈaɾa#
+*#kˌɔkʎˈarʲa# | 58 : ʎː > ʎ / # ( ( @ )* [+cons] ) __
+*#kˌokʎˈarʲa# | 67 : [-prim,+round] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-South-Italo-Romance stage form : *#kˌokʎˈarʲa#
+Middle Pre-Capestranese stage form : *#kˌokʎˈarʲa#
+*#kˌokʎˈara# | 104 : rʲ > r 
+*#kˌukʎˈara# | 115 : ˌo > ˌu / __ ( [+cons] )* [+hi]
+*#kˌukʎˈaɾa# | 129 : r > ɾ 
+*#kˌukjˈaɾa# | 132 : {ʎ;ʎː} > {j;jː} 
+*#kukjˈaɾa# | 136 : [-prim] > [-stres,-prim,+syl,+son] 
+*#kucːˈaɾa# | 141 : {k j;kː j;s k j} > {cː;cː;ʃ c} / @ __ [+prim]
+Final form : *#kucːˈaɾa#

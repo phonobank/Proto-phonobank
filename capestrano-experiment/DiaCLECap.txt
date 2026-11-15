@@ -252,8 +252,12 @@ $ MANUAL FIX A9 -- kʊl, kr > gl, gr in particular conditions
 		$ ungulus coagulus worked in 
 {ɡ ʊ l;k ʊ l;k r} > {ɡ l;ɡ l;ɡ r} / # ([+cons,-cor]) [+lab,bant,-bhi,-strid] ( [+cor] )* [vsyl,-vnas,-lab] __
 
-$ MANUAL FIX A10 gl > ʎː. Fed by A9. Bleeds pre-lateral peripheral lengthening 
-ɡ l > ʎː 
+$ MANUAL FIX A10 gl > ʎː, medially ʎ initially. Fed by A9. Bleeds pre-lateral peripheral lengthening 
+ɡ l > ʎː
+
+$11.15.26.h ʎ shortened initially and post-consonantally
+ʎː > ʎ / # ((@)* [+cons]) __
+
 
 $ LXIa final kulV- gulV (now with ʊ per LIb/ LIIb/ LVIIIa/ LVIa)> kwəlV, gwəlV; w insertion, counterfed by LIXf reduction to ə 
 $FONTECCHIO VERSION: ∅ > w / [-cont,+back] __ ʊ [+lat] [+syl] #
@@ -612,6 +616,9 @@ $ MANUAL FIX A22 -- reductions of e , i to schwa in lab/ch/sh __ cor (k) A (stre
 
 $ MANUAL FIX A24 -- schwa to e after coronal if before ch
 ə > e / [+cor] __ t͡ʃ 
+
+$ MANUAL FIX 11.15.26.g kj, skj coalesced internal pretonic
+{k j;kː j;s k j} >  {cː;cː;ʃ c} / @ __ [+prim]
 
 $= Modern Capestranese
 
