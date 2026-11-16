@@ -40,10 +40,12 @@ CLDF = "http://cldf.clld.org/v1.0/terms.rdf#"
 
 REQUIRED = ("FILES", "SOURCE", "LANGUAGES")
 
+ID_DELIM = "-"
+
 
 def make_id(*parts):
     """Join parts into a CLDF ID; CLDF IDs allow only letters, digits, '_' and '-'."""
-    return re.sub(r"[^A-Za-z0-9_\-]", "_", "-".join(str(part) for part in parts))
+    return re.sub(r"[^A-Za-z0-9_\-]", "_", ID_DELIM.join(str(part) for part in parts))
 
 
 def load_extraction(directory):
@@ -282,7 +284,7 @@ class Dataset(BaseDataset):
 
                 for step in range(len(cascade_ids)):
                     args.log.info("{}: {} > {}: {} rules".format(
-                        chain_id,
+                        " " * len(chain_id) + ("" if cascade_id == chain_id else ID_DELIM + str(step+1)),
                         stages[step][1],
                         stages[step + 1][1],
                         position.get(step, 0),
