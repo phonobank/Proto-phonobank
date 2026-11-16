@@ -1,0 +1,326 @@
+$| Latin
+
+$ R1 Loss of [h]  $$PG: 46-47
+h > ∅
+
+$ R2A Monophthongization of AE [ay] > [ɛː] (P3A)  $$PG: 47
+[+syl,+lo] j > [-lo,-tense,+long] ∅
+
+$ R2B Monophthongization of OE [oy] > [eː]  $$PG: 47-48
+[+syl,-hi,-lo,+round] j > [-round,-lab,-back,+front,+long] ∅
+
+$ R3A Reduction of final [m] (P6A)  $$PG: 48-49
+m > n / # ([-syl])* [+syl] __ #
+m > ∅ / __ #
+
+$ R3B Reduction of [n] + fricative (P6B)  $$PG: 49-50
+[+syl] n > [+long] ∅ / __ [-son,+cont]
+
+$ R4A Syncope (P4)  $$PG: 50-51
+[+syl,+hi,-long,-stres] > ∅ / [+syl] [+son,+cons] __ [+cons] [+syl]
+[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons] __ [+son,+cons] [+syl]
+
+$ R4B Dissimilation of [tl]: [tl] > [kl]  $$PG: 51-52
+t > k / __ l
+∅ > k / s __ l
+
+$ R5A Deletion of word-final oral or nasal stop (P7)  $$PG: 52-53
+[-son,-cont] > ∅ / __ #
+[+nas,+cons] > ∅ / __ #
+
+$ R5B Addition of word-final [e] after [l]  $$PG: 53
+∅ > e / l __ #
+
+$ R5C Metathesis of word-final [r]  $$PG: 53-54
+∅ [+syl] ɾ > ɾ [+syl] ∅ / [+cons] __ #
+
+$ R6 Fronting of [w] to [β] (P10)  $$PG: 54-55
+w > β / {#;[-cons];[+ant];[+cor]} __ [+syl]
+
+$ R7 Fortition of syllable initial [y]: [y] > [dy]  $$PG: 55-56
+∅ > d / # __ j
+
+$ R8 Simplification of K[s]K, K[z]K clusters (P8)  $$PG: 56
+[-son] > ∅ / __ [+strid] [-son]
+
+$ R9 Deletion of [k]: [nkt] > [nt]  $$PG: 56
+k > ∅ / [+nas,+cons] __ t
+
+$ R10A Assimilation of [r] to [s] (sporadic) (P13A)  $$PG: 57
+ɾ > s / __ s
+
+$ R10B Assimilation of [p] to [s] (P13)  $$PG: 57
+p > s / __ s
+
+$ R10Ca Partial assimilation of velars (P12, P13)  $$PG: 58
+[+cons,-ant,-cor,αcont,αnas] > [+ant,+lab,-hi,-back] / [+syl,+prim] __ [+cons,+ant,+cor,βson,βnas]
+
+$ R10Cb Total assimilation of velars  $$PG: 59-60
+[+cons,-ant,-cor,αcont,αnas] > s / [+syl,-prim] __ s
+[+cons,-ant,-cor,αcont,αnas] > t / [+syl,-prim] __ t
+[+cons,-ant,-cor,αcont,αnas] > n / [+syl,-prim] __ n
+
+$ R11 Labialization of [kw] and [gw] before [a]: [kwa] > [pwa], [gwa] > [bwa]  $$PG: 60-61
+[-son,-ant,-cor] > [+ant,+lab,-hi,-back] / __ w [+syl,+lo]
+[+nas,+cons,-ant,-cor] > [+ant,+lab,-hi,-back] / __ [-son,+lab] w [+syl,+lo]
+
+$ R12 Prothesis: initial [s]C > [is]C (P14)  $$PG: 61-62
+∅ > i / # __ s [+cons,-son]
+
+$ R13A Lengthening of second vowel in vowel combinations and concomitant shift in stress (P15A)  $$PG: 62-63
+[+syl,-lo,-back,-long,+prim] [+syl,-hi,-lo] > [-stres,-prim] [+long,+stres,+prim]
+
+$ R13B Raising of [o] and [e] (P15B)  $$PG: 63
+{e;o} > {i;u} / __ [+syl]
+{e;o} > {i;u} / [+syl] __
+
+$ R13C Contraction of vowel combinations (P18B)  $$PG: 63
+[+syl,αhi,βlo,γback,δfront,εround,ζlong] > ∅ / [+syl,αhi,βlo,γback,δfront,εround,ζlong] __
+
+$ R13D Loss of syllabicity of high vowels (P15)  $$PG: 64
+{i;u} > {j;w} / __ [+syl]
+{i;u} > {j;w} / [+syl] __
+
+$ R13E Laxing of stressed [e] to [ɛ] (P15Da)  $$PG: 64-65
+[+syl,-long,-hi,-lo,+front,+prim] > [-tense]
+
+$ R13F Lengthening of word-final [-i(s)]  $$PG: 65
+[+syl,+hi,+front] > [+long] / __ ([+cons]) #
+
+$ R13G Lowering of [i]: stressed or unstressed [i] > [e] (P15Db)  $$PG: 66-67
+[+syl,-long,+hi,+front] > [-hi]
+
+$ R14 Apheresis: loss of unstressed initial [e] before [s] or [z] before a consonant  $$PG: 67
+e > ∅ / # __ [+cont,+ant,+cor,+strid] [+cons]
+
+$ R15 Contraction of vowels (P18Aab)  $$PG: 68
+[+syl,-long,+front,-lo] > ∅ / [+cons] __ [+syl,+long,+prim,+front,-lo]
+[+syl,-long,-front,+round] > ∅ / [+cons] __ [+syl,+long,+prim,-front,+round]
+
+$ R16 Loss of vowel length (P15F)  $$PG: 68-69
+[+syl,+long] > [-long]
+
+$ R17 Deletion of wau before a vowel (P22, T22)  $$PG: 69-70
+w > ∅ / __ [+syl]
+
+$ R18A Gemination of stop when after a vowel and before yod (P19)  $$PG: 70-71
+{p;b;t;d;k;ɡ} > {p p;b b;t t;d d;k k;ɡ ɡ} / [+syl] __ j
+
+$ R18B Affrication of alveolars: [d] > [d͡ʒ], [t] > [t͡ʃ] before yod (P20Aa)  $$PG: 71
+{t;d} > {t͡ʃ;d͡ʒ} / __ j
+
+$ R18C Affrication of velars: [ɡ] > [d͡ʒ], [k] > [t͡ʃ] before yod (P20Ab)  $$PG: 72
+{k;ɡ} > {t͡ʃ;d͡ʒ} / __ j
+
+$ R18D Absorption of yod after affricates (P20B)  $$PG: 72
+j > ∅ / [-son,-cont,+cor,+delrel] __
+
+$ R18E Assimilation of stops to affricates (P20C)  $$PG: 73
+[-son,-cont,-delrel] > t͡ʃ / __ t͡ʃ
+[-son,-cont,-delrel] > d͡ʒ / __ d͡ʒ
+
+$ R19 Depalatalization: [d͡ʒ], [t͡ʃ] > [d͡z], [t͡s] after a stressed vowel (P32)  $$PG: 73
+[-ant,+cor,+delrel] > [+ant,-distr,-front] / [+syl,+prim] ([+cons])* __
+
+$ R20 Attraction of glides (P23)  $$PG: 74
+∅ > j / [+syl,+prim] __ [+cons,+lab] ([+cons,+lab])* j
+j > ∅ / [+syl,+prim] j [+cons,+lab] ([+cons,+lab])* __
+
+$ R21 Spirantization of [b] (P25)  $$PG: 74
+b > β / [+syl] __
+
+$ R22A Word-initial [β] > [v]  $$PG: 74-75
+β > v / # __
+
+$ R22B Occlusivization of [β]: [β] becomes a stop after a consonant  $$PG: 75
+β > b / [+cons] __
+
+$ R22C [β] becomes the velar glide [w] before a resonant  $$PG: 76
+β > w / __ [+son,+cons]
+
+$ R22D Intervocalic [β] > [ɡ] in the presence of [u] (sporadically)  $$PG: 76-77
+β > ɡ / [+syl,+hi,+round] __ [+syl]
+β > ɡ / [+syl] __ [+syl,+hi,+round]
+
+$ R22E [β] > ∅ elsewhere  $$PG: 77
+β > ∅
+
+$ R23 Degemination of consonants except the alveolar resonants [ll], [nn] and [rr] (P28)  $$PG: 78-79
+[-son,+cons,αcont,βvoi,γant,δcor,εlab,ζhi,ηback,θstrid,ιfront] > ∅ / __ [-son,+cons,αcont,βvoi,γant,δcor,εlab,ζhi,ηback,θstrid,ιfront]
+[+son,+cons,-cor,αlab,βnas,γhi,δback] > ∅ / __ [+son,+cons,-cor,αlab,βnas,γhi,δback]
+
+$ R24 Affrication of velars: [k], [ɡ] > [t͡ʃ], [d͡ʒ] before a front vowel (P21)  $$PG: 79
+{k;ɡ} > {t͡ʃ;d͡ʒ} / __ [+syl,+front,-lo]
+
+$ R25A Development of final -s in monosyllabic words (T23)  $$PG: 79-80
+s > h / # ([-syl])* [+syl] __ #
+h > ç / # ([-syl])* [+syl] __ #
+ç > j / __ #
+
+$ R25B Loss of final [s] in polysyllabic words  $$PG: 81
+s > ∅ / __ #
+
+$ R25C Generalization of word-final [i] as grammatical marker  $$PG: 82 [COMMENT-ONLY]
+
+=Balkan Romance
+
+$ R26A [rr] > trill  $$PG: 86
+ɾ ɾ > r
+
+$ R26B Initial [r] > [rr]  $$PG: 86-87
+ɾ > r / # __
+
+$ R27A Tensing of [ɛ] before nasal + oral consonant  $$PG: 87-88
+[+syl,-tense] > [+tense] / __ [+nas,+cons] [+cons,-nas]
+
+$ R27B Diphthongization of [ɛ]: [ɛ] > [ye] (P36A)  $$PG: 88-89
+∅ [+syl,-tense] > j [+tense]
+
+$ R28 Unstressed [o] > [u]  $$PG: 89-90
+[+syl,+back,-hi,-lo,-stres] > [+hi]
+
+$ R29A Loss of stress in the postposed forms of éllu (definite article)  $$PG: 90-91 [COMMENT-ONLY]
+
+$ R29B Apheresis and enclisis of the forms of [ellu]  $$PG: 92 [COMMENT-ONLY]
+
+$ R30 Preyodization of initial [e]: [e] > [ye]  $$PG: 93-94
+∅ > j / # __ [+syl,-hi,-lo,+front,+tense]
+[+syl,-hi,-lo,+prim] > [-tense] / __ [+cons,-nas] ([-syl])* [+syl,-hi,-round]
+[+syl,-hi,-lo,+prim] > [-tense] / __ n [+cons] ([-syl])* [+syl,-hi,-round]
+[+syl,-hi,-lo,+prim] > [-tense] / __ m [+syl,-hi,-round]
+
+$ R31B Diphthongization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]  $$PG: 95-97
+{ˈɛ;ˈɔ} > {e̯ ˈa;o̯ ˈa}
+
+$ R32 Displacement of accent and loss of syllabicity: [éa] > [eá]  $$PG: 98
+ˈe a > e ˈa
+
+$ R33 Raising of [a] and [o] before a non-geminate nasal  $$PG: 98-99
+{a;ˌa;ˈa;o;ˌo;ˈo} > {ə;ˌə;ˈə;u;ˌu;ˈu} / __ [+nas,+cons] {[-nas];#}
+
+$ R34 Rhotacism: non-geminate [l] > [r] between vowels  $$PG: 99-100
+l > ɾ / [+syl] __ [+syl]
+
+$ R35A [ll] > [w] before unstressed [a]  $$PG: 100-101
+l l > w / __ a
+
+$ R35B Degemination of [ll]  $$PG: 101
+l l > l
+
+$ R36A Loss of secondary wau: [Vwa] > [Va] when neither vowel is stressed  $$PG: 101
+w > ∅ / [+syl,-stres] __ a
+
+$ R36B Feminine singular nominative/accusative definite article [a] > [+long]  $$PG: 102 [COMMENT-ONLY]
+
+$ R36C [úwa] > [úva]  $$PG: 102
+w > v / [+syl,+hi,+round] __ [+syl,+lo]
+
+$ R37A Raising of non-initial, non-geminate, unstressed [a]  $$PG: 102-103
+a > ə / [+cons] __ {#;[-syl];[+syl,-lo]}
+
+$ R37B Degemination of geminate vowels  $$PG: 103
+[+syl,-stres,αhi,βlo,γback,δfront,εround] > ∅ / [+syl,αhi,βlo,γback,δfront,εround] __
+[+syl,-stres,αhi,βlo,γback,δfront,εround] > ∅ / __ [+syl,αhi,βlo,γback,δfront,εround]
+
+$ R38 [ea] > [e̯a]: [e] becomes a glide before [a]  $$PG: 103-104
+e > e̯ / __ [+syl,+lo]
+
+$ R39 Lowering of unstressed internal [i]  $$PG: 104
+i > e / [+cons] __ [+cons]
+
+$ R40 Diphthongization of [i]: [i] > [yi]  $$PG: 104-105
+∅ > j / [+cons] __ [+syl,+hi,+front]
+
+$ R41A Palatalization of non-occlusive alveolars before yod: [l] > [ʎ], [n] > [ɲ], [s] > [ʃ]  $$PG: 105-106
+{l;n;s} > {ʎ;ɲ;ʃ} / __ j
+
+$ R41B Absorption of yod after a palatal segment  $$PG: 106
+j > ∅ / [+cons,-ant,+front] __
+
+$ R42A Affrication of alveolar stops before yod: [t] > [t͡s], [d] > [d͡z]  $$PG: 106-107
+{t;d} > {t͡s;d͡z} / __ j
+
+$ R42B Absorption of yod after an affricate  $$PG: 107-108
+j > ∅ / [+cons,+delrel] __
+
+$ R43 Palatalization of [l] after a velar consonant  $$PG: 108
+l > ʎ / [+cons,-son,-ant,-cor] __
+
+$ R44 Fronting of [ə] after [ʎ] and [ɲ]  $$PG: 108
+[+syl,-hi,-lo,-back,-front] > [+front,+tense] / {ʎ;ɲ} __
+
+$ R45A Assimilation: [s] > [ʃ] before [t͡ʃ]  $$PG: 109
+s > ʃ / __ [+delrel,-ant,+cor]
+
+$ R45B Dissimilation: [t͡ʃ] > [t] after [ʃ]  $$PG: 109
+{t͡ʃ;d͡ʒ} > {t;d} / ʃ __
+
+=Common Romanian
+
+$ R46A [e],[e̯] > [ə],[ə̯] after a labial and before a syllable containing a back vowel (V10)  $$PG: 112-113
+{e;ˌe;ˈe} > {ə;ˌə;ˈə} / [+cons,+ant,-cor] __ ([+cons])* {[+syl,-front];[+syl,+lo]}
+e̯ > ə̯ / [+cons,+ant,-cor] __ [+syl,+lo] ([+cons])* {[+syl,-front];[+syl,+lo]}
+
+$ R46B Loss of [ə̯] before [a]: [ə̯a] > [a]  $$PG: 113
+ə̯ > ∅ / __ [+syl,+lo]
+
+$ R47A Raising of [ə] before [n] or [m]CV (V59)  $$PG: 113
+{ə;ˌə;ˈə} > {ɨ;ˌɨ;ˈɨ} / __ {n;m [+cons] [+syl]}
+
+$ R47B Raising of [e] before [n] (V63)  $$PG: 114
+{e;ˌe;ˈe} > {i;ˌi;ˈi} / __ [+nas,+cons]
+
+$ R48 Degemination of [nn]: [nn] > [n]  $$PG: 114
+n n > n
+
+$ R49 Raising of [ə] before [r,s] plus consonant (Vasiliu 1968:63)  $$PG: 114-115
+{ə;ˌə;ˈə} > {ɨ;ˌɨ;ˈɨ} / __ {ɾ;s} [+cons]
+
+$ R50 Backing of front vowels after [rr] (V13)  $$PG: 115
+{e;ˌe;ˈe;i;ˌi;ˈi} > {ə;ˌə;ˈə;ɨ;ˌɨ;ˈɨ} / r __
+
+$ R51 Simplification of [rr] to [r]  $$PG: 115
+r > ɾ
+
+$ R52A Deaffrication of voiced alveolar affricate: [d͡z] > [z]  $$PG: 116
+d͡z > z
+
+$ R52B Deaffrication of voiced palatal affricate: [d͡ʒ] > [ʒ] before [o] or [u] (V47)  $$PG: 116
+d͡ʒ > ʒ / __ [+syl,+round]
+
+$ R53A Monophthongization of [e̯a] after [ʃ] or [t͡s] (sporadically)  $$PG: 117
+e̯ > ∅ / {ʃ;t͡s} __ [+syl,+lo]
+
+$ R53B Monophthongization of [e̯a] before a syllable containing [e] (V65)  $$PG: 117-118
+e̯ [+syl,+lo] > ∅ [-lo] / __ ([+cons])* [+syl,+front,-hi,-lo]
+
+$ R54 Delateralization of [ʎ] (V61, V64)  $$PG: 118
+ʎ > j
+
+$ R55 Denasalization of [ɲ] (V60)  $$PG: 119
+ɲ > j
+
+$ R56 Loss of yod before [i]  $$PG: 119
+j > ∅ / __ [+syl,+hi,+front]
+
+$ R57 [ye̯a] > [ya]  $$PG: 119-120
+e̯ > ∅ / j __ [+syl,+lo]
+
+$ R58 Assimilation: word-final [ə] > [e] after [i]  $$PG: 120
+ə > e / [+syl,+hi,+front] __ #
+
+$ R59A Devoicing of word-final [u] and [i] except after a consonant plus a liquid (V27a,b)  $$PG: 120-121
+{u;i} > {ʍ;j̥} / [-son] __ #
+{u;i} > {ʍ;j̥} / [+nas,+cons] __ #
+{u;i} > {ʍ;j̥} / [-syl,-cons] __ #
+{u;i} > {ʍ;j̥} / {#;[-cons]} [+cons,+son,-nas] __ #
+
+$ R59B Loss of word-final voiceless [w]  $$PG: 121
+ʍ > ∅
+
+$ R59C Word-final [ii] > [i]  $$PG: 121
+i i > i / __ #
+
+$ R60 Loss of final [l] of m sg definite article  $$PG: 121-122 [COMMENT-ONLY]
+
+$| Daco-Romanian

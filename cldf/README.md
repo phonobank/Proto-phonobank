@@ -24,7 +24,9 @@ And this is how I expect it will look after we add wordlists:
   1. `cldfbench phonobank.cascade <sourceid> -o <filename>`, e.g. `cldfbench phonobank.cascade pardess1990 -o pardess1990cascade.txt`
   
 - Validate a generated DiaSim cascade against its original, pre-CLDF imported form, line by line:
-  1. `cldfbench phonobank.check <sourceid>`, e.g. `cldfbench phonobank.check pardess1990`
+  1. `cldfbench phonobank.check <cascade_id>`, e.g. `cldfbench phonobank.check pardess1990`
+  
+- Cascade IDs can be found in cldf/cldf/cascades.csv, but should also (as of November 2026) be printed after calling makecldf (step 4 above).
   
 - Use DiaSim to validate a generated DiaSim cascade against a set of forms:
 

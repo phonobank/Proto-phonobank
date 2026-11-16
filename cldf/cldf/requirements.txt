@@ -4,8 +4,8 @@ bibtexparser==2.1.0
 certifi==2026.10.23
 cldfbench==2.0.1
 cldfcatalog==1.7.0
-cldfzenodo==3.1.0
-clldutils==4.0.0
+cldfzenodo==3.2.0
+clldutils==4.1.0
 colorlog==6.12.0
 csvw==4.2.0
 gitdb==4.0.12
@@ -21,7 +21,7 @@ newick==1.11.0
 platformdirs==4.14.5
 pluggy==1.7.0
 prettytable==3.18.0
-pycldf==2.1.1
+pycldf==2.2.0
 pycountry==26.2.16
 pyglottolog==4.0.1
 Pygments==2.21.0
@@ -32,7 +32,7 @@ rdflib==7.6.0
 referencing==0.37.0
 requests==2.34.2
 rfc3986==1.5.0
-simplepybtex==0.1.0
+simplepybtex==0.1.1
 smmap==5.0.3
 SQLAlchemy==1.4.54
 termcolor==3.3.0
