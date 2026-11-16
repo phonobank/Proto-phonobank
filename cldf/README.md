@@ -26,7 +26,8 @@ And this is how I expect it will look after we add wordlists:
 - Validate a generated DiaSim cascade against its original, pre-CLDF imported form, line by line:
   1. `cldfbench phonobank.check <cascade_id>`, e.g. `cldfbench phonobank.check pardess1990`
   
-- Cascade IDs can be found in cldf/cldf/cascades.csv, but should also (as of November 2026) be printed after calling makecldf (step 4 above).
+- - Cascade IDs can be found in cldf/cldf/cascades.csv, but should also (as of November 2026) be printed after calling makecldf (step 4 above). 
+- -  Note that cascade IDs indicate the cascade from an established to stage to the next established stage; multiple cascade IDs may belong to a single chain ID, which corresponds to a single cascade file that was extracted. Phonobank.check currently (November 2026) only works if operated on a chain ID, not a cascade ID. 
   
 - Use DiaSim to validate a generated DiaSim cascade against a set of forms:
 
