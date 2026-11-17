@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="cldfbench_phonobank",
-    py_modules=["cldfbench_phonobank", "phonobank_cfr"],
+    py_modules=["cldfbench_phonobank", "phonobank_cfr", "phonobank_lexicon"],
     packages=["phonobank_commands"],
     include_package_data=True,
     zip_safe=False,

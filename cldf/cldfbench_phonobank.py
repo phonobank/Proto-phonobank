@@ -35,6 +35,7 @@ from cldfbench import Dataset as BaseDataset
 
 from phonobank_cfr import MARKERS
 from phonobank_cfr import parse_cascade
+from phonobank_lexicon import parse_lexicon
 
 CLDF = "http://cldf.clld.org/v1.0/terms.rdf#"
 
@@ -139,6 +140,16 @@ class Dataset(BaseDataset):
     def schema(self, cldf):
         """Declare the tables, their columns and the links between them."""
         cldf.add_component("LanguageTable")
+        cldf.add_component("ParameterTable")    # concepts, one per gloss
+        cldf.add_component("FormTable")         # every form: protoforms and reflexes
+        cldf.add_component("CognatesetTable")   # etyma
+        cldf.add_component("CognateTable")      # links each form to its etymon
+
+        ## Default columns for above tables:
+        ## ParameterTable: ID, Name, Description
+        ## FormTable: ID, Language_ID, Parameter_ID and Form (all required), Segments, Comment, Source
+        ## CognatesetTable: ID, Description, Source
+        ## CognateTable: ID, Form_ID and Cognateset_ID (all required), Segment_Slice, Alignment, Source
 
         # A column given as a CLDF term URL gets that term's standard name and
         # meaning (ID, Name, Source); dicts define plain columns.
@@ -197,13 +208,14 @@ class Dataset(BaseDataset):
         cldf.add_foreign_key("cascade_rules.csv", "Cascade_ID", "cascades.csv", "ID")
         cldf.add_foreign_key("cascade_rules.csv", "Rule_ID", "rules.csv", "ID")
 
-
+        
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf)
 
         languages = read_languages(self.etc_dir)
         used_languages = set()
         chain_ids = set()
+        parameter_ids = set()
         rule_count = 0
 
         ## Step through each data source directory in raw/ and import the data
@@ -221,13 +233,18 @@ class Dataset(BaseDataset):
             header_re = getattr(extraction, "HEADER_RE", None)
             args.writer.cldf.add_sources(*self.raw_dir.read_bib(directory / "source.bib"))
 
+            ##
             ## Process each file in the data source dir
+            ##
             for filename in extraction.FILES:
                 path = directory / filename
 
                 stages, parsed = read_chain(path, extraction)
                 
                 language_ids = []
+
+                ## Verify that languages referred to in cascades/wordlists exist in
+                ## etc/languages.tsv
                 for _, name in stages:
                     if name not in extraction.LANGUAGES:
                         raise ValueError("{}: no LANGUAGES entry for {!r}".format(path, name))
@@ -341,6 +358,75 @@ class Dataset(BaseDataset):
                         chain_id,
                         headerless,
                     ))
+
+            ##
+            ## OK, now we process the lexicon files from the raw source dirs. Using
+            ## getattr won't choke if the file has it not
+            ##
+
+            for filename in getattr(extraction, "LEXICONS", {}): 
+                path = directory / filename
+                lines = path.read_text(encoding="utf-8").splitlines()
+                header, entries = parse_lexicon(lines)
+
+                ## We're enforcing the presence of a header naming the stages
+                if not header:
+                    raise ValueError("{}: no = header line with stages!".format(path))
+                
+                ## Make sure that the stages named in the header actually exist in
+                ## the data...
+                language_ids = []
+                for name in header:
+                    ## in the extraction itself...
+                    if name not in extraction.LANGUAGES:
+                        raise ValueError("{}: no LANGUAGES entry for {!r}".format(path, name))
+                    language_id = extraction.LANGUAGES[name]
+                    if language_id not in languages:
+                        raise ValueError("{!r} is not in etc/languages.csv".format(language_id))
+                    language_ids.append(language_id)
+                    used_languages.add(language_id)
+
+                ## Now add the data into the CLDF tables. Each entry is one etymon:
+                ## the forms on a line are its protoform and reflexes, so they share
+                ## one cognate set.
+                lexicon_id = make_id(source_key, path.stem)
+                for entry in entries:
+                    line, forms, gloss = entry["line"], entry["forms"], entry["gloss"]
+                    if not gloss:
+                        raise ValueError("{}: line {}: no gloss".format(path, line))
+
+                    parameter_id = make_id(gloss)
+                    if parameter_id not in parameter_ids:
+                        parameter_ids.add(parameter_id)
+                        args.writer.objects["ParameterTable"].append({
+                            "ID": parameter_id,
+                            "Name": gloss,
+                        })
+
+                    cognateset_id = make_id(lexicon_id, line)
+                    args.writer.objects["CognatesetTable"].append({
+                        "ID": cognateset_id,
+                        "Source": [source_key],
+                    })
+
+                    for index, (language_id, phones) in enumerate(zip(language_ids, forms)):
+                        if phones is None:
+                            continue
+                        form_id = make_id(cognateset_id, index + 1)
+                        args.writer.objects["FormTable"].append({
+                            "ID": form_id,
+                            "Language_ID": language_id,
+                            "Parameter_ID": parameter_id,
+                            "Form": "".join(phones),
+                            "Segments": phones,
+                            "Source": [source_key],
+                        })
+                        args.writer.objects["CognateTable"].append({
+                            "ID": form_id,
+                            "Form_ID": form_id,
+                            "Cognateset_ID": cognateset_id,
+                            "Source": [source_key],
+                        })                    
 
         args.log.info("{} chains, {} languages, {} rules in total".format(
             len(chain_ids),

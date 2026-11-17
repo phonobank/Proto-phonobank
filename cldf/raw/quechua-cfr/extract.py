@@ -23,7 +23,20 @@ LANGUAGES = {
     "Amazonas": "quechua-amazonas",
     "Ancash": "quechua-ancash",
     "Ayacucho": "quechua-ayacucho",
+    "Cajamarca": "quechua-cajamarca",
     "Cuzco": "quechua-cuzco",
     "Ecuador": "quechua-ecuador",
     "Junin": "quechua-junin",
 }
+
+# Lexicon files, in DiaSim format, to be processed by phonobank_lexicon.py
+LEXICONS = [
+    "amazonas-lex-cm.txt",
+    "ancash-lex-cm.txt",
+    "ayacucho-lex-cm.txt",
+    "cajamarca-lex-cm.txt",
+    "cuzco-lex-cm.txt",
+    "ecuador-lex-cm.txt",
+    "junin-lex-cm.txt",
+]
+    
