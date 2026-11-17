@@ -284,7 +284,7 @@ class Dataset(BaseDataset):
 
                 for step in range(len(cascade_ids)):
                     args.log.info("{}: {} > {}: {} rules".format(
-                        " " * len(chain_id) + ("" if cascade_id == chain_id else ID_DELIM + str(step+1)),
+                        " " * len(chain_id) + cascade_ids[step][len(chain_id):],
                         stages[step][1],
                         stages[step + 1][1],
                         position.get(step, 0),

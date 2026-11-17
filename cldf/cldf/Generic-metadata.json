@@ -11,14 +11,14 @@
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.4-2-g495064f2f2",
+            "dc:created": "v5.3-48-gf8f3ebd23c",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.12.3"
+            "dc:description": "3.14.10"
         },
         {
             "dc:title": "python-packages",
