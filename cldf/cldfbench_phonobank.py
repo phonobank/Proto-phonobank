@@ -5,9 +5,9 @@ Each source lives in its own directory under raw/:
     raw/<directory>/
         <cascade>.txt   one or more DiaSim cascade files (see phonobank_cfr.py)
         source.bib      the BibTeX entry for the source
-        cascade.py      what is specific to this source (see below)
+        extract.py      what is specific to this source (see below)
 
-cascade.py must define:
+extract.py must define:
     FILES       names of the cascade files in the same directory
     SOURCE      BibTeX cite key of the source (must match source.bib)
     LANGUAGES   dict: stage names used in the files -> IDs in etc/languages.csv
@@ -49,8 +49,8 @@ def make_id(*parts):
 
 
 def load_extraction(directory):
-    """Import raw/<directory>/cascade.py and check it defines what is required."""
-    path = directory / "cascade.py"
+    """Import raw/<directory>/extract.py and check it defines what is required."""
+    path = directory / "extract.py"
     spec = importlib.util.spec_from_file_location("cascade_" + directory.name, path)
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
@@ -64,10 +64,62 @@ def iter_extractions(raw_dir):
     """Yield (directory, cascade module) for each raw/<directory>/ with a cascade.py."""
     directories = sorted(
         path for path in pathlib.Path(raw_dir).iterdir()
-        if path.is_dir() and (path / "cascade.py").exists()
+        if path.is_dir() and (path / "extract.py").exists()
     )
     for directory in directories:
         yield directory, load_extraction(directory)
+
+
+def read_languages(etc_dir):
+    """Read the table of languages, which lives by default in etc/.
+
+    If any language in a cascade or wordlist does _not_ exist in this file,
+    the build will raise a ValueError and stop. This is to avoid data being
+    loaded which is not explicitly assigned to a language.
+    The format should be CSV, with ID, Name and Glottocode cols. ID and name
+    are required, Glottocode is not, as it's quite possible we might have
+    e.g. protolanguages from a source with no Glottocode assigned.
+    TODO Isaac - put this info in the README
+    """    
+    languages = {
+        row["ID"]: {
+            "ID": row["ID"],
+            "Name": row["Name"],
+            "Glottocode": row["Glottocode"] or None,
+        }
+        for row in etc_dir.read_csv("languages.csv", dicts=True)
+    }
+    return languages
+
+
+def read_chain(path, extraction):
+    """Read one cascade file of an extraction.
+
+    Returns (stages, parsed), as from parse_cascade, with any comment-only rules
+    from the extraction's comment_only() hook added at the end.
+    """
+    header_re = getattr(extraction, "HEADER_RE", None)
+    lines = path.read_text(encoding="utf-8").splitlines()
+    try:
+        stages, parsed = parse_cascade(lines, header_re)
+    except ValueError as error:
+        raise ValueError("{}: {}".format(path, error))
+
+    # Comment-only rules the extraction lists outside the headers.
+    if hasattr(extraction, "comment_only"):
+        for extra in extraction.comment_only(lines):
+            parsed.append(dict(
+                extra,
+                step=len(stages) - 2,
+                sub_index=None,
+                input=None,
+                output=None,
+                context=None,
+                comment_only=True,
+                listed=True,
+            ))
+
+    return stages, parsed
 
 
 class Dataset(BaseDataset):
@@ -78,7 +130,7 @@ class Dataset(BaseDataset):
         return CLDFSpec(
             dir=self.cldf_dir,
             module="Generic",
-            metadata_fname="Generic-metadata.json",
+            metadata_fname="cldf-metadata.json",
         )
 
     def cmd_download(self, args):
@@ -145,48 +197,36 @@ class Dataset(BaseDataset):
         cldf.add_foreign_key("cascade_rules.csv", "Cascade_ID", "cascades.csv", "ID")
         cldf.add_foreign_key("cascade_rules.csv", "Rule_ID", "rules.csv", "ID")
 
+
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf)
 
-        languages = {
-            row["ID"]: {
-                "ID": row["ID"],
-                "Name": row["Name"],
-                "Glottocode": row["Glottocode"] or None,
-            }
-            for row in self.etc_dir.read_csv("languages.csv", dicts=True)
-        }
+        languages = read_languages(self.etc_dir)
         used_languages = set()
         chain_ids = set()
         rule_count = 0
 
+        ## Step through each data source directory in raw/ and import the data
+        ## therein into the CLDF.
+        ## Each data source lives in its own directory in raw/, and should have:
+        ## - a source.bib file with aource information in bibtex format
+        ## - one or more DiaSim-format cascades as text files
+        ## - zero or more lexicon files in DiaSim format TODO format as a CLDF wordlist-
+        ## type TSV file?
+        ## - optionally an extraction.py Python source file, which is called by a hook
+        ## in this function to do custom, per-source processing.
+        ## TODO Isaac - transfer this info into README
         for directory, extraction in iter_extractions(self.raw_dir):
             source_key = extraction.SOURCE
             header_re = getattr(extraction, "HEADER_RE", None)
             args.writer.cldf.add_sources(*self.raw_dir.read_bib(directory / "source.bib"))
 
+            ## Process each file in the data source dir
             for filename in extraction.FILES:
                 path = directory / filename
-                lines = path.read_text(encoding="utf-8").splitlines()
-                try:
-                    stages, parsed = parse_cascade(lines, header_re)
-                except ValueError as error:
-                    raise ValueError("{}: {}".format(path, error))
 
-                # Comment-only rules the extraction lists outside the headers.
-                if hasattr(extraction, "comment_only"):
-                    for extra in extraction.comment_only(lines):
-                        parsed.append(dict(
-                            extra,
-                            step=len(stages) - 2,
-                            sub_index=None,
-                            input=None,
-                            output=None,
-                            context=None,
-                            comment_only=True,
-                            listed=True,
-                        ))
-
+                stages, parsed = read_chain(path, extraction)
+                
                 language_ids = []
                 for _, name in stages:
                     if name not in extraction.LANGUAGES:
