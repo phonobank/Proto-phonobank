@@ -364,6 +364,10 @@ class Dataset(BaseDataset):
             ## getattr won't choke if the file has it not
             ##
 
+            ## Store forms and etyma seen for cognate set assignment.
+            etyma = {}       # (first language, protoform, gloss) -> cognate set ID
+            forms_seen = {}  # form ID -> phones
+
             for filename in getattr(extraction, "LEXICONS", {}): 
                 path = directory / filename
                 lines = path.read_text(encoding="utf-8").splitlines()
@@ -403,16 +407,31 @@ class Dataset(BaseDataset):
                             "Name": gloss,
                         })
 
-                    cognateset_id = make_id(lexicon_id, line)
-                    args.writer.objects["CognatesetTable"].append({
-                        "ID": cognateset_id,
-                        "Source": [source_key],
-                    })
+                    protoform = tuple(forms[0]) if forms[0] is not None else None
+                    etymon = (language_ids[0], protoform, gloss)
+                    if etymon not in etyma:
+                        etyma[etymon] = make_id(source_key, "etymon", len(etyma) + 1)
+                        args.writer.objects["CognatesetTable"].append({
+                            "ID": etyma[etymon],
+                            "Description": gloss,
+                            "Source": [source_key],
+                        })
+                    cognateset_id = etyma[etymon]
 
-                    for index, (language_id, phones) in enumerate(zip(language_ids, forms)):
+                    for language_id, phones in zip(language_ids, forms):
                         if phones is None:
                             continue
-                        form_id = make_id(cognateset_id, index + 1)
+                        form_id = make_id(cognateset_id, language_id)
+                        if form_id in forms_seen:
+                            if forms_seen[form_id] != phones:
+                                raise ValueError("{}: line {}: {} differs from {}".format(
+                                    path,
+                                    line,
+                                    " ".join(phones),
+                                    " ".join(forms_seen[form_id]),
+                                ))
+                            continue
+                        forms_seen[form_id] = phones
                         args.writer.objects["FormTable"].append({
                             "ID": form_id,
                             "Language_ID": language_id,
@@ -426,7 +445,7 @@ class Dataset(BaseDataset):
                             "Form_ID": form_id,
                             "Cognateset_ID": cognateset_id,
                             "Source": [source_key],
-                        })                    
+                        })
 
         args.log.info("{} chains, {} languages, {} rules in total".format(
             len(chain_ids),

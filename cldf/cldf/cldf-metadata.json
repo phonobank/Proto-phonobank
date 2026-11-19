@@ -11,14 +11,14 @@
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.3-48-gf8f3ebd23c",
+            "dc:created": "v5.0-18-g113434830e",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.14.10"
+            "dc:description": "3.13.13"
         },
         {
             "dc:title": "python-packages",
@@ -141,7 +141,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 768,
+            "dc:extent": 440,
             "tableSchema": {
                 "columns": [
                     {
@@ -230,7 +230,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable",
-            "dc:extent": 384,
+            "dc:extent": 56,
             "tableSchema": {
                 "columns": [
                     {
@@ -264,7 +264,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 768,
+            "dc:extent": 440,
             "tableSchema": {
                 "columns": [
                     {

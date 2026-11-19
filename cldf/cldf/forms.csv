@@ -1,769 +1,441 @@
 ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source
-quechua_cm-amazonas-lex-cm-2-1,proto-quechuan,begin,paka,p a k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-2-2,quechua-amazonas,begin,paka,p a k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-3-1,proto-quechuan,wash,apa,a p a,,quechua_cm
-quechua_cm-amazonas-lex-cm-3-2,quechua-amazonas,wash,apa,a p a,,quechua_cm
-quechua_cm-amazonas-lex-cm-4-1,proto-quechuan,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-amazonas-lex-cm-4-2,quechua-amazonas,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-amazonas-lex-cm-5-1,proto-quechuan,plains,pampa,p a m p a,,quechua_cm
-quechua_cm-amazonas-lex-cm-5-2,quechua-amazonas,plains,pamba,p a m b a,,quechua_cm
-quechua_cm-amazonas-lex-cm-6-1,proto-quechuan,ask,tapu,t a p u,,quechua_cm
-quechua_cm-amazonas-lex-cm-6-2,quechua-amazonas,ask,tapu,t a p u,,quechua_cm
-quechua_cm-amazonas-lex-cm-7-1,proto-quechuan,tie,wata,w a t a,,quechua_cm
-quechua_cm-amazonas-lex-cm-7-2,quechua-amazonas,tie,wata,w a t a,,quechua_cm
-quechua_cm-amazonas-lex-cm-8-1,proto-quechuan,cotton,utka,u t k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-8-2,quechua-amazonas,cotton,utka,u t k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-9-1,proto-quechuan,sun,inti,i n t i,,quechua_cm
-quechua_cm-amazonas-lex-cm-9-2,quechua-amazonas,sun,indi,i n d i,,quechua_cm
-quechua_cm-amazonas-lex-cm-10-1,proto-quechuan,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-amazonas-lex-cm-10-2,quechua-amazonas,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-amazonas-lex-cm-11-1,proto-quechuan,red,puka,p u k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-11-2,quechua-amazonas,red,puka,p u k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-12-1,proto-quechuan,be_full__fed_up,saksa,s a k s a,,quechua_cm
-quechua_cm-amazonas-lex-cm-12-2,quechua-amazonas,be_full__fed_up,saχsa,s a χ s a,,quechua_cm
-quechua_cm-amazonas-lex-cm-13-1,proto-quechuan,neck,kuŋka,k u ŋ k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-13-2,quechua-amazonas,neck,kuŋɡa,k u ŋ ɡ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-14-1,proto-quechuan,you__sg__,qam,q a m,,quechua_cm
-quechua_cm-amazonas-lex-cm-14-2,quechua-amazonas,you__sg__,kam,k a m,,quechua_cm
-quechua_cm-amazonas-lex-cm-15-1,proto-quechuan,husband,qusa,q u s a,,quechua_cm
-quechua_cm-amazonas-lex-cm-15-2,quechua-amazonas,husband,kusa,k u s a,,quechua_cm
-quechua_cm-amazonas-lex-cm-16-1,proto-quechuan,cry,waqa,w a q a,,quechua_cm
-quechua_cm-amazonas-lex-cm-16-2,quechua-amazonas,cry,waka,w a k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-17-1,proto-quechuan,six,suqta,s u q t a,,quechua_cm
-quechua_cm-amazonas-lex-cm-17-2,quechua-amazonas,six,sukta,s u k t a,,quechua_cm
-quechua_cm-amazonas-lex-cm-18-1,proto-quechuan,nose,siŋqa,s i ŋ q a,,quechua_cm
-quechua_cm-amazonas-lex-cm-18-2,quechua-amazonas,nose,siŋɡa,s i ŋ ɡ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-19-1,proto-quechuan,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-amazonas-lex-cm-19-2,quechua-amazonas,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-amazonas-lex-cm-20-1,proto-quechuan,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-20-2,quechua-amazonas,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-21-1,proto-quechuan,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-21-2,quechua-amazonas,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-22-1,proto-quechuan,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-22-2,quechua-amazonas,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-23-1,proto-quechuan,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-23-2,quechua-amazonas,meat,eːt͡ʃa,eː t͡ʃ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-24-1,proto-quechuan,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
-quechua_cm-amazonas-lex-cm-24-2,quechua-amazonas,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
-quechua_cm-amazonas-lex-cm-25-1,proto-quechuan,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-25-2,quechua-amazonas,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-26-1,proto-quechuan,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
-quechua_cm-amazonas-lex-cm-26-2,quechua-amazonas,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
-quechua_cm-amazonas-lex-cm-27-1,proto-quechuan,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
-quechua_cm-amazonas-lex-cm-27-2,quechua-amazonas,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
-quechua_cm-amazonas-lex-cm-28-1,proto-quechuan,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-amazonas-lex-cm-28-2,quechua-amazonas,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-amazonas-lex-cm-29-1,proto-quechuan,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-amazonas-lex-cm-29-2,quechua-amazonas,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-amazonas-lex-cm-30-1,proto-quechuan,ice,qasa,q a s a,,quechua_cm
-quechua_cm-amazonas-lex-cm-30-2,quechua-amazonas,ice,kasa,k a s a,,quechua_cm
-quechua_cm-amazonas-lex-cm-31-1,proto-quechuan,nine,isquŋ,i s q u ŋ,,quechua_cm
-quechua_cm-amazonas-lex-cm-31-2,quechua-amazonas,nine,iʃkuŋ,i ʃ k u ŋ,,quechua_cm
-quechua_cm-amazonas-lex-cm-32-1,proto-quechuan,pull,ɑjsa,ɑ j s a,,quechua_cm
-quechua_cm-amazonas-lex-cm-32-2,quechua-amazonas,pull,eːsa,eː s a,,quechua_cm
-quechua_cm-amazonas-lex-cm-33-1,proto-quechuan,feather,ʃulʲka,ʃ u lʲ k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-33-2,quechua-amazonas,feather,ʃud͡ʒka,ʃ u d͡ʒ k a,,quechua_cm
-quechua_cm-amazonas-lex-cm-34-1,proto-quechuan,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-34-2,quechua-amazonas,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-35-1,proto-quechuan,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
-quechua_cm-amazonas-lex-cm-35-2,quechua-amazonas,two,iʃkeː,i ʃ k eː,,quechua_cm
-quechua_cm-amazonas-lex-cm-36-1,proto-quechuan,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-amazonas-lex-cm-36-2,quechua-amazonas,big,atuŋ,a t u ŋ,,quechua_cm
-quechua_cm-amazonas-lex-cm-37-1,proto-quechuan,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-37-2,quechua-amazonas,fault,ut͡ʃa,u t͡ʃ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-38-1,proto-quechuan,sweat,humpi,h u m p i,,quechua_cm
-quechua_cm-amazonas-lex-cm-38-2,quechua-amazonas,sweat,umbi,u m b i,,quechua_cm
-quechua_cm-amazonas-lex-cm-39-1,proto-quechuan,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
-quechua_cm-amazonas-lex-cm-39-2,quechua-amazonas,pain__trouble,d͡ʒaki,d͡ʒ a k i,,quechua_cm
-quechua_cm-amazonas-lex-cm-40-1,proto-quechuan,moon,kilʲa,k i lʲ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-40-2,quechua-amazonas,moon,kid͡ʒa,k i d͡ʒ a,,quechua_cm
-quechua_cm-amazonas-lex-cm-41-1,proto-quechuan,land,alʲpa,a lʲ p a,,quechua_cm
-quechua_cm-amazonas-lex-cm-41-2,quechua-amazonas,land,ad͡ʒpa,a d͡ʒ p a,,quechua_cm
-quechua_cm-amazonas-lex-cm-42-1,proto-quechuan,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
-quechua_cm-amazonas-lex-cm-42-2,quechua-amazonas,family,eːd͡ʒu,eː d͡ʒ u,,quechua_cm
-quechua_cm-amazonas-lex-cm-43-1,proto-quechuan,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-amazonas-lex-cm-43-2,quechua-amazonas,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-amazonas-lex-cm-44-1,proto-quechuan,far,karu,k a r u,,quechua_cm
-quechua_cm-amazonas-lex-cm-44-2,quechua-amazonas,far,karu,k a r u,,quechua_cm
-quechua_cm-amazonas-lex-cm-45-1,proto-quechuan,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-amazonas-lex-cm-45-2,quechua-amazonas,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-amazonas-lex-cm-46-1,proto-quechuan,horn,waqra,w a q r a,,quechua_cm
-quechua_cm-amazonas-lex-cm-46-2,quechua-amazonas,horn,wakra,w a k r a,,quechua_cm
-quechua_cm-amazonas-lex-cm-47-1,proto-quechuan,fire,nina,n i n a,,quechua_cm
-quechua_cm-amazonas-lex-cm-47-2,quechua-amazonas,fire,nina,n i n a,,quechua_cm
-quechua_cm-amazonas-lex-cm-48-1,proto-quechuan,black,jana,j a n a,,quechua_cm
-quechua_cm-amazonas-lex-cm-48-2,quechua-amazonas,black,jana,j a n a,,quechua_cm
-quechua_cm-amazonas-lex-cm-49-1,proto-quechuan,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-amazonas-lex-cm-49-2,quechua-amazonas,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-amazonas-lex-cm-50-1,proto-quechuan,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-amazonas-lex-cm-50-2,quechua-amazonas,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-amazonas-lex-cm-51-1,proto-quechuan,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-amazonas-lex-cm-51-2,quechua-amazonas,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-amazonas-lex-cm-52-1,proto-quechuan,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-amazonas-lex-cm-52-2,quechua-amazonas,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-amazonas-lex-cm-53-1,proto-quechuan,behind,qipa,q i p a,,quechua_cm
-quechua_cm-amazonas-lex-cm-53-2,quechua-amazonas,behind,kipa,k i p a,,quechua_cm
-quechua_cm-amazonas-lex-cm-54-1,proto-quechuan,tear__drop_,wiqi,w i q i,,quechua_cm
-quechua_cm-amazonas-lex-cm-54-2,quechua-amazonas,tear__drop_,wiki,w i k i,,quechua_cm
-quechua_cm-amazonas-lex-cm-55-1,proto-quechuan,to_escape,qiʃpi,q i ʃ p i,,quechua_cm
-quechua_cm-amazonas-lex-cm-55-2,quechua-amazonas,to_escape,kiʃpi,k i ʃ p i,,quechua_cm
-quechua_cm-amazonas-lex-cm-56-1,proto-quechuan,to_forget,quŋqa,q u ŋ q a,,quechua_cm
-quechua_cm-amazonas-lex-cm-56-2,quechua-amazonas,to_forget,kuŋɡa,k u ŋ ɡ a,,quechua_cm
-quechua_cm-ancash-lex-cm-2-1,proto-quechuan,begin,paka,p a k a,,quechua_cm
-quechua_cm-ancash-lex-cm-2-2,quechua-ancash,begin,paka,p a k a,,quechua_cm
-quechua_cm-ancash-lex-cm-3-1,proto-quechuan,wash,apa,a p a,,quechua_cm
-quechua_cm-ancash-lex-cm-3-2,quechua-ancash,wash,apa,a p a,,quechua_cm
-quechua_cm-ancash-lex-cm-4-1,proto-quechuan,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-ancash-lex-cm-4-2,quechua-ancash,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-ancash-lex-cm-5-1,proto-quechuan,plains,pampa,p a m p a,,quechua_cm
-quechua_cm-ancash-lex-cm-5-2,quechua-ancash,plains,pampa,p a m p a,,quechua_cm
-quechua_cm-ancash-lex-cm-6-1,proto-quechuan,ask,tapu,t a p u,,quechua_cm
-quechua_cm-ancash-lex-cm-6-2,quechua-ancash,ask,tapu,t a p u,,quechua_cm
-quechua_cm-ancash-lex-cm-7-1,proto-quechuan,tie,wata,w a t a,,quechua_cm
-quechua_cm-ancash-lex-cm-7-2,quechua-ancash,tie,wata,w a t a,,quechua_cm
-quechua_cm-ancash-lex-cm-8-1,proto-quechuan,cotton,utka,u t k a,,quechua_cm
-quechua_cm-ancash-lex-cm-8-2,quechua-ancash,cotton,utka,u t k a,,quechua_cm
-quechua_cm-ancash-lex-cm-9-1,proto-quechuan,sun,inti,i n t i,,quechua_cm
-quechua_cm-ancash-lex-cm-9-2,quechua-ancash,sun,inti,i n t i,,quechua_cm
-quechua_cm-ancash-lex-cm-10-1,proto-quechuan,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-ancash-lex-cm-10-2,quechua-ancash,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-ancash-lex-cm-11-1,proto-quechuan,red,puka,p u k a,,quechua_cm
-quechua_cm-ancash-lex-cm-11-2,quechua-ancash,red,puka,p u k a,,quechua_cm
-quechua_cm-ancash-lex-cm-12-1,proto-quechuan,be_full__fed_up,saksa,s a k s a,,quechua_cm
-quechua_cm-ancash-lex-cm-12-2,quechua-ancash,be_full__fed_up,haksa,h a k s a,,quechua_cm
-quechua_cm-ancash-lex-cm-13-1,proto-quechuan,neck,kuŋka,k u ŋ k a,,quechua_cm
-quechua_cm-ancash-lex-cm-13-2,quechua-ancash,neck,kuŋka,k u ŋ k a,,quechua_cm
-quechua_cm-ancash-lex-cm-14-1,proto-quechuan,you__sg__,qam,q a m,,quechua_cm
-quechua_cm-ancash-lex-cm-14-2,quechua-ancash,you__sg__,qam,q a m,,quechua_cm
-quechua_cm-ancash-lex-cm-15-1,proto-quechuan,husband,qusa,q u s a,,quechua_cm
-quechua_cm-ancash-lex-cm-15-2,quechua-ancash,husband,qoha,q o h a,,quechua_cm
-quechua_cm-ancash-lex-cm-16-1,proto-quechuan,cry,waqa,w a q a,,quechua_cm
-quechua_cm-ancash-lex-cm-16-2,quechua-ancash,cry,waɢa,w a ɢ a,,quechua_cm
-quechua_cm-ancash-lex-cm-17-1,proto-quechuan,six,suqta,s u q t a,,quechua_cm
-quechua_cm-ancash-lex-cm-17-2,quechua-ancash,six,hoχta,h o χ t a,,quechua_cm
-quechua_cm-ancash-lex-cm-18-1,proto-quechuan,nose,siŋqa,s i ŋ q a,,quechua_cm
-quechua_cm-ancash-lex-cm-18-2,quechua-ancash,nose,heɴɢa,h e ɴ ɢ a,,quechua_cm
-quechua_cm-ancash-lex-cm-19-1,proto-quechuan,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-ancash-lex-cm-19-2,quechua-ancash,dry,t͡saki,t͡s a k i,,quechua_cm
-quechua_cm-ancash-lex-cm-20-1,proto-quechuan,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-ancash-lex-cm-20-2,quechua-ancash,kiss,mut͡sa,m u t͡s a,,quechua_cm
-quechua_cm-ancash-lex-cm-21-1,proto-quechuan,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-ancash-lex-cm-21-2,quechua-ancash,fear__be_afraid,mant͡sa,m a n t͡s a,,quechua_cm
-quechua_cm-ancash-lex-cm-22-1,proto-quechuan,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
-quechua_cm-ancash-lex-cm-22-2,quechua-ancash,to_thread,put͡ska,p u t͡s k a,,quechua_cm
-quechua_cm-ancash-lex-cm-23-1,proto-quechuan,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-ancash-lex-cm-23-2,quechua-ancash,meat,eːt͡sa,eː t͡s a,,quechua_cm
-quechua_cm-ancash-lex-cm-24-1,proto-quechuan,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
-quechua_cm-ancash-lex-cm-24-2,quechua-ancash,foot,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-ancash-lex-cm-25-1,proto-quechuan,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
-quechua_cm-ancash-lex-cm-25-2,quechua-ancash,send,kat͡ʃa,k a t͡ʃ a,,quechua_cm
-quechua_cm-ancash-lex-cm-26-1,proto-quechuan,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
-quechua_cm-ancash-lex-cm-26-2,quechua-ancash,ashes,ut͡ʃpa,u t͡ʃ p a,,quechua_cm
-quechua_cm-ancash-lex-cm-27-1,proto-quechuan,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
-quechua_cm-ancash-lex-cm-27-2,quechua-ancash,narrow,kit͡ʃki,k i t͡ʃ k i,,quechua_cm
-quechua_cm-ancash-lex-cm-28-1,proto-quechuan,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-ancash-lex-cm-28-2,quechua-ancash,to_step_on,haru,h a r u,,quechua_cm
-quechua_cm-ancash-lex-cm-29-1,proto-quechuan,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-ancash-lex-cm-29-2,quechua-ancash,maize__corn,hara,h a r a,,quechua_cm
-quechua_cm-ancash-lex-cm-30-1,proto-quechuan,ice,qasa,q a s a,,quechua_cm
-quechua_cm-ancash-lex-cm-30-2,quechua-ancash,ice,qaha,q a h a,,quechua_cm
-quechua_cm-ancash-lex-cm-31-1,proto-quechuan,nine,isquŋ,i s q u ŋ,,quechua_cm
-quechua_cm-ancash-lex-cm-31-2,quechua-ancash,nine,isqoŋ,i s q o ŋ,,quechua_cm
-quechua_cm-ancash-lex-cm-32-1,proto-quechuan,feather,ʃulʲka,ʃ u lʲ k a,,quechua_cm
-quechua_cm-ancash-lex-cm-32-2,quechua-ancash,feather,ʃulʲka,ʃ u lʲ k a,,quechua_cm
-quechua_cm-ancash-lex-cm-33-1,proto-quechuan,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-ancash-lex-cm-33-2,quechua-ancash,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-ancash-lex-cm-34-1,proto-quechuan,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
-quechua_cm-ancash-lex-cm-34-2,quechua-ancash,two,iʃkeː,i ʃ k eː,,quechua_cm
-quechua_cm-ancash-lex-cm-35-1,proto-quechuan,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-ancash-lex-cm-35-2,quechua-ancash,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-ancash-lex-cm-36-1,proto-quechuan,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
-quechua_cm-ancash-lex-cm-36-2,quechua-ancash,fault,hut͡sa,h u t͡s a,,quechua_cm
-quechua_cm-ancash-lex-cm-37-1,proto-quechuan,sweat,humpi,h u m p i,,quechua_cm
-quechua_cm-ancash-lex-cm-37-2,quechua-ancash,sweat,humpi,h u m p i,,quechua_cm
-quechua_cm-ancash-lex-cm-38-1,proto-quechuan,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
-quechua_cm-ancash-lex-cm-38-2,quechua-ancash,pain__trouble,laki,l a k i,,quechua_cm
-quechua_cm-ancash-lex-cm-39-1,proto-quechuan,moon,kilʲa,k i lʲ a,,quechua_cm
-quechua_cm-ancash-lex-cm-39-2,quechua-ancash,moon,kila,k i l a,,quechua_cm
-quechua_cm-ancash-lex-cm-40-1,proto-quechuan,land,alʲpa,a lʲ p a,,quechua_cm
-quechua_cm-ancash-lex-cm-40-2,quechua-ancash,land,alba,a l b a,,quechua_cm
-quechua_cm-ancash-lex-cm-41-1,proto-quechuan,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
-quechua_cm-ancash-lex-cm-41-2,quechua-ancash,family,ɑjlu,ɑ j l u,,quechua_cm
-quechua_cm-ancash-lex-cm-42-1,proto-quechuan,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-ancash-lex-cm-42-2,quechua-ancash,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-ancash-lex-cm-43-1,proto-quechuan,far,karu,k a r u,,quechua_cm
-quechua_cm-ancash-lex-cm-43-2,quechua-ancash,far,karu,k a r u,,quechua_cm
-quechua_cm-ancash-lex-cm-44-1,proto-quechuan,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-ancash-lex-cm-44-2,quechua-ancash,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-ancash-lex-cm-45-1,proto-quechuan,horn,waqra,w a q r a,,quechua_cm
-quechua_cm-ancash-lex-cm-45-2,quechua-ancash,horn,waχra,w a χ r a,,quechua_cm
-quechua_cm-ancash-lex-cm-46-1,proto-quechuan,fire,nina,n i n a,,quechua_cm
-quechua_cm-ancash-lex-cm-46-2,quechua-ancash,fire,nina,n i n a,,quechua_cm
-quechua_cm-ancash-lex-cm-47-1,proto-quechuan,black,jana,j a n a,,quechua_cm
-quechua_cm-ancash-lex-cm-47-2,quechua-ancash,black,jana,j a n a,,quechua_cm
-quechua_cm-ancash-lex-cm-48-1,proto-quechuan,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-ancash-lex-cm-48-2,quechua-ancash,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-ancash-lex-cm-49-1,proto-quechuan,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-ancash-lex-cm-49-2,quechua-ancash,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-ancash-lex-cm-50-1,proto-quechuan,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-ancash-lex-cm-50-2,quechua-ancash,eye,nawi,n a w i,,quechua_cm
-quechua_cm-ancash-lex-cm-51-1,proto-quechuan,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-ancash-lex-cm-51-2,quechua-ancash,to_die,wanu,w a n u,,quechua_cm
-quechua_cm-ancash-lex-cm-52-1,proto-quechuan,behind,qipa,q i p a,,quechua_cm
-quechua_cm-ancash-lex-cm-52-2,quechua-ancash,behind,qepa,q e p a,,quechua_cm
-quechua_cm-ancash-lex-cm-53-1,proto-quechuan,tear__drop_,wiqi,w i q i,,quechua_cm
-quechua_cm-ancash-lex-cm-53-2,quechua-ancash,tear__drop_,weɢe,w e ɢ e,,quechua_cm
-quechua_cm-ancash-lex-cm-54-1,proto-quechuan,to_escape,qiʃpi,q i ʃ p i,,quechua_cm
-quechua_cm-ancash-lex-cm-54-2,quechua-ancash,to_escape,qeʃpi,q e ʃ p i,,quechua_cm
-quechua_cm-ancash-lex-cm-55-1,proto-quechuan,to_give,qu,q u,,quechua_cm
-quechua_cm-ancash-lex-cm-55-2,quechua-ancash,to_give,qo,q o,,quechua_cm
-quechua_cm-ancash-lex-cm-56-1,proto-quechuan,to_forget,quŋqa,q u ŋ q a,,quechua_cm
-quechua_cm-ancash-lex-cm-56-2,quechua-ancash,to_forget,qoɴɢa,q o ɴ ɢ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-2-1,proto-quechuan,begin,paka,p a k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-2-2,quechua-ayacucho,begin,paka,p a k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-3-1,proto-quechuan,wash,apa,a p a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-3-2,quechua-ayacucho,wash,apa,a p a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-4-1,proto-quechuan,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-4-2,quechua-ayacucho,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-5-1,proto-quechuan,plains,pampa,p a m p a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-5-2,quechua-ayacucho,plains,pampa,p a m p a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-6-1,proto-quechuan,ask,tapu,t a p u,,quechua_cm
-quechua_cm-ayacucho-lex-cm-6-2,quechua-ayacucho,ask,tapu,t a p u,,quechua_cm
-quechua_cm-ayacucho-lex-cm-7-1,proto-quechuan,tie,wata,w a t a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-7-2,quechua-ayacucho,tie,wata,w a t a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-8-1,proto-quechuan,cotton,utka,u t k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-8-2,quechua-ayacucho,cotton,utka,u t k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-9-1,proto-quechuan,sun,inti,i n t i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-9-2,quechua-ayacucho,sun,inti,i n t i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-10-1,proto-quechuan,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-10-2,quechua-ayacucho,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-11-1,proto-quechuan,red,puka,p u k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-11-2,quechua-ayacucho,red,puka,p u k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-12-1,proto-quechuan,be_full__fed_up,saksa,s a k s a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-12-2,quechua-ayacucho,be_full__fed_up,saksa,s a k s a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-13-1,proto-quechuan,neck,kuŋka,k u ŋ k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-13-2,quechua-ayacucho,neck,kuŋka,k u ŋ k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-14-1,proto-quechuan,you__sg__,qam,q a m,,quechua_cm
-quechua_cm-ayacucho-lex-cm-14-2,quechua-ayacucho,you__sg__,χam,χ a m,,quechua_cm
-quechua_cm-ayacucho-lex-cm-15-1,proto-quechuan,husband,qusa,q u s a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-15-2,quechua-ayacucho,husband,χosa,χ o s a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-16-1,proto-quechuan,cry,waqa,w a q a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-16-2,quechua-ayacucho,cry,waχa,w a χ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-17-1,proto-quechuan,six,suqta,s u q t a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-17-2,quechua-ayacucho,six,soχta,s o χ t a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-18-1,proto-quechuan,nose,siŋqa,s i ŋ q a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-18-2,quechua-ayacucho,nose,seɴχa,s e ɴ χ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-19-1,proto-quechuan,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-19-2,quechua-ayacucho,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-20-1,proto-quechuan,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-20-2,quechua-ayacucho,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-21-1,proto-quechuan,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-21-2,quechua-ayacucho,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-22-1,proto-quechuan,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-22-2,quechua-ayacucho,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-23-1,proto-quechuan,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-23-2,quechua-ayacucho,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-24-1,proto-quechuan,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-24-2,quechua-ayacucho,foot,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-25-1,proto-quechuan,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-25-2,quechua-ayacucho,send,kat͡ʃa,k a t͡ʃ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-26-1,proto-quechuan,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-26-2,quechua-ayacucho,ashes,ut͡ʃpa,u t͡ʃ p a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-27-1,proto-quechuan,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-27-2,quechua-ayacucho,narrow,kit͡ʃki,k i t͡ʃ k i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-28-1,proto-quechuan,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-ayacucho-lex-cm-28-2,quechua-ayacucho,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-ayacucho-lex-cm-29-1,proto-quechuan,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-29-2,quechua-ayacucho,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-30-1,proto-quechuan,ice,qasa,q a s a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-30-2,quechua-ayacucho,ice,χasa,χ a s a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-31-1,proto-quechuan,nine,isquŋ,i s q u ŋ,,quechua_cm
-quechua_cm-ayacucho-lex-cm-31-2,quechua-ayacucho,nine,isχoŋ,i s χ o ŋ,,quechua_cm
-quechua_cm-ayacucho-lex-cm-32-1,proto-quechuan,pull,ɑjsa,ɑ j s a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-32-2,quechua-ayacucho,pull,ɑjsa,ɑ j s a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-33-1,proto-quechuan,feather,ʃulʲka,ʃ u lʲ k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-33-2,quechua-ayacucho,feather,sulʲka,s u lʲ k a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-34-1,proto-quechuan,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-34-2,quechua-ayacucho,behind,wasa,w a s a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-35-1,proto-quechuan,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
-quechua_cm-ayacucho-lex-cm-35-2,quechua-ayacucho,two,iskɑj,i s k ɑ j,,quechua_cm
-quechua_cm-ayacucho-lex-cm-36-1,proto-quechuan,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-ayacucho-lex-cm-36-2,quechua-ayacucho,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-ayacucho-lex-cm-37-1,proto-quechuan,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-37-2,quechua-ayacucho,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-38-1,proto-quechuan,sweat,humpi,h u m p i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-38-2,quechua-ayacucho,sweat,humpi,h u m p i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-39-1,proto-quechuan,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-39-2,quechua-ayacucho,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-40-1,proto-quechuan,moon,kilʲa,k i lʲ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-40-2,quechua-ayacucho,moon,kilʲa,k i lʲ a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-41-1,proto-quechuan,land,alʲpa,a lʲ p a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-41-2,quechua-ayacucho,land,alʲpa,a lʲ p a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-42-1,proto-quechuan,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
-quechua_cm-ayacucho-lex-cm-42-2,quechua-ayacucho,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
-quechua_cm-ayacucho-lex-cm-43-1,proto-quechuan,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-43-2,quechua-ayacucho,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-44-1,proto-quechuan,far,karu,k a r u,,quechua_cm
-quechua_cm-ayacucho-lex-cm-44-2,quechua-ayacucho,far,karu,k a r u,,quechua_cm
-quechua_cm-ayacucho-lex-cm-45-1,proto-quechuan,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-45-2,quechua-ayacucho,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-46-1,proto-quechuan,horn,waqra,w a q r a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-46-2,quechua-ayacucho,horn,waχra,w a χ r a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-47-1,proto-quechuan,fire,nina,n i n a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-47-2,quechua-ayacucho,fire,nina,n i n a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-48-1,proto-quechuan,black,jana,j a n a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-48-2,quechua-ayacucho,black,jana,j a n a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-49-1,proto-quechuan,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-49-2,quechua-ayacucho,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-50-1,proto-quechuan,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-50-2,quechua-ayacucho,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-51-1,proto-quechuan,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-51-2,quechua-ayacucho,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-52-1,proto-quechuan,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-ayacucho-lex-cm-52-2,quechua-ayacucho,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-ayacucho-lex-cm-53-1,proto-quechuan,behind,qipa,q i p a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-53-2,quechua-ayacucho,behind,χepa,χ e p a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-54-1,proto-quechuan,tear__drop_,wiqi,w i q i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-54-2,quechua-ayacucho,tear__drop_,weχe,w e χ e,,quechua_cm
-quechua_cm-ayacucho-lex-cm-55-1,proto-quechuan,to_escape,qiʃpi,q i ʃ p i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-55-2,quechua-ayacucho,to_escape,χespi,χ e s p i,,quechua_cm
-quechua_cm-ayacucho-lex-cm-56-1,proto-quechuan,to_give,qu,q u,,quechua_cm
-quechua_cm-ayacucho-lex-cm-56-2,quechua-ayacucho,to_give,χo,χ o,,quechua_cm
-quechua_cm-ayacucho-lex-cm-57-1,proto-quechuan,to_forget,quŋqa,q u ŋ q a,,quechua_cm
-quechua_cm-ayacucho-lex-cm-57-2,quechua-ayacucho,to_forget,χoɴχa,χ o ɴ χ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-2-1,proto-quechuan,begin,paka,p a k a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-2-2,quechua-cajamarca,begin,paka,p a k a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-3-1,proto-quechuan,wash,apa,a p a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-3-2,quechua-cajamarca,wash,apa,a p a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-4-1,proto-quechuan,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-4-2,quechua-cajamarca,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-5-1,proto-quechuan,plains,pampa,p a m p a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-5-2,quechua-cajamarca,plains,pamba,p a m b a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-6-1,proto-quechuan,ask,tapu,t a p u,,quechua_cm
-quechua_cm-cajamarca-lex-cm-6-2,quechua-cajamarca,ask,tapu,t a p u,,quechua_cm
-quechua_cm-cajamarca-lex-cm-7-1,proto-quechuan,tie,wata,w a t a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-7-2,quechua-cajamarca,tie,wata,w a t a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-8-1,proto-quechuan,cotton,utka,u t k a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-8-2,quechua-cajamarca,cotton,utka,u t k a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-9-1,proto-quechuan,sun,inti,i n t i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-9-2,quechua-cajamarca,sun,indi,i n d i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-10-1,proto-quechuan,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-10-2,quechua-cajamarca,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-11-1,proto-quechuan,be_full__fed_up,saksa,s a k s a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-11-2,quechua-cajamarca,be_full__fed_up,saksa,s a k s a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-12-1,proto-quechuan,neck,kuŋka,k u ŋ k a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-12-2,quechua-cajamarca,neck,kuŋɡa,k u ŋ ɡ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-13-1,proto-quechuan,you__sg__,qam,q a m,,quechua_cm
-quechua_cm-cajamarca-lex-cm-13-2,quechua-cajamarca,you__sg__,qam,q a m,,quechua_cm
-quechua_cm-cajamarca-lex-cm-14-1,proto-quechuan,husband,qusa,q u s a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-14-2,quechua-cajamarca,husband,qosa,q o s a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-15-1,proto-quechuan,cry,waqa,w a q a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-15-2,quechua-cajamarca,cry,waɢa,w a ɢ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-16-1,proto-quechuan,six,suqta,s u q t a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-16-2,quechua-cajamarca,six,soχta,s o χ t a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-17-1,proto-quechuan,nose,siŋqa,s i ŋ q a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-17-2,quechua-cajamarca,nose,seɴɢa,s e ɴ ɢ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-18-1,proto-quechuan,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-18-2,quechua-cajamarca,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-19-1,proto-quechuan,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-19-2,quechua-cajamarca,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-20-1,proto-quechuan,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-20-2,quechua-cajamarca,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-21-1,proto-quechuan,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-21-2,quechua-cajamarca,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-22-1,proto-quechuan,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-22-2,quechua-cajamarca,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-23-1,proto-quechuan,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-23-2,quechua-cajamarca,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-24-1,proto-quechuan,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-24-2,quechua-cajamarca,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-25-1,proto-quechuan,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-25-2,quechua-cajamarca,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-26-1,proto-quechuan,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-26-2,quechua-cajamarca,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-27-1,proto-quechuan,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-cajamarca-lex-cm-27-2,quechua-cajamarca,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-cajamarca-lex-cm-28-1,proto-quechuan,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-28-2,quechua-cajamarca,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-29-1,proto-quechuan,ice,qasa,q a s a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-29-2,quechua-cajamarca,ice,qasa,q a s a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-30-1,proto-quechuan,nine,isquŋ,i s q u ŋ,,quechua_cm
-quechua_cm-cajamarca-lex-cm-30-2,quechua-cajamarca,nine,esqoŋ,e s q o ŋ,,quechua_cm
-quechua_cm-cajamarca-lex-cm-31-1,proto-quechuan,pull,ɑjsa,ɑ j s a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-31-2,quechua-cajamarca,pull,ɑjsa,ɑ j s a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-32-1,proto-quechuan,feather,ʃulʲka,ʃ u lʲ k a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-32-2,quechua-cajamarca,feather,ʃuʃka,ʃ u ʃ k a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-33-1,proto-quechuan,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-33-2,quechua-cajamarca,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-34-1,proto-quechuan,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
-quechua_cm-cajamarca-lex-cm-34-2,quechua-cajamarca,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
-quechua_cm-cajamarca-lex-cm-35-1,proto-quechuan,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-cajamarca-lex-cm-35-2,quechua-cajamarca,big,atuŋ,a t u ŋ,,quechua_cm
-quechua_cm-cajamarca-lex-cm-36-1,proto-quechuan,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-36-2,quechua-cajamarca,fault,ut͡ʃa,u t͡ʃ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-37-1,proto-quechuan,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-37-2,quechua-cajamarca,pain__trouble,ʒaki,ʒ a k i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-38-1,proto-quechuan,moon,kilʲa,k i lʲ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-38-2,quechua-cajamarca,moon,kiʒa,k i ʒ a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-39-1,proto-quechuan,land,alʲpa,a lʲ p a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-39-2,quechua-cajamarca,land,aʃpa,a ʃ p a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-40-1,proto-quechuan,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
-quechua_cm-cajamarca-lex-cm-40-2,quechua-cajamarca,family,ɑjʒu,ɑ j ʒ u,,quechua_cm
-quechua_cm-cajamarca-lex-cm-41-1,proto-quechuan,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-41-2,quechua-cajamarca,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-42-1,proto-quechuan,far,karu,k a r u,,quechua_cm
-quechua_cm-cajamarca-lex-cm-42-2,quechua-cajamarca,far,karu,k a r u,,quechua_cm
-quechua_cm-cajamarca-lex-cm-43-1,proto-quechuan,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-43-2,quechua-cajamarca,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-44-1,proto-quechuan,horn,waqra,w a q r a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-44-2,quechua-cajamarca,horn,waχra,w a χ r a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-45-1,proto-quechuan,fire,nina,n i n a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-45-2,quechua-cajamarca,fire,nina,n i n a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-46-1,proto-quechuan,black,jana,j a n a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-46-2,quechua-cajamarca,black,jana,j a n a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-47-1,proto-quechuan,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-47-2,quechua-cajamarca,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-48-1,proto-quechuan,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-48-2,quechua-cajamarca,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-49-1,proto-quechuan,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-49-2,quechua-cajamarca,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-cajamarca-lex-cm-50-1,proto-quechuan,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-cajamarca-lex-cm-50-2,quechua-cajamarca,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-cajamarca-lex-cm-51-1,proto-quechuan,behind,qipa,q i p a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-51-2,quechua-cajamarca,behind,qepa,q e p a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-52-1,proto-quechuan,to_give,qu,q u,,quechua_cm
-quechua_cm-cajamarca-lex-cm-52-2,quechua-cajamarca,to_give,qo,q o,,quechua_cm
-quechua_cm-cajamarca-lex-cm-53-1,proto-quechuan,to_forget,quŋqa,q u ŋ q a,,quechua_cm
-quechua_cm-cajamarca-lex-cm-53-2,quechua-cajamarca,to_forget,qoɴɢa,q o ɴ ɢ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-2-1,proto-quechuan,begin,paka,p a k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-2-2,quechua-cuzco,begin,paka,p a k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-3-1,proto-quechuan,wash,apa,a p a,,quechua_cm
-quechua_cm-cuzco-lex-cm-3-2,quechua-cuzco,wash,apa,a p a,,quechua_cm
-quechua_cm-cuzco-lex-cm-4-1,proto-quechuan,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-cuzco-lex-cm-4-2,quechua-cuzco,leaf__wing,raɸra,r a ɸ r a,,quechua_cm
-quechua_cm-cuzco-lex-cm-5-1,proto-quechuan,plains,pampa,p a m p a,,quechua_cm
-quechua_cm-cuzco-lex-cm-5-2,quechua-cuzco,plains,pampa,p a m p a,,quechua_cm
-quechua_cm-cuzco-lex-cm-6-1,proto-quechuan,ask,tapu,t a p u,,quechua_cm
-quechua_cm-cuzco-lex-cm-6-2,quechua-cuzco,ask,tapu,t a p u,,quechua_cm
-quechua_cm-cuzco-lex-cm-7-1,proto-quechuan,tie,wata,w a t a,,quechua_cm
-quechua_cm-cuzco-lex-cm-7-2,quechua-cuzco,tie,wata,w a t a,,quechua_cm
-quechua_cm-cuzco-lex-cm-8-1,proto-quechuan,cotton,utka,u t k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-8-2,quechua-cuzco,cotton,uska,u s k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-9-1,proto-quechuan,sun,inti,i n t i,,quechua_cm
-quechua_cm-cuzco-lex-cm-9-2,quechua-cuzco,sun,inti,i n t i,,quechua_cm
-quechua_cm-cuzco-lex-cm-10-1,proto-quechuan,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-cuzco-lex-cm-10-2,quechua-cuzco,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-cuzco-lex-cm-11-1,proto-quechuan,red,puka,p u k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-11-2,quechua-cuzco,red,puka,p u k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-12-1,proto-quechuan,be_full__fed_up,saksa,s a k s a,,quechua_cm
-quechua_cm-cuzco-lex-cm-12-2,quechua-cuzco,be_full__fed_up,saχsa,s a χ s a,,quechua_cm
-quechua_cm-cuzco-lex-cm-13-1,proto-quechuan,neck,kuŋka,k u ŋ k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-13-2,quechua-cuzco,neck,kuŋka,k u ŋ k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-14-1,proto-quechuan,you__sg__,qam,q a m,,quechua_cm
-quechua_cm-cuzco-lex-cm-14-2,quechua-cuzco,you__sg__,qaŋ,q a ŋ,,quechua_cm
-quechua_cm-cuzco-lex-cm-15-1,proto-quechuan,husband,qusa,q u s a,,quechua_cm
-quechua_cm-cuzco-lex-cm-15-2,quechua-cuzco,husband,qosa,q o s a,,quechua_cm
-quechua_cm-cuzco-lex-cm-16-1,proto-quechuan,cry,waqa,w a q a,,quechua_cm
-quechua_cm-cuzco-lex-cm-16-2,quechua-cuzco,cry,waqa,w a q a,,quechua_cm
-quechua_cm-cuzco-lex-cm-17-1,proto-quechuan,six,suqta,s u q t a,,quechua_cm
-quechua_cm-cuzco-lex-cm-17-2,quechua-cuzco,six,soχta,s o χ t a,,quechua_cm
-quechua_cm-cuzco-lex-cm-18-1,proto-quechuan,nose,siŋqa,s i ŋ q a,,quechua_cm
-quechua_cm-cuzco-lex-cm-18-2,quechua-cuzco,nose,seɴqa,s e ɴ q a,,quechua_cm
-quechua_cm-cuzco-lex-cm-19-1,proto-quechuan,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-cuzco-lex-cm-19-2,quechua-cuzco,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-cuzco-lex-cm-20-1,proto-quechuan,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-20-2,quechua-cuzco,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-21-1,proto-quechuan,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-21-2,quechua-cuzco,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-22-1,proto-quechuan,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-22-2,quechua-cuzco,to_thread,puska,p u s k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-23-1,proto-quechuan,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-23-2,quechua-cuzco,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-24-1,proto-quechuan,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
-quechua_cm-cuzco-lex-cm-24-2,quechua-cuzco,foot,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-cuzco-lex-cm-25-1,proto-quechuan,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-25-2,quechua-cuzco,send,kat͡ʃa,k a t͡ʃ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-26-1,proto-quechuan,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
-quechua_cm-cuzco-lex-cm-26-2,quechua-cuzco,ashes,uspa,u s p a,,quechua_cm
-quechua_cm-cuzco-lex-cm-27-1,proto-quechuan,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
-quechua_cm-cuzco-lex-cm-27-2,quechua-cuzco,narrow,kiski,k i s k i,,quechua_cm
-quechua_cm-cuzco-lex-cm-28-1,proto-quechuan,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-cuzco-lex-cm-28-2,quechua-cuzco,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-cuzco-lex-cm-29-1,proto-quechuan,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-cuzco-lex-cm-29-2,quechua-cuzco,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-cuzco-lex-cm-30-1,proto-quechuan,ice,qasa,q a s a,,quechua_cm
-quechua_cm-cuzco-lex-cm-30-2,quechua-cuzco,ice,qasa,q a s a,,quechua_cm
-quechua_cm-cuzco-lex-cm-31-1,proto-quechuan,nine,isquŋ,i s q u ŋ,,quechua_cm
-quechua_cm-cuzco-lex-cm-31-2,quechua-cuzco,nine,esqoŋ,e s q o ŋ,,quechua_cm
-quechua_cm-cuzco-lex-cm-32-1,proto-quechuan,pull,ɑjsa,ɑ j s a,,quechua_cm
-quechua_cm-cuzco-lex-cm-32-2,quechua-cuzco,pull,ɑjsa,ɑ j s a,,quechua_cm
-quechua_cm-cuzco-lex-cm-33-1,proto-quechuan,feather,ʃulʲka,ʃ u lʲ k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-33-2,quechua-cuzco,feather,sulʲka,s u lʲ k a,,quechua_cm
-quechua_cm-cuzco-lex-cm-34-1,proto-quechuan,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-34-2,quechua-cuzco,behind,wasa,w a s a,,quechua_cm
-quechua_cm-cuzco-lex-cm-35-1,proto-quechuan,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
-quechua_cm-cuzco-lex-cm-35-2,quechua-cuzco,two,iskɑj,i s k ɑ j,,quechua_cm
-quechua_cm-cuzco-lex-cm-36-1,proto-quechuan,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-cuzco-lex-cm-36-2,quechua-cuzco,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-cuzco-lex-cm-37-1,proto-quechuan,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-37-2,quechua-cuzco,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-38-1,proto-quechuan,sweat,humpi,h u m p i,,quechua_cm
-quechua_cm-cuzco-lex-cm-38-2,quechua-cuzco,sweat,humpi,h u m p i,,quechua_cm
-quechua_cm-cuzco-lex-cm-39-1,proto-quechuan,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
-quechua_cm-cuzco-lex-cm-39-2,quechua-cuzco,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
-quechua_cm-cuzco-lex-cm-40-1,proto-quechuan,moon,kilʲa,k i lʲ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-40-2,quechua-cuzco,moon,kilʲa,k i lʲ a,,quechua_cm
-quechua_cm-cuzco-lex-cm-41-1,proto-quechuan,land,alʲpa,a lʲ p a,,quechua_cm
-quechua_cm-cuzco-lex-cm-41-2,quechua-cuzco,land,alʲpa,a lʲ p a,,quechua_cm
-quechua_cm-cuzco-lex-cm-42-1,proto-quechuan,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
-quechua_cm-cuzco-lex-cm-42-2,quechua-cuzco,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
-quechua_cm-cuzco-lex-cm-43-1,proto-quechuan,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-cuzco-lex-cm-43-2,quechua-cuzco,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-cuzco-lex-cm-44-1,proto-quechuan,far,karu,k a r u,,quechua_cm
-quechua_cm-cuzco-lex-cm-44-2,quechua-cuzco,far,karu,k a r u,,quechua_cm
-quechua_cm-cuzco-lex-cm-45-1,proto-quechuan,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-cuzco-lex-cm-45-2,quechua-cuzco,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-cuzco-lex-cm-46-1,proto-quechuan,horn,waqra,w a q r a,,quechua_cm
-quechua_cm-cuzco-lex-cm-46-2,quechua-cuzco,horn,waχra,w a χ r a,,quechua_cm
-quechua_cm-cuzco-lex-cm-47-1,proto-quechuan,fire,nina,n i n a,,quechua_cm
-quechua_cm-cuzco-lex-cm-47-2,quechua-cuzco,fire,nina,n i n a,,quechua_cm
-quechua_cm-cuzco-lex-cm-48-1,proto-quechuan,black,jana,j a n a,,quechua_cm
-quechua_cm-cuzco-lex-cm-48-2,quechua-cuzco,black,jana,j a n a,,quechua_cm
-quechua_cm-cuzco-lex-cm-49-1,proto-quechuan,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-cuzco-lex-cm-49-2,quechua-cuzco,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-cuzco-lex-cm-50-1,proto-quechuan,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-cuzco-lex-cm-50-2,quechua-cuzco,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-cuzco-lex-cm-51-1,proto-quechuan,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-cuzco-lex-cm-51-2,quechua-cuzco,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-cuzco-lex-cm-52-1,proto-quechuan,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-cuzco-lex-cm-52-2,quechua-cuzco,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-cuzco-lex-cm-53-1,proto-quechuan,behind,qipa,q i p a,,quechua_cm
-quechua_cm-cuzco-lex-cm-53-2,quechua-cuzco,behind,qepa,q e p a,,quechua_cm
-quechua_cm-cuzco-lex-cm-54-1,proto-quechuan,tear__drop_,wiqi,w i q i,,quechua_cm
-quechua_cm-cuzco-lex-cm-54-2,quechua-cuzco,tear__drop_,weqe,w e q e,,quechua_cm
-quechua_cm-cuzco-lex-cm-55-1,proto-quechuan,to_escape,qiʃpi,q i ʃ p i,,quechua_cm
-quechua_cm-cuzco-lex-cm-55-2,quechua-cuzco,to_escape,qespi,q e s p i,,quechua_cm
-quechua_cm-cuzco-lex-cm-56-1,proto-quechuan,to_give,qu,q u,,quechua_cm
-quechua_cm-cuzco-lex-cm-56-2,quechua-cuzco,to_give,qo,q o,,quechua_cm
-quechua_cm-cuzco-lex-cm-57-1,proto-quechuan,to_forget,quŋqa,q u ŋ q a,,quechua_cm
-quechua_cm-cuzco-lex-cm-57-2,quechua-cuzco,to_forget,qoɴqa,q o ɴ q a,,quechua_cm
-quechua_cm-ecuador-lex-cm-2-1,proto-quechuan,begin,paka,p a k a,,quechua_cm
-quechua_cm-ecuador-lex-cm-2-2,quechua-ecuador,begin,paka,p a k a,,quechua_cm
-quechua_cm-ecuador-lex-cm-3-1,proto-quechuan,wash,apa,a p a,,quechua_cm
-quechua_cm-ecuador-lex-cm-3-2,quechua-ecuador,wash,apa,a p a,,quechua_cm
-quechua_cm-ecuador-lex-cm-4-1,proto-quechuan,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-ecuador-lex-cm-4-2,quechua-ecuador,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-ecuador-lex-cm-5-1,proto-quechuan,plains,pampa,p a m p a,,quechua_cm
-quechua_cm-ecuador-lex-cm-5-2,quechua-ecuador,plains,pamba,p a m b a,,quechua_cm
-quechua_cm-ecuador-lex-cm-6-1,proto-quechuan,ask,tapu,t a p u,,quechua_cm
-quechua_cm-ecuador-lex-cm-6-2,quechua-ecuador,ask,tapu,t a p u,,quechua_cm
-quechua_cm-ecuador-lex-cm-7-1,proto-quechuan,tie,wata,w a t a,,quechua_cm
-quechua_cm-ecuador-lex-cm-7-2,quechua-ecuador,tie,wata,w a t a,,quechua_cm
-quechua_cm-ecuador-lex-cm-8-1,proto-quechuan,cotton,utka,u t k a,,quechua_cm
-quechua_cm-ecuador-lex-cm-8-2,quechua-ecuador,cotton,utka,u t k a,,quechua_cm
-quechua_cm-ecuador-lex-cm-9-1,proto-quechuan,sun,inti,i n t i,,quechua_cm
-quechua_cm-ecuador-lex-cm-9-2,quechua-ecuador,sun,indi,i n d i,,quechua_cm
-quechua_cm-ecuador-lex-cm-10-1,proto-quechuan,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-ecuador-lex-cm-10-2,quechua-ecuador,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-ecuador-lex-cm-11-1,proto-quechuan,red,puka,p u k a,,quechua_cm
-quechua_cm-ecuador-lex-cm-11-2,quechua-ecuador,red,puka,p u k a,,quechua_cm
-quechua_cm-ecuador-lex-cm-12-1,proto-quechuan,be_full__fed_up,saksa,s a k s a,,quechua_cm
-quechua_cm-ecuador-lex-cm-12-2,quechua-ecuador,be_full__fed_up,saχsa,s a χ s a,,quechua_cm
-quechua_cm-ecuador-lex-cm-13-1,proto-quechuan,neck,kuŋka,k u ŋ k a,,quechua_cm
-quechua_cm-ecuador-lex-cm-13-2,quechua-ecuador,neck,kuŋɡa,k u ŋ ɡ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-14-1,proto-quechuan,you__sg__,qam,q a m,,quechua_cm
-quechua_cm-ecuador-lex-cm-14-2,quechua-ecuador,you__sg__,kaŋ,k a ŋ,,quechua_cm
-quechua_cm-ecuador-lex-cm-15-1,proto-quechuan,husband,qusa,q u s a,,quechua_cm
-quechua_cm-ecuador-lex-cm-15-2,quechua-ecuador,husband,kusa,k u s a,,quechua_cm
-quechua_cm-ecuador-lex-cm-16-1,proto-quechuan,cry,waqa,w a q a,,quechua_cm
-quechua_cm-ecuador-lex-cm-16-2,quechua-ecuador,cry,waka,w a k a,,quechua_cm
-quechua_cm-ecuador-lex-cm-17-1,proto-quechuan,six,suqta,s u q t a,,quechua_cm
-quechua_cm-ecuador-lex-cm-17-2,quechua-ecuador,six,suxta,s u x t a,,quechua_cm
-quechua_cm-ecuador-lex-cm-18-1,proto-quechuan,nose,siŋqa,s i ŋ q a,,quechua_cm
-quechua_cm-ecuador-lex-cm-18-2,quechua-ecuador,nose,siŋɡa,s i ŋ ɡ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-19-1,proto-quechuan,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-ecuador-lex-cm-19-2,quechua-ecuador,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-ecuador-lex-cm-20-1,proto-quechuan,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-20-2,quechua-ecuador,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-21-1,proto-quechuan,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-21-2,quechua-ecuador,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-22-1,proto-quechuan,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
-quechua_cm-ecuador-lex-cm-22-2,quechua-ecuador,to_thread,puʃka,p u ʃ k a,,quechua_cm
-quechua_cm-ecuador-lex-cm-23-1,proto-quechuan,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-23-2,quechua-ecuador,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-24-1,proto-quechuan,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
-quechua_cm-ecuador-lex-cm-24-2,quechua-ecuador,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
-quechua_cm-ecuador-lex-cm-25-1,proto-quechuan,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-25-2,quechua-ecuador,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-26-1,proto-quechuan,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
-quechua_cm-ecuador-lex-cm-26-2,quechua-ecuador,ashes,uʃpa,u ʃ p a,,quechua_cm
-quechua_cm-ecuador-lex-cm-27-1,proto-quechuan,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
-quechua_cm-ecuador-lex-cm-27-2,quechua-ecuador,narrow,kiʃki,k i ʃ k i,,quechua_cm
-quechua_cm-ecuador-lex-cm-28-1,proto-quechuan,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-ecuador-lex-cm-28-2,quechua-ecuador,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-ecuador-lex-cm-29-1,proto-quechuan,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-ecuador-lex-cm-29-2,quechua-ecuador,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-ecuador-lex-cm-30-1,proto-quechuan,ice,qasa,q a s a,,quechua_cm
-quechua_cm-ecuador-lex-cm-30-2,quechua-ecuador,ice,kasa,k a s a,,quechua_cm
-quechua_cm-ecuador-lex-cm-31-1,proto-quechuan,nine,isquŋ,i s q u ŋ,,quechua_cm
-quechua_cm-ecuador-lex-cm-31-2,quechua-ecuador,nine,iʃkuŋ,i ʃ k u ŋ,,quechua_cm
-quechua_cm-ecuador-lex-cm-32-1,proto-quechuan,pull,ɑjsa,ɑ j s a,,quechua_cm
-quechua_cm-ecuador-lex-cm-32-2,quechua-ecuador,pull,ɑjsa,ɑ j s a,,quechua_cm
-quechua_cm-ecuador-lex-cm-33-1,proto-quechuan,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-33-2,quechua-ecuador,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-34-1,proto-quechuan,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
-quechua_cm-ecuador-lex-cm-34-2,quechua-ecuador,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
-quechua_cm-ecuador-lex-cm-35-1,proto-quechuan,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-ecuador-lex-cm-35-2,quechua-ecuador,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-ecuador-lex-cm-36-1,proto-quechuan,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-36-2,quechua-ecuador,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-37-1,proto-quechuan,sweat,humpi,h u m p i,,quechua_cm
-quechua_cm-ecuador-lex-cm-37-2,quechua-ecuador,sweat,humbi,h u m b i,,quechua_cm
-quechua_cm-ecuador-lex-cm-38-1,proto-quechuan,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
-quechua_cm-ecuador-lex-cm-38-2,quechua-ecuador,pain__trouble,ʒaki,ʒ a k i,,quechua_cm
-quechua_cm-ecuador-lex-cm-39-1,proto-quechuan,moon,kilʲa,k i lʲ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-39-2,quechua-ecuador,moon,kiʒa,k i ʒ a,,quechua_cm
-quechua_cm-ecuador-lex-cm-40-1,proto-quechuan,land,alʲpa,a lʲ p a,,quechua_cm
-quechua_cm-ecuador-lex-cm-40-2,quechua-ecuador,land,aʒpa,a ʒ p a,,quechua_cm
-quechua_cm-ecuador-lex-cm-41-1,proto-quechuan,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
-quechua_cm-ecuador-lex-cm-41-2,quechua-ecuador,family,ɑjʒu,ɑ j ʒ u,,quechua_cm
-quechua_cm-ecuador-lex-cm-42-1,proto-quechuan,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-ecuador-lex-cm-42-2,quechua-ecuador,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-ecuador-lex-cm-43-1,proto-quechuan,far,karu,k a r u,,quechua_cm
-quechua_cm-ecuador-lex-cm-43-2,quechua-ecuador,far,karu,k a r u,,quechua_cm
-quechua_cm-ecuador-lex-cm-44-1,proto-quechuan,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-ecuador-lex-cm-44-2,quechua-ecuador,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-ecuador-lex-cm-45-1,proto-quechuan,fire,nina,n i n a,,quechua_cm
-quechua_cm-ecuador-lex-cm-45-2,quechua-ecuador,fire,nina,n i n a,,quechua_cm
-quechua_cm-ecuador-lex-cm-46-1,proto-quechuan,black,jana,j a n a,,quechua_cm
-quechua_cm-ecuador-lex-cm-46-2,quechua-ecuador,black,jana,j a n a,,quechua_cm
-quechua_cm-ecuador-lex-cm-47-1,proto-quechuan,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-ecuador-lex-cm-47-2,quechua-ecuador,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-ecuador-lex-cm-48-1,proto-quechuan,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-ecuador-lex-cm-48-2,quechua-ecuador,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-ecuador-lex-cm-49-1,proto-quechuan,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-ecuador-lex-cm-49-2,quechua-ecuador,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-ecuador-lex-cm-50-1,proto-quechuan,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-ecuador-lex-cm-50-2,quechua-ecuador,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-ecuador-lex-cm-51-1,proto-quechuan,behind,qipa,q i p a,,quechua_cm
-quechua_cm-ecuador-lex-cm-51-2,quechua-ecuador,behind,kipa,k i p a,,quechua_cm
-quechua_cm-ecuador-lex-cm-52-1,proto-quechuan,tear__drop_,wiqi,w i q i,,quechua_cm
-quechua_cm-ecuador-lex-cm-52-2,quechua-ecuador,tear__drop_,wiki,w i k i,,quechua_cm
-quechua_cm-ecuador-lex-cm-53-1,proto-quechuan,to_escape,qiʃpi,q i ʃ p i,,quechua_cm
-quechua_cm-ecuador-lex-cm-53-2,quechua-ecuador,to_escape,kiʃpi,k i ʃ p i,,quechua_cm
-quechua_cm-ecuador-lex-cm-54-1,proto-quechuan,to_give,qu,q u,,quechua_cm
-quechua_cm-ecuador-lex-cm-54-2,quechua-ecuador,to_give,ku,k u,,quechua_cm
-quechua_cm-ecuador-lex-cm-55-1,proto-quechuan,to_forget,quŋqa,q u ŋ q a,,quechua_cm
-quechua_cm-ecuador-lex-cm-55-2,quechua-ecuador,to_forget,kuŋɡa,k u ŋ ɡ a,,quechua_cm
-quechua_cm-junin-lex-cm-2-1,proto-quechuan,begin,paka,p a k a,,quechua_cm
-quechua_cm-junin-lex-cm-2-2,quechua-junin,begin,paka,p a k a,,quechua_cm
-quechua_cm-junin-lex-cm-3-1,proto-quechuan,wash,apa,a p a,,quechua_cm
-quechua_cm-junin-lex-cm-3-2,quechua-junin,wash,apa,a p a,,quechua_cm
-quechua_cm-junin-lex-cm-4-1,proto-quechuan,leaf__wing,rapra,r a p r a,,quechua_cm
-quechua_cm-junin-lex-cm-4-2,quechua-junin,leaf__wing,lapla,l a p l a,,quechua_cm
-quechua_cm-junin-lex-cm-5-1,proto-quechuan,plains,pampa,p a m p a,,quechua_cm
-quechua_cm-junin-lex-cm-5-2,quechua-junin,plains,pampa,p a m p a,,quechua_cm
-quechua_cm-junin-lex-cm-6-1,proto-quechuan,ask,tapu,t a p u,,quechua_cm
-quechua_cm-junin-lex-cm-6-2,quechua-junin,ask,tapu,t a p u,,quechua_cm
-quechua_cm-junin-lex-cm-7-1,proto-quechuan,tie,wata,w a t a,,quechua_cm
-quechua_cm-junin-lex-cm-7-2,quechua-junin,tie,wata,w a t a,,quechua_cm
-quechua_cm-junin-lex-cm-8-1,proto-quechuan,cotton,utka,u t k a,,quechua_cm
-quechua_cm-junin-lex-cm-8-2,quechua-junin,cotton,utka,u t k a,,quechua_cm
-quechua_cm-junin-lex-cm-9-1,proto-quechuan,sun,inti,i n t i,,quechua_cm
-quechua_cm-junin-lex-cm-9-2,quechua-junin,sun,inti,i n t i,,quechua_cm
-quechua_cm-junin-lex-cm-10-1,proto-quechuan,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-junin-lex-cm-10-2,quechua-junin,three,kimsa,k i m s a,,quechua_cm
-quechua_cm-junin-lex-cm-11-1,proto-quechuan,red,puka,p u k a,,quechua_cm
-quechua_cm-junin-lex-cm-11-2,quechua-junin,red,puka,p u k a,,quechua_cm
-quechua_cm-junin-lex-cm-12-1,proto-quechuan,be_full__fed_up,saksa,s a k s a,,quechua_cm
-quechua_cm-junin-lex-cm-12-2,quechua-junin,be_full__fed_up,saksa,s a k s a,,quechua_cm
-quechua_cm-junin-lex-cm-13-1,proto-quechuan,neck,kuŋka,k u ŋ k a,,quechua_cm
-quechua_cm-junin-lex-cm-13-2,quechua-junin,neck,kuŋka,k u ŋ k a,,quechua_cm
-quechua_cm-junin-lex-cm-14-1,proto-quechuan,you__sg__,qam,q a m,,quechua_cm
-quechua_cm-junin-lex-cm-14-2,quechua-junin,you__sg__,am,a m,,quechua_cm
-quechua_cm-junin-lex-cm-15-1,proto-quechuan,husband,qusa,q u s a,,quechua_cm
-quechua_cm-junin-lex-cm-15-2,quechua-junin,husband,usa,u s a,,quechua_cm
-quechua_cm-junin-lex-cm-16-1,proto-quechuan,cry,waqa,w a q a,,quechua_cm
-quechua_cm-junin-lex-cm-16-2,quechua-junin,cry,waʔa,w a ʔ a,,quechua_cm
-quechua_cm-junin-lex-cm-17-1,proto-quechuan,six,suqta,s u q t a,,quechua_cm
-quechua_cm-junin-lex-cm-17-2,quechua-junin,six,suʔta,s u ʔ t a,,quechua_cm
-quechua_cm-junin-lex-cm-18-1,proto-quechuan,nose,siŋqa,s i ŋ q a,,quechua_cm
-quechua_cm-junin-lex-cm-18-2,quechua-junin,nose,siŋʔa,s i ŋ ʔ a,,quechua_cm
-quechua_cm-junin-lex-cm-19-1,proto-quechuan,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-junin-lex-cm-19-2,quechua-junin,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
-quechua_cm-junin-lex-cm-20-1,proto-quechuan,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-junin-lex-cm-20-2,quechua-junin,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
-quechua_cm-junin-lex-cm-21-1,proto-quechuan,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-junin-lex-cm-21-2,quechua-junin,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
-quechua_cm-junin-lex-cm-22-1,proto-quechuan,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
-quechua_cm-junin-lex-cm-22-2,quechua-junin,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
-quechua_cm-junin-lex-cm-23-1,proto-quechuan,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-junin-lex-cm-23-2,quechua-junin,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
-quechua_cm-junin-lex-cm-24-1,proto-quechuan,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
-quechua_cm-junin-lex-cm-24-2,quechua-junin,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
-quechua_cm-junin-lex-cm-25-1,proto-quechuan,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
-quechua_cm-junin-lex-cm-25-2,quechua-junin,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
-quechua_cm-junin-lex-cm-26-1,proto-quechuan,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
-quechua_cm-junin-lex-cm-26-2,quechua-junin,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
-quechua_cm-junin-lex-cm-27-1,proto-quechuan,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
-quechua_cm-junin-lex-cm-27-2,quechua-junin,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
-quechua_cm-junin-lex-cm-28-1,proto-quechuan,to_step_on,saru,s a r u,,quechua_cm
-quechua_cm-junin-lex-cm-28-2,quechua-junin,to_step_on,salu,s a l u,,quechua_cm
-quechua_cm-junin-lex-cm-29-1,proto-quechuan,maize__corn,sara,s a r a,,quechua_cm
-quechua_cm-junin-lex-cm-29-2,quechua-junin,maize__corn,sala,s a l a,,quechua_cm
-quechua_cm-junin-lex-cm-30-1,proto-quechuan,ice,qasa,q a s a,,quechua_cm
-quechua_cm-junin-lex-cm-30-2,quechua-junin,ice,asa,a s a,,quechua_cm
-quechua_cm-junin-lex-cm-31-1,proto-quechuan,nine,isquŋ,i s q u ŋ,,quechua_cm
-quechua_cm-junin-lex-cm-31-2,quechua-junin,nine,isʔuŋ,i s ʔ u ŋ,,quechua_cm
-quechua_cm-junin-lex-cm-32-1,proto-quechuan,pull,ɑjsa,ɑ j s a,,quechua_cm
-quechua_cm-junin-lex-cm-32-2,quechua-junin,pull,ɑjsa,ɑ j s a,,quechua_cm
-quechua_cm-junin-lex-cm-33-1,proto-quechuan,feather,ʃulʲka,ʃ u lʲ k a,,quechua_cm
-quechua_cm-junin-lex-cm-33-2,quechua-junin,feather,ʃulʲka,ʃ u lʲ k a,,quechua_cm
-quechua_cm-junin-lex-cm-34-1,proto-quechuan,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-junin-lex-cm-34-2,quechua-junin,behind,waʃa,w a ʃ a,,quechua_cm
-quechua_cm-junin-lex-cm-35-1,proto-quechuan,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
-quechua_cm-junin-lex-cm-35-2,quechua-junin,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
-quechua_cm-junin-lex-cm-36-1,proto-quechuan,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-junin-lex-cm-36-2,quechua-junin,big,hatuŋ,h a t u ŋ,,quechua_cm
-quechua_cm-junin-lex-cm-37-1,proto-quechuan,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
-quechua_cm-junin-lex-cm-37-2,quechua-junin,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
-quechua_cm-junin-lex-cm-38-1,proto-quechuan,sweat,humpi,h u m p i,,quechua_cm
-quechua_cm-junin-lex-cm-38-2,quechua-junin,sweat,humpi,h u m p i,,quechua_cm
-quechua_cm-junin-lex-cm-39-1,proto-quechuan,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
-quechua_cm-junin-lex-cm-39-2,quechua-junin,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
-quechua_cm-junin-lex-cm-40-1,proto-quechuan,moon,kilʲa,k i lʲ a,,quechua_cm
-quechua_cm-junin-lex-cm-40-2,quechua-junin,moon,kilʲa,k i lʲ a,,quechua_cm
-quechua_cm-junin-lex-cm-41-1,proto-quechuan,land,alʲpa,a lʲ p a,,quechua_cm
-quechua_cm-junin-lex-cm-41-2,quechua-junin,land,alʲpa,a lʲ p a,,quechua_cm
-quechua_cm-junin-lex-cm-42-1,proto-quechuan,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
-quechua_cm-junin-lex-cm-42-2,quechua-junin,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
-quechua_cm-junin-lex-cm-43-1,proto-quechuan,to_speak,rima,r i m a,,quechua_cm
-quechua_cm-junin-lex-cm-43-2,quechua-junin,to_speak,lima,l i m a,,quechua_cm
-quechua_cm-junin-lex-cm-44-1,proto-quechuan,far,karu,k a r u,,quechua_cm
-quechua_cm-junin-lex-cm-44-2,quechua-junin,far,kalu,k a l u,,quechua_cm
-quechua_cm-junin-lex-cm-45-1,proto-quechuan,woman,warmi,w a r m i,,quechua_cm
-quechua_cm-junin-lex-cm-45-2,quechua-junin,woman,walmi,w a l m i,,quechua_cm
-quechua_cm-junin-lex-cm-46-1,proto-quechuan,horn,waqra,w a q r a,,quechua_cm
-quechua_cm-junin-lex-cm-46-2,quechua-junin,horn,waʔla,w a ʔ l a,,quechua_cm
-quechua_cm-junin-lex-cm-47-1,proto-quechuan,fire,nina,n i n a,,quechua_cm
-quechua_cm-junin-lex-cm-47-2,quechua-junin,fire,nina,n i n a,,quechua_cm
-quechua_cm-junin-lex-cm-48-1,proto-quechuan,black,jana,j a n a,,quechua_cm
-quechua_cm-junin-lex-cm-48-2,quechua-junin,black,jana,j a n a,,quechua_cm
-quechua_cm-junin-lex-cm-49-1,proto-quechuan,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-junin-lex-cm-49-2,quechua-junin,young_man,wɑjna,w ɑ j n a,,quechua_cm
-quechua_cm-junin-lex-cm-50-1,proto-quechuan,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-junin-lex-cm-50-2,quechua-junin,to_reprove,aŋja,a ŋ j a,,quechua_cm
-quechua_cm-junin-lex-cm-51-1,proto-quechuan,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-junin-lex-cm-51-2,quechua-junin,eye,nʲawi,nʲ a w i,,quechua_cm
-quechua_cm-junin-lex-cm-52-1,proto-quechuan,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-junin-lex-cm-52-2,quechua-junin,to_die,wanʲu,w a nʲ u,,quechua_cm
-quechua_cm-junin-lex-cm-53-1,proto-quechuan,behind,qipa,q i p a,,quechua_cm
-quechua_cm-junin-lex-cm-53-2,quechua-junin,behind,ipa,i p a,,quechua_cm
-quechua_cm-junin-lex-cm-54-1,proto-quechuan,tear__drop_,wiqi,w i q i,,quechua_cm
-quechua_cm-junin-lex-cm-54-2,quechua-junin,tear__drop_,wiʔi,w i ʔ i,,quechua_cm
-quechua_cm-junin-lex-cm-55-1,proto-quechuan,to_escape,qiʃpi,q i ʃ p i,,quechua_cm
-quechua_cm-junin-lex-cm-55-2,quechua-junin,to_escape,iʃpi,i ʃ p i,,quechua_cm
-quechua_cm-junin-lex-cm-56-1,proto-quechuan,to_give,qu,q u,,quechua_cm
-quechua_cm-junin-lex-cm-56-2,quechua-junin,to_give,u,u,,quechua_cm
-quechua_cm-junin-lex-cm-57-1,proto-quechuan,to_forget,quŋqa,q u ŋ q a,,quechua_cm
-quechua_cm-junin-lex-cm-57-2,quechua-junin,to_forget,uŋʔa,u ŋ ʔ a,,quechua_cm
+quechua_cm-etymon-1-proto-quechuan,proto-quechuan,begin,paka,p a k a,,quechua_cm
+quechua_cm-etymon-1-quechua-amazonas,quechua-amazonas,begin,paka,p a k a,,quechua_cm
+quechua_cm-etymon-2-proto-quechuan,proto-quechuan,wash,apa,a p a,,quechua_cm
+quechua_cm-etymon-2-quechua-amazonas,quechua-amazonas,wash,apa,a p a,,quechua_cm
+quechua_cm-etymon-3-proto-quechuan,proto-quechuan,leaf__wing,rapra,r a p r a,,quechua_cm
+quechua_cm-etymon-3-quechua-amazonas,quechua-amazonas,leaf__wing,rapra,r a p r a,,quechua_cm
+quechua_cm-etymon-4-proto-quechuan,proto-quechuan,plains,pampa,p a m p a,,quechua_cm
+quechua_cm-etymon-4-quechua-amazonas,quechua-amazonas,plains,pamba,p a m b a,,quechua_cm
+quechua_cm-etymon-5-proto-quechuan,proto-quechuan,ask,tapu,t a p u,,quechua_cm
+quechua_cm-etymon-5-quechua-amazonas,quechua-amazonas,ask,tapu,t a p u,,quechua_cm
+quechua_cm-etymon-6-proto-quechuan,proto-quechuan,tie,wata,w a t a,,quechua_cm
+quechua_cm-etymon-6-quechua-amazonas,quechua-amazonas,tie,wata,w a t a,,quechua_cm
+quechua_cm-etymon-7-proto-quechuan,proto-quechuan,cotton,utka,u t k a,,quechua_cm
+quechua_cm-etymon-7-quechua-amazonas,quechua-amazonas,cotton,utka,u t k a,,quechua_cm
+quechua_cm-etymon-8-proto-quechuan,proto-quechuan,sun,inti,i n t i,,quechua_cm
+quechua_cm-etymon-8-quechua-amazonas,quechua-amazonas,sun,indi,i n d i,,quechua_cm
+quechua_cm-etymon-9-proto-quechuan,proto-quechuan,three,kimsa,k i m s a,,quechua_cm
+quechua_cm-etymon-9-quechua-amazonas,quechua-amazonas,three,kimsa,k i m s a,,quechua_cm
+quechua_cm-etymon-10-proto-quechuan,proto-quechuan,red,puka,p u k a,,quechua_cm
+quechua_cm-etymon-10-quechua-amazonas,quechua-amazonas,red,puka,p u k a,,quechua_cm
+quechua_cm-etymon-11-proto-quechuan,proto-quechuan,be_full__fed_up,saksa,s a k s a,,quechua_cm
+quechua_cm-etymon-11-quechua-amazonas,quechua-amazonas,be_full__fed_up,saχsa,s a χ s a,,quechua_cm
+quechua_cm-etymon-12-proto-quechuan,proto-quechuan,neck,kuŋka,k u ŋ k a,,quechua_cm
+quechua_cm-etymon-12-quechua-amazonas,quechua-amazonas,neck,kuŋɡa,k u ŋ ɡ a,,quechua_cm
+quechua_cm-etymon-13-proto-quechuan,proto-quechuan,you__sg__,qam,q a m,,quechua_cm
+quechua_cm-etymon-13-quechua-amazonas,quechua-amazonas,you__sg__,kam,k a m,,quechua_cm
+quechua_cm-etymon-14-proto-quechuan,proto-quechuan,husband,qusa,q u s a,,quechua_cm
+quechua_cm-etymon-14-quechua-amazonas,quechua-amazonas,husband,kusa,k u s a,,quechua_cm
+quechua_cm-etymon-15-proto-quechuan,proto-quechuan,cry,waqa,w a q a,,quechua_cm
+quechua_cm-etymon-15-quechua-amazonas,quechua-amazonas,cry,waka,w a k a,,quechua_cm
+quechua_cm-etymon-16-proto-quechuan,proto-quechuan,six,suqta,s u q t a,,quechua_cm
+quechua_cm-etymon-16-quechua-amazonas,quechua-amazonas,six,sukta,s u k t a,,quechua_cm
+quechua_cm-etymon-17-proto-quechuan,proto-quechuan,nose,siŋqa,s i ŋ q a,,quechua_cm
+quechua_cm-etymon-17-quechua-amazonas,quechua-amazonas,nose,siŋɡa,s i ŋ ɡ a,,quechua_cm
+quechua_cm-etymon-18-proto-quechuan,proto-quechuan,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
+quechua_cm-etymon-18-quechua-amazonas,quechua-amazonas,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
+quechua_cm-etymon-19-proto-quechuan,proto-quechuan,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-19-quechua-amazonas,quechua-amazonas,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-20-proto-quechuan,proto-quechuan,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
+quechua_cm-etymon-20-quechua-amazonas,quechua-amazonas,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
+quechua_cm-etymon-21-proto-quechuan,proto-quechuan,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
+quechua_cm-etymon-21-quechua-amazonas,quechua-amazonas,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
+quechua_cm-etymon-22-proto-quechuan,proto-quechuan,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
+quechua_cm-etymon-22-quechua-amazonas,quechua-amazonas,meat,eːt͡ʃa,eː t͡ʃ a,,quechua_cm
+quechua_cm-etymon-23-proto-quechuan,proto-quechuan,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
+quechua_cm-etymon-23-quechua-amazonas,quechua-amazonas,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
+quechua_cm-etymon-24-proto-quechuan,proto-quechuan,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
+quechua_cm-etymon-24-quechua-amazonas,quechua-amazonas,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
+quechua_cm-etymon-25-proto-quechuan,proto-quechuan,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
+quechua_cm-etymon-25-quechua-amazonas,quechua-amazonas,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
+quechua_cm-etymon-26-proto-quechuan,proto-quechuan,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
+quechua_cm-etymon-26-quechua-amazonas,quechua-amazonas,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
+quechua_cm-etymon-27-proto-quechuan,proto-quechuan,to_step_on,saru,s a r u,,quechua_cm
+quechua_cm-etymon-27-quechua-amazonas,quechua-amazonas,to_step_on,saru,s a r u,,quechua_cm
+quechua_cm-etymon-28-proto-quechuan,proto-quechuan,maize__corn,sara,s a r a,,quechua_cm
+quechua_cm-etymon-28-quechua-amazonas,quechua-amazonas,maize__corn,sara,s a r a,,quechua_cm
+quechua_cm-etymon-29-proto-quechuan,proto-quechuan,ice,qasa,q a s a,,quechua_cm
+quechua_cm-etymon-29-quechua-amazonas,quechua-amazonas,ice,kasa,k a s a,,quechua_cm
+quechua_cm-etymon-30-proto-quechuan,proto-quechuan,nine,isquŋ,i s q u ŋ,,quechua_cm
+quechua_cm-etymon-30-quechua-amazonas,quechua-amazonas,nine,iʃkuŋ,i ʃ k u ŋ,,quechua_cm
+quechua_cm-etymon-31-proto-quechuan,proto-quechuan,pull,ɑjsa,ɑ j s a,,quechua_cm
+quechua_cm-etymon-31-quechua-amazonas,quechua-amazonas,pull,eːsa,eː s a,,quechua_cm
+quechua_cm-etymon-32-proto-quechuan,proto-quechuan,feather,ʃulʲka,ʃ u lʲ k a,,quechua_cm
+quechua_cm-etymon-32-quechua-amazonas,quechua-amazonas,feather,ʃud͡ʒka,ʃ u d͡ʒ k a,,quechua_cm
+quechua_cm-etymon-33-proto-quechuan,proto-quechuan,behind,waʃa,w a ʃ a,,quechua_cm
+quechua_cm-etymon-33-quechua-amazonas,quechua-amazonas,behind,waʃa,w a ʃ a,,quechua_cm
+quechua_cm-etymon-34-proto-quechuan,proto-quechuan,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
+quechua_cm-etymon-34-quechua-amazonas,quechua-amazonas,two,iʃkeː,i ʃ k eː,,quechua_cm
+quechua_cm-etymon-35-proto-quechuan,proto-quechuan,big,hatuŋ,h a t u ŋ,,quechua_cm
+quechua_cm-etymon-35-quechua-amazonas,quechua-amazonas,big,atuŋ,a t u ŋ,,quechua_cm
+quechua_cm-etymon-36-proto-quechuan,proto-quechuan,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-36-quechua-amazonas,quechua-amazonas,fault,ut͡ʃa,u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-37-proto-quechuan,proto-quechuan,sweat,humpi,h u m p i,,quechua_cm
+quechua_cm-etymon-37-quechua-amazonas,quechua-amazonas,sweat,umbi,u m b i,,quechua_cm
+quechua_cm-etymon-38-proto-quechuan,proto-quechuan,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
+quechua_cm-etymon-38-quechua-amazonas,quechua-amazonas,pain__trouble,d͡ʒaki,d͡ʒ a k i,,quechua_cm
+quechua_cm-etymon-39-proto-quechuan,proto-quechuan,moon,kilʲa,k i lʲ a,,quechua_cm
+quechua_cm-etymon-39-quechua-amazonas,quechua-amazonas,moon,kid͡ʒa,k i d͡ʒ a,,quechua_cm
+quechua_cm-etymon-40-proto-quechuan,proto-quechuan,land,alʲpa,a lʲ p a,,quechua_cm
+quechua_cm-etymon-40-quechua-amazonas,quechua-amazonas,land,ad͡ʒpa,a d͡ʒ p a,,quechua_cm
+quechua_cm-etymon-41-proto-quechuan,proto-quechuan,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
+quechua_cm-etymon-41-quechua-amazonas,quechua-amazonas,family,eːd͡ʒu,eː d͡ʒ u,,quechua_cm
+quechua_cm-etymon-42-proto-quechuan,proto-quechuan,to_speak,rima,r i m a,,quechua_cm
+quechua_cm-etymon-42-quechua-amazonas,quechua-amazonas,to_speak,rima,r i m a,,quechua_cm
+quechua_cm-etymon-43-proto-quechuan,proto-quechuan,far,karu,k a r u,,quechua_cm
+quechua_cm-etymon-43-quechua-amazonas,quechua-amazonas,far,karu,k a r u,,quechua_cm
+quechua_cm-etymon-44-proto-quechuan,proto-quechuan,woman,warmi,w a r m i,,quechua_cm
+quechua_cm-etymon-44-quechua-amazonas,quechua-amazonas,woman,warmi,w a r m i,,quechua_cm
+quechua_cm-etymon-45-proto-quechuan,proto-quechuan,horn,waqra,w a q r a,,quechua_cm
+quechua_cm-etymon-45-quechua-amazonas,quechua-amazonas,horn,wakra,w a k r a,,quechua_cm
+quechua_cm-etymon-46-proto-quechuan,proto-quechuan,fire,nina,n i n a,,quechua_cm
+quechua_cm-etymon-46-quechua-amazonas,quechua-amazonas,fire,nina,n i n a,,quechua_cm
+quechua_cm-etymon-47-proto-quechuan,proto-quechuan,black,jana,j a n a,,quechua_cm
+quechua_cm-etymon-47-quechua-amazonas,quechua-amazonas,black,jana,j a n a,,quechua_cm
+quechua_cm-etymon-48-proto-quechuan,proto-quechuan,young_man,wɑjna,w ɑ j n a,,quechua_cm
+quechua_cm-etymon-48-quechua-amazonas,quechua-amazonas,young_man,wɑjna,w ɑ j n a,,quechua_cm
+quechua_cm-etymon-49-proto-quechuan,proto-quechuan,to_reprove,aŋja,a ŋ j a,,quechua_cm
+quechua_cm-etymon-49-quechua-amazonas,quechua-amazonas,to_reprove,aŋja,a ŋ j a,,quechua_cm
+quechua_cm-etymon-50-proto-quechuan,proto-quechuan,eye,nʲawi,nʲ a w i,,quechua_cm
+quechua_cm-etymon-50-quechua-amazonas,quechua-amazonas,eye,nʲawi,nʲ a w i,,quechua_cm
+quechua_cm-etymon-51-proto-quechuan,proto-quechuan,to_die,wanʲu,w a nʲ u,,quechua_cm
+quechua_cm-etymon-51-quechua-amazonas,quechua-amazonas,to_die,wanʲu,w a nʲ u,,quechua_cm
+quechua_cm-etymon-52-proto-quechuan,proto-quechuan,behind,qipa,q i p a,,quechua_cm
+quechua_cm-etymon-52-quechua-amazonas,quechua-amazonas,behind,kipa,k i p a,,quechua_cm
+quechua_cm-etymon-53-proto-quechuan,proto-quechuan,tear__drop_,wiqi,w i q i,,quechua_cm
+quechua_cm-etymon-53-quechua-amazonas,quechua-amazonas,tear__drop_,wiki,w i k i,,quechua_cm
+quechua_cm-etymon-54-proto-quechuan,proto-quechuan,to_escape,qiʃpi,q i ʃ p i,,quechua_cm
+quechua_cm-etymon-54-quechua-amazonas,quechua-amazonas,to_escape,kiʃpi,k i ʃ p i,,quechua_cm
+quechua_cm-etymon-55-proto-quechuan,proto-quechuan,to_forget,quŋqa,q u ŋ q a,,quechua_cm
+quechua_cm-etymon-55-quechua-amazonas,quechua-amazonas,to_forget,kuŋɡa,k u ŋ ɡ a,,quechua_cm
+quechua_cm-etymon-1-quechua-ancash,quechua-ancash,begin,paka,p a k a,,quechua_cm
+quechua_cm-etymon-2-quechua-ancash,quechua-ancash,wash,apa,a p a,,quechua_cm
+quechua_cm-etymon-3-quechua-ancash,quechua-ancash,leaf__wing,rapra,r a p r a,,quechua_cm
+quechua_cm-etymon-4-quechua-ancash,quechua-ancash,plains,pampa,p a m p a,,quechua_cm
+quechua_cm-etymon-5-quechua-ancash,quechua-ancash,ask,tapu,t a p u,,quechua_cm
+quechua_cm-etymon-6-quechua-ancash,quechua-ancash,tie,wata,w a t a,,quechua_cm
+quechua_cm-etymon-7-quechua-ancash,quechua-ancash,cotton,utka,u t k a,,quechua_cm
+quechua_cm-etymon-8-quechua-ancash,quechua-ancash,sun,inti,i n t i,,quechua_cm
+quechua_cm-etymon-9-quechua-ancash,quechua-ancash,three,kimsa,k i m s a,,quechua_cm
+quechua_cm-etymon-10-quechua-ancash,quechua-ancash,red,puka,p u k a,,quechua_cm
+quechua_cm-etymon-11-quechua-ancash,quechua-ancash,be_full__fed_up,haksa,h a k s a,,quechua_cm
+quechua_cm-etymon-12-quechua-ancash,quechua-ancash,neck,kuŋka,k u ŋ k a,,quechua_cm
+quechua_cm-etymon-13-quechua-ancash,quechua-ancash,you__sg__,qam,q a m,,quechua_cm
+quechua_cm-etymon-14-quechua-ancash,quechua-ancash,husband,qoha,q o h a,,quechua_cm
+quechua_cm-etymon-15-quechua-ancash,quechua-ancash,cry,waɢa,w a ɢ a,,quechua_cm
+quechua_cm-etymon-16-quechua-ancash,quechua-ancash,six,hoχta,h o χ t a,,quechua_cm
+quechua_cm-etymon-17-quechua-ancash,quechua-ancash,nose,heɴɢa,h e ɴ ɢ a,,quechua_cm
+quechua_cm-etymon-18-quechua-ancash,quechua-ancash,dry,t͡saki,t͡s a k i,,quechua_cm
+quechua_cm-etymon-19-quechua-ancash,quechua-ancash,kiss,mut͡sa,m u t͡s a,,quechua_cm
+quechua_cm-etymon-20-quechua-ancash,quechua-ancash,fear__be_afraid,mant͡sa,m a n t͡s a,,quechua_cm
+quechua_cm-etymon-21-quechua-ancash,quechua-ancash,to_thread,put͡ska,p u t͡s k a,,quechua_cm
+quechua_cm-etymon-22-quechua-ancash,quechua-ancash,meat,eːt͡sa,eː t͡s a,,quechua_cm
+quechua_cm-etymon-23-quechua-ancash,quechua-ancash,foot,t͡ʃaki,t͡ʃ a k i,,quechua_cm
+quechua_cm-etymon-24-quechua-ancash,quechua-ancash,send,kat͡ʃa,k a t͡ʃ a,,quechua_cm
+quechua_cm-etymon-25-quechua-ancash,quechua-ancash,ashes,ut͡ʃpa,u t͡ʃ p a,,quechua_cm
+quechua_cm-etymon-26-quechua-ancash,quechua-ancash,narrow,kit͡ʃki,k i t͡ʃ k i,,quechua_cm
+quechua_cm-etymon-27-quechua-ancash,quechua-ancash,to_step_on,haru,h a r u,,quechua_cm
+quechua_cm-etymon-28-quechua-ancash,quechua-ancash,maize__corn,hara,h a r a,,quechua_cm
+quechua_cm-etymon-29-quechua-ancash,quechua-ancash,ice,qaha,q a h a,,quechua_cm
+quechua_cm-etymon-30-quechua-ancash,quechua-ancash,nine,isqoŋ,i s q o ŋ,,quechua_cm
+quechua_cm-etymon-32-quechua-ancash,quechua-ancash,feather,ʃulʲka,ʃ u lʲ k a,,quechua_cm
+quechua_cm-etymon-33-quechua-ancash,quechua-ancash,behind,waʃa,w a ʃ a,,quechua_cm
+quechua_cm-etymon-34-quechua-ancash,quechua-ancash,two,iʃkeː,i ʃ k eː,,quechua_cm
+quechua_cm-etymon-35-quechua-ancash,quechua-ancash,big,hatuŋ,h a t u ŋ,,quechua_cm
+quechua_cm-etymon-36-quechua-ancash,quechua-ancash,fault,hut͡sa,h u t͡s a,,quechua_cm
+quechua_cm-etymon-37-quechua-ancash,quechua-ancash,sweat,humpi,h u m p i,,quechua_cm
+quechua_cm-etymon-38-quechua-ancash,quechua-ancash,pain__trouble,laki,l a k i,,quechua_cm
+quechua_cm-etymon-39-quechua-ancash,quechua-ancash,moon,kila,k i l a,,quechua_cm
+quechua_cm-etymon-40-quechua-ancash,quechua-ancash,land,alba,a l b a,,quechua_cm
+quechua_cm-etymon-41-quechua-ancash,quechua-ancash,family,ɑjlu,ɑ j l u,,quechua_cm
+quechua_cm-etymon-42-quechua-ancash,quechua-ancash,to_speak,rima,r i m a,,quechua_cm
+quechua_cm-etymon-43-quechua-ancash,quechua-ancash,far,karu,k a r u,,quechua_cm
+quechua_cm-etymon-44-quechua-ancash,quechua-ancash,woman,warmi,w a r m i,,quechua_cm
+quechua_cm-etymon-45-quechua-ancash,quechua-ancash,horn,waχra,w a χ r a,,quechua_cm
+quechua_cm-etymon-46-quechua-ancash,quechua-ancash,fire,nina,n i n a,,quechua_cm
+quechua_cm-etymon-47-quechua-ancash,quechua-ancash,black,jana,j a n a,,quechua_cm
+quechua_cm-etymon-48-quechua-ancash,quechua-ancash,young_man,wɑjna,w ɑ j n a,,quechua_cm
+quechua_cm-etymon-49-quechua-ancash,quechua-ancash,to_reprove,aŋja,a ŋ j a,,quechua_cm
+quechua_cm-etymon-50-quechua-ancash,quechua-ancash,eye,nawi,n a w i,,quechua_cm
+quechua_cm-etymon-51-quechua-ancash,quechua-ancash,to_die,wanu,w a n u,,quechua_cm
+quechua_cm-etymon-52-quechua-ancash,quechua-ancash,behind,qepa,q e p a,,quechua_cm
+quechua_cm-etymon-53-quechua-ancash,quechua-ancash,tear__drop_,weɢe,w e ɢ e,,quechua_cm
+quechua_cm-etymon-54-quechua-ancash,quechua-ancash,to_escape,qeʃpi,q e ʃ p i,,quechua_cm
+quechua_cm-etymon-56-proto-quechuan,proto-quechuan,to_give,qu,q u,,quechua_cm
+quechua_cm-etymon-56-quechua-ancash,quechua-ancash,to_give,qo,q o,,quechua_cm
+quechua_cm-etymon-55-quechua-ancash,quechua-ancash,to_forget,qoɴɢa,q o ɴ ɢ a,,quechua_cm
+quechua_cm-etymon-1-quechua-ayacucho,quechua-ayacucho,begin,paka,p a k a,,quechua_cm
+quechua_cm-etymon-2-quechua-ayacucho,quechua-ayacucho,wash,apa,a p a,,quechua_cm
+quechua_cm-etymon-3-quechua-ayacucho,quechua-ayacucho,leaf__wing,rapra,r a p r a,,quechua_cm
+quechua_cm-etymon-4-quechua-ayacucho,quechua-ayacucho,plains,pampa,p a m p a,,quechua_cm
+quechua_cm-etymon-5-quechua-ayacucho,quechua-ayacucho,ask,tapu,t a p u,,quechua_cm
+quechua_cm-etymon-6-quechua-ayacucho,quechua-ayacucho,tie,wata,w a t a,,quechua_cm
+quechua_cm-etymon-7-quechua-ayacucho,quechua-ayacucho,cotton,utka,u t k a,,quechua_cm
+quechua_cm-etymon-8-quechua-ayacucho,quechua-ayacucho,sun,inti,i n t i,,quechua_cm
+quechua_cm-etymon-9-quechua-ayacucho,quechua-ayacucho,three,kimsa,k i m s a,,quechua_cm
+quechua_cm-etymon-10-quechua-ayacucho,quechua-ayacucho,red,puka,p u k a,,quechua_cm
+quechua_cm-etymon-11-quechua-ayacucho,quechua-ayacucho,be_full__fed_up,saksa,s a k s a,,quechua_cm
+quechua_cm-etymon-12-quechua-ayacucho,quechua-ayacucho,neck,kuŋka,k u ŋ k a,,quechua_cm
+quechua_cm-etymon-13-quechua-ayacucho,quechua-ayacucho,you__sg__,χam,χ a m,,quechua_cm
+quechua_cm-etymon-14-quechua-ayacucho,quechua-ayacucho,husband,χosa,χ o s a,,quechua_cm
+quechua_cm-etymon-15-quechua-ayacucho,quechua-ayacucho,cry,waχa,w a χ a,,quechua_cm
+quechua_cm-etymon-16-quechua-ayacucho,quechua-ayacucho,six,soχta,s o χ t a,,quechua_cm
+quechua_cm-etymon-17-quechua-ayacucho,quechua-ayacucho,nose,seɴχa,s e ɴ χ a,,quechua_cm
+quechua_cm-etymon-18-quechua-ayacucho,quechua-ayacucho,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
+quechua_cm-etymon-19-quechua-ayacucho,quechua-ayacucho,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-20-quechua-ayacucho,quechua-ayacucho,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
+quechua_cm-etymon-21-quechua-ayacucho,quechua-ayacucho,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
+quechua_cm-etymon-22-quechua-ayacucho,quechua-ayacucho,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
+quechua_cm-etymon-23-quechua-ayacucho,quechua-ayacucho,foot,t͡ʃaki,t͡ʃ a k i,,quechua_cm
+quechua_cm-etymon-24-quechua-ayacucho,quechua-ayacucho,send,kat͡ʃa,k a t͡ʃ a,,quechua_cm
+quechua_cm-etymon-25-quechua-ayacucho,quechua-ayacucho,ashes,ut͡ʃpa,u t͡ʃ p a,,quechua_cm
+quechua_cm-etymon-26-quechua-ayacucho,quechua-ayacucho,narrow,kit͡ʃki,k i t͡ʃ k i,,quechua_cm
+quechua_cm-etymon-27-quechua-ayacucho,quechua-ayacucho,to_step_on,saru,s a r u,,quechua_cm
+quechua_cm-etymon-28-quechua-ayacucho,quechua-ayacucho,maize__corn,sara,s a r a,,quechua_cm
+quechua_cm-etymon-29-quechua-ayacucho,quechua-ayacucho,ice,χasa,χ a s a,,quechua_cm
+quechua_cm-etymon-30-quechua-ayacucho,quechua-ayacucho,nine,isχoŋ,i s χ o ŋ,,quechua_cm
+quechua_cm-etymon-31-quechua-ayacucho,quechua-ayacucho,pull,ɑjsa,ɑ j s a,,quechua_cm
+quechua_cm-etymon-32-quechua-ayacucho,quechua-ayacucho,feather,sulʲka,s u lʲ k a,,quechua_cm
+quechua_cm-etymon-33-quechua-ayacucho,quechua-ayacucho,behind,wasa,w a s a,,quechua_cm
+quechua_cm-etymon-34-quechua-ayacucho,quechua-ayacucho,two,iskɑj,i s k ɑ j,,quechua_cm
+quechua_cm-etymon-35-quechua-ayacucho,quechua-ayacucho,big,hatuŋ,h a t u ŋ,,quechua_cm
+quechua_cm-etymon-36-quechua-ayacucho,quechua-ayacucho,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-37-quechua-ayacucho,quechua-ayacucho,sweat,humpi,h u m p i,,quechua_cm
+quechua_cm-etymon-38-quechua-ayacucho,quechua-ayacucho,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
+quechua_cm-etymon-39-quechua-ayacucho,quechua-ayacucho,moon,kilʲa,k i lʲ a,,quechua_cm
+quechua_cm-etymon-40-quechua-ayacucho,quechua-ayacucho,land,alʲpa,a lʲ p a,,quechua_cm
+quechua_cm-etymon-41-quechua-ayacucho,quechua-ayacucho,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
+quechua_cm-etymon-42-quechua-ayacucho,quechua-ayacucho,to_speak,rima,r i m a,,quechua_cm
+quechua_cm-etymon-43-quechua-ayacucho,quechua-ayacucho,far,karu,k a r u,,quechua_cm
+quechua_cm-etymon-44-quechua-ayacucho,quechua-ayacucho,woman,warmi,w a r m i,,quechua_cm
+quechua_cm-etymon-45-quechua-ayacucho,quechua-ayacucho,horn,waχra,w a χ r a,,quechua_cm
+quechua_cm-etymon-46-quechua-ayacucho,quechua-ayacucho,fire,nina,n i n a,,quechua_cm
+quechua_cm-etymon-47-quechua-ayacucho,quechua-ayacucho,black,jana,j a n a,,quechua_cm
+quechua_cm-etymon-48-quechua-ayacucho,quechua-ayacucho,young_man,wɑjna,w ɑ j n a,,quechua_cm
+quechua_cm-etymon-49-quechua-ayacucho,quechua-ayacucho,to_reprove,aŋja,a ŋ j a,,quechua_cm
+quechua_cm-etymon-50-quechua-ayacucho,quechua-ayacucho,eye,nʲawi,nʲ a w i,,quechua_cm
+quechua_cm-etymon-51-quechua-ayacucho,quechua-ayacucho,to_die,wanʲu,w a nʲ u,,quechua_cm
+quechua_cm-etymon-52-quechua-ayacucho,quechua-ayacucho,behind,χepa,χ e p a,,quechua_cm
+quechua_cm-etymon-53-quechua-ayacucho,quechua-ayacucho,tear__drop_,weχe,w e χ e,,quechua_cm
+quechua_cm-etymon-54-quechua-ayacucho,quechua-ayacucho,to_escape,χespi,χ e s p i,,quechua_cm
+quechua_cm-etymon-56-quechua-ayacucho,quechua-ayacucho,to_give,χo,χ o,,quechua_cm
+quechua_cm-etymon-55-quechua-ayacucho,quechua-ayacucho,to_forget,χoɴχa,χ o ɴ χ a,,quechua_cm
+quechua_cm-etymon-1-quechua-cajamarca,quechua-cajamarca,begin,paka,p a k a,,quechua_cm
+quechua_cm-etymon-2-quechua-cajamarca,quechua-cajamarca,wash,apa,a p a,,quechua_cm
+quechua_cm-etymon-3-quechua-cajamarca,quechua-cajamarca,leaf__wing,rapra,r a p r a,,quechua_cm
+quechua_cm-etymon-4-quechua-cajamarca,quechua-cajamarca,plains,pamba,p a m b a,,quechua_cm
+quechua_cm-etymon-5-quechua-cajamarca,quechua-cajamarca,ask,tapu,t a p u,,quechua_cm
+quechua_cm-etymon-6-quechua-cajamarca,quechua-cajamarca,tie,wata,w a t a,,quechua_cm
+quechua_cm-etymon-7-quechua-cajamarca,quechua-cajamarca,cotton,utka,u t k a,,quechua_cm
+quechua_cm-etymon-8-quechua-cajamarca,quechua-cajamarca,sun,indi,i n d i,,quechua_cm
+quechua_cm-etymon-9-quechua-cajamarca,quechua-cajamarca,three,kimsa,k i m s a,,quechua_cm
+quechua_cm-etymon-11-quechua-cajamarca,quechua-cajamarca,be_full__fed_up,saksa,s a k s a,,quechua_cm
+quechua_cm-etymon-12-quechua-cajamarca,quechua-cajamarca,neck,kuŋɡa,k u ŋ ɡ a,,quechua_cm
+quechua_cm-etymon-13-quechua-cajamarca,quechua-cajamarca,you__sg__,qam,q a m,,quechua_cm
+quechua_cm-etymon-14-quechua-cajamarca,quechua-cajamarca,husband,qosa,q o s a,,quechua_cm
+quechua_cm-etymon-15-quechua-cajamarca,quechua-cajamarca,cry,waɢa,w a ɢ a,,quechua_cm
+quechua_cm-etymon-16-quechua-cajamarca,quechua-cajamarca,six,soχta,s o χ t a,,quechua_cm
+quechua_cm-etymon-17-quechua-cajamarca,quechua-cajamarca,nose,seɴɢa,s e ɴ ɢ a,,quechua_cm
+quechua_cm-etymon-18-quechua-cajamarca,quechua-cajamarca,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
+quechua_cm-etymon-19-quechua-cajamarca,quechua-cajamarca,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-20-quechua-cajamarca,quechua-cajamarca,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
+quechua_cm-etymon-21-quechua-cajamarca,quechua-cajamarca,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
+quechua_cm-etymon-22-quechua-cajamarca,quechua-cajamarca,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
+quechua_cm-etymon-23-quechua-cajamarca,quechua-cajamarca,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
+quechua_cm-etymon-24-quechua-cajamarca,quechua-cajamarca,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
+quechua_cm-etymon-25-quechua-cajamarca,quechua-cajamarca,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
+quechua_cm-etymon-26-quechua-cajamarca,quechua-cajamarca,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
+quechua_cm-etymon-27-quechua-cajamarca,quechua-cajamarca,to_step_on,saru,s a r u,,quechua_cm
+quechua_cm-etymon-28-quechua-cajamarca,quechua-cajamarca,maize__corn,sara,s a r a,,quechua_cm
+quechua_cm-etymon-29-quechua-cajamarca,quechua-cajamarca,ice,qasa,q a s a,,quechua_cm
+quechua_cm-etymon-30-quechua-cajamarca,quechua-cajamarca,nine,esqoŋ,e s q o ŋ,,quechua_cm
+quechua_cm-etymon-31-quechua-cajamarca,quechua-cajamarca,pull,ɑjsa,ɑ j s a,,quechua_cm
+quechua_cm-etymon-32-quechua-cajamarca,quechua-cajamarca,feather,ʃuʃka,ʃ u ʃ k a,,quechua_cm
+quechua_cm-etymon-33-quechua-cajamarca,quechua-cajamarca,behind,waʃa,w a ʃ a,,quechua_cm
+quechua_cm-etymon-34-quechua-cajamarca,quechua-cajamarca,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
+quechua_cm-etymon-35-quechua-cajamarca,quechua-cajamarca,big,atuŋ,a t u ŋ,,quechua_cm
+quechua_cm-etymon-36-quechua-cajamarca,quechua-cajamarca,fault,ut͡ʃa,u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-38-quechua-cajamarca,quechua-cajamarca,pain__trouble,ʒaki,ʒ a k i,,quechua_cm
+quechua_cm-etymon-39-quechua-cajamarca,quechua-cajamarca,moon,kiʒa,k i ʒ a,,quechua_cm
+quechua_cm-etymon-40-quechua-cajamarca,quechua-cajamarca,land,aʃpa,a ʃ p a,,quechua_cm
+quechua_cm-etymon-41-quechua-cajamarca,quechua-cajamarca,family,ɑjʒu,ɑ j ʒ u,,quechua_cm
+quechua_cm-etymon-42-quechua-cajamarca,quechua-cajamarca,to_speak,rima,r i m a,,quechua_cm
+quechua_cm-etymon-43-quechua-cajamarca,quechua-cajamarca,far,karu,k a r u,,quechua_cm
+quechua_cm-etymon-44-quechua-cajamarca,quechua-cajamarca,woman,warmi,w a r m i,,quechua_cm
+quechua_cm-etymon-45-quechua-cajamarca,quechua-cajamarca,horn,waχra,w a χ r a,,quechua_cm
+quechua_cm-etymon-46-quechua-cajamarca,quechua-cajamarca,fire,nina,n i n a,,quechua_cm
+quechua_cm-etymon-47-quechua-cajamarca,quechua-cajamarca,black,jana,j a n a,,quechua_cm
+quechua_cm-etymon-48-quechua-cajamarca,quechua-cajamarca,young_man,wɑjna,w ɑ j n a,,quechua_cm
+quechua_cm-etymon-49-quechua-cajamarca,quechua-cajamarca,to_reprove,aŋja,a ŋ j a,,quechua_cm
+quechua_cm-etymon-50-quechua-cajamarca,quechua-cajamarca,eye,nʲawi,nʲ a w i,,quechua_cm
+quechua_cm-etymon-51-quechua-cajamarca,quechua-cajamarca,to_die,wanʲu,w a nʲ u,,quechua_cm
+quechua_cm-etymon-52-quechua-cajamarca,quechua-cajamarca,behind,qepa,q e p a,,quechua_cm
+quechua_cm-etymon-56-quechua-cajamarca,quechua-cajamarca,to_give,qo,q o,,quechua_cm
+quechua_cm-etymon-55-quechua-cajamarca,quechua-cajamarca,to_forget,qoɴɢa,q o ɴ ɢ a,,quechua_cm
+quechua_cm-etymon-1-quechua-cuzco,quechua-cuzco,begin,paka,p a k a,,quechua_cm
+quechua_cm-etymon-2-quechua-cuzco,quechua-cuzco,wash,apa,a p a,,quechua_cm
+quechua_cm-etymon-3-quechua-cuzco,quechua-cuzco,leaf__wing,raɸra,r a ɸ r a,,quechua_cm
+quechua_cm-etymon-4-quechua-cuzco,quechua-cuzco,plains,pampa,p a m p a,,quechua_cm
+quechua_cm-etymon-5-quechua-cuzco,quechua-cuzco,ask,tapu,t a p u,,quechua_cm
+quechua_cm-etymon-6-quechua-cuzco,quechua-cuzco,tie,wata,w a t a,,quechua_cm
+quechua_cm-etymon-7-quechua-cuzco,quechua-cuzco,cotton,uska,u s k a,,quechua_cm
+quechua_cm-etymon-8-quechua-cuzco,quechua-cuzco,sun,inti,i n t i,,quechua_cm
+quechua_cm-etymon-9-quechua-cuzco,quechua-cuzco,three,kimsa,k i m s a,,quechua_cm
+quechua_cm-etymon-10-quechua-cuzco,quechua-cuzco,red,puka,p u k a,,quechua_cm
+quechua_cm-etymon-11-quechua-cuzco,quechua-cuzco,be_full__fed_up,saχsa,s a χ s a,,quechua_cm
+quechua_cm-etymon-12-quechua-cuzco,quechua-cuzco,neck,kuŋka,k u ŋ k a,,quechua_cm
+quechua_cm-etymon-13-quechua-cuzco,quechua-cuzco,you__sg__,qaŋ,q a ŋ,,quechua_cm
+quechua_cm-etymon-14-quechua-cuzco,quechua-cuzco,husband,qosa,q o s a,,quechua_cm
+quechua_cm-etymon-15-quechua-cuzco,quechua-cuzco,cry,waqa,w a q a,,quechua_cm
+quechua_cm-etymon-16-quechua-cuzco,quechua-cuzco,six,soχta,s o χ t a,,quechua_cm
+quechua_cm-etymon-17-quechua-cuzco,quechua-cuzco,nose,seɴqa,s e ɴ q a,,quechua_cm
+quechua_cm-etymon-18-quechua-cuzco,quechua-cuzco,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
+quechua_cm-etymon-19-quechua-cuzco,quechua-cuzco,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-20-quechua-cuzco,quechua-cuzco,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
+quechua_cm-etymon-21-quechua-cuzco,quechua-cuzco,to_thread,puska,p u s k a,,quechua_cm
+quechua_cm-etymon-22-quechua-cuzco,quechua-cuzco,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
+quechua_cm-etymon-23-quechua-cuzco,quechua-cuzco,foot,t͡ʃaki,t͡ʃ a k i,,quechua_cm
+quechua_cm-etymon-24-quechua-cuzco,quechua-cuzco,send,kat͡ʃa,k a t͡ʃ a,,quechua_cm
+quechua_cm-etymon-25-quechua-cuzco,quechua-cuzco,ashes,uspa,u s p a,,quechua_cm
+quechua_cm-etymon-26-quechua-cuzco,quechua-cuzco,narrow,kiski,k i s k i,,quechua_cm
+quechua_cm-etymon-27-quechua-cuzco,quechua-cuzco,to_step_on,saru,s a r u,,quechua_cm
+quechua_cm-etymon-28-quechua-cuzco,quechua-cuzco,maize__corn,sara,s a r a,,quechua_cm
+quechua_cm-etymon-29-quechua-cuzco,quechua-cuzco,ice,qasa,q a s a,,quechua_cm
+quechua_cm-etymon-30-quechua-cuzco,quechua-cuzco,nine,esqoŋ,e s q o ŋ,,quechua_cm
+quechua_cm-etymon-31-quechua-cuzco,quechua-cuzco,pull,ɑjsa,ɑ j s a,,quechua_cm
+quechua_cm-etymon-32-quechua-cuzco,quechua-cuzco,feather,sulʲka,s u lʲ k a,,quechua_cm
+quechua_cm-etymon-33-quechua-cuzco,quechua-cuzco,behind,wasa,w a s a,,quechua_cm
+quechua_cm-etymon-34-quechua-cuzco,quechua-cuzco,two,iskɑj,i s k ɑ j,,quechua_cm
+quechua_cm-etymon-35-quechua-cuzco,quechua-cuzco,big,hatuŋ,h a t u ŋ,,quechua_cm
+quechua_cm-etymon-36-quechua-cuzco,quechua-cuzco,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-37-quechua-cuzco,quechua-cuzco,sweat,humpi,h u m p i,,quechua_cm
+quechua_cm-etymon-38-quechua-cuzco,quechua-cuzco,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
+quechua_cm-etymon-39-quechua-cuzco,quechua-cuzco,moon,kilʲa,k i lʲ a,,quechua_cm
+quechua_cm-etymon-40-quechua-cuzco,quechua-cuzco,land,alʲpa,a lʲ p a,,quechua_cm
+quechua_cm-etymon-41-quechua-cuzco,quechua-cuzco,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
+quechua_cm-etymon-42-quechua-cuzco,quechua-cuzco,to_speak,rima,r i m a,,quechua_cm
+quechua_cm-etymon-43-quechua-cuzco,quechua-cuzco,far,karu,k a r u,,quechua_cm
+quechua_cm-etymon-44-quechua-cuzco,quechua-cuzco,woman,warmi,w a r m i,,quechua_cm
+quechua_cm-etymon-45-quechua-cuzco,quechua-cuzco,horn,waχra,w a χ r a,,quechua_cm
+quechua_cm-etymon-46-quechua-cuzco,quechua-cuzco,fire,nina,n i n a,,quechua_cm
+quechua_cm-etymon-47-quechua-cuzco,quechua-cuzco,black,jana,j a n a,,quechua_cm
+quechua_cm-etymon-48-quechua-cuzco,quechua-cuzco,young_man,wɑjna,w ɑ j n a,,quechua_cm
+quechua_cm-etymon-49-quechua-cuzco,quechua-cuzco,to_reprove,aŋja,a ŋ j a,,quechua_cm
+quechua_cm-etymon-50-quechua-cuzco,quechua-cuzco,eye,nʲawi,nʲ a w i,,quechua_cm
+quechua_cm-etymon-51-quechua-cuzco,quechua-cuzco,to_die,wanʲu,w a nʲ u,,quechua_cm
+quechua_cm-etymon-52-quechua-cuzco,quechua-cuzco,behind,qepa,q e p a,,quechua_cm
+quechua_cm-etymon-53-quechua-cuzco,quechua-cuzco,tear__drop_,weqe,w e q e,,quechua_cm
+quechua_cm-etymon-54-quechua-cuzco,quechua-cuzco,to_escape,qespi,q e s p i,,quechua_cm
+quechua_cm-etymon-56-quechua-cuzco,quechua-cuzco,to_give,qo,q o,,quechua_cm
+quechua_cm-etymon-55-quechua-cuzco,quechua-cuzco,to_forget,qoɴqa,q o ɴ q a,,quechua_cm
+quechua_cm-etymon-1-quechua-ecuador,quechua-ecuador,begin,paka,p a k a,,quechua_cm
+quechua_cm-etymon-2-quechua-ecuador,quechua-ecuador,wash,apa,a p a,,quechua_cm
+quechua_cm-etymon-3-quechua-ecuador,quechua-ecuador,leaf__wing,rapra,r a p r a,,quechua_cm
+quechua_cm-etymon-4-quechua-ecuador,quechua-ecuador,plains,pamba,p a m b a,,quechua_cm
+quechua_cm-etymon-5-quechua-ecuador,quechua-ecuador,ask,tapu,t a p u,,quechua_cm
+quechua_cm-etymon-6-quechua-ecuador,quechua-ecuador,tie,wata,w a t a,,quechua_cm
+quechua_cm-etymon-7-quechua-ecuador,quechua-ecuador,cotton,utka,u t k a,,quechua_cm
+quechua_cm-etymon-8-quechua-ecuador,quechua-ecuador,sun,indi,i n d i,,quechua_cm
+quechua_cm-etymon-9-quechua-ecuador,quechua-ecuador,three,kimsa,k i m s a,,quechua_cm
+quechua_cm-etymon-10-quechua-ecuador,quechua-ecuador,red,puka,p u k a,,quechua_cm
+quechua_cm-etymon-11-quechua-ecuador,quechua-ecuador,be_full__fed_up,saχsa,s a χ s a,,quechua_cm
+quechua_cm-etymon-12-quechua-ecuador,quechua-ecuador,neck,kuŋɡa,k u ŋ ɡ a,,quechua_cm
+quechua_cm-etymon-13-quechua-ecuador,quechua-ecuador,you__sg__,kaŋ,k a ŋ,,quechua_cm
+quechua_cm-etymon-14-quechua-ecuador,quechua-ecuador,husband,kusa,k u s a,,quechua_cm
+quechua_cm-etymon-15-quechua-ecuador,quechua-ecuador,cry,waka,w a k a,,quechua_cm
+quechua_cm-etymon-16-quechua-ecuador,quechua-ecuador,six,suxta,s u x t a,,quechua_cm
+quechua_cm-etymon-17-quechua-ecuador,quechua-ecuador,nose,siŋɡa,s i ŋ ɡ a,,quechua_cm
+quechua_cm-etymon-18-quechua-ecuador,quechua-ecuador,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
+quechua_cm-etymon-19-quechua-ecuador,quechua-ecuador,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-20-quechua-ecuador,quechua-ecuador,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
+quechua_cm-etymon-21-quechua-ecuador,quechua-ecuador,to_thread,puʃka,p u ʃ k a,,quechua_cm
+quechua_cm-etymon-22-quechua-ecuador,quechua-ecuador,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
+quechua_cm-etymon-23-quechua-ecuador,quechua-ecuador,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
+quechua_cm-etymon-24-quechua-ecuador,quechua-ecuador,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
+quechua_cm-etymon-25-quechua-ecuador,quechua-ecuador,ashes,uʃpa,u ʃ p a,,quechua_cm
+quechua_cm-etymon-26-quechua-ecuador,quechua-ecuador,narrow,kiʃki,k i ʃ k i,,quechua_cm
+quechua_cm-etymon-27-quechua-ecuador,quechua-ecuador,to_step_on,saru,s a r u,,quechua_cm
+quechua_cm-etymon-28-quechua-ecuador,quechua-ecuador,maize__corn,sara,s a r a,,quechua_cm
+quechua_cm-etymon-29-quechua-ecuador,quechua-ecuador,ice,kasa,k a s a,,quechua_cm
+quechua_cm-etymon-30-quechua-ecuador,quechua-ecuador,nine,iʃkuŋ,i ʃ k u ŋ,,quechua_cm
+quechua_cm-etymon-31-quechua-ecuador,quechua-ecuador,pull,ɑjsa,ɑ j s a,,quechua_cm
+quechua_cm-etymon-33-quechua-ecuador,quechua-ecuador,behind,waʃa,w a ʃ a,,quechua_cm
+quechua_cm-etymon-34-quechua-ecuador,quechua-ecuador,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
+quechua_cm-etymon-35-quechua-ecuador,quechua-ecuador,big,hatuŋ,h a t u ŋ,,quechua_cm
+quechua_cm-etymon-36-quechua-ecuador,quechua-ecuador,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-37-quechua-ecuador,quechua-ecuador,sweat,humbi,h u m b i,,quechua_cm
+quechua_cm-etymon-38-quechua-ecuador,quechua-ecuador,pain__trouble,ʒaki,ʒ a k i,,quechua_cm
+quechua_cm-etymon-39-quechua-ecuador,quechua-ecuador,moon,kiʒa,k i ʒ a,,quechua_cm
+quechua_cm-etymon-40-quechua-ecuador,quechua-ecuador,land,aʒpa,a ʒ p a,,quechua_cm
+quechua_cm-etymon-41-quechua-ecuador,quechua-ecuador,family,ɑjʒu,ɑ j ʒ u,,quechua_cm
+quechua_cm-etymon-42-quechua-ecuador,quechua-ecuador,to_speak,rima,r i m a,,quechua_cm
+quechua_cm-etymon-43-quechua-ecuador,quechua-ecuador,far,karu,k a r u,,quechua_cm
+quechua_cm-etymon-44-quechua-ecuador,quechua-ecuador,woman,warmi,w a r m i,,quechua_cm
+quechua_cm-etymon-46-quechua-ecuador,quechua-ecuador,fire,nina,n i n a,,quechua_cm
+quechua_cm-etymon-47-quechua-ecuador,quechua-ecuador,black,jana,j a n a,,quechua_cm
+quechua_cm-etymon-48-quechua-ecuador,quechua-ecuador,young_man,wɑjna,w ɑ j n a,,quechua_cm
+quechua_cm-etymon-49-quechua-ecuador,quechua-ecuador,to_reprove,aŋja,a ŋ j a,,quechua_cm
+quechua_cm-etymon-50-quechua-ecuador,quechua-ecuador,eye,nʲawi,nʲ a w i,,quechua_cm
+quechua_cm-etymon-51-quechua-ecuador,quechua-ecuador,to_die,wanʲu,w a nʲ u,,quechua_cm
+quechua_cm-etymon-52-quechua-ecuador,quechua-ecuador,behind,kipa,k i p a,,quechua_cm
+quechua_cm-etymon-53-quechua-ecuador,quechua-ecuador,tear__drop_,wiki,w i k i,,quechua_cm
+quechua_cm-etymon-54-quechua-ecuador,quechua-ecuador,to_escape,kiʃpi,k i ʃ p i,,quechua_cm
+quechua_cm-etymon-56-quechua-ecuador,quechua-ecuador,to_give,ku,k u,,quechua_cm
+quechua_cm-etymon-55-quechua-ecuador,quechua-ecuador,to_forget,kuŋɡa,k u ŋ ɡ a,,quechua_cm
+quechua_cm-etymon-1-quechua-junin,quechua-junin,begin,paka,p a k a,,quechua_cm
+quechua_cm-etymon-2-quechua-junin,quechua-junin,wash,apa,a p a,,quechua_cm
+quechua_cm-etymon-3-quechua-junin,quechua-junin,leaf__wing,lapla,l a p l a,,quechua_cm
+quechua_cm-etymon-4-quechua-junin,quechua-junin,plains,pampa,p a m p a,,quechua_cm
+quechua_cm-etymon-5-quechua-junin,quechua-junin,ask,tapu,t a p u,,quechua_cm
+quechua_cm-etymon-6-quechua-junin,quechua-junin,tie,wata,w a t a,,quechua_cm
+quechua_cm-etymon-7-quechua-junin,quechua-junin,cotton,utka,u t k a,,quechua_cm
+quechua_cm-etymon-8-quechua-junin,quechua-junin,sun,inti,i n t i,,quechua_cm
+quechua_cm-etymon-9-quechua-junin,quechua-junin,three,kimsa,k i m s a,,quechua_cm
+quechua_cm-etymon-10-quechua-junin,quechua-junin,red,puka,p u k a,,quechua_cm
+quechua_cm-etymon-11-quechua-junin,quechua-junin,be_full__fed_up,saksa,s a k s a,,quechua_cm
+quechua_cm-etymon-12-quechua-junin,quechua-junin,neck,kuŋka,k u ŋ k a,,quechua_cm
+quechua_cm-etymon-13-quechua-junin,quechua-junin,you__sg__,am,a m,,quechua_cm
+quechua_cm-etymon-14-quechua-junin,quechua-junin,husband,usa,u s a,,quechua_cm
+quechua_cm-etymon-15-quechua-junin,quechua-junin,cry,waʔa,w a ʔ a,,quechua_cm
+quechua_cm-etymon-16-quechua-junin,quechua-junin,six,suʔta,s u ʔ t a,,quechua_cm
+quechua_cm-etymon-17-quechua-junin,quechua-junin,nose,siŋʔa,s i ŋ ʔ a,,quechua_cm
+quechua_cm-etymon-18-quechua-junin,quechua-junin,dry,t͡ʃaki,t͡ʃ a k i,,quechua_cm
+quechua_cm-etymon-19-quechua-junin,quechua-junin,kiss,mut͡ʃa,m u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-20-quechua-junin,quechua-junin,fear__be_afraid,mant͡ʃa,m a n t͡ʃ a,,quechua_cm
+quechua_cm-etymon-21-quechua-junin,quechua-junin,to_thread,put͡ʃka,p u t͡ʃ k a,,quechua_cm
+quechua_cm-etymon-22-quechua-junin,quechua-junin,meat,ɑjt͡ʃa,ɑ j t͡ʃ a,,quechua_cm
+quechua_cm-etymon-23-quechua-junin,quechua-junin,foot,t͡ʂaki,t͡ʂ a k i,,quechua_cm
+quechua_cm-etymon-24-quechua-junin,quechua-junin,send,kat͡ʂa,k a t͡ʂ a,,quechua_cm
+quechua_cm-etymon-25-quechua-junin,quechua-junin,ashes,ut͡ʂpa,u t͡ʂ p a,,quechua_cm
+quechua_cm-etymon-26-quechua-junin,quechua-junin,narrow,kit͡ʂki,k i t͡ʂ k i,,quechua_cm
+quechua_cm-etymon-27-quechua-junin,quechua-junin,to_step_on,salu,s a l u,,quechua_cm
+quechua_cm-etymon-28-quechua-junin,quechua-junin,maize__corn,sala,s a l a,,quechua_cm
+quechua_cm-etymon-29-quechua-junin,quechua-junin,ice,asa,a s a,,quechua_cm
+quechua_cm-etymon-30-quechua-junin,quechua-junin,nine,isʔuŋ,i s ʔ u ŋ,,quechua_cm
+quechua_cm-etymon-31-quechua-junin,quechua-junin,pull,ɑjsa,ɑ j s a,,quechua_cm
+quechua_cm-etymon-32-quechua-junin,quechua-junin,feather,ʃulʲka,ʃ u lʲ k a,,quechua_cm
+quechua_cm-etymon-33-quechua-junin,quechua-junin,behind,waʃa,w a ʃ a,,quechua_cm
+quechua_cm-etymon-34-quechua-junin,quechua-junin,two,iʃkɑj,i ʃ k ɑ j,,quechua_cm
+quechua_cm-etymon-35-quechua-junin,quechua-junin,big,hatuŋ,h a t u ŋ,,quechua_cm
+quechua_cm-etymon-36-quechua-junin,quechua-junin,fault,hut͡ʃa,h u t͡ʃ a,,quechua_cm
+quechua_cm-etymon-37-quechua-junin,quechua-junin,sweat,humpi,h u m p i,,quechua_cm
+quechua_cm-etymon-38-quechua-junin,quechua-junin,pain__trouble,lʲaki,lʲ a k i,,quechua_cm
+quechua_cm-etymon-39-quechua-junin,quechua-junin,moon,kilʲa,k i lʲ a,,quechua_cm
+quechua_cm-etymon-40-quechua-junin,quechua-junin,land,alʲpa,a lʲ p a,,quechua_cm
+quechua_cm-etymon-41-quechua-junin,quechua-junin,family,ɑjlʲu,ɑ j lʲ u,,quechua_cm
+quechua_cm-etymon-42-quechua-junin,quechua-junin,to_speak,lima,l i m a,,quechua_cm
+quechua_cm-etymon-43-quechua-junin,quechua-junin,far,kalu,k a l u,,quechua_cm
+quechua_cm-etymon-44-quechua-junin,quechua-junin,woman,walmi,w a l m i,,quechua_cm
+quechua_cm-etymon-45-quechua-junin,quechua-junin,horn,waʔla,w a ʔ l a,,quechua_cm
+quechua_cm-etymon-46-quechua-junin,quechua-junin,fire,nina,n i n a,,quechua_cm
+quechua_cm-etymon-47-quechua-junin,quechua-junin,black,jana,j a n a,,quechua_cm
+quechua_cm-etymon-48-quechua-junin,quechua-junin,young_man,wɑjna,w ɑ j n a,,quechua_cm
+quechua_cm-etymon-49-quechua-junin,quechua-junin,to_reprove,aŋja,a ŋ j a,,quechua_cm
+quechua_cm-etymon-50-quechua-junin,quechua-junin,eye,nʲawi,nʲ a w i,,quechua_cm
+quechua_cm-etymon-51-quechua-junin,quechua-junin,to_die,wanʲu,w a nʲ u,,quechua_cm
+quechua_cm-etymon-52-quechua-junin,quechua-junin,behind,ipa,i p a,,quechua_cm
+quechua_cm-etymon-53-quechua-junin,quechua-junin,tear__drop_,wiʔi,w i ʔ i,,quechua_cm
+quechua_cm-etymon-54-quechua-junin,quechua-junin,to_escape,iʃpi,i ʃ p i,,quechua_cm
+quechua_cm-etymon-56-quechua-junin,quechua-junin,to_give,u,u,,quechua_cm
+quechua_cm-etymon-55-quechua-junin,quechua-junin,to_forget,uŋʔa,u ŋ ʔ a,,quechua_cm
