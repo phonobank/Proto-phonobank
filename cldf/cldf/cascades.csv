@@ -1,6 +1,16 @@
 ID,Chain_ID,Chain_Position,Source_Language_ID,Target_Language_ID,Source_Stage,Target_Stage,Target_Gold,Source
 maiden1995-italian-1,maiden1995-italian,1,latin,proto-romance,Classical Latin,Proto-Romance,false,maiden1995
 maiden1995-italian-2,maiden1995-italian,2,proto-romance,italian,Proto-Romance,"(standard, Florentine-based) Italian",,maiden1995
+marr2026-standard-albanian-1,marr2026-standard-albanian,1,archaic-proto-albanian,classical-proto-albanian,Archaic Proto-Albanian,Classical Proto-Albanian,false,marr2026
+marr2026-standard-albanian-2,marr2026-standard-albanian,2,classical-proto-albanian,middle-proto-albanian-i,Classical Proto-Albanian,Middle Proto-Albanian I,false,marr2026
+marr2026-standard-albanian-3,marr2026-standard-albanian,3,middle-proto-albanian-i,middle-proto-albanian-ii,Middle Proto-Albanian I,Middle Proto-Albanian II,false,marr2026
+marr2026-standard-albanian-4,marr2026-standard-albanian,4,middle-proto-albanian-ii,late-proto-albanian-i,Middle Proto-Albanian II,Late Proto-Albanian I,false,marr2026
+marr2026-standard-albanian-5,marr2026-standard-albanian,5,late-proto-albanian-i,late-proto-albanian-ii,Late Proto-Albanian I,Late Proto-Albanian II,false,marr2026
+marr2026-standard-albanian-6,marr2026-standard-albanian,6,late-proto-albanian-ii,late-proto-albanian-iii,Late Proto-Albanian II,Late Proto-Albanian III,false,marr2026
+marr2026-standard-albanian-7,marr2026-standard-albanian,7,late-proto-albanian-iii,proto-tosk-sgheg,Late Proto-Albanian III,Proto-Tosk-SGheg,true,marr2026
+marr2026-standard-albanian-8,marr2026-standard-albanian,8,proto-tosk-sgheg,proto-tosk,Proto-Tosk-SGheg,Proto-Tosk,true,marr2026
+marr2026-standard-albanian-9,marr2026-standard-albanian,9,proto-tosk,old-north-tosk,Proto-Tosk,Old North Tosk,true,marr2026
+marr2026-standard-albanian-10,marr2026-standard-albanian,10,old-north-tosk,standard-albanian,Old North Tosk,Standard Albanian,,marr2026
 pardess1990-daco-romanian-1,pardess1990-daco-romanian,1,latin,balkan-romance,Latin,Balkan Romance,false,pardess1990
 pardess1990-daco-romanian-2,pardess1990-daco-romanian,2,balkan-romance,common-romanian,Balkan Romance,Common Romanian,false,pardess1990
 pardess1990-daco-romanian-3,pardess1990-daco-romanian,3,common-romanian,daco-romanian,Common Romanian,Daco-Romanian,,pardess1990

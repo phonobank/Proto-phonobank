@@ -101,6 +101,532 @@ maiden1995-italian-comment20,maiden1995-italian,,,,"sporadic dissimilation of id
 maiden1995-italian-comment21,maiden1995-italian,,,,"sporadic metathesis of l into the stressed syllable (fiaba, chioma, fionda, pioppo) and of j (balia, pania, sedia).",M11.2,,true,100,maiden1995[79]
 maiden1995-italian-comment22,maiden1995-italian,,,,"plural -i of masculines (-OS) and 2sg -i of 1st/2nd/3rd conjugations - analogical. GAP: the loss of final s after unstressed o/u (TEMPUS > tempo, MINUS > meno) is not described.",M12,,true,101,maiden1995[79-83]
 maiden1995-italian-comment23,maiden1995-italian,,,,"learnèd vocabulary escapes regular development (vizio vs vezzo, aureo vs oro ...).",M13,,true,102,maiden1995[84]
+marr2026-standard-albanian-line1,marr2026-standard-albanian,"[+lo,+syl]","[+back,-front]",,,,1,false,1,marr2026
+marr2026-standard-albanian-line2,marr2026-standard-albanian,{h w ˈe;w ˈe;# ˈe},{h j ˈæ;w ˈæ;# ˈæ},"__ ([nnas,nson,-front])* [+cont,-lat,-front] ([nnas,nson,-front])* [+back,+syl]",,,2,false,2,marr2026
+marr2026-standard-albanian-line3,marr2026-standard-albanian,"[-prim,+front]",ə,"{@ [-syl];# [+son,-syl]} __ [+cons] [+syl]",,,3,false,3,marr2026
+marr2026-standard-albanian-line4,marr2026-standard-albanian,ɦ,∅,,,,4,false,4,marr2026
+marr2026-standard-albanian-line5,marr2026-standard-albanian,"[-prim,+back,-long]",ɐ,[-voi] __ (@)* [+prim],,,5,false,5,marr2026
+marr2026-standard-albanian-line6,marr2026-standard-albanian,"[-prim,+back,-long,-hi]",ɐ,"# __ [+son,+cons] [+prim]",,,6,false,6,marr2026
+marr2026-standard-albanian-line7,marr2026-standard-albanian,∅,b,m __ ([-stres]) l,,,7,false,7,marr2026
+marr2026-standard-albanian-line8,marr2026-standard-albanian,"[+front,-lo,-prim]",j,__ [+syl],,,8,false,8,marr2026
+marr2026-standard-albanian-line9,marr2026-standard-albanian,"[+hi,+front,-stres,-long]",j,[+syl] __,,,9,false,9,marr2026
+marr2026-standard-albanian-line10,marr2026-standard-albanian,"[-cont,khi,kback,-lab,tvoi] j","∅ [-son,-delrel,tvoi]",,,,10,false,10,marr2026
+marr2026-standard-albanian-line11,marr2026-standard-albanian,{c;ɟ},{t͡ʃ;d͡ʒ},,,,11,false,11,marr2026
+marr2026-standard-albanian-line12,marr2026-standard-albanian,"[-cont,-cor] s",[+cont] ∅,,,,12,false,12,marr2026
+marr2026-standard-albanian-line13,marr2026-standard-albanian,"[+syl,+long]",[+prim],"[+prim] [-syl,-lat] __ ([-syl])+ [+syl]",,,13,false,13,marr2026
+marr2026-standard-albanian-line14,marr2026-standard-albanian,[+syl],[+prim],"[+prim] [-syl,-lat] __ [-syl]  ([-syl])+ [+syl]",,,14,false,14,marr2026
+marr2026-standard-albanian-line15,marr2026-standard-albanian,[+prim],[-prim],__ (@)* [+prim],,,15,false,15,marr2026
+marr2026-standard-albanian-line16,marr2026-standard-albanian,ɑː,ɑ,,,,16,false,16,marr2026
+marr2026-standard-albanian-line17,marr2026-standard-albanian,"[+long,+lo]","[+round,+lab]",__ ([-syl])* [+syl],,,17,false,17,marr2026
+marr2026-standard-albanian-line18,marr2026-standard-albanian,ˈi,ˈe,__ ([-cont]) [-delrel] [+cont],,,18,false,18,marr2026
+marr2026-standard-albanian-line19,marr2026-standard-albanian,"[+hi,+front,+syl]",[+long],__ [-syl],,,19,false,19,marr2026
+marr2026-standard-albanian-line20,marr2026-standard-albanian,r,r r,"[+lab,-syl] [+stres] __ [+prim]",,,20,false,20,marr2026
+marr2026-standard-albanian-line21,marr2026-standard-albanian,n,b,m __,,,21,false,21,marr2026
+marr2026-standard-albanian-line22,marr2026-standard-albanian,"[-cont,+back]","[+hi,-lo]",,,,22,false,22,marr2026
+marr2026-standard-albanian-line23,marr2026-standard-albanian,w,∅,[-syl] __,,,23,false,23,marr2026
+marr2026-standard-albanian-line24,marr2026-standard-albanian,{ɡ n;n ɡ;n ɡʷ},{ŋ n;ŋ ɡ;ŋ ɡʷ},,,,1,false,24,marr2026
+marr2026-standard-albanian-line25,marr2026-standard-albanian,"[+nas] [-cont,+back,+voi]",ɲ,"__ [+front,-cons,+hi,+tense]",,,2,false,25,marr2026
+marr2026-standard-albanian-line26,marr2026-standard-albanian,ŋ [+cons],ɲ,"# ((@)* [ʊhi,ʊprim]) __ [+hi,+front]",,,3,false,26,marr2026
+marr2026-standard-albanian-line27,marr2026-standard-albanian,"[+cons,+hi] n",ɲ,# __,,,4,false,27,marr2026
+marr2026-standard-albanian-line28,marr2026-standard-albanian,"[+nas,-cor]",n,"__ [+cor,-nas]",,,5,false,28,marr2026
+marr2026-standard-albanian-line29,marr2026-standard-albanian,k,∅,[-prim] __ s,,,6,false,29,marr2026
+marr2026-standard-albanian-line30,marr2026-standard-albanian,"[+lo,βstres,ɣprim] e̯","∅ [-tense,βstres,ɣprim]",,,,7,false,30,marr2026
+marr2026-standard-albanian-line31,marr2026-standard-albanian,"[+cor,-son]",∅,"[-stres] ([+nas,+cons]) __ #",,,8,false,31,marr2026
+marr2026-standard-albanian-line32,marr2026-standard-albanian,"[+nas,+cons]",∅,[-stres] __ #,,,9,false,32,marr2026
+marr2026-standard-albanian-line33,marr2026-standard-albanian,"[+round,-lo,-hi]","[+hi,-long]","__ (r) [+nas,+cons] ([-stres]) [-son]",,,10,false,33,marr2026
+marr2026-standard-albanian-line34,marr2026-standard-albanian,"[-hi,+round] m","[-round,-lab,-back,+front] [+long]","[-back,-hi] __",,,11,false,34,marr2026
+marr2026-standard-albanian-line35,marr2026-standard-albanian,r j,ʎ,@ __ @,,,12,false,35,marr2026
+marr2026-standard-albanian-line36,marr2026-standard-albanian,{i n;ˌiː n;ˈiː n},{i n i;ˌiː n i;i n ˈiː},"# ([-front])* [+lab,+voi] ([+cor,+cont])* ([+back])  __ [+lo]",,,13,false,36,marr2026
+marr2026-standard-albanian-line37,marr2026-standard-albanian,"[-lo,+syl,-stres]","[-syl,+hi,-long]",__ [+syl],,,14,false,37,marr2026
+marr2026-standard-albanian-line38,marr2026-standard-albanian,h,s,__ j (@)* [-hi],,,15,false,38,marr2026
+marr2026-standard-albanian-line39,marr2026-standard-albanian,{l l j;l j;lː j},{ʎ;ʎ;ʎ},,,,16,false,39,marr2026
+marr2026-standard-albanian-line40,marr2026-standard-albanian,{d;t},{d͡ʒ;t͡ʃ},__ j,,,17,false,40,marr2026
+marr2026-standard-albanian-line41,marr2026-standard-albanian,[+lo],"[+round,+lab,-lo]","__ ([+hi,-lab])* s [+round,+prim]",,,18,false,41,marr2026
+marr2026-standard-albanian-line42,marr2026-standard-albanian,"[-hi,+long,+prim]","[+round,+lab]","__ [+cont,+cor] {j [+round];w}",,,19,false,42,marr2026
+marr2026-standard-albanian-line43,marr2026-standard-albanian,ˈøː,ˈɒː,"[-cor,-front,+cons] ([+son,-nas]) __",,,20,false,43,marr2026
+marr2026-standard-albanian-line44,marr2026-standard-albanian,"[+syl] [+lab,+voi,want,wcons,-nas] [+prim,+lo]",[+prim] [+lab] [-stres],,,,21,false,44,marr2026
+marr2026-standard-albanian-line45,marr2026-standard-albanian,s,h,"[+lo,-prim] ([-cons,-syl]) __ [-stres] [-son]",,,22,false,45,marr2026
+marr2026-standard-albanian-line46,marr2026-standard-albanian,h,∅,@ __ @,,,23,false,46,marr2026
+marr2026-standard-albanian-line47,marr2026-standard-albanian,ˈi,ˈiː,"__ [-syl,-cor,-nas]",,,24,false,47,marr2026
+marr2026-standard-albanian-line48,marr2026-standard-albanian,ˈi,ˈiː,__ [+nas] [+back] [+syl],,,25,false,48,marr2026
+marr2026-standard-albanian-line49,marr2026-standard-albanian,[-prim],"[+prim,+tense]","__ ([-syl])* [-prim,-long] [-syl,-lat] [+syl] ([-syl])* #",,,26,false,49,marr2026
+marr2026-standard-albanian-line50,marr2026-standard-albanian,[-prim],"[+prim,+tense]",__ ([-syl])* [+prim] ([-syl])* #,,,27,false,50,marr2026
+marr2026-standard-albanian-line51,marr2026-standard-albanian,"[+round,+prim,-hi,+back]","[+lo,+tense,-front]","__ [nnas,-nlat,-long] [-cons]",,,28,false,51,marr2026
+marr2026-standard-albanian-line52,marr2026-standard-albanian,"[+round,-prim,-hi]","[+lo,+tense]","# ((@)* [+lab,-son]) [+son,+cor] __",,,29,false,52,marr2026
+marr2026-standard-albanian-line53,marr2026-standard-albanian,"[+round,-hi]",[-long],t __ r [+syl],,,30,false,53,marr2026
+marr2026-standard-albanian-line54,marr2026-standard-albanian,"[+round,-front,-lo]","[+hi,+tense]","{f;[plab,-pstrid]} __ [-lab,+strid]",,,31,false,54,marr2026
+marr2026-standard-albanian-line55,marr2026-standard-albanian,"[-lo,+syl,-long,-cons,bback,-bfront]",[-tense],,,,32,false,55,marr2026
+marr2026-standard-albanian-line56,marr2026-standard-albanian,"[+syl,+front,+hi]",[-long],,,,33,false,56,marr2026
+marr2026-standard-albanian-line57,marr2026-standard-albanian,[+syl],[+prim],"__ [+cor,-nas,-lat] ([+son,-syl,-lab]) [+prim,-long] [-cont,-voi] (j) [+syl,+hi] #",,,34,false,57,marr2026
+marr2026-standard-albanian-line58,marr2026-standard-albanian,[+prim],[-stres],[+prim] (@)* __,,,35,false,58,marr2026
+marr2026-standard-albanian-line59,marr2026-standard-albanian,[-prim] n n [+prim],"[+prim] n n [-prim,-stres]",__ ([-syl])* [+syl] ([-syl])* [+syl],,,36,false,59,marr2026
+marr2026-standard-albanian-line60,marr2026-standard-albanian,"[+round,-lo,-prim,-hi]","[+hi,-long]",,,,37,false,60,marr2026
+marr2026-standard-albanian-line61,marr2026-standard-albanian,{ˈo;ˈɔ},{ˈɒ;ˈɒ},,,,38,false,61,marr2026
+marr2026-standard-albanian-line62,marr2026-standard-albanian,"[+syl,+front]","[-round,-lab]",,,,39,false,62,marr2026
+marr2026-standard-albanian-line63,marr2026-standard-albanian,{# j;ʒ},{# ɟ;ɟ},,,,40,false,63,marr2026
+marr2026-standard-albanian-line64,marr2026-standard-albanian,[-stres],ʊ,b __ [-cont],,,41,false,64,marr2026
+marr2026-standard-albanian-line65,marr2026-standard-albanian,b,β,"[-cons] __ ([+son,+cons]) [+syl]",,,42,false,65,marr2026
+marr2026-standard-albanian-line66,marr2026-standard-albanian,[+round],[-long],"__ [+lab,+cont] [-lo]",,,43,false,66,marr2026
+marr2026-standard-albanian-line67,marr2026-standard-albanian,"[+back,+long,+syl,-lo]","[+front,-back]",,,,1,false,67,marr2026
+marr2026-standard-albanian-line68,marr2026-standard-albanian,"[+syl,αhi,αfront,-long]","[+round,+lab]","[-cont,+round] __ ([-syl,-nas])* ([-stres] (@)*) #",,,2,false,68,marr2026
+marr2026-standard-albanian-line69,marr2026-standard-albanian,"[-syl,+son,-nas,+front] ˈɒː",ˈɒː j,"[+lab] ([-prim,-round]) __ [+nas]",,,3,false,69,marr2026
+marr2026-standard-albanian-line70,marr2026-standard-albanian,[+cons],[-sg],,,,4,false,70,marr2026
+marr2026-standard-albanian-line71,marr2026-standard-albanian,[-prim],[-stres],[+syl] (@)* __ ɡ,,,5,false,71,marr2026
+marr2026-standard-albanian-line72,marr2026-standard-albanian,ʎ,j l,"[-lo] [-syl,+hi] [+front,+prim] __",,,6,false,72,marr2026
+marr2026-standard-albanian-line73,marr2026-standard-albanian,ʎ,lː,"[-lo,-cons] __ [+hi]",,,7,false,73,marr2026
+marr2026-standard-albanian-line74,marr2026-standard-albanian,"[+back,+cons]",ʎ,"[-cons,-front] __ [-stres,+front] t",,,8,false,74,marr2026
+marr2026-standard-albanian-line75,marr2026-standard-albanian,"[+back,+cons]",ç,"{[-cont,+lab] (l);[-lat,+cont,-front]} [+syl] (n) __ [+cor,-voi,-cont]",,,9,false,75,marr2026
+marr2026-standard-albanian-line76,marr2026-standard-albanian,"[+nas,-lab] [+hi,+front,+cont,-syl]",ɲ,,,,10,false,76,marr2026
+marr2026-standard-albanian-line77,marr2026-standard-albanian,"[+prim,-round,-tense]",j ˈæ,"# [+cons,sant,sstrid] __ [+cor,-nas] [-syl,nson,nvoi,ncont,rcor,!rback] [+back]",,,11,false,77,marr2026
+marr2026-standard-albanian-line78,marr2026-standard-albanian,{# ˈæ;# ˌæ;ˈæ;ˌæ},{# j ˈa;# j ˌa;ˈa;ˌa},,,,12,false,78,marr2026
+marr2026-standard-albanian-line79,marr2026-standard-albanian,"[+cor,nnas,-nlat] [+cor,+son]",[+long] ∅,,,,13,false,79,marr2026
+marr2026-standard-albanian-line80,marr2026-standard-albanian,"[-prim,-lo,+front]",[-voi],"[+lab,+cont] ( [elat,econt,evoi] ) __ (s) (k) [+lo,+prim]",,,14,false,80,marr2026
+marr2026-standard-albanian-line81,marr2026-standard-albanian,"[-prim,-lo,+front]",[-voi],"# ((@)* [-syl]) (s [-prim,+front,-lo]) [+cons,mlab,!mstrid,!mcor,-round] __ [+cor,+son,-long] [+lo,+prim]",,,15,false,81,marr2026
+marr2026-standard-albanian-line82,marr2026-standard-albanian,∅,j,"[+syl,+front,-voi] (@)* [+lo,+prim] __",,,16,false,82,marr2026
+marr2026-standard-albanian-line83,marr2026-standard-albanian,"[+round,+lo,+prim]",ˈɔ,"[+cons,-hi] __ j",,,17,false,83,marr2026
+marr2026-standard-albanian-line84,marr2026-standard-albanian,ˈɒː j,ˈo e̯,,,,18,false,84,marr2026
+marr2026-standard-albanian-line85,marr2026-standard-albanian,[+syl],[-long],,,,19,false,85,marr2026
+marr2026-standard-albanian-line86,marr2026-standard-albanian,[+syl],[+voi],,,,20,false,86,marr2026
+marr2026-standard-albanian-line87,marr2026-standard-albanian,[-stres],∅,"[+stres] ((@)* [+voi]) [-voi,+cons] __ [-voi,+cons]",,,21,false,87,marr2026
+marr2026-standard-albanian-line88,marr2026-standard-albanian,"[-stres,-lo]",∅,"r __ [-son,-lab] [+syl]",,,22,false,88,marr2026
+marr2026-standard-albanian-line89,marr2026-standard-albanian,"[-prim,-lo]",∅,"[+back,-cont] __ [-cont,-lab] [+syl]",,,23,false,89,marr2026
+marr2026-standard-albanian-line90,marr2026-standard-albanian,"[-stres,-lo]",∅,"[+syl] [-cor,-cont] __ [-voi,-lab,+cons]",,,24,false,90,marr2026
+marr2026-standard-albanian-line91,marr2026-standard-albanian,[-prim],∅,"[+syl] n __ [+cor,-cont] [-cons]",,,25,false,91,marr2026
+marr2026-standard-albanian-line92,marr2026-standard-albanian,ɪ,∅,"[+back,-cons] n __ [-cont] [+back,-cons]",,,26,false,92,marr2026
+marr2026-standard-albanian-line93,marr2026-standard-albanian,"[-hi,+stres,afront]","[-back,+front,ahi,-lo]","[-lat,-lab] ([+lat]) __ (r) ([+lab,-syl])+ ([+son,+cons]) [+front,-stres]",,,27,false,93,marr2026
+marr2026-standard-albanian-line94,marr2026-standard-albanian,∅,j,"[+front,+syl,-lo] __ [+lo]",,,28,false,94,marr2026
+marr2026-standard-albanian-line95,marr2026-standard-albanian,[+nas],∅,"# ([+back,-syl]) [-prim,-lo] __ [-syl,tcons,!tcont,!tvoi] [-prim] ([-syl]) [+cor,llat,lcont] [+prim]",,,29,false,95,marr2026
+marr2026-standard-albanian-line96,marr2026-standard-albanian,"[+stres,+back,alo] n","[-atense,-astres] ɾ","__ [+prim,+lo]",,,30,false,96,marr2026
+marr2026-standard-albanian-line97,marr2026-standard-albanian,"[+round,+lo]","[-lo,-tense]",,,,31,false,97,marr2026
+marr2026-standard-albanian-line98,marr2026-standard-albanian,"[+lab,wround,wson,+voi]",v,"[+syl,alo,-ahi,atense] ([+nas]) __ [+front,-hi,+syl]",,,32,false,98,marr2026
+marr2026-standard-albanian-line99,marr2026-standard-albanian,"[+syl] [+lab,-strid,+voi,-nas] [+prim,-hi]",[+prim] [+lab] [-stres],__ [-syl] [-cons],,,33,false,99,marr2026
+marr2026-standard-albanian-line100,marr2026-standard-albanian,"[+syl,-round]",[+long],"__ [-son] ([+cont,-syl] [-cont,-son] (@)*) #",,,34,false,100,marr2026
+marr2026-standard-albanian-line101,marr2026-standard-albanian,"[-son,-strid]",∅,"__ ([+cont,-syl] [-cont,-son] (@)*) #",,,35,false,101,marr2026
+marr2026-standard-albanian-line102,marr2026-standard-albanian,ˈy,ˈi,__ #,,,36,false,102,marr2026
+marr2026-standard-albanian-line103,marr2026-standard-albanian,"[+syl,bprim] w [+syl,+hi,+front,-bprim]",[-stres] ∅ ˈyː,"__ [acont,-acons]",,,37,false,103,marr2026
+marr2026-standard-albanian-line104,marr2026-standard-albanian,"[+syl,-lo,bprim] w [+syl,+hi,+front,-bprim]",[-stres] ∅ ˈyː,__ #,,,38,false,104,marr2026
+marr2026-standard-albanian-line105,marr2026-standard-albanian,"[+syl] w [+syl,+hi,+front]",ˌyː,"__ [ccons,-ccont]",,,39,false,105,marr2026
+marr2026-standard-albanian-line106,marr2026-standard-albanian,"[-hi,-lo,+front,+prim] [+cont,+lab,βcons,-βson]","[+round,+lab,-lo,-tense,+long] ∅","[+son,+cons] __ ([-stres]) [+voi,+cons,-back,-lab]",,,40,false,106,marr2026
+marr2026-standard-albanian-line107,marr2026-standard-albanian,"[+delrel,+ant,+cor]","[+cont,+distr,-strid,-hi,-front]",,,,41,false,107,marr2026
+marr2026-standard-albanian-line108,marr2026-standard-albanian,"[+round,+syl]",[+tense],,,,42,false,108,marr2026
+marr2026-standard-albanian-line109,marr2026-standard-albanian,i,j,__ [+stres],,,43,false,109,marr2026
+marr2026-standard-albanian-line110,marr2026-standard-albanian,"[+hi,+front,+stres]",[+tense],"[wback,-wcons] __ ([+son,-nas]) [+back] ([-cons] (@)*) #",,,44,false,110,marr2026
+marr2026-standard-albanian-line111,marr2026-standard-albanian,"[+hi,+front,+stres]",[+tense],[+cor] __ [+cor] [+back],,,45,false,111,marr2026
+marr2026-standard-albanian-line112,marr2026-standard-albanian,"[+syl,+hi,-tense]","[-hi,+tense]",__ @,,,46,false,112,marr2026
+marr2026-standard-albanian-line113,marr2026-standard-albanian,"n [+lab,-syl,+voi,wround,wson]",m,"__ [+front,-prim]",,,47,false,113,marr2026
+marr2026-standard-albanian-line114,marr2026-standard-albanian,[-stres],∅,"[vprim] [nnas,-nlat] __ s [vcons]",,,48,false,114,marr2026
+marr2026-standard-albanian-line115,marr2026-standard-albanian,"[mnas,-mlat,-mfront]",∅,__ [+strid],,,49,false,115,marr2026
+marr2026-standard-albanian-line116,marr2026-standard-albanian,[+cons],∅,[+cons] __ [-son],,,1,false,116,marr2026
+marr2026-standard-albanian-line117,marr2026-standard-albanian,[+syl],"[+prim,+tense]","__ ([-syl])* [+prim] ([-cons,-syl,-front]) [+syl] ([-syl])* #",,,2,false,117,marr2026
+marr2026-standard-albanian-line118,marr2026-standard-albanian,[+prim],[-stres],"[+lo,+prim] [-nas] ([-syl])+ __ ([-cons,-syl]) [+syl] ([-syl])* #",,,3,false,118,marr2026
+marr2026-standard-albanian-line119,marr2026-standard-albanian,"[-prim,-hi]",ə,"# ([-son])* [-delrel,-voi,-round] __ r ([+syl]) [+prim]",,,4,false,119,marr2026
+marr2026-standard-albanian-line120,marr2026-standard-albanian,"[+back,+syl] [+cor] [+front,-hi,+prim]",ˌʊ [+cor] ˈa,__ [+nas] ([-syl])* [+lo],,,5,false,120,marr2026
+marr2026-standard-albanian-line121,marr2026-standard-albanian,ˌʊ,ʊ,# __,,,6,false,121,marr2026
+marr2026-standard-albanian-line122,marr2026-standard-albanian,"[-stres,+front,-lo]","[+hi,-tense]",[+cons] __,,,7,false,122,marr2026
+marr2026-standard-albanian-line123,marr2026-standard-albanian,w,∅,n __,,,8,false,123,marr2026
+marr2026-standard-albanian-line124,marr2026-standard-albanian,"[-prim,-long,-round,-lo]",∅,"@  [+front,-lo,-prim,+stres] [-syl,+cont] [nnas,ncont] __ [-syl] ( @ )* [+prim]",,,9,false,124,marr2026
+marr2026-standard-albanian-line125,marr2026-standard-albanian,{β;w},{b;b},"[-cons] [+cont,-nas,+cor] __",,,10,false,125,marr2026
+marr2026-standard-albanian-line126,marr2026-standard-albanian,ˌe l,ˌu lː,"[+lab,+cons] __",,,11,false,126,marr2026
+marr2026-standard-albanian-line127,marr2026-standard-albanian,d,ð,"[-cons] ([+son,-nas,+cons]) __ [βlat,βcons]",,,12,false,127,marr2026
+marr2026-standard-albanian-line128,marr2026-standard-albanian,d,r,[-prim] __ r,,,13,false,128,marr2026
+marr2026-standard-albanian-line129,marr2026-standard-albanian,"[+strid,+cor]",∅,__ r,,,14,false,129,marr2026
+marr2026-standard-albanian-line130,marr2026-standard-albanian,"[+front,+round,+prim]","[-front,+back]","[-front] __ [+nas,-lab,-back]",,,15,false,130,marr2026
+marr2026-standard-albanian-line131,marr2026-standard-albanian,w,β,,,,16,false,131,marr2026
+marr2026-standard-albanian-line132,marr2026-standard-albanian,h,∅,"# __ [-prim,+stres]",,,17,false,132,marr2026
+marr2026-standard-albanian-line133,marr2026-standard-albanian,"[+front,-prim]",ɪ,"[+lab,+cons] __ ([+cor,-son,+cont]) [+cor,-son] ([+syl] ( @ )*) [+prim]",,,18,false,133,marr2026
+marr2026-standard-albanian-line134,marr2026-standard-albanian,β,w,[-cons] __,,,19,false,134,marr2026
+marr2026-standard-albanian-line135,marr2026-standard-albanian,w,∅,"[+syl,+round] __ [+son]",,,20,false,135,marr2026
+marr2026-standard-albanian-line136,marr2026-standard-albanian,ˈe,ˈi,__ s ([-syl])* j,,,21,false,136,marr2026
+marr2026-standard-albanian-line137,marr2026-standard-albanian,{s j;s k j;# k j},{s;s c;# c},,,,22,false,137,marr2026
+marr2026-standard-albanian-line138,marr2026-standard-albanian,"∅ [+prim,+front,-hi,-lo] [+cont,+cor,-lat,-nas] j",ɪ̯ [+prim] [+cont] ∅,,,,23,false,138,marr2026
+marr2026-standard-albanian-line139,marr2026-standard-albanian,∅,ɪ̯,"@ __ [-round,-hi,+prim] {[+cons,-lab] ([-syl])* [+front,-round,-cons];[+cons,+lab] ([-syl])* j}",,,24,false,139,marr2026
+marr2026-standard-albanian-line140,marr2026-standard-albanian,∅,ɪ̯,"# __ [+prim,-hi] ([-syl])* [+front,-round,-cons] (@)* [+syl]",,,25,false,140,marr2026
+marr2026-standard-albanian-line141,marr2026-standard-albanian,∅,ɪ̯,"s __ ˌɑ [+cor,+son,-nas] ([+cons]) [+front,-cons,-lo,-round]",,,26,false,141,marr2026
+marr2026-standard-albanian-line142,marr2026-standard-albanian,k,ɡ,[+strid] __ ɪ̯,,,27,false,142,marr2026
+marr2026-standard-albanian-line143,marr2026-standard-albanian,j,∅,"[+cons,+front] __",,,28,false,143,marr2026
+marr2026-standard-albanian-line144,marr2026-standard-albanian,∅,j,"[+son,+cor,-lat,-nas] ([-cons])* [+delrel] __ [+prim]",,,29,false,144,marr2026
+marr2026-standard-albanian-line145,marr2026-standard-albanian,ɪ̯,∅,"[-cons] [-syl,-lat,-front] __ [+syl] [+front]",,,30,false,145,marr2026
+marr2026-standard-albanian-line146,marr2026-standard-albanian,j,ɪ̯,__ ɑ,,,31,false,146,marr2026
+marr2026-standard-albanian-line147,marr2026-standard-albanian,"[+front,-syl,-cons]",∅,"[-syl] [+syl] ([-syl])* [-cons] r __ [-prim,+round]",,,32,false,147,marr2026
+marr2026-standard-albanian-line148,marr2026-standard-albanian,r,rː,[-cons] __ j [-cons],,,33,false,148,marr2026
+marr2026-standard-albanian-line149,marr2026-standard-albanian,"[+front,-syl,-cons]",∅,"[+cons,+lab] __ [eprim,-eround]",,,34,false,149,marr2026
+marr2026-standard-albanian-line150,marr2026-standard-albanian,"[+front,-syl,-cons]",∅,"[+lab,-voi] [+son] __ [+syl]",,,35,false,150,marr2026
+marr2026-standard-albanian-line151,marr2026-standard-albanian,"[+front,-syl,-cons]",∅,"[-cor] [-prim,+back] [+cons,+son,-nas] __ [+syl]",,,36,false,151,marr2026
+marr2026-standard-albanian-line152,marr2026-standard-albanian,"[+back,-lab,-cont]","[-back,+front]","@ __ [+front,-lo,-cons]",,,37,false,152,marr2026
+marr2026-standard-albanian-line153,marr2026-standard-albanian,"[+front,-syl,-cons]",∅,"[+son,+cons,-front,-nas] __ [+prim] [-front,-voi]",,,38,false,153,marr2026
+marr2026-standard-albanian-line154,marr2026-standard-albanian,"[-son,+back]","[-lab,-round]",,,,39,false,154,marr2026
+marr2026-standard-albanian-line155,marr2026-standard-albanian,j,ɪ̯,"[-lab,-syl] __ [+stres,-hi]",,,40,false,155,marr2026
+marr2026-standard-albanian-line156,marr2026-standard-albanian,"∅ [-round,-hi,+stres] j",ɪ̯ [+syl] ∅,__ ([+cons] (@)*) #,,,41,false,156,marr2026
+marr2026-standard-albanian-line157,marr2026-standard-albanian,ɪ̯,∅,ɪ̯ __,,,42,false,157,marr2026
+marr2026-standard-albanian-line158,marr2026-standard-albanian,"ɪ̯ [afront,+stres]","∅ [-lo,ahi,-back,+front,+tense]",,,,43,false,158,marr2026
+marr2026-standard-albanian-line159,marr2026-standard-albanian,ɪ̯,j,,,,44,false,159,marr2026
+marr2026-standard-albanian-line160,marr2026-standard-albanian,s,z,"@ __ [+voi,+lab,-syl]",,,45,false,160,marr2026
+marr2026-standard-albanian-line161,marr2026-standard-albanian,s,z,"__ [-syl,+voi,-lab,-lat]",,,46,false,161,marr2026
+marr2026-standard-albanian-line162,marr2026-standard-albanian,{w;β},{∅;∅},"[-back,-voi] __",,,47,false,162,marr2026
+marr2026-standard-albanian-line163,marr2026-standard-albanian,ʎ,ð j,__ (@)* [+lat],,,48,false,163,marr2026
+marr2026-standard-albanian-line164,marr2026-standard-albanian,∅,h,"# __ [-prim,-round] [+voi,+cons,-lat,-nas] ([-syl,mnas,mlab]) [+front,-prim] (@)* [+prim,+back]",,,49,false,164,marr2026
+marr2026-standard-albanian-line165,marr2026-standard-albanian,[-prim] n,"[+lo,-hi,+nas,-front,+back,+tense,-round,-lab] ɾ̃",__ [-stres],,,50,false,165,marr2026
+marr2026-standard-albanian-line166,marr2026-standard-albanian,[-stres] n,ɑ̃ ɾ̃,[-lat] __ [+prim],,,51,false,166,marr2026
+marr2026-standard-albanian-line167,marr2026-standard-albanian,"[-prim,+round]",[+long],# __ [-lab],,,52,false,167,marr2026
+marr2026-standard-albanian-line168,marr2026-standard-albanian,[+lo],[+long],"# __ [+cor,+voi,anas,-acont] ([-syl,bnas,-bcont])* ([-prim] ([-syl])*) [+prim]",,,53,false,168,marr2026
+marr2026-standard-albanian-line169,marr2026-standard-albanian,"[-prim,-long,-cons]",∅,# __,,,54,false,169,marr2026
+marr2026-standard-albanian-line170,marr2026-standard-albanian,"[-cons,-syl]",∅,# __ [+cons],,,55,false,170,marr2026
+marr2026-standard-albanian-line171,marr2026-standard-albanian,∅,ə,"# __ [+son,+cons] [+cons,nnas,nson]",,,56,false,171,marr2026
+marr2026-standard-albanian-line172,marr2026-standard-albanian,r,l,# ((@)* [+cons]) r [+back] __ [+back],,,57,false,172,marr2026
+marr2026-standard-albanian-line173,marr2026-standard-albanian,{w r;r},{rː;rː},# __,,,58,false,173,marr2026
+marr2026-standard-albanian-line174,marr2026-standard-albanian,ç,j,,,,59,false,174,marr2026
+marr2026-standard-albanian-line175,marr2026-standard-albanian,"[+syl,αround,αtense,-back] [-syl,-cons,+front,+hi,+tense]","[+hi,-lo,+tense] ∅",,,,60,false,175,marr2026
+marr2026-standard-albanian-line176,marr2026-standard-albanian,[-prim],"[+nas,-lo,-back,+front]","# m __ [-son,-strid,-back] ([-syl])* [+prim]",,,61,false,176,marr2026
+marr2026-standard-albanian-line177,marr2026-standard-albanian,"[+stres,-prim,-back,-long]",ɪ,"# ((@)* [-voi]) [+son,+cor,-nas,-lab] __ [+strid] [vsyl,vson]",,,62,false,177,marr2026
+marr2026-standard-albanian-line178,marr2026-standard-albanian,"[+lo,-round,-nas,+tense]","[+front,-back]",,,,63,false,178,marr2026
+marr2026-standard-albanian-line179,marr2026-standard-albanian,"[+stres,-prim,-back,-long]",ɪ,"# [+cons,mnas,mlab,-mlat] __ [+strid] [vsyl,vson]",,,64,false,179,marr2026
+marr2026-standard-albanian-line180,marr2026-standard-albanian,"[+lo,+stres,-prim] w",ə,__ [+strid] [+prim],,,65,false,180,marr2026
+marr2026-standard-albanian-line181,marr2026-standard-albanian,"[-prim,+stres,-round]",ə,"[-cont] [+lat] __ [mnas,mson,+cons]",,,66,false,181,marr2026
+marr2026-standard-albanian-line182,marr2026-standard-albanian,t͡ʃ,t͡s,# __,,,1,false,182,marr2026
+marr2026-standard-albanian-line183,marr2026-standard-albanian,ˌɒ,∅,"# __ [+lab] [-stres,-lo] [-syl,+son]",,,2,false,183,marr2026
+marr2026-standard-albanian-line184,marr2026-standard-albanian,ʊ,∅,__ @,,,3,false,184,marr2026
+marr2026-standard-albanian-line185,marr2026-standard-albanian,ɒ,ʊ,"@ __ [+cons,+son]",,,4,false,185,marr2026
+marr2026-standard-albanian-line186,marr2026-standard-albanian,ˈɒ,ˈɔ,"[ason,-back] __ ([+cor]) [-ason,+back] [+lo]",,,5,false,186,marr2026
+marr2026-standard-albanian-line187,marr2026-standard-albanian,l,lˠ,[+back] [+lo] __ [+lab],,,6,false,187,marr2026
+marr2026-standard-albanian-line188,marr2026-standard-albanian,"[+prim,+front,-tense,-round,-hi]",j ˈa,"# ([mnas,mcont])* __ {[+cor,+cont,-son];[+cor,+cont,-nas] ([mnas,mcont,mvoi])+} [alo,-around,+syl]",,,7,false,188,marr2026
+marr2026-standard-albanian-line189,marr2026-standard-albanian,"[+syl,+nas] ∅","[-round,-lab,-nas,+tense] n",__ ([-nas] (@)*) #,,,8,false,189,marr2026
+marr2026-standard-albanian-line190,marr2026-standard-albanian,"[+lo,+stres,-nas]","[-round,-lab]",@ __ ([+cor]) [+hi] [-round],,,9,false,190,marr2026
+marr2026-standard-albanian-line191,marr2026-standard-albanian,"∅ [-cont,+back] [+cor,+son,-lat,-nas]",ɾ [+back] ∅,[-strid] [-cons] __ [+prim],,,10,false,191,marr2026
+marr2026-standard-albanian-line192,marr2026-standard-albanian,ʊ,ə,__ #,,,11,false,192,marr2026
+marr2026-standard-albanian-line193,marr2026-standard-albanian,"[+lo,+round,-nas]","[-lo,-tense]","__ [+voi,+cons,-nas] [-tense,+hi,-stres]",,,12,false,193,marr2026
+marr2026-standard-albanian-line194,marr2026-standard-albanian,[-stres],ɪ,"[+voi] [+son,+cor] ˈi [+lab] __ @",,,13,false,194,marr2026
+marr2026-standard-albanian-line195,marr2026-standard-albanian,ɪ,∅,"[+hi,+front] w __",,,14,false,195,marr2026
+marr2026-standard-albanian-line196,marr2026-standard-albanian,w,v,[+syl] __ ([+back])* [+lo] #,,,15,false,196,marr2026
+marr2026-standard-albanian-line197,marr2026-standard-albanian,"[-tense,+lo,+front]","[+hi,-lo,+tense,+long]","[ason,+cons] __ [ason,+cons]",,,16,false,197,marr2026
+marr2026-standard-albanian-line198,marr2026-standard-albanian,"[+lo,-tense,+syl,+front]","[-lo,+tense,+long]","[+cons,-strid] ([-cons]) __ [-syl] [+front]",,,17,false,198,marr2026
+marr2026-standard-albanian-line199,marr2026-standard-albanian,"[+stres,βround,-βhi] w [-stres]","[+round,+lab,+back,-front,-βtense,-lo] ə̯ ∅",,,,18,false,199,marr2026
+marr2026-standard-albanian-line200,marr2026-standard-albanian,[+stres] w,[+long] ∅,,,,19,false,200,marr2026
+marr2026-standard-albanian-line201,marr2026-standard-albanian,"[+front,-lo,-prim,-round]",j,"[-cor,uhi,-ulo,asyl] __ [+son,-asyl]",,,20,false,201,marr2026
+marr2026-standard-albanian-line202,marr2026-standard-albanian,"[+lo,-nas,-prim]","[-round,-lab]","@ __ [-son] ([-son]) [+syl,-front]",,,21,false,202,marr2026
+marr2026-standard-albanian-line203,marr2026-standard-albanian,s,t͡s,"[+cons] __ [+cons,-cor]",,,22,false,203,marr2026
+marr2026-standard-albanian-line204,marr2026-standard-albanian,∅,ɑ,"[-cor,+cons] [+back,-hi,-prim] r __ [+lab,-syl]",,,23,false,204,marr2026
+marr2026-standard-albanian-line205,marr2026-standard-albanian,{ˌɒ lˠ;ɒ r;ˌɑ lˠ;ˌɑ r},{lˠ ˌɑː;r ˌɑː;lˠ ˌɑː;r ˌɑː},"[-cor,-syl,+cons] __ [+lab,-syl]",,,24,false,205,marr2026
+marr2026-standard-albanian-line206,marr2026-standard-albanian,{# ˌɒ l;ˌɒ l;# ˌɒ lˠ;ˌɒ lˠ;# ˌɒ r;ˌɒ r;# ˌɒ ɾ;ˌɒ ɾ;ˈɒ l;ˈɒ lˠ;ˈɒ r;ˈɒ ɾ},{# l ˌɑː;l ˌɑː;# lˠ ˌɑː;lˠ ˌɑː;# r ˌɑː;r ˌɑ;# ɾ ˌɑː;ɾ ˌɑ;l ˈɑː;lˠ ˈɑː;r ˈɑ;ɾ ˈɑ},"__ [-syl] ([+lab,-syl] (@)*) (([-stres]) [-syl] (@)*) ([-stres,-lo]) #",,,25,false,206,marr2026
+marr2026-standard-albanian-line207,marr2026-standard-albanian,"[+lo,+round,-nas,+stres]","[-round,-lab]","[+back,+cons] __ [+cons,-nas,-lab] [-nas]",,,26,false,207,marr2026
+marr2026-standard-albanian-line208,marr2026-standard-albanian,s,ʃ,,,,27,false,208,marr2026
+marr2026-standard-albanian-line209,marr2026-standard-albanian,{ˈɒ;ˈæ},{β ˈɔ;j ˈæ},# __,,,28,false,209,marr2026
+marr2026-standard-albanian-line210,marr2026-standard-albanian,"[+lo,+syl,-long,-tense]","[+tense,-front,+back]",,,,29,false,210,marr2026
+marr2026-standard-albanian-line211,marr2026-standard-albanian,"[+lo,-prim,-round,+stres,-long]","[-tense,+back,-front]","[-wfront,wlab] __ ( ( [Llat,-Lcg] ) ( [-Lback,çstrid,çcor,-cont] (r) ) ) [+tense,+prim]",,,30,false,211,marr2026
+marr2026-standard-albanian-line212,marr2026-standard-albanian,"[+front,+stres,-prim]",[+long],"[sfront,-slab] __ [+lat] {[-prim];[-syl]}",,,31,false,212,marr2026
+marr2026-standard-albanian-line213,marr2026-standard-albanian,"[-prim,+stres,-round,-long]",ə,"# [-nas,+cons] __ [+cor,+son,-nas] [-son,sstrid,scor]",,,32,false,213,marr2026
+marr2026-standard-albanian-line214,marr2026-standard-albanian,"[+syl,+round,-hi,-lo]",[-tense],,,,33,false,214,marr2026
+marr2026-standard-albanian-line215,marr2026-standard-albanian,"[+prim,-tense]",[+long],# __,,,34,false,215,marr2026
+marr2026-standard-albanian-line216,marr2026-standard-albanian,ˈɛ,ˈɛː,[+strid] t __ [+lat],,,35,false,216,marr2026
+marr2026-standard-albanian-line217,marr2026-standard-albanian,ˈɛ,ˈɛː,"[rson,rnas] __  {[+cor,-lat,-nas] [+strid,+cont];([+cor,-lat,-nas]) [-delrel,-hi,-voi]} [+son]",,,36,false,217,marr2026
+marr2026-standard-albanian-line218,marr2026-standard-albanian,"[+prim,-lo,-hi,-round]","[+long,-tense]","[nson,nnas] __   (r) [+voi,+cons,-son] ([+hi,-back,-nas]) [+back]",,,37,false,218,marr2026
+marr2026-standard-albanian-line219,marr2026-standard-albanian,"[-prim,-nas]",[-long],# __,,,38,false,219,marr2026
+marr2026-standard-albanian-line220,marr2026-standard-albanian,"[+stres,-prim]",[+long],"[+nas] __ [+cor,-delrel]",,,39,false,220,marr2026
+marr2026-standard-albanian-line221,marr2026-standard-albanian,"[+stres,-prim,+lo,-round,-nas,-long]",ɐ,"[-back] __ [-cont,-voi] [+cont]",,,40,false,221,marr2026
+marr2026-standard-albanian-line222,marr2026-standard-albanian,"[-son,acont,blab,chi]",∅,"__ [-son,acont,blab,chi]",,,41,false,222,marr2026
+marr2026-standard-albanian-line223,marr2026-standard-albanian,r,rː,"# __ {[+lo] [+cons,-cor];[+round,-lo]}",,,42,false,223,marr2026
+marr2026-standard-albanian-line224,marr2026-standard-albanian,r,ɾ,,,,43,false,224,marr2026
+marr2026-standard-albanian-line225,marr2026-standard-albanian,[+syl],[+stres],"[+lo,+back,+stres,-prim] [+son,-cont] __",,,44,false,225,marr2026
+marr2026-standard-albanian-line226,marr2026-standard-albanian,"[-stres,-cons,-lo]",∅,"[+syl] (@)* __ [+nas,+cont,+cons] [-cons]",,,45,false,226,marr2026
+marr2026-standard-albanian-line227,marr2026-standard-albanian,"[+back,-cont]","[-back,+front]","__ [+front,-lo,-cons]",,,46,false,227,marr2026
+marr2026-standard-albanian-line228,marr2026-standard-albanian,"[-hi,+round,+back]",[+long],# __ [-lab],,,47,false,228,marr2026
+marr2026-standard-albanian-line229,marr2026-standard-albanian,ð,∅,[-prim] __ [+prim],,,48,false,229,marr2026
+marr2026-standard-albanian-line230,marr2026-standard-albanian,∅,j,"[+hi,+front,-round,-prim] __ [-hi,+syl] (@)* [+syl]",,,49,false,230,marr2026
+marr2026-standard-albanian-line231,marr2026-standard-albanian,"[+syl] [-stres,-lo]",[+syl] ∅,,,,50,false,231,marr2026
+marr2026-standard-albanian-line232,marr2026-standard-albanian,"[+stres,-prim,+lo]",[-long],__ [+syl],,,51,false,232,marr2026
+marr2026-standard-albanian-line233,marr2026-standard-albanian,"[+stres,-prim,-long] [+syl]","ə [+long,+stres]",,,,52,false,233,marr2026
+marr2026-standard-albanian-line234,marr2026-standard-albanian,"[+hi,-prim,-back,+tense]",[+long],"[+hi,-son] ( [-prim] ) ( [+cor,-lat] )* __ [nnas,-nhi] (@)* [+prim]",,,53,false,234,marr2026
+marr2026-standard-albanian-line235,marr2026-standard-albanian,"[+hi,+front,-prim,+stres]",[+long],"[+cor,+front] ([+cons]) __ ([+cor])* [+syl]",,,54,false,235,marr2026
+marr2026-standard-albanian-line236,marr2026-standard-albanian,"[-prim,-lo,+front,-round]",ˌiː,"# ([-syl])* [+lab,-son] __ [+front,-syl] (t) [+syl,alo,afront] [-nas]",,,55,false,236,marr2026
+marr2026-standard-albanian-line237,marr2026-standard-albanian,"[+front,+hi,-long,-prim]",∅,[-son] __ j [+syl],,,56,false,237,marr2026
+marr2026-standard-albanian-line238,marr2026-standard-albanian,"[+hi,-syl] [+front,+cons,+delrel]","∅ [-cor,-delrel,+hi,-strid]",,,,57,false,238,marr2026
+marr2026-standard-albanian-line239,marr2026-standard-albanian,d,ð,"[-cons] ([+son,-nas,+cons]) __ [βlat,βcons]",,,58,false,239,marr2026
+marr2026-standard-albanian-line240,marr2026-standard-albanian,ɐ,ˌæ,"[+syl,+front,-lo] ([-syl])* __",,,59,false,240,marr2026
+marr2026-standard-albanian-line241,marr2026-standard-albanian,"[-prim,+back,-long,-nas,-hi]",ɐ,"@ [+front,-lo,-prim] ( [-syl] )* [-syl] __ [-syl] ( @ )* [+prim]",,,60,false,241,marr2026
+marr2026-standard-albanian-line242,marr2026-standard-albanian,"[+prim,+back,+round] e̯",ˈœː,,,,61,false,242,marr2026
+marr2026-standard-albanian-line243,marr2026-standard-albanian,"ð [+front,-lo,-stres]",j,"[+stres,+front,-lo] __ ([+cor] (@)*) #",,,62,false,243,marr2026
+marr2026-standard-albanian-line244,marr2026-standard-albanian,j,∅,"[+hi,+syl,+front] __ ([+cons] (@)*) #",,,63,false,244,marr2026
+marr2026-standard-albanian-line245,marr2026-standard-albanian,n,ɾ̃,"[+syl,-hi] __ [+syl]",,,64,false,245,marr2026
+marr2026-standard-albanian-line246,marr2026-standard-albanian,"[+round,-front,-prim]",[+long],"[+hi,-son] __ [-lat] (@)* [+prim]",,,65,false,246,marr2026
+marr2026-standard-albanian-line247,marr2026-standard-albanian,"[-prim,+front,-long,-lo]",ɪ,[+syl] (@)* __ (@)* [+prim],,,66,false,247,marr2026
+marr2026-standard-albanian-line248,marr2026-standard-albanian,"[-prim,+back,-lo,-hi,-long]",ə,[+syl] (@)* __ (@)* [+prim],,,67,false,248,marr2026
+marr2026-standard-albanian-line249,marr2026-standard-albanian,"[-prim,+round,+hi,-long]",ə,"[+syl] (@)* [+cor,rson,-rstrid] __ (@)* [+prim]",,,68,false,249,marr2026
+marr2026-standard-albanian-line250,marr2026-standard-albanian,"[-prim,+round,+hi,-long]",ə,"[+syl] (@)* __ [βcons,-βson] (@)* [+prim]",,,69,false,250,marr2026
+marr2026-standard-albanian-line251,marr2026-standard-albanian,"[-stres,+lo,-long]",ə,@ __ (@)* [+prim],,,70,false,251,marr2026
+marr2026-standard-albanian-line252,marr2026-standard-albanian,"[-prim,+front,-long]",ə,"[+cons,+son,mnas,mlab] __ [+cons,+son,-front] (@)* [+prim]",,,71,false,252,marr2026
+marr2026-standard-albanian-line253,marr2026-standard-albanian,{ˌɛ;ˌe},{ˌɛː;ˌɛː},"[+lab,+cons] __ t [+prim]",,,72,false,253,marr2026
+marr2026-standard-albanian-line254,marr2026-standard-albanian,{ˌɛ;ˌe},{ˌɛː;ˌɛː},p __ [-son] ([+cons]) [+prim],,,73,false,254,marr2026
+marr2026-standard-albanian-line255,marr2026-standard-albanian,{ð j;l j;lː j},{ʎ;ʎ;ʎ},,,,74,false,255,marr2026
+marr2026-standard-albanian-line256,marr2026-standard-albanian,"[-prim,+front,-lo,-long]",ɪ,"[+cons,-son,-hi] __ [-nas,+cons] (@)* [+prim]",,,75,false,256,marr2026
+marr2026-standard-albanian-line257,marr2026-standard-albanian,"[-prim,+front,-lo,-long]",ɪ,"[-son,-hi] __ [+nas,+cons] ([+cont] (@)*) [+prim]",,,76,false,257,marr2026
+marr2026-standard-albanian-line258,marr2026-standard-albanian,"[+lo,-prim,-long]",ə,"[+lab,-son,+cont] __ [+cor,+son] (@)* [+prim]",,,77,false,258,marr2026
+marr2026-standard-albanian-line259,marr2026-standard-albanian,"[+lo,-prim,-long]",ə,p __ [+lat] (@)* [+prim],,,78,false,259,marr2026
+marr2026-standard-albanian-line260,marr2026-standard-albanian,"[-prim,+front,-long]",ə,"# [-son,+hi] __ [+son,+cons] ([+cor]) [+prim]",,,79,false,260,marr2026
+marr2026-standard-albanian-line261,marr2026-standard-albanian,"[+strid,+cor]",∅,ʃ __,,,80,false,261,marr2026
+marr2026-standard-albanian-line262,marr2026-standard-albanian,"[+prim,+hi]","[-hi,-tense]","[-cont,+cor] __ [-ant,+strid] [+lo]",,,81,false,262,marr2026
+marr2026-standard-albanian-line263,marr2026-standard-albanian,"[+strid,+cor,+voi]",d͡ʒ,,,,82,false,263,marr2026
+marr2026-standard-albanian-line264,marr2026-standard-albanian,"[+lab,-cont]",ð,[+round] __ [-cont],,,83,false,264,marr2026
+marr2026-standard-albanian-line265,marr2026-standard-albanian,"[-ant,+distr,+delrel]","[+ant,-distr,+cont,-front,-lab,-round]",,,,84,false,265,marr2026
+marr2026-standard-albanian-line266,marr2026-standard-albanian,t͡s,t͡ʃ,# __ ([-cons])* [+cor] [+cor] [-front],,,85,false,266,marr2026
+marr2026-standard-albanian-line267,marr2026-standard-albanian,"[-stres,-cons]",∅,"[+cons,dcor,blab,tson,nnas,llat,scont] __ [+cons,dcor,blab,tson,nnas,llat,scont] [-strid]",,,86,false,267,marr2026
+marr2026-standard-albanian-line268,marr2026-standard-albanian,[-cons],[+nas],"__ [+nas,+cons]",,,87,false,268,marr2026
+marr2026-standard-albanian-line269,marr2026-standard-albanian,"[+lo,-stres,-long,-round]",ɐ,__ (@)* [+syl],,,88,false,269,marr2026
+marr2026-standard-albanian-line270,marr2026-standard-albanian,"[-stres,-lo]",∅,"[-son,+cons,+cont,-strid] __ [+lat,-long] [+syl]",,,89,false,270,marr2026
+marr2026-standard-albanian-line271,marr2026-standard-albanian,"[+cor,+son,-nas,-lat]",ɾ,"# __ [+syl] [+cons,-cor,+voi] [khi,-kcont,-knas]",,,1,false,271,marr2026
+marr2026-standard-albanian-line272,marr2026-standard-albanian,l,lˠ,"# __ [+syl,+back,ɯhi,-ɯround] [+cons,mvoi,mson]",,,2,false,272,marr2026
+marr2026-standard-albanian-line273,marr2026-standard-albanian,"[+round,+stres]","[+front,-back,+long]","[-voi,-front] [+son,+cons,+front] __",,,3,false,273,marr2026
+marr2026-standard-albanian-line274,marr2026-standard-albanian,"[+hi,-stres]",ɐ,"[-delrel,-hi,plab] [+prim,-plab] [+son,+cor,-nas,-lat] [+son] __",,,4,false,274,marr2026
+marr2026-standard-albanian-line275,marr2026-standard-albanian,"[+syl,ɯback,+hi,-lat,-front]","[ɯround,ɯlab,-ɯfront]",,,,5,false,275,marr2026
+marr2026-standard-albanian-line276,marr2026-standard-albanian,l,lˠ,"[-cons] ([+cor,+cont,-lat]) __ (m) [-front,+syl]",,,6,false,276,marr2026
+marr2026-standard-albanian-line277,marr2026-standard-albanian,"[+prim,-lo]",[+long],"__ [+cor,+son,-long,ɣlat,ɣback] ([-lo,-cons]) #",,,7,false,277,marr2026
+marr2026-standard-albanian-line278,marr2026-standard-albanian,"[+nas,+cor]",nː,"[βlab,-βfront,ʟson,ʟcont,-nas] [+syl,+stres,βhi] __ ([+syl] (@)*) #",,,8,false,278,marr2026
+marr2026-standard-albanian-line279,marr2026-standard-albanian,ʎ,l,"# ([+strid,+cor]) (([+lab,uhi,ucont])+ ([-prim])) __ [-cons]",,,9,false,279,marr2026
+marr2026-standard-albanian-line280,marr2026-standard-albanian,l,lˠ,[-cons] __ [+lo],,,10,false,280,marr2026
+marr2026-standard-albanian-line281,marr2026-standard-albanian,{ɐ;ˌɐ},{∅;∅},# __,,,11,false,281,marr2026
+marr2026-standard-albanian-line282,marr2026-standard-albanian,ˈã,ˈɛ̃,"[+cor] __ [+nas,+hi,+cons]",,,12,false,282,marr2026
+marr2026-standard-albanian-line283,marr2026-standard-albanian,"[+lo,-round,-long,+prim] ɲ",[+long] j,__ @,,,13,false,283,marr2026
+marr2026-standard-albanian-line284,marr2026-standard-albanian,ɣ,j,"__ [+front,+hi]",,,14,false,284,marr2026
+marr2026-standard-albanian-line285,marr2026-standard-albanian,"[+son,+cor,-nas]",∅,__  ɲ,,,15,false,285,marr2026
+marr2026-standard-albanian-line286,marr2026-standard-albanian,"[+cor,+nas,+son] [+front,+son,-syl]",ɲ,,,,16,false,286,marr2026
+marr2026-standard-albanian-line287,marr2026-standard-albanian,"[+front,-stres,-lo,-hi]",ə,{w;[+cons]} __,,,17,false,287,marr2026
+marr2026-standard-albanian-line288,marr2026-standard-albanian,"[+hi,+cont,-son]",[-delrel],[-son] __,,,18,false,288,marr2026
+marr2026-standard-albanian-line289,marr2026-standard-albanian,ɣ,ɡ,,,,19,false,289,marr2026
+marr2026-standard-albanian-line290,marr2026-standard-albanian,{ə̃;ˌə̃},{∅;∅},"@ [+syl] (@)* [+cor,+son,-lat,-nas] __ [+nas,+cor] (@)* [+prim]",,,20,false,290,marr2026
+marr2026-standard-albanian-line291,marr2026-standard-albanian,∅,ə,"[+cont] [-cont] __ [+nas,+cons] ([-son])+ [+stres]",,,21,false,291,marr2026
+marr2026-standard-albanian-line292,marr2026-standard-albanian,"[+cor,+son,-lat,-nas] [+nas,+cor]",rː,,,,22,false,292,marr2026
+marr2026-standard-albanian-line293,marr2026-standard-albanian,"ɾ [+cor,-lat,+son]",rː,,,,23,false,293,marr2026
+marr2026-standard-albanian-line294,marr2026-standard-albanian,ɪ,i,"[+cor,+son,-nas,-lat] __ c",,,24,false,294,marr2026
+marr2026-standard-albanian-line295,marr2026-standard-albanian,"[+hi,-round,-tense,+stres,-nas]",[-hi],__ [+cons] ɪ,,,25,false,295,marr2026
+marr2026-standard-albanian-line296,marr2026-standard-albanian,j,∅,"[-cons] __ [+hi,+front,-cons]",,,26,false,296,marr2026
+marr2026-standard-albanian-line297,marr2026-standard-albanian,{ˈɔ j;ˈɔ j̃;ˈo j;ˈo j̃},{ˈɛ;ˈɛ̃;ˈɛ;ˈɛ̃},,,,27,false,297,marr2026
+marr2026-standard-albanian-line298,marr2026-standard-albanian,"[+round,+hi] ∅ ʎ [+lo]","[-hi,-tense] j l [+front,-back,-tense,-lo]","[+lab,+cont] __",,,28,false,298,marr2026
+marr2026-standard-albanian-line299,marr2026-standard-albanian,"[-cont,-son,+cor] [+strid,+cor]",∅ [+delrel],,,,29,false,299,marr2026
+marr2026-standard-albanian-line300,marr2026-standard-albanian,"[-cont,-son]",∅,@ [-prim] [-syl] ( [-syl] )* [-prim] __ ([-syl])* [-son] [+stres],,,30,false,300,marr2026
+marr2026-standard-albanian-line301,marr2026-standard-albanian,"[-stres,-lo]",∅,"[-son,+cor,+cont] __ [-son] [+cons] [-cons]",,,31,false,301,marr2026
+marr2026-standard-albanian-line302,marr2026-standard-albanian,"[-prim,-lo,-long]",∅,"[-son,+cons,+cont,-front] __ [-voi] [-cons]",,,32,false,302,marr2026
+marr2026-standard-albanian-line303,marr2026-standard-albanian,[+stres],[+long],"[ɱnas,ɱson] __ ð [+cons]",,,33,false,303,marr2026
+marr2026-standard-albanian-line304,marr2026-standard-albanian,"[+long,-hi,-lo,-tense,+prim] ∅","[+hi,-long,+tense] ə",,,,34,false,304,marr2026
+marr2026-standard-albanian-line305,marr2026-standard-albanian,[+back],[+voi],"[alo,+syl] ([-syl]) ð __ ([-syl]) [+prim,-alo]",,,35,false,305,marr2026
+marr2026-standard-albanian-line306,marr2026-standard-albanian,"[+hi,-tense,-stres]",∅,"[-hi,+son,-cons] __",,,36,false,306,marr2026
+marr2026-standard-albanian-line307,marr2026-standard-albanian,"[ihi,itense,+syl,afront,bback,uround] [-back,-front,-cons]","[+hi,+tense] [-syl,+tense,afront,bback,uround,ulab]",,,,37,false,307,marr2026
+marr2026-standard-albanian-line308,marr2026-standard-albanian,l,lˠ,"[+cont,vstrid,-vson,βlab,-βcor,-lat] ([-prim,-tense]) __ [+front,-lo,-cons]",,,38,false,308,marr2026
+marr2026-standard-albanian-line309,marr2026-standard-albanian,k,ɡ,"# [+voi,-cor,-son] [+syl] ([+son,+cons,-nas]) [+front,+syl,-lo] __ [-stres] ([+son,+cons]) ([-stres]) #",,,39,false,309,marr2026
+marr2026-standard-albanian-line310,marr2026-standard-albanian,{ɪ;ɪ̃},{ə;ə̃},,,,40,false,310,marr2026
+marr2026-standard-albanian-line311,marr2026-standard-albanian,"[+lo,+round,+nas]","[-lo,ɣtense,ɣfront,-ɣback,-ɣround,-ɣlab]","[-son,ɣback] ([+son,-syl]) __",,,41,false,311,marr2026
+marr2026-standard-albanian-line312,marr2026-standard-albanian,{ẽ;ˌẽ},{ə̃;ˌə̃},,,,42,false,312,marr2026
+marr2026-standard-albanian-line313,marr2026-standard-albanian,"[+front,+syl,-hi,-lo]",[-tense],,,,43,false,313,marr2026
+marr2026-standard-albanian-line314,marr2026-standard-albanian,ˈi e̯,j ˈɛː,__ ð,,,44,false,314,marr2026
+marr2026-standard-albanian-line315,marr2026-standard-albanian,[+round],"[-front,+back]","[+front,+cons] __ [+cons,plab,-phi] [-cons]",,,45,false,315,marr2026
+marr2026-standard-albanian-line316,marr2026-standard-albanian,"[-stres,-round,-lo]",∅,"[-nas] [llat,lhi,lson,-llab] __ [+hi,-cont] (([-stres]) ([+son,-syl])*) [alo,-around]",,,46,false,316,marr2026
+marr2026-standard-albanian-line317,marr2026-standard-albanian,"[-back,-front,-stres]",∅,"ð __ [+cons,mcont,mson]",,,47,false,317,marr2026
+marr2026-standard-albanian-line318,marr2026-standard-albanian,ð,∅,__ [+cons],,,48,false,318,marr2026
+marr2026-standard-albanian-line319,marr2026-standard-albanian,"[+front,-cons,-hi]","[-round,-lab]",,,,49,false,319,marr2026
+marr2026-standard-albanian-line320,marr2026-standard-albanian,{m;n;ɾ̃;ŋ;ɲ},{m b;n d;n d;ŋ ɡ;ɲ ɟ},"[-prim] __ [-stres] [+cor,+son,-nas]",,,50,false,320,marr2026
+marr2026-standard-albanian-line321,marr2026-standard-albanian,lˠ,∅,"__ [+hi,-son]",,,51,false,321,marr2026
+marr2026-standard-albanian-line322,marr2026-standard-albanian,[-stres] [+lat],l ə,"[+syl] ([-syl,+voi]) [+hi,+syl] [-voi,-cont] __ [-stres]",,,52,false,322,marr2026
+marr2026-standard-albanian-line323,marr2026-standard-albanian,"∅ ∅ [-voi,-cont] l",l ə [-voi] ∅,"[+hi,+syl] __ ə",,,53,false,323,marr2026
+marr2026-standard-albanian-line324,marr2026-standard-albanian,[-prim],"[uhi,utense,+back,+round,+lab,-lo,-front]","[+cons] [-prim,uhi,+round] {[+lat,-long];ɾ ([-cor,+cons])} __",,,54,false,324,marr2026
+marr2026-standard-albanian-line325,marr2026-standard-albanian,"[+back,+round,-prim,-long]","[-back,-hi,0tense,-round,-lab]","[+stres] ([-syl] ([-stres]))* __ ([-syl])* [-voi,-strid]",,,55,false,325,marr2026
+marr2026-standard-albanian-line326,marr2026-standard-albanian,ɾ,ɾ̥,"{[+lab,+cons] [+syl] ɾ̃ ([-prim]);@ [+lab,+cons] [+syl]} ([-syl])* t __ [+back]",,,56,false,326,marr2026
+marr2026-standard-albanian-line327,marr2026-standard-albanian,{ɾ̃;p},{ɾ;p ɾ},__ [+syl] ([-syl])* t ɾ̥,,,57,false,327,marr2026
+marr2026-standard-albanian-line328,marr2026-standard-albanian,ɾ̥,∅,,,,58,false,328,marr2026
+marr2026-standard-albanian-line329,marr2026-standard-albanian,{ə;ɪ},{∅;∅},"{@ m;[+nas,+cons,-lab]} __ [-cont,-son]",,,59,false,329,marr2026
+marr2026-standard-albanian-line330,marr2026-standard-albanian,{ə;ɪ;ə̃;ɪ̃},{∅;∅;∅;∅},"[+cons] (@)* [+back,+syl] ([-syl])* [+nas,+cons] __ [+nas,+cons] (@)* [+prim]",,,60,false,330,marr2026
+marr2026-standard-albanian-line331,marr2026-standard-albanian,"[+lab,+cons] [+nas,+cons]",mː,__ [-round],,,61,false,331,marr2026
+marr2026-standard-albanian-line332,marr2026-standard-albanian,ˈã,ˈa,"# ((@)* [-voi] [+cor,+son]) __ ([+nas]) [+hi,nson,ncont]",,,62,false,332,marr2026
+marr2026-standard-albanian-line333,marr2026-standard-albanian,ˈã,ˈa,"# ([-voi]) ([-stres]) [βlab,-βhi] (l) __ ([+nas]) [βlab,-βcor,nson,ncont] [-cor,+son]",,,63,false,333,marr2026
+marr2026-standard-albanian-line334,marr2026-standard-albanian,"[+nas,+cons]",∅,"[+nas,+cons,-cor] __ ([-stres,-lo]) #",,,64,false,334,marr2026
+marr2026-standard-albanian-line335,marr2026-standard-albanian,"ˈu [-hi,-syl,-cons,+son]",ˈa,"{[+stres] ([-syl])* [+nas,+cons];[-round] [-voi,+cons] ([-stres]) t} __ ɾ ([-stres]) #",,,65,false,335,marr2026
+marr2026-standard-albanian-line336,marr2026-standard-albanian,"[+cons,dcor,blab,tson,nnas,llat,scont] [+cons,dcor,blab,tson,nnas,llat,scont]","∅ [+cons,+long]",,,,66,false,336,marr2026
+marr2026-standard-albanian-line337,marr2026-standard-albanian,"[+nas,+cons] [+nas,+cons,+cont]",∅ [+long],,,,67,false,337,marr2026
+marr2026-standard-albanian-line338,marr2026-standard-albanian,u lˠ,ə lː,"# (h) ([+hi]) [+syl] [nnas,-nstrid] [+back,-cont] __",,,68,false,338,marr2026
+marr2026-standard-albanian-line339,marr2026-standard-albanian,[-son],[-voi],__ [-voi],,,69,false,339,marr2026
+marr2026-standard-albanian-line340,marr2026-standard-albanian,"[-voi,-cor]",f,"# ((@)* [-cons]) __ [-voi,-lab]",,,70,false,340,marr2026
+marr2026-standard-albanian-line341,marr2026-standard-albanian,"[+lo,-long,-round,-prim,+stres,-nas]",ɐ,"[-long] __ [+cont,-son] [-cont] ([+nas]) [+prim]",,,71,false,341,marr2026
+marr2026-standard-albanian-line342,marr2026-standard-albanian,θ,f,[+cons] __,,,72,false,342,marr2026
+marr2026-standard-albanian-line343,marr2026-standard-albanian,"[+lab,-son]",∅,"[+lab,+cons] (([+son,+cons]) [+syl]) __ [-son,-lab]",,,73,false,343,marr2026
+marr2026-standard-albanian-line344,marr2026-standard-albanian,[+prim],[+long],"__ [+cons,+son,-long,-back] ə [-cont,-son]",,,74,false,344,marr2026
+marr2026-standard-albanian-line345,marr2026-standard-albanian,ə,∅,"[+syl] [+cons,+son,-long,-back] __ [-cont,-son]",,,75,false,345,marr2026
+marr2026-standard-albanian-line346,marr2026-standard-albanian,[+prim],[+long],"__ {[+cons,+son,-nas];[+strid]}",,,76,false,346,marr2026
+marr2026-standard-albanian-line347,marr2026-standard-albanian,{m;n;s},{∅;∅;∅},__ #,,,77,false,347,marr2026
+marr2026-standard-albanian-line348,marr2026-standard-albanian,"[-stres,+round,-lo]",ə,__ #,,,78,false,348,marr2026
+marr2026-standard-albanian-line349,marr2026-standard-albanian,"[-stres,+hi]",ə,__ #,,,79,false,349,marr2026
+marr2026-standard-albanian-line350,marr2026-standard-albanian,[-stres],e̯,"[-hi,-cons,-syl,+son] __",,,80,false,350,marr2026
+marr2026-standard-albanian-line351,marr2026-standard-albanian,"[+nas,+cons]",∅,"__ [+strid,+cont]",,,81,false,351,marr2026
+marr2026-standard-albanian-line352,marr2026-standard-albanian,"[+syl] [-prim,-round,-lo]",[+long] ∅,__ #,,,82,false,352,marr2026
+marr2026-standard-albanian-line353,marr2026-standard-albanian,"[+lab,-son,+cont]",[+strid],,,,83,false,353,marr2026
+marr2026-standard-albanian-line354,marr2026-standard-albanian,"[-cont,mlab,jfront]",[+voi],"[mlab,jfront,+nas,+cons] __",,,84,false,354,marr2026
+marr2026-standard-albanian-line355,marr2026-standard-albanian,[-prim],ə,# (([-syl])* [-prim] ([-syl])*)* [-syl] __ [-syl] (([-syl])* [-prim] ([-syl])*)* #,,,85,false,355,marr2026
+marr2026-standard-albanian-line356,marr2026-standard-albanian,"[+hi,-round,-tense,+nas]","[+tense,+lo,-hi]",,,,86,false,356,marr2026
+marr2026-standard-albanian-line357,marr2026-standard-albanian,"[+lo,+syl,-round] j","[-lo,+front,-back,-tense,+long] ∅",__ #,,,1,false,357,marr2026
+marr2026-standard-albanian-line358,marr2026-standard-albanian,"[-back,-front,-stres]",∅,__ #,,,2,false,358,marr2026
+marr2026-standard-albanian-line359,marr2026-standard-albanian,"[+cor,-lat,-long,+son]",∅,"[-son] [-prim] [+cor,+son] [+prim,-long,-back] ( [-cons,-hi] ) __  #",,,3,false,359,marr2026
+marr2026-standard-albanian-line360,marr2026-standard-albanian,"[+prim,+hi] e̯",ˈɛ,"[+cons,-cor] ([-stres]) [+cor,+son] __ [+son]",,,4,false,360,marr2026
+marr2026-standard-albanian-line361,marr2026-standard-albanian,∅,ə,"# ([-syl])* [-cont,-son] __ #",,,5,false,361,marr2026
+marr2026-standard-albanian-line362,marr2026-standard-albanian,"[+nas,+cor,-long]",∅,"{[+round,+syl,-lo];[-lab,-nas] [-cons,-lo,+nas]} ([-cons]) __ #",,,6,false,362,marr2026
+marr2026-standard-albanian-line363,marr2026-standard-albanian,"j [-stres,-back]",ɛ,[+syl] ([-syl])* [-lo] __ #,,,7,false,363,marr2026
+marr2026-standard-albanian-line364,marr2026-standard-albanian,"[+lo,-stres] j",∅,"__ [+lo,-round] #",,,8,false,364,marr2026
+marr2026-standard-albanian-line365,marr2026-standard-albanian,"[-prim,+round,+syl]","[-back,-front,-lab,-round,-hi,0tense,-lo]","[-round,+syl] ([-syl,-lab])* __ lˠ @",,,9,false,365,marr2026
+marr2026-standard-albanian-line366,marr2026-standard-albanian,"[+hi,+front,-prim]","[-front,+back,+round,+lab]","[+back,-cont] __ #",,,10,false,366,marr2026
+marr2026-standard-albanian-line367,marr2026-standard-albanian,"[-stres,-hi] [+syl,aprim]",∅ [along],,,,11,false,367,marr2026
+marr2026-standard-albanian-line368,marr2026-standard-albanian,[+stres] [+prim],∅ [+long],,,,12,false,368,marr2026
+marr2026-standard-albanian-line369,marr2026-standard-albanian,[+prim] [-prim],[+long] ∅,,,,13,false,369,marr2026
+marr2026-standard-albanian-line370,marr2026-standard-albanian,[+stres] [-stres],[+long] ∅,,,,14,false,370,marr2026
+marr2026-standard-albanian-line371,marr2026-standard-albanian,[-stres],∅,"[+syl] ([-hi,+voi,-cons,-syl]) __",,,15,false,371,marr2026
+marr2026-standard-albanian-line372,marr2026-standard-albanian,"[cprim,+round] o̯","w [cprim,-tense]",# ((@)* [-cons]) __,,,16,false,372,marr2026
+marr2026-standard-albanian-line373,marr2026-standard-albanian,"[cprim,+round] e̯","w [cprim,-tense]",# __ [-hi],,,17,false,373,marr2026
+marr2026-standard-albanian-line374,marr2026-standard-albanian,"[cprim,-round] e̯","j [cprim,-tense]",# ((@)* [+syl] (@)*) __,,,18,false,374,marr2026
+marr2026-standard-albanian-line375,marr2026-standard-albanian,"[+syl,-back,-hi,-lo]","[+back,+hi,+tense,+round,+lab,-front]","# w __ ([+son,+cons]) [-son,-lab]",,,19,false,375,marr2026
+marr2026-standard-albanian-line376,marr2026-standard-albanian,w,∅,"# __ [+hi,+back,+syl] [+cons,-lat]",,,20,false,376,marr2026
+marr2026-standard-albanian-line377,marr2026-standard-albanian,r,ɾ,,,,21,false,377,marr2026
+marr2026-standard-albanian-line378,marr2026-standard-albanian,"[+lat,-hi]",ɾ,"# (ʃ) ([+voi,-cor,-front])* [blab,-cor,-strid] ([-prim,-lab]) __ ([-stres]) ([+back,-cont]) [-blab,-cor] ([+syl]) [+son,llat,lcont]",,,22,false,378,marr2026
+marr2026-standard-albanian-line379,marr2026-standard-albanian,"[-prim,-lo,-back,-long]",∅,"# [-syl,-lab] __ [+cor,+cont] [-syl] ( [-syl] )* [-prim]",,,23,false,379,marr2026
+marr2026-standard-albanian-line380,marr2026-standard-albanian,ŋ,ŋ ɡ,__ #,,,24,false,380,marr2026
+marr2026-standard-albanian-line381,marr2026-standard-albanian,"[+round,+lo,+nas] ∅","[+hi,-lo,+tense] n","# ((@)* [-cons]) [+cons,-hi] ([-syl,+son]) __ [-hi,-cont]",,,25,false,381,marr2026
+marr2026-standard-albanian-line382,marr2026-standard-albanian,"[+nas,+syl] ∅",[-nas] n,"__ [-cont,-son]",,,26,false,382,marr2026
+marr2026-standard-albanian-line383,marr2026-standard-albanian,n,m,"__ [+lab,-cont]",,,27,false,383,marr2026
+marr2026-standard-albanian-line384,marr2026-standard-albanian,"[-voi,+cor,-cont] j",c,,,,28,false,384,marr2026
+marr2026-standard-albanian-line385,marr2026-standard-albanian,"[-round,+hi,cprim,+stres] [-syl,-cons,-hi]","j [cprim,-tense]",__ {[+son] @;[-son]},,,29,false,385,marr2026
+marr2026-standard-albanian-line386,marr2026-standard-albanian,{β;ʝ},{v;ɟ},,,,30,false,386,marr2026
+marr2026-standard-albanian-line387,marr2026-standard-albanian,w,v,[+cons] __,,,31,false,387,marr2026
+marr2026-standard-albanian-line388,marr2026-standard-albanian,[+lo],"[-lo,-tense,+lab,+round,-front,+back]","[-cont,+back] v __",,,32,false,388,marr2026
+marr2026-standard-albanian-line389,marr2026-standard-albanian,v,∅,"[-cont,-son] __ [+syl]",,,33,false,389,marr2026
+marr2026-standard-albanian-line390,marr2026-standard-albanian,{s;ʃ},{∅;∅},"__ ([-prim]) [+lab,+cont,-son] ( [+son] )* [+cor,+strid]",,,34,false,390,marr2026
+marr2026-standard-albanian-line391,marr2026-standard-albanian,"[-cont,-son,+cor] ɛ",t ə,ʃ __ #,,,35,false,391,marr2026
+marr2026-standard-albanian-line392,marr2026-standard-albanian,"[+hi,-tense,+syl]",[-long],,,,36,false,392,marr2026
+marr2026-standard-albanian-line393,marr2026-standard-albanian,{ˈʊ;ˌʊ},{ˈɔ;ˌɔ},"__ [+cor,+ant] [-cons,+hi]",,,37,false,393,marr2026
+marr2026-standard-albanian-line394,marr2026-standard-albanian,{ˈʊ;ˌʊ},{ˈə;ˌə},"[-cont,-son] __ [+cor,+son] [+cons]",,,38,false,394,marr2026
+marr2026-standard-albanian-line395,marr2026-standard-albanian,"[+lat,ihi]",lˠ,"p __ [+stres,ihi] ( [+strid,+cor] ( k ) ) [-cons,uhi,!ulo]",,,39,false,395,marr2026
+marr2026-standard-albanian-line396,marr2026-standard-albanian,ˌɒ,ˌɑ,# __ ɾ [+cons],,,40,false,396,marr2026
+marr2026-standard-albanian-line397,marr2026-standard-albanian,ˌɒ,ˌɑ,k __ t͡ʃ,,,41,false,397,marr2026
+marr2026-standard-albanian-line398,marr2026-standard-albanian,"[+lo,+round]","[-lo,-tense]",,,,42,false,398,marr2026
+marr2026-standard-albanian-line399,marr2026-standard-albanian,"[+syl,ɯback,+hi,-lat,-front]","[ɯround,ɯlab,-ɯfront]",,,,43,false,399,marr2026
+marr2026-standard-albanian-line400,marr2026-standard-albanian,l,lˠ,"[+stres,-front,-hi] __ [+cor,+strid] [-cons]",,,44,false,400,marr2026
+marr2026-standard-albanian-line401,marr2026-standard-albanian,l,lˠ,"[+stres,-front,-hi] __ [-son,βvoi,βcont,-front] ([-cons] (@)*) #",,,45,false,401,marr2026
+marr2026-standard-albanian-line402,marr2026-standard-albanian,"[+cor,+nas,+son] j",ɲ,,,,46,false,402,marr2026
+marr2026-standard-albanian-line403,marr2026-standard-albanian,j,∅,"[+front,+cons] __",,,47,false,403,marr2026
+marr2026-standard-albanian-line404,marr2026-standard-albanian,∅,k,"[-voi,+cor,+strid] __ [+lat]",,,48,false,404,marr2026
+marr2026-standard-albanian-line405,marr2026-standard-albanian,"[+hi,-round,-tense]","[-hi,+stres]",__ {[+cons] ɪ;ɾ},,,49,false,405,marr2026
+marr2026-standard-albanian-line406,marr2026-standard-albanian,"[-stres,-round,-lo]",∅,"[+lo] ([+cont])* [+son,-syl,whi,-wcons] __ [+strid,-voi]",,,50,false,406,marr2026
+marr2026-standard-albanian-line407,marr2026-standard-albanian,"[+lo,+nas,-long,-round]","[-lo,-tense,-front,+back]",,,,51,false,407,marr2026
+marr2026-standard-albanian-line408,marr2026-standard-albanian,[-stres],∅,"# ((@)* [+nas,+cons]) [+cons] [-stres] [+cons] __ [+cons] (@)* [+prim]",,,52,false,408,marr2026
+marr2026-standard-albanian-line409,marr2026-standard-albanian,"[-syl,ason,-acons,-strid]",∅,__ [+cons] [-son],,,53,false,409,marr2026
+marr2026-standard-albanian-line410,marr2026-standard-albanian,[-stres],∅,"__ [-cont,-son] [-stres] #",,,54,false,410,marr2026
+marr2026-standard-albanian-line411,marr2026-standard-albanian,[-stres] [-syl] [-stres],∅ [-syl] ∅,@ [+cons] [+cons] __ [+cons] [+prim],,,55,false,411,marr2026
+marr2026-standard-albanian-line412,marr2026-standard-albanian,"[-cont,-cor]",∅,"[-lo] __ [+nas,+cons]",,,56,false,412,marr2026
+marr2026-standard-albanian-line413,marr2026-standard-albanian,"[-delrel,-nas]",∅,[+cons] __ [-son],,,57,false,413,marr2026
+marr2026-standard-albanian-line414,marr2026-standard-albanian,"[+nas,+cons,-lab,-front]",ŋ,[+prim] __ k,,,58,false,414,marr2026
+marr2026-standard-albanian-line415,marr2026-standard-albanian,{ɾ̃ b;ɾ̃ p;ɾ̃ d;ɾ̃ t;ɾ̃ ɟ;ɾ̃ c;ɾ̃ ɡ;n b;n p;n d;n t;n ɟ;n c;n ɡ;nː b;nː p;nː d;nː t;nː ɟ;nː c;nː ɡ;m b;m p;ɲ ɟ;ɲ c;ŋ ɡ;ŋ k;ŋ ɟ;ŋ c},{m b;m b;n d;n d;ɲ ɟ;ɲ ɟ;ŋ ɡ;m b;m b;n d;n d;ɲ ɟ;ɲ ɟ;ŋ ɡ;m b;m b;n d;n d;ɲ ɟ;ɲ ɟ;ŋ ɡ;m b;m b;ɲ ɟ;ɲ ɟ;ŋ ɡ;ŋ ɡ;ɲ ɟ;ɲ ɟ},,,,59,false,415,marr2026
+marr2026-standard-albanian-line416,marr2026-standard-albanian,ʃ,[+voi],"__ [+cons,+voi,-cor]",,,60,false,416,marr2026
+marr2026-standard-albanian-line417,marr2026-standard-albanian,"[+lat] [+voi,+cor,-lat]",lː,,,,61,false,417,marr2026
+marr2026-standard-albanian-line418,marr2026-standard-albanian,"[+hi,-tense,-stres,-cons]",∅,,,,62,false,418,marr2026
+marr2026-standard-albanian-line419,marr2026-standard-albanian,"[-syl,+lab]",∅,__ n,,,63,false,419,marr2026
+marr2026-standard-albanian-line420,marr2026-standard-albanian,l,lˠ,"[+syl,-cons] __ [+syl,+back]",,,64,false,420,marr2026
+marr2026-standard-albanian-line421,marr2026-standard-albanian,j,∅,"__ [+hi,+front,-cons]",,,65,false,421,marr2026
+marr2026-standard-albanian-line422,marr2026-standard-albanian,"[-prim,-hi,-long]",∅,"# ((@)* [-long]) t __ [+nas,+cont]",,,66,false,422,marr2026
+marr2026-standard-albanian-line423,marr2026-standard-albanian,"[-cont,-son]",∅,"[-lo] __ [+nas,+cons]",,,67,false,423,marr2026
+marr2026-standard-albanian-line424,marr2026-standard-albanian,"[+nas,+cons] ɲ",ɲ ɟ,,,,68,false,424,marr2026
+marr2026-standard-albanian-line425,marr2026-standard-albanian,"[+nas,+cons] [+nas,+cons]",∅ [+long],,,,69,false,425,marr2026
+marr2026-standard-albanian-line426,marr2026-standard-albanian,"[+hi,+syl]",[+tense],,,,70,false,426,marr2026
+marr2026-standard-albanian-line427,marr2026-standard-albanian,[-son],[+voi],"[+cor,-son,+voi] __",,,71,false,427,marr2026
+marr2026-standard-albanian-line428,marr2026-standard-albanian,"[-son,+lab]",[-voi],"__ [-lab,-voi]",,,72,false,428,marr2026
+marr2026-standard-albanian-line429,marr2026-standard-albanian,ə,∅,"[+cor,-son,-strid] __ rː ([+syl]) ([+cons]) [-cont,-son]",,,73,false,429,marr2026
+marr2026-standard-albanian-line430,marr2026-standard-albanian,ə,∅,"[-cor,-son] __ rː ([+syl]) ([+cons]) [-cont,+hi]",,,74,false,430,marr2026
+marr2026-standard-albanian-line431,marr2026-standard-albanian,"[-prim,-round,-hi]",ə,"rː __ [-cont,+hi]",,,75,false,431,marr2026
+marr2026-standard-albanian-line432,marr2026-standard-albanian,rː,ɾ,[+cons] __,,,76,false,432,marr2026
+marr2026-standard-albanian-line433,marr2026-standard-albanian,rː,ɾ,__ [+cons],,,77,false,433,marr2026
+marr2026-standard-albanian-line434,marr2026-standard-albanian,∅,j,d l __ ɔ,,,78,false,434,marr2026
+marr2026-standard-albanian-line435,marr2026-standard-albanian,d,∅,__ l,,,79,false,435,marr2026
+marr2026-standard-albanian-line436,marr2026-standard-albanian,{r j;ɾ j},{rː;rː},,,,80,false,436,marr2026
+marr2026-standard-albanian-line437,marr2026-standard-albanian,"[+back,-hi,+round,-prim]","[+lo,+tense,-round,-lab]",__ #,,,81,false,437,marr2026
+marr2026-standard-albanian-line438,marr2026-standard-albanian,"j [+lo,-prim]",ɛ,[+cons] __ #,,,82,false,438,marr2026
+marr2026-standard-albanian-line439,marr2026-standard-albanian,i,j,__ [+syl],,,83,false,439,marr2026
+marr2026-standard-albanian-line440,marr2026-standard-albanian,rː,r,,,,84,false,440,marr2026
+marr2026-standard-albanian-line441,marr2026-standard-albanian,"[+lo,-stres]",ə,"[+cons] [+son,+cons,-nas,-lat] __ #",,,85,false,441,marr2026
+marr2026-standard-albanian-line442,marr2026-standard-albanian,ɐ,ə,[+cons] [+cons] __,,,86,false,442,marr2026
+marr2026-standard-albanian-line443,marr2026-standard-albanian,"[-lo,-stres,-nas]",∅,"[+cons] [+son,+cons,-nas] __ ([+cons] (@)*) #",,,87,false,443,marr2026
+marr2026-standard-albanian-line444,marr2026-standard-albanian,"[-prim,-back,-long,+stres]",∅,"[+cons] [+son,+cons,-lat] __ {[+cont,-voi,-front];[-cont]}",,,88,false,444,marr2026
+marr2026-standard-albanian-line445,marr2026-standard-albanian,"[-hi,-stres]",∅,"[-syl] __ [+son,+cons,-nas] ([+cons] (@)*) #",,,89,false,445,marr2026
+marr2026-standard-albanian-line446,marr2026-standard-albanian,[-stres],∅,[-son] ([-stres]) m __ #,,,90,false,446,marr2026
+marr2026-standard-albanian-line447,marr2026-standard-albanian,[-stres],∅,[-son] __ m #,,,91,false,447,marr2026
+marr2026-standard-albanian-line448,marr2026-standard-albanian,"[+cont,-son,-strid] ɾ",r,# __,,,92,false,448,marr2026
+marr2026-standard-albanian-line449,marr2026-standard-albanian,ɡ,∅,"[-syl,-nas] __ [-syl]",,,93,false,449,marr2026
+marr2026-standard-albanian-line450,marr2026-standard-albanian,t,∅,# __ k,,,94,false,450,marr2026
+marr2026-standard-albanian-line451,marr2026-standard-albanian,"[-voi,-delrel,-cor]",∅,"@ __ ([-syl]) [-cont,-son] [+prim]",,,95,false,451,marr2026
+marr2026-standard-albanian-line452,marr2026-standard-albanian,"[+cons,+son,-nas,-lat]","[+syl,-stres,-prim]",j __ #,,,96,false,452,marr2026
+marr2026-standard-albanian-line453,marr2026-standard-albanian,"[+cons,+son,-nas]","[+syl,-stres,-prim]","{[mson,mlab,mnas];[-son]} __ ([+cons] (@)*) #",,,97,false,453,marr2026
+marr2026-standard-albanian-line454,marr2026-standard-albanian,"[+nas,+cons]","[+syl,-stres,-prim]","[+son] (@)* [llat,lson] __ [+cons]",,,98,false,454,marr2026
+marr2026-standard-albanian-line455,marr2026-standard-albanian,"[+nas,+cons]","[+syl,-stres,-prim]",[-son] __ #,,,99,false,455,marr2026
+marr2026-standard-albanian-line456,marr2026-standard-albanian,"[+stres,-prim,-lo,-hi,-round] ɾ",ˌɾ̩,__ [-syl],,,100,false,456,marr2026
+marr2026-standard-albanian-line457,marr2026-standard-albanian,ˈə ɾ,ˈɾ̩,__ [-syl],,,101,false,457,marr2026
+marr2026-standard-albanian-line458,marr2026-standard-albanian,c,t͡ʃ,"[+lab] [-syl,+cor,+son] __ [+syl]",,,102,false,458,marr2026
+marr2026-standard-albanian-line459,marr2026-standard-albanian,"[+cor,+voi,-syl]",∅,__ l,,,103,false,459,marr2026
+marr2026-standard-albanian-line460,marr2026-standard-albanian,{ˈɾ̩;ˌɾ̩;ɾ̩},{ɾ ˈu;ˌu;ə},# [+lab] __ [+lat],,,104,false,460,marr2026
+marr2026-standard-albanian-line461,marr2026-standard-albanian,ˈɾ̩,ɾ ˈu,# [+cons] __ [+strid] [+cons],,,105,false,461,marr2026
+marr2026-standard-albanian-line462,marr2026-standard-albanian,{ˌɾ̩;ɾ̩},{ˌə;ə},"# [+cons,ʋvoi,ʋcont] __ [+strid,afront,-alab] [+cons] [-cons,+tense]",,,106,false,462,marr2026
+marr2026-standard-albanian-line463,marr2026-standard-albanian,{ˈɾ̩;ˌɾ̩},{ˈə ɾ;ɾ̩},,,,107,false,463,marr2026
+marr2026-standard-albanian-line464,marr2026-standard-albanian,"[+lat,+syl]",u lˠ,"[+lab,+cont,-hi] ([+cons]) __ #",,,108,false,464,marr2026
+marr2026-standard-albanian-line465,marr2026-standard-albanian,"[+lo,-round] ʎ","[+front,-back,-lo,-tense] lː","[+lab,+cont] __ [+lo]",,,109,false,465,marr2026
+marr2026-standard-albanian-line466,marr2026-standard-albanian,l,ʎ,__ k,,,110,false,466,marr2026
+marr2026-standard-albanian-line467,marr2026-standard-albanian,ʎ,l,"[+back] [+back] __ [+back,kcons,-kvoi]",,,111,false,467,marr2026
+marr2026-standard-albanian-line468,marr2026-standard-albanian,l,ʎ,"[-cont,+hi] __",,,112,false,468,marr2026
+marr2026-standard-albanian-line469,marr2026-standard-albanian,{ɐ;ˌɐ},{ə;ˌə},,,,113,false,469,marr2026
+marr2026-standard-albanian-line470,marr2026-standard-albanian,"[+syl,-tense]",[-lo],,,,114,false,470,marr2026
+marr2026-standard-albanian-line471,marr2026-standard-albanian,"[+lo,-round]","[+front,-back]",,,,115,false,471,marr2026
+marr2026-standard-albanian-line472,marr2026-standard-albanian,"[+lo,-stres]",ɛ,"[+cons] [+son,+front,-nas] __",,,116,false,472,marr2026
+marr2026-standard-albanian-line473,marr2026-standard-albanian,"[-stres,-cons,-hi,afront,alo]",ə,__ #,,,117,false,473,marr2026
+marr2026-standard-albanian-line474,marr2026-standard-albanian,"[+back,-round,+nas,-long]","[-lo,-back,-front,0tense,-lab,-round]",,,,1,false,474,marr2026
+marr2026-standard-albanian-line475,marr2026-standard-albanian,"[+back,-cons,-hi]","[-back,+front,+lo,-round,-lab,+tense]",[+round] __,,,2,false,475,marr2026
+marr2026-standard-albanian-line476,marr2026-standard-albanian,"w ˈɛ [-syl,-cons]",w ˈɛː,,,,3,false,476,marr2026
+marr2026-standard-albanian-line477,marr2026-standard-albanian,w,v,,,,4,false,477,marr2026
+marr2026-standard-albanian-line478,marr2026-standard-albanian,x,h,,,,5,false,478,marr2026
+marr2026-standard-albanian-line479,marr2026-standard-albanian,"[-back,-front,-prim]",∅,"[-prim] [+son,-syl] __ #",,,6,false,479,marr2026
+marr2026-standard-albanian-line480,marr2026-standard-albanian,"[-back,-front,-prim]",∅,"[+syl] [+son,-syl] __ [+cons,ason,anas] [-cons]",,,7,false,480,marr2026
+marr2026-standard-albanian-line481,marr2026-standard-albanian,k,ɡ,"#  __ ( [-prim,-lo] ) [+lat,-hi] ( [-prim,-lo] ) ( [+son,-syl] ) [-son,-cont] [+prim]",,,8,false,481,marr2026
+marr2026-standard-albanian-line482,marr2026-standard-albanian,{o;ɔ;a},{ə;ə;ə},__ #,,,9,false,482,marr2026
+marr2026-standard-albanian-line483,marr2026-standard-albanian,k,ɡ,"# __ ([-prim,-back,-front]) [+cor] [-voi,ʃcons,ʃcor,ʃfront] [-hi,-round,+prim]",,,10,false,483,marr2026
+marr2026-standard-albanian-line484,marr2026-standard-albanian,k,ɡ,"# __  [-prim,+back,+hi] [+cor] [-prim,-back,-front] [-son,-cont]",,,11,false,484,marr2026
+marr2026-standard-albanian-line485,marr2026-standard-albanian,"[-stres,-cons]",∅,"[+cons,dcor,blab,tson,nnas,llat,scont] __ [+cons,dcor,blab,tson,nnas,llat,scont]",,,12,false,485,marr2026
+marr2026-standard-albanian-line486,marr2026-standard-albanian,"[+cons,dcor,llat,blab,scont,nnas,rson]",∅,"__ [+cons,dcor,llat,blab,scont,nnas,rson]",,,13,false,486,marr2026
+marr2026-standard-albanian-line487,marr2026-standard-albanian,"[+nas,+cons]",[-long],,,,14,false,487,marr2026
+marr2026-standard-albanian-line488,marr2026-standard-albanian,"[-prim,-cons]",[-nas],,,,1,false,488,marr2026
+marr2026-standard-albanian-line489,marr2026-standard-albanian,s,[+delrel],"k ( [+syl,aback,afront] ) [-cont,+son] __",,,2,false,489,marr2026
+marr2026-standard-albanian-line490,marr2026-standard-albanian,"[+strid,+cor,-voi]",[+delrel],"[nnas,-nlat] ( [-cont,-son] ) __",,,3,false,490,marr2026
+marr2026-standard-albanian-line491,marr2026-standard-albanian,"[-cons,+nas]",[-nas],,,,4,false,491,marr2026
+marr2026-standard-albanian-line492,marr2026-standard-albanian,ˌə,ə,,,,5,false,492,marr2026
+marr2026-standard-albanian-line493,marr2026-standard-albanian,ə,∅,"[-cont,-front] __ ɾ [+stres]",,,6,false,493,marr2026
+marr2026-standard-albanian-line494,marr2026-standard-albanian,ɾ̃,ɾ,,,,7,false,494,marr2026
+marr2026-standard-albanian-line495,marr2026-standard-albanian,[-stres],∅,"[+cont,+son,-lat] ([-cont,-front])+ __ ɾ [+stres]",,,8,false,495,marr2026
+marr2026-standard-albanian-line496,marr2026-standard-albanian,[-stres],∅,"# ([+lab,+voi])* __ ɾ [-hi,-round,+syl]",,,9,false,496,marr2026
+marr2026-standard-albanian-line497,marr2026-standard-albanian,[-prim],[-stres],,,,10,false,497,marr2026
+marr2026-standard-albanian-line498,marr2026-standard-albanian,"[-back,-lo,-prim,-cons]","[+hi,+tense,+front]","# ( [-syl] )* [+cor]  __ ( [-son] )* [+hi,-syl] [+prim,-lo,-hi]",,,11,false,498,marr2026
+marr2026-standard-albanian-line499,marr2026-standard-albanian,"[-prim,-round,-cons]",∅,# __ [+nas],,,12,false,499,marr2026
+marr2026-standard-albanian-line500,marr2026-standard-albanian,"[-prim,-round,-cons]",∅,"[-cons] [+lat] __ [+nas,-front]",,,13,false,500,marr2026
+marr2026-standard-albanian-line501,marr2026-standard-albanian,[+lat],ʎ,"[+syl,uhi,uback] [+nas] [+back,-cont] __",,,14,false,501,marr2026
+marr2026-standard-albanian-line502,marr2026-standard-albanian,ə,∅,"# [+lab,+cons] __ [llat,lson,zcont,zvoi,-back] [-cons]",,,15,false,502,marr2026
+marr2026-standard-albanian-line503,marr2026-standard-albanian,ʎ,j,,,,16,false,503,marr2026
+marr2026-standard-albanian-line504,marr2026-standard-albanian,"[+back,-cont] j","[-back,+front] ∅",,,,17,false,504,marr2026
+marr2026-standard-albanian-line505,marr2026-standard-albanian,ə,∅,"[-cons] [-delrel,-son,-front,aback] __ [+lat,aback] [+prim]",,,18,false,505,marr2026
+marr2026-standard-albanian-line506,marr2026-standard-albanian,z,d͡z,"[+nas,+cons] __",,,19,false,506,marr2026
+marr2026-standard-albanian-line507,marr2026-standard-albanian,c,k,__ [+syl] ʃ,,,20,false,507,marr2026
+marr2026-standard-albanian-line508,marr2026-standard-albanian,{m b;n d},{m;d},"# ([-prim]) __ [-prim,-front,-cons] [+cons,-lat]",,,21,false,508,marr2026
+marr2026-standard-albanian-line509,marr2026-standard-albanian,[-prim],[+prim],"__ ([-syl])* [-back,-front,+prim] ([-front,-syl]) #",,,22,false,509,marr2026
+marr2026-standard-albanian-line510,marr2026-standard-albanian,[+prim],[-stres],[+prim] (@)* __,,,23,false,510,marr2026
+marr2026-standard-albanian-line511,marr2026-standard-albanian,[+long],[-long],,,,24,false,511,marr2026
+marr2026-standard-albanian-line512,marr2026-standard-albanian,[+lo] e̯,"[-lo,-tense] ∅",,,,1,false,512,marr2026
+marr2026-standard-albanian-line513,marr2026-standard-albanian,ə,∅,"[-cons] [+son,+cons] __ [-cont,-son]",,,2,false,513,marr2026
+marr2026-standard-albanian-line514,marr2026-standard-albanian,"[-son,+cons] ə",[-voi] ∅,"[-cons] __ [-voi,-cont]",,,3,false,514,marr2026
+marr2026-standard-albanian-line515,marr2026-standard-albanian,ə,∅,"# [+back,-cont] __ [+lat] [-cons]",,,4,false,515,marr2026
+marr2026-standard-albanian-line516,marr2026-standard-albanian,"[+back,-cont]","[-back,+front]","__ [+front,-lo,-cons]",,,5,false,516,marr2026
+marr2026-standard-albanian-line517,marr2026-standard-albanian,"[+nas,-lab,+cons]","[-cor,-ant,+hi,kback,cfront]","__ [-delrel,+hi,kback,cfront,+voi]",,,6,false,517,marr2026
+marr2026-standard-albanian-line518,marr2026-standard-albanian,∅,ə,"__ [+cons,+syl]",,,7,false,518,marr2026
+marr2026-standard-albanian-line519,marr2026-standard-albanian,"[+syl,-cons] [+cons,+syl,aprim,bstres]","[aprim,bstres] [-syl]",,,,8,false,519,marr2026
+marr2026-standard-albanian-line520,marr2026-standard-albanian,ʃ,t͡ʃ,"# __ [+cons,+nas]",,,9,false,520,marr2026
+marr2026-standard-albanian-line521,marr2026-standard-albanian,c,t͡ʃ,__ [+cons],,,10,false,521,marr2026
+marr2026-standard-albanian-line522,marr2026-standard-albanian,{n d;ⁿd},{n;n},[+cons] __ [+syl],,,11,false,522,marr2026
+marr2026-standard-albanian-line523,marr2026-standard-albanian,ˈu a̯,ˈɔ,"[+syl] (@)* [+son,+cons,-nas] ([+cons]) ([-stres]) [+cons] __ ɾ",,,12,false,523,marr2026
+marr2026-standard-albanian-line524,marr2026-standard-albanian,j,∅,"[+hi,+front,+syl] (e̯) __ [+hi]",,,13,false,524,marr2026
+marr2026-standard-albanian-line525,marr2026-standard-albanian,ɲ,j,"{[-hi];[+hi,+front]} __ #",,,14,false,525,marr2026
+marr2026-standard-albanian-line526,marr2026-standard-albanian,ʃ,s,"# __ c [+prim,+round,+hi]",,,15,false,526,marr2026
 pardess1990-daco-romanian-R1-1,pardess1990-daco-romanian,h,∅,,Loss of [h],R1,1,false,1,pardess1990[46-47]
 pardess1990-daco-romanian-R2A-1,pardess1990-daco-romanian,"[+syl,+lo] j","[-lo,-tense,+long] ∅",,Monophthongization of AE [ay] > [ɛː] (P3A),R2A,1,false,2,pardess1990[47]
 pardess1990-daco-romanian-R2B-1,pardess1990-daco-romanian,"[+syl,-hi,-lo,+round] j","[-round,-lab,-back,+front,+long] ∅",,Monophthongization of OE [oy] > [eː],R2B,1,false,3,pardess1990[47-48]

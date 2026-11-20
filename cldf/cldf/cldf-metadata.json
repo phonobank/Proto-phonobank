@@ -18,7 +18,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.13.13"
+            "dc:description": "3.14.5"
         },
         {
             "dc:title": "python-packages",
@@ -30,7 +30,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 14,
+            "dc:extent": 25,
             "tableSchema": {
                 "columns": [
                     {
@@ -350,7 +350,7 @@
             "url": "cognates.csv"
         },
         {
-            "dc:extent": 8,
+            "dc:extent": 9,
             "tableSchema": {
                 "columns": [
                     {
@@ -411,7 +411,7 @@
             "url": "chains.csv"
         },
         {
-            "dc:extent": 274,
+            "dc:extent": 800,
             "tableSchema": {
                 "columns": [
                     {
@@ -486,7 +486,7 @@
             "url": "rules.csv"
         },
         {
-            "dc:extent": 11,
+            "dc:extent": 21,
             "tableSchema": {
                 "columns": [
                     {
@@ -574,7 +574,7 @@
             "url": "cascades.csv"
         },
         {
-            "dc:extent": 245,
+            "dc:extent": 771,
             "tableSchema": {
                 "columns": [
                     {

@@ -16,6 +16,9 @@ origin and output must be '$|' lines, since DiaSim has no marker for them.
 
 Everything else follows DiaSim: '$' starts a comment, and a rule line is
 'A > B' or 'A > B / C __ D'.
+
+2026-11-19: DiaSim does not require spaces around '>' or '/' characters,
+so the parser was failing on valid DiaSim files.
 """
 
 import re
@@ -71,17 +74,25 @@ def marker_for(gold):
 def structural_lines(text):
     """The lines that define a cascade: stage markers and rule lines, in order.
 
-    Comments are dropped, and runs of spaces count as one space, so two files
-    that differ only in comments and spacing give the same list.
+    Comments are dropped, and each line is put in one normal form, so two files
+    that DiaSim reads the same way give the same list: runs of spaces count as
+    one, rule lines are written 'A > B / C', and a '=' origin is written '$|'.
     """
     lines = []
     for line in text.splitlines():
         stage = stage_marker(line)
         if stage:
+            if not lines and stage[0] == BLACK_STAGENAME_FLAG:
+                # DiaSim reads a '=' line before the first rule as the input's name.
+                stage = (STAGE_FLAG, stage[1])
             lines.append(stage_line(*stage))
             continue
         content = " ".join(strip_comment(line).split())
         if content:
+            inp, out, context = parse_rule_line(content)
+            content = "{} > {}".format(inp, out)
+            if context:
+                content = "{} / {}".format(content, context)
             lines.append(content)
     return lines
 
@@ -94,15 +105,27 @@ def is_extension(parent, child):
 
 
 def parse_rule_line(text):
-    """Split a rule line into (input, output, context); context may be None."""
-    if " / " in text:
-        change, context = text.split(" / ", 1)
-    else:
-        change, context = text, None
-    if " > " not in change:
+    """Split a rule line into (input, output, context); context may be None.
+
+    Follows DiaSim's SChangeFactory.generateSoundChangesFromRule: split on the
+    first '>', then on the first '/' after it, trimming each part. No spaces are
+    required around either.
+    """
+    if ">" not in text:
         raise ValueError("not a rule line: {!r}".format(text))
-    inp, out = change.split(" > ", 1)
-    return inp.strip(), out.strip(), context.strip() if context else None
+    inp, rest = text.split(">", 1)
+    if ">" in rest:
+        raise ValueError("more than one '>': {!r}".format(text))
+    if "/" in rest:
+        out, context = rest.split("/", 1)
+        if "/" in context:
+            raise ValueError("more than one '/': {!r}".format(text))
+        if "__" not in context:
+            raise ValueError("context without '__': {!r}".format(text))
+        context = context.strip()
+    else:
+        out, context = rest, None
+    return inp.strip(), out.strip(), context
 
 
 def parse_cascade(lines, header_re=None):
@@ -181,8 +204,10 @@ def parse_cascade(lines, header_re=None):
 
     if len(stages) < 2:
         raise ValueError("needs an origin and an output '$|' line")
-    if stages[0][0] != STAGE_FLAG or stages[-1][0] != STAGE_FLAG:
-        raise ValueError("the origin and output must be '$|' lines")
+    if stages[0][0] not in (STAGE_FLAG, BLACK_STAGENAME_FLAG):
+        raise ValueError("the origin must be a '$|' or '=' line")
+    if stages[-1][0] != STAGE_FLAG:
+        raise ValueError("the output must be a '$|' line")
     if rules and rules[-1]["step"] == len(stages) - 1 and not rules[-1]["comment_only"]:
         raise ValueError("rule after the output '$|' line")
 
