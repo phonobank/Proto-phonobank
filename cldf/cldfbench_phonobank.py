@@ -30,6 +30,8 @@ import importlib.util
 import pathlib
 import re
 
+from pycldf.sources import Sources
+
 from cldfbench import CLDFSpec
 from cldfbench import Dataset as BaseDataset
 
@@ -49,8 +51,22 @@ def make_id(*parts):
     return re.sub(r"[^A-Za-z0-9_\-]", "_", ID_DELIM.join(str(part) for part in parts))
 
 
+def check_source_key(directory, extraction):
+    """Stop if the extraction's SOURCE is not a key in its source.bib."""
+    path = directory / "source.bib"
+    if not path.exists():
+        raise ValueError("{}: no source.bib".format(directory))
+    keys = [source.id for source in Sources.from_file(path)]
+    if extraction.SOURCE not in keys:
+        raise ValueError("{}: SOURCE {!r} is not in source.bib (keys: {})".format(
+            directory,
+            extraction.SOURCE,
+            ", ".join(keys),
+        ))
+
+
 def load_extraction(directory):
-    """Import raw/<directory>/extract.py and check it defines what is required."""
+    """Import raw/<directory>/cascade.py and check it defines what is required."""
     path = directory / "extract.py"
     spec = importlib.util.spec_from_file_location("cascade_" + directory.name, path)
     module = importlib.util.module_from_spec(spec)
@@ -58,6 +74,7 @@ def load_extraction(directory):
     missing = [name for name in REQUIRED if not hasattr(module, name)]
     if missing:
         raise ValueError("{}: missing {}".format(path, ", ".join(missing)))
+    check_source_key(directory, module)
     return module
 
 

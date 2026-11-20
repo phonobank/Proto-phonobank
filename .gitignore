@@ -1,3 +1,10 @@
+# Emacs lock files
+.#*
+
+# Generated SQLite database files should be ignored
+*.sqlite
+*.sqlite3
+
 # Clayton's Python virtualenv for the CLDF
 cldf/source/
 source/

@@ -3,7 +3,7 @@
 Doing it the standard DLCE way. The git version-controlled repo is the canonical form of the database. Versioning is then provided by git with commits altho we can have formal versioning and releases later on if we need them.
 
 Raw cascade files are placed into subfolders in `raw/` named after the source, e.g. `pardess1990/`, along with a bibtex file for the reference. Parsing of the cascade format mainly happens in the CLDFbench script, `cldfbench_phonobank.py`, but if cascade-specific processing is needed this happens in individual Python scripts in the `raw/` source directories. This is needed e.g. to process comments with source headings etc. Running `makecldf` then parses the cascades and builds the CLDF.
-
+TODO (Isaac): This is now out of date, regenerate the table diagram
 Here's a diagram of the current layout of the CLDF data tables:
 
 ![Current CLDF table layout](phonobank-cldf-current.svg)
@@ -18,7 +18,7 @@ And this is how I expect it will look after we add wordlists:
   1. `git clone <uri> && cd phonobank`
   2. `python3.14 -m venv venv && source venv/bin/activate`
   3. `pip install -e .`
-  4. `cldfbench makecldf cldfbench_phonobank.py`
+  4. `cldfbench makecldf cldfbench_phonobank.py && cldf validate cldf/cldf-metadata.json`
 
 - Emit a DiaSim cascade from the dataset for testing:
   1. `cldfbench phonobank.cascade <sourceid> -o <filename>`, e.g. `cldfbench phonobank.cascade pardess1990 -o pardess1990cascade.txt`

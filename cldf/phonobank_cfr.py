@@ -1,4 +1,4 @@
-"""Reading DiaSim cascade files, with the Proto-phonobank stage convention.
+"""Reading DiaSim cascade files, with the DiaSim Phonobank stage convention.
 
 A cascade file holds one chain of stages. Each stage is marked on a line of
 its own, and the rules between two stages form one cascade:
@@ -19,6 +19,8 @@ Everything else follows DiaSim: '$' starts a comment, and a rule line is
 
 2026-11-19: DiaSim does not require spaces around '>' or '/' characters,
 so the parser was failing on valid DiaSim files.
+2026-11-20: This was also causing
+phonobank.check to fail, fixed
 """
 
 import re
