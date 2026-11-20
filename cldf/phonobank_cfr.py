@@ -41,6 +41,9 @@ MARKERS = {
     GOLD_STAGENAME_FLAG: True,
 }
 
+# Regex to recognise a feature matrix
+FEATURE_MATRIX_RE = re.compile(r"\[([^\[\]]*)\]")
+
 
 def strip_comment(line):
     """Remove a DiaSim comment (CMT_FLAG to the end of the line)."""
@@ -128,6 +131,25 @@ def parse_rule_line(text):
     else:
         out, context = rest, None
     return inp.strip(), out.strip(), context
+
+
+def normalise(text):
+    """Write a rule part in one fixed form, without interpreting it.
+
+    Two changes, both to things DiaSim ignores: runs of spaces become one space
+    (with none inside a feature matrix), and the specifications inside each
+    [...] are put in code-point order, as plain strings.
+
+    For example, [ -cons, +syl ] and [+syl,-cons] both become [+syl,-cons].
+    """
+    if text is None:
+        return None
+
+    def sort_matrix(match):
+        specs = [spec.strip() for spec in match.group(1).split(",")]
+        return "[{}]".format(",".join(sorted(specs)))
+
+    return FEATURE_MATRIX_RE.sub(sort_matrix, " ".join(text.split()))
 
 
 def parse_cascade(lines, header_re=None):

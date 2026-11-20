@@ -440,6 +440,18 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "Input_Normalised"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Output_Normalised"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Context_Normalised"
+                    },
+                    {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "name": "Name"
                     },

@@ -1,4 +1,4 @@
-"""Proto-phonobank: CLDF dataset of phonological rule cascades from DiaSim files.
+"""(Proto)phonobank: CLDF dataset of phonological rule cascades from DiaSim files.
 
 Each source lives in its own directory under raw/:
 
@@ -37,6 +37,7 @@ from cldfbench import Dataset as BaseDataset
 
 from phonobank_cfr import MARKERS
 from phonobank_cfr import parse_cascade
+from phonobank_cfr import normalise
 from phonobank_lexicon import parse_lexicon
 
 CLDF = "http://cldf.clld.org/v1.0/terms.rdf#"
@@ -185,6 +186,9 @@ class Dataset(BaseDataset):
             "Input",
             "Output",
             "Context",
+            "Input_Normalised",
+            "Output_Normalised",
+            "Context_Normalised",
             CLDF + "name",
             "Source_Rule_ID",
             {"name": "Sub_Index", "datatype": "integer"},
@@ -335,6 +339,9 @@ class Dataset(BaseDataset):
                         "Input": rule["input"],
                         "Output": rule["output"],
                         "Context": rule["context"],
+                        "Input_Normalised": normalise(rule["input"]),
+                        "Output_Normalised": normalise(rule["output"]),
+                        "Context_Normalised": normalise(rule["context"]),
                         "Name": rule["name"],
                         "Source_Rule_ID": rule["source_rule_id"],
                         "Sub_Index": rule["sub_index"],
