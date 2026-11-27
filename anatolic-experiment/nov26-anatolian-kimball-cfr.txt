@@ -1,0 +1,142 @@
+$ nov26-anatolian-kimball-cfr.txt
+$ DiaSim cascade: Proto-Indo-European > Proto-Anatolian
+$ Source: Kimball, Sara E. 2017. "20. The phonology of Anatolian." In Klein, Joseph & Fritz (eds.), Handbook of
+$   Comparative and Historical Indo-European Linguistics, vol. 1, pp. 249-255 (printed). PIE background: Byrd,
+$   "121. The phonology of Proto-Indo-European" (vol. 3), cited B121.
+$ Test lexicon (Kimball's own PA reconstructions with their PIE sources): pie-pa-kimball-lexicon.txt
+$
+$ CONVENTIONS
+$ - Identifiers: A + Kimball's section number + letter (A2a ...); $$PG: = printed page(s).
+$ - Kimball gives no relative chronology; order is by feeding/bleeding (ORDER: lines).
+$
+$ EXECUTIVE DECISIONS
+$ E1. PIE input conventions as in Clayton's DiaCLEA18: h1 = h, h2 = χ, h3 = xʷ, i̯ u̯ = j w, k̑ g̑ g̑h = c ɟ ɟʰ,
+$     kʷ ɡʷ ɡʷʰ, syllabic r̩ l̩ m̩ n̩.
+$ E2. The PIE accent IS marked in the input (ˈ), because Kimball's voicing of voiceless stops and of *h2 depends
+$     on it (Eichner's lenition, pp. 252, 254). Where Kimball gives no accent, the standard PIE accent of the
+$     form is supplied in the lexicon (noted there).
+$ E3. Kimball's labialized laryngeal *hw = χʷ; the voiced medial allophone *[ħ] of *h2 = ʁ (voiced uvular,
+$     i.e. the voiced counterpart of the h2 symbol χ); PA *ǣ = æː; *ts = t͡s.
+$ E4. Language-specific developments (Hittite plene lengthening, Luvian/Lycian/Lydian changes, final m/n merger,
+$     fortis/lenis reanalysis, initial devoicing) are explicitly NOT Proto-Anatolian per Kimball and are not
+$     encoded.
+
+$ ===================================================================================================
+$ PIE-LEVEL RULES (B121)
+$ ===================================================================================================
+
+$ B121-3.3 Laryngeal colouring (h2 e > h2 a, h3 e > h3 o)  $$PG: 2064 (B121)
+$ Kimball: "PA */h2a/ < early PIE */h2e/"; "PA */h3o/ < early PIE */h3e/" (p. 250).
+{e;ˈe} > {a;ˈa} / χ __
+{e;ˈe} > {a;ˈa} / __ χ
+{e;ˈe} > {o;ˈo} / xʷ __
+{e;ˈe} > {o;ˈo} / __ xʷ
+
+$ ===================================================================================================
+$ PIE > PROTO-ANATOLIAN (Kimball)
+$ ===================================================================================================
+
+$ A6a Merger of the voiced aspirates with the voiced stops  $$PG: 249, 252-253
+$ ("the probable merger of the voiced aspirates with voiced stops"; *bherg̑hw- > *berg̑wī-, *dheh1- > *dǣ-,
+$ *g̑hemro- > *g̑emro-). TENTATIVE per Kimball ("technically, it is not possible to exclude them").
+[-son,+voi,+sg] > [-sg]
+
+$ A2b Resyllabification of *w / labiovelar + syllabic resonant to u / ku  $$PG: 250
+$ ("the resyllabification of sequences of */w/ or labiovelar */kw/ to u and ku": *h2wr̥neh1- > *hur-;
+$ *peh2wr̥ > *pah2ur)
+$ ORDER: before A7c (*h2w > *hw), which would otherwise take the w of *peh2wr̥.
+$ NOTE: not word-initially - Kimball keeps PA *wl̥gwo- 'lion' (p. 253); all his examples are non-initial
+$ (confirmed by DiaSim test).
+{w r̩;w l̩;w m̩;w n̩} > {u r;u l;u m;u n} / @ __
+{w ˈr̩;w ˈl̩;w ˈm̩;w ˈn̩} > {ˈu r;ˈu l;ˈu m;ˈu n} / @ __
+{kʷ r̩;kʷ l̩;kʷ m̩;kʷ n̩} > {k u r;k u l;k u m;k u n}
+
+$ A2a Lowering of *e before resonant + laryngeal, and before *r / *n + stop or word boundary  $$PG: 250
+$ (*terh2o- > *tarro-; *endo > *ando)
+$ ORDER: before A4 (gemination removes the laryngeal of RH).
+{e;ˈe} > {a;ˈa} / __ [+son,+cons] {h;χ;xʷ}
+{e;ˈe} > {a;ˈa} / __ {r;n} {[-son,-cont];#}
+
+$ A4/A5 Gemination of resonants, nasals, stops and *s before a laryngeal; *mn > *mm  $$PG: 251-253, 254
+$ "a sequence of *VRHV became *VRRV with gemination of the resonant" (*terh2o- > *tarro-, *molh2- > *malla-);
+$ "geminate nasals arose through assimilation to a following nasal or laryngeal" (*-mno- > *-ommo-;
+$ *-enh1i- > *-anna/ī-); "The Proto-Anatolian geminate stops resulted from assimilation of a stop to a
+$ following laryngeal" (*pe-pH1/3o- > PP; *poth2r̥ > *pattar; *meg̑h2- > KK); "geminate /ss/ from *sH".
+$ NOTE: written as identical-segment gemination (two identical segments, as in Clayton's CFRs).
+{r h;r χ;r xʷ;l h;l χ;l xʷ;n h;n χ;n xʷ;m h;m χ;m xʷ} > {r r;r r;r r;l l;l l;l l;n n;n n;n n;m m;m m;m m} / [+syl] __ [+syl]
+m n > m m / [+syl] __
+{p h;p χ;p xʷ;b h;b χ;b xʷ;t h;t χ;t xʷ;d h;d χ;d xʷ} > {p p;p p;p p;b b;b b;b b;t t;t t;t t;d d;d d;d d} / [+syl] __
+{c h;c χ;c xʷ;ɟ h;ɟ χ;ɟ xʷ;k h;k χ;k xʷ;ɡ h;ɡ χ;ɡ xʷ} > {c c;c c;c c;ɟ ɟ;ɟ ɟ;ɟ ɟ;k k;k k;k k;ɡ ɡ;ɡ ɡ;ɡ ɡ} / [+syl] __
+{s h;s χ;s xʷ} > {s s;s s;s s} / [+syl] __
+
+$ A2c PIE tautosyllabic *eh1 > PA *ǣ  $$PG: 250
+$ ("A mid or low front */ǣ/ ... resulted from PIE tautosyllabic */eh1/": *dheh1- > *dǣ-, *seh1- > *sǣ-)
+$ NOTE: tautosyllabic = before a consonant or #.
+{e h;ˈe h} > {æː;ˈæː} / __ {[-syl];#}
+
+$ A2d Monophthongization of *ei > *ī and *eu, *ou > *ū  $$PG: 250-251
+$ (*k̑ei- > *k̑ī-; *h2euh2o- > *h2ūħo-; *h2outo- > *h2ūdo-)
+$ NOTE: before a consonant or #. Short *oi, *au survive "before */l/ and */n/ and before clusters with
+$ initial */s/" (*k̑oino-, *auli-); long *ōi, *ōu survive. Melchert's/Eichner's *ẹ̄, *ę̄ from *ei, *oi, *ai
+$ are "not supported by undisputed sound changes" - oi, ai elsewhere are NOT encoded.
+$ NOTE: *au (incl. *h2eu > *h2au by colouring: Kimball cites *h2auh2o- > *h2ūħo-, p. 254) also > *ū except
+$ before l, n and s, where Kimball says short *au survives (*auli-).
+{e j;ˈe j} > {iː;ˈiː} / __ {[-syl];#}
+{e w;ˈe w;o w;ˈo w} > {uː;ˈuː;uː;ˈuː} / __ {[-syl];#}
+{a w;ˈa w} > {uː;ˈuː} / __ {#;[-son,-strid];χ;xʷ;r;m;j;w}
+
+$ A5a Loss of initial *y before *e, *ē, *ǣ  $$PG: 252
+j > ∅ / # __ {e;ˈe;eː;ˈeː;æː;ˈæː}
+
+$ A7a Loss of *h1  $$PG: 249
+$ ("loss of */h1/"; *h1es- > *es-, *h1obho- > *obo-, *h1ek̑wo- > *ek̑wo-)
+$ ORDER: after A2c (*eh1 > *ǣ) and A4 (*VnH1V > *Vnn).
+h > ∅
+
+$ A7b *h3 lost between vowels  $$PG: 254
+$ ("*/h3/ was lost medially between vowels but was perhaps retained after resonants")
+xʷ > ∅ / [+syl] __ [+syl]
+
+$ A7c Labialized laryngeal *hw from *h2w, *h3w  $$PG: 254
+$ (*terh2w- > Hitt. tarhu-; *le/oh3w- > lāhu-)
+{χ w;xʷ w} > {χʷ;χʷ}
+
+$ A8 *ty > *tsy  $$PG: 254-255
+$ (*-tyo- > *-tsyo-: *srōtyo- > *srōtsyo-)
+$ ORDER: before A6c, so the affricate is not voiced.
+t > t͡s / __ j
+
+$ A6b Medial *kw > *gw except before *s  $$PG: 252
+$ ("IE medial */kw/ became PA */gw/ except before */s/": *wl̥kwo- > *wl̥gwo-, *terkw- > *targw-, but *dekwso-)
+kʷ > ɡʷ / @ __ {#;[-strid]}
+
+$ A6c Lenition: PIE voiceless stops (and *h2) voiced after long accented vowels and in unaccented syllables  $$PG: 252, 254
+$ "PIE voiceless stops were voiced after long accented vowels (including the monophthongized diphthongs),
+$ after (unaccented) */ǣ/ from */ēh1/, and in unaccented syllables" (Eichner 1973); "Medial */h2/ had two
+$ allophones, a voiceless *[h2], which occurred after short accented vowels, and voiced *[ħ] after long
+$ accented vowels and in unaccented syllables" (*h2outo- > *h2ūdo-; *wēk̑- > *weg̑-; *melit- > *melid-;
+$ *h2euh2o- > *h2ūħo-).
+$ NOTE: "in unaccented syllables" is applied only medially (Kimball: the initial voicing contrast was kept,
+$ CLuv. kui- vs. wānā-) and only next to an unaccented VOWEL (a stop after an unaccented syllabic
+$ resonant, as in *wek̑n̥ti, is kept: Kimball writes PA *wek̑n̥ti). Affricates (-delrel excluded) are not
+$ targets. Two environments: (i) after a long accented vowel, (ii) after an unaccented vowel. After a SHORT
+$ accented vowel the segment stays voiceless even before an unaccented vowel (Kimball: "voiceless *[h2] ...
+$ after short accented vowels"; *peh2wr̥ > *pah2ur - an earlier third environment "before an unaccented
+$ vowel" was removed after DiaSim testing).
+[-son,-cont,-voi,-delrel] > [+voi] / [+syl,+long,+stres] __
+[-son,-cont,-voi,-delrel] > [+voi] / [+syl,-cons,-stres] __
+χ > ʁ / [+syl,+long,+stres] __
+χ > ʁ / [+syl,-cons,-stres] __
+
+$ COMMENT-ONLY
+$ - Lowering of *e before */r/ and */n/ + stop is encoded; Hittite shortening of unaccented long vowels "cannot
+$   be determined" for PA (p. 250).
+$ - *tū > *tī ('you', p. 250) - single lexical item.
+$ - Laryngeal loss with lengthening in *(s)teh2- > *(s)tā-, *deh3- > *dō- (p. 250-251) vs. preserved *h2 in
+$   *pah2s-, *bēh2o- (p. 254): Kimball gives no conditioning; not encoded beyond *eh1 (A2c).
+$ - Dissimilation of *n…n > *l…n (*h1neh3mn̥ > *lōmn̥, p. 252) - two lexical examples.
+$ - *ou-h1em-ye/o- > *wemye/o- (p. 252) - single form.
+$ - Melchert's claim that final stops were voiced in PA (p. 252) - Kimball reports it as a claim.
+$ - Lycian loss of initial *h3, Hittite prothetic i- before sC (pp. 253-254) - daughter languages.
+
+$ OUTPUT: Proto-Anatolian (no stage flag needed at the end of the cascade).
