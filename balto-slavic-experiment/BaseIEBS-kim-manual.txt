@@ -1,0 +1,116 @@
+
+$ Proto-Indo-European to Proto-Slavic based on Kim 2018 in Klein, Fritz and Joseph, IE handbook
+ 
+$ Indo-European conventions: 
+    $h1 h2 h3 as x χ xʷ
+    $Using palatal-uvular theory:  front dorsals as palatal, back as uvular [coded to allow treatment as velar, though] , labiodorsal as labiovelar
+    $ no PIE A; when it does develop it's back. 
+
+$ Proto-Balto-Slavic diachroneme conventions (informed by treatment of early Slavic loans in Proto-Albanian and Proto-Balkan-Romance)
+    $ Proto-Balto-Slavic *ś *ź as alveopalatals ɕ ʑ 
+    $ Proto-Balto-Slavic RUKI s *š as ʃ 
+    $ Proto-Balto-Slavic merged short a/o as ɑ, PSlav long ā < aː, oː, as [ɑː]
+    $ Proto-Slavic eː , ɒj > *ě, as per Kim 2018: 1979 "almost certainly  a tense low front vowel [æː]" (æ is not tense but ok.)
+    $ Proto-Slavic *ǫ *ę as ɒ̃ː ɛ̃ː respectively 
+
+$assuming Proto-Balto-Slavic -- $PIE to PBS per Ronald Kim in same volume
+
+$ C1 laryngeal vowel coloring 
+[+syl,-hi,-back] > [+back,-front,+round,+lab] / __ [-son,+cont,-ant,+lab]
+[+syl,-hi,-back] > [+back,-front,+round,+lab] / [-son,+cont,-ant,+lab] __
+[+syl,-hi,-back] > [+back,-front,+lo] / __ [-son,-ant,-hi]
+[+syl,-hi,-back] > [+back,-front,+lo] / [-son,-ant,-hi] __ 
+
+
+$ 3.3 loss of laryngeals in V __ C/#, with lengthening, as in all non-Anatolian branches.
+[+syl] > [+long] / __ [-son,-ant,+cont] ([+cons] (@)*) #
+[-son,-ant,+cont] > ∅ / __ ([+cons] (@)*) #
+
+$ Kim 2.1 s voicing before voiced stops 
+s > z / __ [-ccont,+voi]
+
+$ Kim 2.2 regressive voicing assimilation
+[-son] > [avoi] / __ [-son,avoi]
+
+$ Kim 2.11 loss of word final d, "as in most other IE languages"
+d > ∅ / __ #
+ 
+= Late Indo-European 
+
+$ Kim 2.3 tt, dt > st 
+t > s / __ t 
+
+$ Kim 2.5 , 3.8 Winter's Law. Counterfed by Kim 2.4 
+[+syl] > [+long] / __ [-cont,+voi,-sg]
+
+$ Kim 2.4 voiced/voiced aspirate merger
+[+voi] > [-sg]
+
+$ Kim 2.6 merger of back dorsals and labiodorsals
+[-cont,-ant,-front] > [+hi,-lab,-round]
+
+$ Kim 3.4 loss of word initial laryngeals without a trace
+[-son,+cont,-ant] > ∅ / # __ 
+
+$ Kim 3.5 "Laryngeals between obstruents in an initial syllable yielded PBS *a, as elsewhere in IE apart from Anatolian, Indo-Iranian, and in part Greek, although examples are few
+    $"cf. Lith. stãtas ‘line of sheafs of grain in a field’, Latv. stats ‘stake, post’ < PBS *stata- ‘stood (up)’ < PIE *sth2-tó- to *steh2- ‘stand’."
+[-son,+cont,-ant] > ɑ / # ([-syl])* [-son] __ [-son] 
+
+$ Kim 3.6 general loss of laryngeals.
+[-son,+cont,-ant] > ∅
+
+$ Kim 2.7 [beginning of] fronting and frication of front dorsals to *ś and *ź
+[-cont,+front] > [+cont,+strid]
+
+$ Kim 3.1 PIE a, o merge as [back] a [ɑ]
+[+syl,+back,-hi,-long] > [+lo,-round,-lab]
+
+$ Kim 3.17 final -m to -n 
+m > n / __ #
+
+$ Kim 2.8 RUKI. includes j, w. Also in Indo-Iranian. May be post-Balto-Slavic as it is consistent in Slavic, but not Lithuanian...
+s > ʃ / {[+hi,kcons,-kvoi];r}
+
+$ rules from Proto-Balto-Slavic onward commented out-- this cascade only goes to Proto-Balto-Slaivc
+$= Proto-Balto-Slavic 
+
+$ Kim 2.9 Slavic further retraction of Balto-Slavic ruki s 
+$ʃ > x 
+
+$ Kim 2.10 further fronting of front dorsal reflexes, merger of voiceless with s. 
+$[+cor,+strid] >  [+ant,-front,-distr]
+
+$ Kim 3.2, 3.9 PBS e to PSl a before W;
+    $TODO check this--  3.9 Kim says *eu to "(j)au" ... 
+$[+syl,-long,+front,-hi] > [-front,+back,+lo] / __ w
+
+$ Kim 3.7 PBS ō and ā merge as PSl ā 
+$â[+syl,+round,-hi] > [-round,-lab,+lo]
+
+= Early Proto-Slavic
+
+$ Kim 3.10 Inherited PBS *uː > *ɯː 
+$[+syl,+long,+hi] > [-round,-lab]
+
+$ Kim 3.11 *ei > *iː , *au [ɒw] (from *ou or *au) > ˈuː. Counterfeeds 3.10
+$[+syl,+front,-lo] j > [+hi,+long] ∅ 
+$[+syl,+back] w > [+hi,-lo,+round,+lab,+long] ∅ 
+
+$ Kim 3.13 "A later change [later than 3.11] merged *ai with the reflex of PBS *ē as PSl. *ě, almost certainly a tense low front vowel [æ:]" 
+    $ Kim 3.13.a ɒj > eː 
+$[+lo] j > [+front,-back,-lo,-round,-lab,+long] ∅ 
+    $ Kim 3.14 eː > æː 
+$[+front,-hi,+long,+syl] > [+lo,-tense]
+
+$ Kim 3.14 formation of yusses. iN eN to *ę, aN (< oN aN) uN > ǫ
+$[+syl,efront] [+nas,+cons] > [+nas,+long,-hi,-elo,-etense] ∅ 
+
+$ Kim 3.15 *a to *o, but policy here is to keep treating both as ɒ in the Middle Common Slavic stage. 
+
+$ Kim 3.16 inherited *i and *u become "hypershort" yers. Handled as lax here.
+$[+hi,+syl,-long] > [-tense]
+
+$= Middle Common Slavic II 
+
+$ Kim 3.12 inferred ɯ > ɨ 
+$[+syl,+hi,-round] > [-back]
