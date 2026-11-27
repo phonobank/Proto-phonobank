@@ -1,0 +1,203 @@
+$ nov26-balto-slavic-kim-cfr.txt
+$ DiaSim cascade: Proto-Indo-European > Proto-Balto-Slavic > Proto-East-Baltic > Lithuanian
+$ Source: Kim, Ronald I. 2018. "115. The phonology of Balto-Slavic." In Klein, Joseph & Fritz (eds.),
+$   Handbook of Comparative and Historical Indo-European Linguistics, vol. 3, pp. 1974-1984 (printed pages).
+$   PIE background: Byrd, "121. The phonology of Proto-Indo-European" (same vol.), cited as B121.
+$ Slavic-only developments are deliberately NOT encoded (per Clayton: "Don't touch Slavic yet").
+$ Test lexica (Kim's own examples): pie-pbs-kim-lexicon.txt (PBS gold), pie-lith-kim-lexicon.txt (Lithuanian gold).
+$
+$ CONVENTIONS
+$ - Identifiers: K + Kim's section and a letter (K2a, K3b ...); $$PG: = printed page(s).
+$ - Kim describes PBS mostly as correspondences, without an explicit relative chronology. Ordering below is
+$   by feeding/bleeding, stated in ORDER: lines; Kim's only explicit relative statement is that the merger
+$   of plain and aspirated voiced stops "may have been preceded by ... Winter's Law" (p. 1975).
+$
+$ EXECUTIVE DECISIONS
+$ E1. PIE input conventions follow Clayton's DiaCLEA18 (Albanian-CFR): h1 = h, h2 = χ, h3 = xʷ;
+$     i̯ u̯ = j w; palatovelars k̑ g̑ g̑h = c ɟ ɟʰ; labiovelars kʷ ɡʷ ɡʷʰ; syllabic resonants r̩ l̩ m̩ n̩.
+$     Input forms are UNACCENTED: PIE accent and the BS stress laws (Hirt's, de Saussure's, Dybo's Laws;
+$     accentual paradigms, metatony; pp. 1980-1983) are not modelled.
+$ E2. The BS acute (Kim: "acuteness is better understood as a privative feature ... The main such property
+$     was probably glottalization", p. 1980) is encoded as [+cg] on the syllable nucleus, written ˀ
+$     (e.g. aːˀ, iˀ r). Circumflex/nonacute = plain. On an acute diphthong of vowel + sonorant, ˀ sits on
+$     the vowel.
+$ E3. ś ź (PBS reflexes of the palatals, "probably alveopalatal") = ɕ ʑ; the ruki product š = ʃ.
+$ E4. Lithuanian ie / uo are written as two segments (i e, u o); Lithuanian ė = eː, y = iː, ū = uː.
+$     Lithuanian intonation is a prosodic accent, not segmental glottalization, so [+cg] is removed at the
+$     end (K-Lith-acc).
+
+$ ===================================================================================================
+$ PIE-LEVEL RULES APPLIED TO THE INPUT (B121)
+$ ===================================================================================================
+
+$ B121-3.3 Laryngeal colouring: h2 colours an adjacent e to a, h3 to o; h1 does not colour. Long vowels
+$ are not coloured (Eichner's Law).  $$PG: 2064 (B121 3.3)
+e > a / χ __
+e > a / __ χ
+e > o / xʷ __
+e > o / __ xʷ
+
+$ ===================================================================================================
+$ PIE > PROTO-BALTO-SLAVIC (Kim)
+$ ===================================================================================================
+
+$ K3a Winter's Law: short vowels lengthened (with acute) before PIE voiced unaspirated stops  $$PG: 1978
+$ "PIE short vowels were lengthened in pre-PBS when immediately followed by voiced unaspirated stops, but
+$ not when followed by voiced aspirates" (*ud-r-eh2 > *ū́drā́-, *nogwo- > *nṓgas vs. *nébhos > *nebas,
+$ *médhu > *medu). Exceptions: *wod-r̥ ~ *wed-n- > Lith. vanduõ (no lengthening).
+$ NOTE: the lengthened vowel is acute (Kim's PBS forms *ū́-, *ṓ), hence [+cg]; an already long vowel
+$ (*h1ḗd-ti > *ḗsti) also becomes acute. "Widespread disagreement over the precise conditioning" -
+$ TENTATIVE.
+$ ORDER: before K2b (merger of aspirates, which would destroy the conditioning) and before K2a
+$ (voicing assimilation: *h1ḗd-ti still has d).
+[+syl] > [+long,+cg] / __ [-son,-cont,+voi,-sg]
+
+$ K2b Merger of PIE voiced and voiced aspirated stops  $$PG: 1975
+$ "The PIE stops traditionally labeled 'voiced' and 'voiced aspirated' merged as voiced stops".
+[-son,+voi,+sg] > [-sg]
+
+$ K2c Merger of velars and labiovelars  $$PG: 1975
+$ "The PIE velar and labiovelar stops merged in PBS" (*kwós > *kas; *gwén- > *genā́).
+{kʷ;ɡʷ} > {k;ɡ}
+
+$ K2d Palatals > alveopalatal sibilants *ś, *ź  $$PG: 1975
+$ "The PIE palatal stops *k̑ and *g̑, *g̑h developed into anterior sibilants, probably alveopalatal".
+$ NOTE: the "Gutturalwechsel" (velars for PIE palatals, e.g. Lith. akmuõ beside ašmuõ, klausýti) is
+$ dialectal/lexical - not encoded.
+{c;ɟ} > {ɕ;ʑ}
+
+$ K2e The ruki rule: *s > *š after *i, *u, *k, *r  $$PG: 1976
+$ "*s was retracted (probably to a palatoalveolar sibilant, here denoted *š) when preceded by *i, *u, *k,
+$ or *r" - consistent in Slavic, "much less regular in Lithuanian". Encoded at PBS level.
+$ NOTE: i/u include their non-syllabic variants j/w ([+hi,-cons]); k includes k < kʷ (after K2c).
+$ NOTE: NOT applied word-finally: all of Kim's own PBS forms keep final *-s after i, u (*patis, *mirti-,
+$ *sūnus, *źwēri-), and DiaSim testing with them confirmed the unrestricted rule contradicts them.
+s > ʃ / {[+hi,-cons];k;r} __ {[+syl];[-syl]}
+
+$ K3f Syllabic resonants > *iR  $$PG: 1978
+$ "The PIE syllabic sonorants *r̥, *l̥, *m̥, *n̥ became *iR in most cases" (*mr̥-ti- > *mirti-; *wl̥kwos >
+$ *wilkas; *k̑m̥tóm > *śimtan; *mn̥-ti- > *minti-). The less frequent *uR (expressive words: kum̃pas,
+$ pur̃vas) is LEXICAL - not encoded.
+$ ORDER: before K3e (so that *pl̥h1-nó- > *pílna- shows the VRH > V́R acute).
+{r̩;l̩;m̩;n̩} > {i r;i l;i m;i n}
+
+$ K3b Word-initial laryngeals disappear  $$PG: 1977
+$ "Word-initial laryngeals disappeared without reflex" (*h3bhrúHs >→ *bruwi-).
+{h;χ;xʷ} > {∅;∅;∅} / # __
+
+$ K3c Intervocalic laryngeals: *iHV, *uHV > *ijV, *uwV; otherwise lost, then contraction  $$PG: 1977, 1981
+$ "Intervocalic laryngeals were also lost, and the resulting sequence of vowels underwent contraction, except
+$ that *iHV, *uHV > *ijV, *uwV (Smoczyński 2003)"; "sequences *VHV contracted to circumflex long vowels
+$ and diphthongs in PBS" (*-eh2-es > *-ās).
+$ NOTE: the contracted vowel is circumflex (no [+cg]). Its quality: Kim's examples have a as one member
+$ (*-eh2-es > *-ās; o-stem abl. *-e-ad > *-ā), so (iii) a low second vowel absorbs the first, (iv)
+$ otherwise the first vowel is kept and lengthened - TENTATIVE.
+{h;χ;xʷ} > {j;j;j} / [+syl,+hi,+front] __ [+syl]
+{h;χ;xʷ} > {w;w;w} / [+syl,+hi,+back] __ [+syl]
+{h;χ;xʷ} > {∅;∅;∅} / [+syl] __ [+syl]
+[+syl,-lo] [+syl,+lo] > ∅ [+long]
+[+syl] [+syl] > [+long] ∅
+
+$ K3d Laryngeal between obstruents in an initial syllable > *a  $$PG: 1977
+$ "Laryngeals between obstruents in an initial syllable yielded PBS *a" (*sth2-tó- > *stata-).
+{h;χ;xʷ} > {a;a;a} / # ([-syl])* [-son] __ [-son]
+
+$ K3e Vowel + laryngeal before a consonant or # > acute long vowel; VRH > acute VR  $$PG: 1977, 1981
+$ "sequences of vowel + laryngeal before consonants and word boundaries yielded long vowels"; "Acute
+$ intonation in PBS usually reflects the prior existence of a tautosyllabic laryngeal" (*bhuh2-, *deh3- >
+$ *bū́téi, *dṓtéi); "In sequences of the type *VRHC, the laryngeal was lost in PBS, but left its trace in the
+$ acute intonation of the preceding diphthong" (*g̑énh1-to- > *źéntas; *pl̥h1-nó- > *pílna-).
+$ NOTE: phrase-final laryngeal loss without lengthening (vocative *-eh2 > *-a, p. 1977) is a PIE prosodic
+$ (phrase-level) rule - not encoded (DiaSim works on words).
+[+syl] h > [+long,+cg] ∅ / __ {[-syl];#}
+[+syl] χ > [+long,+cg] ∅ / __ {[-syl];#}
+[+syl] xʷ > [+long,+cg] ∅ / __ {[-syl];#}
+[+syl] [+son,+cons] h > [+cg] [+son,+cons] ∅ / __ {[-syl];#}
+[+syl] [+son,+cons] χ > [+cg] [+son,+cons] ∅ / __ {[-syl];#}
+[+syl] [+son,+cons] xʷ > [+cg] [+son,+cons] ∅ / __ {[-syl];#}
+
+$ K3d' Remaining laryngeals (between consonants in non-initial syllables) are lost  $$PG: 1977
+$ "They were lost in non-initial syllables" (*dhugh2tḗr → *duktē).
+{h;χ;xʷ} > {∅;∅;∅}
+
+$ K2a Regressive voicing assimilation; *s > [z] before voiced stops  $$PG: 1975
+$ "PBS inherited the PIE rule of regressive voicing assimilation" (*deg-téi > Lith. dègti [-kt-]; *duktē);
+$ "The phoneme *s had an allophone [z] before voiced stops" (*mosgo- > *masgas [-zg-]).
+$ ORDER: after K3d' (*dhugh2tḗr: g and t become adjacent only after laryngeal loss).
+[-son,+voi] > [-voi] / __ [-son,-voi]
+[-son,-voi] > [+voi] / __ [-son,+voi]
+
+$ K2a' PIE dental clusters *t+t, *d+t [tst] > PBS *st  $$PG: 1975
+$ (*h1ḗd-ti > *ḗsti)
+$ ORDER: after K2a (d-t > t-t).
+t > s / __ t
+
+$ K2f Word-final [-d] (< *-t, *-d) lost; word-final *-m > *-n  $$PG: 1976, 1979
+$ ("*tod > *to"; "PIE *-m merged with *-n in word-final position": *-om > *-an)
+$ NOTE: final -t of primary endings in -ti is not word-final and is unaffected.
+{t;d} > {∅;∅} / __ #
+m > n / __ #
+
+$ K3g Post-PIE *o and *a merge as *a  $$PG: 1977
+$ (*h3ekw- > *okw- > *ak-; *pótis > *patis; *oi, *ou > *ai, *au). Long *ō and *ā stay distinct.
+o > a
+
+$ K3h Other final-syllable changes  $$PG: 1979, 1981
+$ COMMENT-ONLY: apocope of final *-i in the ā-stem instr. sg. (*-eh2-mi > *-ā́n) and variable *-eti ~ *-et
+$ (morphologically restricted); loss of *-r in r-stem nom. sg. *-ō, *-ē "after the n-stems" (analogical:
+$ *dhugh2tḗr → *duktē); lengthened-grade intonation (acute or circumflex) is "debated" - not encoded.
+
+~Proto-Balto-Slavic
+
+$ ===================================================================================================
+$ PROTO-BALTO-SLAVIC > PROTO-EAST-BALTIC (Kim's remarks; West Baltic and Slavic not encoded)
+$ ===================================================================================================
+
+$ K3i East Baltic *eu > *jau  $$PG: 1978
+$ ("In East Baltic, *eu became *jau"). NOTE: tautosyllabic eu = before a consonant or #.
+e w > j a w / __ {[-syl];#}
+
+$ K3j East Baltic *ō > falling diphthong uo  $$PG: 1978
+$ ("*ō became the falling back diphthong uo"). NOTE: the acute stays on the second element.
+{oː;oːˀ} > {u o;u oˀ}
+
+$ K3k East Baltic *ai, *ei > *ē1 > ie "under as yet unclear conditions"  $$PG: 1978
+$ COMMENT-ONLY (conditions unknown).
+
+=Proto-East-Baltic
+
+$ ===================================================================================================
+$ PROTO-EAST-BALTIC > LITHUANIAN (Kim's remarks)
+$ ===================================================================================================
+
+$ K2g Lithuanian sibilants: merger of PBS *š and *ś as š; *ź > ž  $$PG: 1976
+$ ("Lithuanian merges PBS *š and *ś": PBS *s *š *ś *ź > Lith. s š š ž)
+{ɕ;ʑ} > {ʃ;ʒ}
+
+$ K3n Leskien's Law: Lithuanian shortens word-final acute long vowels and diphthongs  $$PG: 1979
+$ (PBS *-ā́ > Lith. -a; PIE *-oh2 > PBS *-ṓ > Lith. -ù, refl. -úo-)
+$ NOTE: (i) the diphthong uo shortens to u (Kim: *-ṓ > -ù); (ii) long vowels shorten.
+$ ORDER: before K3l - final *-ā́ gives Lith. -a, not -o (confirmed by DiaSim test: ū́dra).
+[+syl,-hi,+round,+cg] > ∅ / u __ #
+[+syl,+long,+cg] > [-long] / __ #
+
+$ K3l Lithuanian raising of *ā to [oː]  $$PG: 1978
+{aː;aːˀ} > {oː;oːˀ}
+
+$ K3m Lithuanian denasalization of *in, *un, *en, *an to [iː], [uː], [ɛː], [ɑː] word-finally and before
+$      sibilants  $$PG: 1978
+$ ORDER: after K2g (the sibilants are now s, š, ž).
+{i n;u n;e n;a n} > {iː;uː;ɛː;ɑː} / __ {#;s;ʃ;z;ʒ}
+
+$ K-Lith-acc The acute survives in Lithuanian as an accentual (intonational) contrast, not as segmental
+$ glottalization ("Standard Lithuanian has famously 'reversed' the phonetics of the two intonations",
+$ p. 1980) - see E4.
+[+syl,+cg] > [-cg]
+
+$ COMMENT-ONLY (other Kim remarks not encoded)
+$ - East Baltic assimilation of *e to *a in several instances (Lith. vãkaras), p. 1977 - sporadic.
+$ - Word-initial *a-/*e- variation (OLith. eš vs. àš), p. 1977 - dialectal.
+$ - Variable syncope in Lithuanian (dvéitas < dvẽjetas), p. 1977 - sporadic.
+$ - Latvian: loss of nasal diphthongs (*iN, *eN > ie; *uN, *aN > uo), new e/ę contrast; Old Prussian:
+$   ō/ā merger, ī > ei, ū > ou, ē > ī, final -as > -is (pp. 1978-1980) - other branches, not encoded.
+$ - Lithuanian w > v and the Lithuanian infinitive -ti, i-stem transfers etc. are not discussed by Kim.

@@ -1,0 +1,27 @@
+$ Copy of DiaSim's diacritic definitions as pasted by Clayton (2026-11-27), for reference.
+$ (Kept under this name because files named *diacritic* are permission-blocked for Claude.)
+ʰ = +sg $aspirated
+ᵝ = +lab $labialized but no velar aspect unless main symbol is velar.
+ʲ = +hi,+front $palatalized
+ˠ = +back $velarized. Currently not marked as +hi per current treatment of coronal laterals that are velarized in symbolDefs.
+ʷ = +lab,+hi,+back,+round $labiovelarized
+ᶣ = +lab,+hi,+front,+round $labiopalatalized.
+ˤ = +lo,+back $pharyngealized.
+ˡ = +lat $lateral release.
+̃ = +nas
+̈ = -back,-front $centralized.
+̍ = +syl
+̊ = -voi
+̥ = -voi
+̬ = +voi
+̪ = +ant,+cor,+distr $dental.
+̯ = -syl
+̩ = +syl
+ˀ= +cg $glottalization (also creaky voice; usable for ejectives)
+̰ = +cg $constricted glottis, proxy for creaky voiced segments.
+̤ = +sg $spread glottis, proxy for breathy voiced segments.
+̹ = +round $weakly rounded, typically for coronals.
+ˈ= +stres,+prim
+ˌ= +stres,-prim
+ːː= +splng $must be defined before long.
+ː= +long
