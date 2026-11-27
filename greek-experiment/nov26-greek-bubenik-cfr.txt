@@ -1,0 +1,328 @@
+$ nov26-greek-bubenik-cfr.txt
+$ DiaSim cascade: Proto-Indo-European > Proto-Greek > Classical Attic > Late (Hellenistic-Roman) Koine
+$ Source: Bubenik, Vit. 2017. "40. The phonology of Greek." In Klein, Joseph & Fritz (eds.), Handbook of
+$   Comparative and Historical Indo-European Linguistics, vol. 1, pp. 638-653 (printed; PDF page = printed + 13).
+$ Test lexica (Bubenik's own forms): greek-bubenik-pie-lexicon.txt (PIE > Classical Attic) and
+$   greek-bubenik-pg-lexicon.txt (his Proto-Greek forms > Classical Attic).
+$
+$ CONVENTIONS
+$ - Identifiers: B + Bubenik's section number + letter (B1.1a, B2.4b, ...); $$PG: = printed page(s).
+$ - Order: Bubenik's chapter is thematic (PIE > Greek; vowels; consonants; accent), not chronological. Rules are
+$   ordered by his datings where he gives them (Mycenaean 14th-12th c.; 1st compensatory lengthening c. 1000 BCE
+$   before the Attic-Ionic *ā-fronting of the 9th/8th c.; ei/ou monophthongization 7th-5th c.; vowel shifts by
+$   c. 350 BCE; aspirate frication c. 150 BCE on; voiced-stop frication c. 300-600 CE), otherwise by
+$   feeding/bleeding (ORDER: lines). Page flags point to where each rule is stated.
+$ - INFERRED = not stated as a rule by Bubenik but required by his own examples (each says which).
+$
+$ EXECUTIVE DECISIONS
+$ E1. PIE input as in Clayton's DiaCLEA18: h1 = h, h2 = χ, h3 = xʷ, i̯ u̯ = j w, k̑ g̑ g̑h = c ɟ ɟʰ, kʷ ɡʷ ɡʷʰ,
+$     syllabic r̩ l̩ m̩ n̩. The PIE accent is marked (ˈ) because Bubenik's laryngeal rule (B1.3c) and accent laws
+$     (B4.2) depend on it; accents he does not give are supplied in the lexica (noted there).
+$ E2. Line of descent: Classical Attic, Bubenik's "touchstone" (p. 642), then the Attic-based Koine. Other dialect
+$     outcomes he describes (Aeolic, Doric, Arcado-Cypriot, Ionic) are comment-only.
+$ E3. Vowel symbols for Bubenik's four-grade Attic system: ẹ̄ = eː (ει), ę̄ = ɛː (η), ọ̄ = oː (ου), ǭ = ɔː (ω),
+$     ǣ = æː. PIE *ē *ō are the open vowels of Attic (η, ω), so they are lowered to ɛː ɔː (B2.1, a notational
+$     step: Bubenik does not state it as a change; the closed eː oː of Attic come from compensatory lengthening,
+$     contraction and monophthongization).
+$ E4. Bubenik's "*ts" stage and the Mycenaean affricates are not given a separate stage: palatalized clusters go
+$     straight to their Attic outcomes (B3.5), because Attic keeps *k(h)j and *t(h)j apart (tt vs. s), which a
+$     merged Mycenaean /ts/ could not do.
+$ E5. Morphologically restricted changes (s-loss with lengthening only in the sigmatic aorist, B2.5.1; Attic tt in
+$     eréttō "at a synchronic morpheme boundary", B3.5) are comment-only.
+$ E6. Accent shifts (Wheeler's and Vendryes' Laws) are written as "add a new accent" + "remove the later accent".
+$ INPUT: Proto-Indo-European.
+
+$ ===================================================================================================
+$ PIE > PROTO-GREEK
+$ ===================================================================================================
+
+$ B1c Laryngeal colouring  $$PG: 638
+$ "The laryngeal *h2 colored an adjacent *e (either preceding or following) to *a, while *h3 colored an adjacent
+$ *e bidirectionally to *o".
+{e;ˈe} > {a;ˈa} / χ __
+{e;ˈe} > {a;ˈa} / __ χ
+{e;ˈe} > {o;ˈo} / xʷ __
+{e;ˈe} > {o;ˈo} / __ xʷ
+
+$ B1.3c Syllabic resonant + laryngeal + consonant  $$PG: 641
+$ "the remaining resonant show Rāx at least when the accent follows and axRax when the accent is on the
+$ resonant (... a1 = e, a2 = a, a3 = o)": *g̑n̥h1tós > -gnētos, *g̑ń̥h1tis > génesis, *k̑m̥h2tós > -kmētos,
+$ *k̑ḿ̥h2tos > kámatos, *str̥h3tós > strōtós.
+$ ORDER: before B1.3d (the laryngeal would otherwise be vocalized between consonants).
+{ˈr̩ h;ˈl̩ h;ˈm̩ h;ˈn̩ h} > {ˈe r e;ˈe l e;ˈe m e;ˈe n e} / __ [-syl]
+{ˈr̩ χ;ˈl̩ χ;ˈm̩ χ;ˈn̩ χ} > {ˈa r a;ˈa l a;ˈa m a;ˈa n a} / __ [-syl]
+{ˈr̩ xʷ;ˈl̩ xʷ;ˈm̩ xʷ;ˈn̩ xʷ} > {ˈo r o;ˈo l o;ˈo m o;ˈo n o} / __ [-syl]
+{r̩ h;l̩ h;m̩ h;n̩ h} > {r eː;l eː;m eː;n eː} / __ [-syl]
+{r̩ χ;l̩ χ;m̩ χ;n̩ χ} > {r aː;l aː;m aː;n aː} / __ [-syl]
+{r̩ xʷ;l̩ xʷ;m̩ xʷ;n̩ xʷ} > {r oː;l oː;m oː;n oː} / __ [-syl]
+
+$ B1.3b *iHC, *uHC > ī, ū  $$PG: 641
+$ "*iHxC and *uHxC ... seem to undergo simple lengthening": *píHw-on- > pī́on-, *ébhuh2t > éphū.
+{i h;i χ;i xʷ;u h;u χ;u xʷ} > {iː;iː;iː;uː;uː;uː} / __ [-syl]
+{ˈi h;ˈi χ;ˈi xʷ;ˈu h;ˈu χ;ˈu xʷ} > {ˈiː;ˈiː;ˈiː;ˈuː;ˈuː;ˈuː} / __ [-syl]
+
+$ B1a Short vowel + laryngeal before a consonant (or #) > long vowel  $$PG: 638, 641
+$ "a short vowel + laryngeal before a consonant produces a long vowel with loss of the laryngeal"; *dheh1,
+$ *steh2, *deh3 > títhēmi, hístāmi, dídōmi. Word-final position included (*-eh2 > -ā: B2.4 Attic -ā/-ę̄ endings).
+[+syl,-cons,-long] h > [+long] ∅ / __ {[-syl];#}
+[+syl,-cons,-long] χ > [+long] ∅ / __ {[-syl];#}
+[+syl,-cons,-long] xʷ > [+long] ∅ / __ {[-syl];#}
+
+$ B1.3a "Vocalization" of laryngeals between non-syllabics and word-initially before a consonant  $$PG: 638, 641
+$ "*h̥1 appears as e, *h̥2 as a, and *h̥3 as o": *dhh̥1tós > thetós, *sth̥2tós > statós, *dh3tós > dotós; "also found
+$ in initial position": érebos < *h1regw-, anḗr < *h2nēr, omíkhlē < *h3migh-.
+{h;χ;xʷ} > {e;a;o} / # __ [-syl]
+{h;χ;xʷ} > {e;a;o} / [-syl] __ [-syl]
+
+$ B1.3d Loss of the remaining laryngeals (before vowels)  $$PG: 641
+$ estí < *h1es-, ágō < *h2eg̑-, ópsomai < *h3ekw- (colouring only, no trace of the laryngeal).
+{h;χ;xʷ} > {∅;∅;∅}
+
+$ INFERRED Merger of palatovelars with velars
+$ ORDER: before B1.1a (otherwise *g̑h is devoiced to cʰ first; found by the Olander comparison).
+$ Not stated; required by Bubenik's examples *g̑hans- > *khans, *k̑r̥d- > kardíā, *dek̑m̥tós > dekatós, *h2eg̑- > ágō.
+{c;ɟ;ɟʰ} > {k;ɡ;ɡʰ}
+
+$ B1.1a Devoicing of the voiced aspirates  $$PG: 639
+$ "the PIE voiced aspirates underwent devoicing while preserving their aspiration": *bher- > pher-,
+$ *h1rudhrós > eruthrós, *g̑hans- > *khans.
+[-son,+voi,+sg] > [-voi]
+
+$ B1.1b Delabialization of labiovelars next to u  $$PG: 639, 649
+$ "Adjacent to u labiovelars had undergone dissimilation to plain velars already in Proto-Indo-European":
+$ *gwoukwolos > Myc. /gwoukolos/ > boukólos.
+{kʷ;ɡʷ;kʷʰ} > {k;ɡ;kʰ} / {u;ˈu;w} __
+{kʷ;ɡʷ;kʷʰ} > {k;ɡ;kʰ} / __ {u;ˈu}
+
+$ E3 PIE *ē *ō = the open long mid vowels of Attic (η, ω)
+[+syl,-hi,-lo,+long] > [-tense]
+
+$ B1.1c *s > h word-initially and between vowels; medial h then lost  $$PG: 640
+$ "PIE *s remains in Greek only adjacent to itself, a voiceless stop, or when final. Elsewhere before a vowel it
+$ becomes h, which is maintained in initial position ... but is lost medially" (Myc. /pharweha/ > phárea).
+$ NOTE: s next to a resonant is treated by B2.5.1 (1st compensatory lengthening) and B3.7 (Attic rr).
+$ ORDER: before B1.2 (*dhr̥s- > thrasús keeps its s, because r̥ was not yet a vowel; the preceding vowel must be
+$ -cons so that a syllabic resonant does not count). "Elsewhere" includes after the off-glides j, w (*h2ausōs >
+$ ēōs); s after r, l, m, n is treated by B2.5.1 / B3.7 instead.
+s > h / # __ [+syl]
+s > h / {[+syl,-cons];j;w} __ [+syl]
+h > ∅ / {[+syl];j;w} __ [+syl]
+
+$ B1.2a Syllabic nasals > a  $$PG: 640
+$ "PIE syllabic nasals are reflected as a in alphabetic Greek": *tn̥tós > tatós, *-gwm̥tós > -batós.
+$ (Mycenaean a ~ o, pe-mo, de-ko-to: dialectal, comment-only.)
+{m̩;n̩;ˈm̩;ˈn̩} > {a;a;ˈa;ˈa}
+
+$ B1.2b Syllabic liquids > ra / la  $$PG: 640
+$ "PIE syllabic liquids are reflected as ra/ar and la/al": *dhr̥s- > thrasús, *k̑r̥d- > kardíā (also kradíā),
+$ *ml̥du- > bladeĩs. TENTATIVE: Bubenik gives no conditioning for ra vs. ar; the first-listed ra/la is encoded
+$ (kardíā will come out as its variant kradíā). Mycenaean/Arcado-Cypriot/Aeolic or/ro is dialectal.
+{r̩;l̩} > {r a;l a}
+{ˈr̩;ˈl̩} > {r ˈa;l ˈa}
+
+$ B3.2 Deaspiration before s  $$PG: 646
+$ "Greek dialects do not allow for the sequence aspirate + sibilant ... the aspirate is deaspirated":
+$ gráph-ō : gráp-s-ō, thrík-s 'hair'.
+$ ORDER: before B3.3, so *thrikh-s > thríks keeps its initial aspirate.
+[-son,-cont,+sg] > [-sg] / __ s
+
+$ B3.3 Grassmann's Law  $$PG: 646
+$ "the leftmost of the two non-adjacent aspirates is deaspirated (as in tí-thē-mi ... from *thí-thē-mi)";
+$ *sekh > hekh > ekh (ékhō), *threph- > tréphō, trikh-ós.
+$ NOTE: h (< *s) counts as an aspirate (Bubenik's *sekh > hekh > ekh). The aspirates are separated by at least
+$ a vowel; the intervening material is otherwise free of aspirates.
+[-son,-cont,+sg] > [-sg] / __ ([+son,+cons])* [+syl] ([-sg])* [-son,-cont,+sg]
+h > ∅ / # __ [+syl] ([-sg])* [-son,-cont,+sg]
+
+~Proto-Greek
+
+$ ===================================================================================================
+$ PROTO-GREEK > MYCENAEAN-ERA CHANGES (before the 14th c. BCE)
+$ ===================================================================================================
+
+$ B1.2c Loss of intervocalic *y; word-initial *y > h  $$PG: 640-641
+$ "The palatal glide was lost already in Mycenaean"; "The palatal glide in initial position was weakened to h-"
+$ (Myc. jo- ~ o-, Attic hōs). TENTATIVE (initial): "in other words, however, j- was strengthened to dj-"
+$ (ze-u-ke-si, Attic zeúgesi) - that lexical split is not encoded.
+j > ∅ / [+syl] __ [+syl]
+j > h / # __ [+syl]
+
+$ B3.5 Dental and velar palatalization (Attic outcomes; see E4)  $$PG: 647-648
+$ "*tj > *t'j > *t's'j; similarly ... *kj > *k'j > *t's'j" ... "ts > tt (in Boeotian, Attic and Central Cretan)";
+$ Attic: "PG *k(h)j, *tw and partly even *t(h)j developed into a geminate obstruent /tt/" (kērúttō, tháttōn),
+$ but "*t(h)j ... a sibilant /s/" (*methjos > mésos; Attic mésos vs. eréttō); "*-ntj/i-" > -ns- (pansa > pāsa).
+$ Voiced: "*dj and *gj ... simplified to [z] with the intermediate realization as the cluster [zd]"
+$ (*wridja > Myc. /wridza/, Attic hríza [r̥ízda]).
+$ NOTE: Attic tt from *t(h)j (eréttō, kreíttōn) is a morpheme-boundary restoration per Bubenik - see E5.
+{d j;ɡ j} > {z d;z d}
+{t j;tʰ j} > {s;s}
+{k j;kʰ j;t w} > {t t;t t;t t}
+
+$ B3.7d Sonorant + palatal glide  $$PG: 650
+$ "after l glide assimilation is common to all dialects" (*aljos > állos); "In all dialects a metathesis of the
+$ palatal glide in the clusters *rj and *nj took place after the back non-high vowels /o, a/" (*banjō > baínō,
+$ *morja > moĩra); after "/i, e, u/ ... in other dialects [non-Aeolic] one finds loss of the glide with
+$ compensatory lengthening" (phtheírō, kteínō).
+l j > l l
+{r j;n j} > {j r;j n} / {a;ˈa;o;ˈo} __
+{e;ˈe;i;ˈi;u;ˈu} > {eː;ˈeː;iː;ˈiː;uː;ˈuː} / __ {r;n} j
+j > ∅ / [+syl,+long] {r;n} __
+
+$ ===================================================================================================
+$ POST-MYCENAEAN > CLASSICAL ATTIC
+$ ===================================================================================================
+
+$ B3.6 Labiovelars > dentals before front vowels, labials elsewhere (non-Aeolic, Attic)  $$PG: 639, 648-649
+$ "post-Mycenaean labial development in Aeolic dialects and palatal development of Proto-Greek labiovelars in
+$ other dialectal groups": *kwis > tís (via Arcadian tsis, Ionic "tsis > tis"), *kwēle- > tēlóthen; "Proto-Greek
+$ labiovelars are reflected as labials ... before back non-high vowels /o, a/" (boukólos, trophḗ, amphípolos).
+$ NOTE: the affricate stage (Arcadian ts-) is not given its own step. Before consonants (ópsomai) Bubenik gives
+$ labials, so "elsewhere" = labial. Front vowel = [+syl,-back,-lo] (a is +front in symbolDefs).
+$ ORDER: before B2.4 (*ā > ę̄), else *throkwhā > trophḗ would get a dental.
+{kʷ;ɡʷ;kʷʰ} > {t;d;tʰ} / __ [+syl,-back,-lo]
+{kʷ;ɡʷ;kʷʰ} > {p;b;pʰ}
+
+$ B2.5.1a First compensatory lengthening: *s + resonant  $$PG: 643, 649-650
+$ "Proto-Greek consonant clusters of a sibilant followed by liquid, nasal or velar semi-vowel were affected by
+$ the fricative weakening (s > h), the voiceless glottal fricative was subsequently lost and this loss was
+$ accompanied by the First compensatory lengthening": *selasnā > selānā, *esmi > ēmi (Attic eimí).
+$ Dated c. 1000 BCE, before B2.4 (its ā is fronted). Lengthened e, o are the closed eː, oː (Attic ει, ου).
+[+syl,-cons,-long] > [+long] / __ s {r;l;m;n;w}
+s > ∅ / [+syl,+long] __ {r;l;m;n;w}
+
+$ B2.5.1b First compensatory lengthening: *ln  $$PG: 643, 650
+$ "the cluster *ln was simplified by the loss of n and accompanied by the compensatory lengthening": *stalnā >
+$ stālā (Doric) / Attic stḗlē. (Aeolic stállā and Attic óllūmi: comment-only.)
+[+syl,-cons,-long] > [+long] / __ l n
+n > ∅ / [+syl,+long] l __
+
+$ B2.5.1c Resonant + s in the sigmatic aorist  $$PG: 643, 650 - COMMENT-ONLY (morphological, E5).
+$ (*ephansa > éphēna, *estelsa > éstēla; "if s belongs to other inflectional classes ... it remains unaffected".)
+
+$ B3.7a Attic *rs > rr  $$PG: 650
+$ "In Homer and in Ionic writers the PG cluster *rs remained while in Attic it was completely assimilated
+$ (*rs > rz > rr): ársēn versus árrēn".
+s > r / r __
+
+$ B2.4 Attic-Ionic *ā > ǣ > ę̄, with Attic reversion to ā after e, i, r  $$PG: 641, 643
+$ "Attic-Ionic fronted *ā to ǣ and then Attic changed ǣ back into ā after front vowels and r" (Lejeune's
+$ "retrogressive theory b)", which Bubenik prefers): oikíā, khǭrā, but kórę̄ < *korwā (w intervened), and
+$ eirę̄nę̄, krę̄nę̄.
+$ NOTE: reversion needs the e, i, r immediately before. Bubenik's table (13) is not self-consistent here:
+$ Attic-Ionic peinę̃̄te shows fronting after ει-n-, but peinǭ̃men implies ā kept; the fronting reading is encoded.
+$ ORDER: after B2.5.1 (selānā > selę̄nę̄), before B2.5.2 (pāsa keeps ā) and B2.5.3 (w still blocks reversion).
+[+syl,+lo,+long] > [-tense]
+[+syl,+lo,-tense,+long] > [+tense] / {[+syl,-back,-lo];r} __
+[+syl,+lo,-tense,+long] > [-lo]
+
+$ B2.5.3 Loss of w (Attic: no third compensatory lengthening)  $$PG: 640, 644
+$ "This glide is not present in the earliest documents of Attic-Ionic"; "Elsewhere [incl. Attic], w was lost
+$ without any effect on the preceding vowel": *korwā > Attic kórę̄, *ksenwos > ksénos; Myc. di-wo > Diós.
+$ NOTE: prevocalic and word-initial w (*wridja > hríza); the off-glides of au, eu, ou (before consonant or #)
+$ remain.
+w > ∅ / __ [+syl]
+w > ∅ / # __
+
+$ B2.5.2 Second compensatory lengthening: *ns  $$PG: 644
+$ "The Second lengthening of the type *pantja > pansa > pāsa 'all' ... the secondary medial cluster -ns- ... and
+$ the primary final -ns in the accusative plural (contrast Attic tous with Laconian tōs)".
+[+syl,-cons,-long] > [+long] / __ n s
+n > ∅ / [+syl,+long] __ s
+
+$ B2.3 Monophthongization of *ei and *ou  $$PG: 642-643
+$ Dated 7th-5th c. BCE; "[ei] can be regarded as a combinatory variant of /ẹ̄/".
+{e j;ˈe j} > {eː;ˈeː} / __ {[-syl];#}
+{o w;ˈo w} > {oː;ˈoː} / __ {[-syl];#}
+
+$ B2.7 Attic vowel contraction  $$PG: 645
+$ "(i) A vowel resulting from the contraction is always long. (ii) If one of the contracting vowels is round, the
+$ resulting vowel will be round. (iii) If one of the contracting vowels is low, the resulting vowel will be low."
+$ Attic table (13): timáomen > timǭ̃men, timáete > timā̃te, peināomen > peinǭ̃men, peināete > peinę̃̄te;
+$ hāélios > hḗlios; "Attic ou [ọ̄] results from e + o by regressive assimilation" (phileomenos > philoúmenos).
+$ NOTE: encoded as the pairs Bubenik exemplifies; e+e > ẹ̄ (ει) completes the series. Pairs he does not cover
+$ (e + a, i + V, u + V) do not contract. A contracted vowel keeps the accent.
+$ NOTE: Bubenik does not limit contraction; words like theós (not in his chapter) would be wrongly contracted.
+{a o;ˈa o;a ˈo;a ɔː;ˈa ɔː;a ˈɔː;aː o;ˈaː o;aː ˈo} > {ɔː;ˈɔː;ˈɔː;ɔː;ˈɔː;ˈɔː;ɔː;ˈɔː;ˈɔː}
+{a e;ˈa e;a ˈe} > {aː;ˈaː;ˈaː}
+{aː e;ˈaː e;aː ˈe;ɛː e;ˈɛː e;ɛː ˈe} > {ɛː;ˈɛː;ˈɛː;ɛː;ˈɛː;ˈɛː}
+{e o;ˈe o;e ˈo;o e;ˈo e;o ˈe;o o;ˈo o;o ˈo} > {oː;ˈoː;ˈoː;oː;ˈoː;ˈoː;oː;ˈoː;ˈoː}
+{e e;ˈe e;e ˈe} > {eː;ˈeː;ˈeː}
+
+$ B4.3 Quantitative metathesis  $$PG: 652
+$ "after the metathesis of length from earlier *pólēj-os > pólēos > póleōs".
+$ ORDER: after B2.7 (póleōs is not contracted).
+{ɛː o;ˈɛː o;ɛː ˈo} > {e ɔː;ˈe ɔː;e ˈɔː}
+
+$ B4.2.2 Wheeler's Law  $$PG: 651
+$ "original polysyllabic oxytones became paroxytones if the penultimate syllable contained a short vowel and the
+$ weight of the antepenultimate syllable was heavy (i.e. if the word had a dactylic ending)": patroktónos,
+$ poikílos, agkúlos; not hippophorbós, stratēgós.
+$ NOTE: heavy antepenult = long vowel + one consonant, or any vowel + two consonants (muta cum liquida not
+$ distinguished). Penult = short vowel + one following consonant. Final vowel short (a dactyl is heavy-light-light;
+$ found by DiaSim test: without it euty̆khḗs would wrongly retract).
+[+syl,-long,-stres] > [+stres,+prim] / [+syl,+long] [-syl] __ [-syl] [+syl,-long,+stres] ([-syl])* #
+[+syl,-long,-stres] > [+stres,+prim] / [+syl] [-syl] [-syl] __ [-syl] [+syl,-long,+stres] ([-syl])* #
+
+$ B4.2.3 Vendryes' Law  $$PG: 651
+$ "a word with a properispomenon accent, as erē̃mos 'desert', retracts the accent to the preceding syllable, if it
+$ is light (contrast andreĩos with érēmos)". Properispomenon = accented long penult + short final.
+[+syl,-long,-stres] > [+stres,+prim] / __ [-syl] [+syl,+long,+stres] [-syl] [+syl,-long] ([-syl])* #
+
+$ E6 Clean-up: remove the accent that Wheeler's / Vendryes' Law displaced (only those laws create two accents)
+[+syl,+stres] > [-stres,-prim] / [+syl,+stres] [-syl] __
+
+~Classical Attic
+
+$ ===================================================================================================
+$ CLASSICAL ATTIC > EARLY HELLENISTIC (c. 350 BCE)
+$ ===================================================================================================
+
+$ B2.1 Attic vowel shifts ("dragchain")  $$PG: 642
+$ Classical Attic (5th c.): long "ī ẹ̄ ę̄ ā ǭ ọ̄ ū", short "i e a o u". By c. 350 BCE: "ī ẹ̄ ę̄ ā ō ū ṻ", short
+$ "i e a o ü": "the fronting of the high back vowel ū > ṻ, the raising of mid vowels, and the monophthongization
+$ of ou to ū (via ọ̄)" - "relative chronology is difficult to establish". The dragchain order (fronting first)
+$ is encoded, since otherwise ọ̄ > ū would be fronted too.
+[+syl,+hi,+back] > [-back,+front]
+[+syl,+back,-hi,-lo,+tense,+long] > [+hi]
+[+syl,+back,-lo,-tense,+long] > [+tense]
+
+=Early Hellenistic Attic
+
+$ ===================================================================================================
+$ HELLENISTIC AND ROMAN KOINE
+$ ===================================================================================================
+
+$ B2.3b Monophthongization of ai (Koine)  $$PG: 643
+$ "The monophthongization of ai in Boeotian preceded the same development in Hellenistic Koine by several
+$ centuries" (Boeotian Theibēō for Thēbaíou, with ai > ę̄). The Koine output is taken to be the same ę̄.
+{a j;ˈa j} > {ɛː;ˈɛː} / __ {[-syl];#}
+
+$ B3.4a Phonemicization of fricative aspirates (Late Hellenistic Koine)  $$PG: 646-647
+$ "the ancient aspirates /ph/, /th/, /kh/, were at a certain period changed into fricatives /f/, /θ/, /x/" ...
+$ "fricative allophones ... which occurred in Early Hellenistic Koine, were phonemicized in Late Hellenistic
+$ Koine" (Table 40.1). Laconian th > θ c. 400 BCE is dialectal.
+{pʰ;tʰ;kʰ} > {f;θ;x}
+
+$ B3.5b [zd] > [z]  $$PG: 647
+$ "Attic hríza [r̥ízda], later [r̥íza]".
+d > ∅ / z __
+
+$ B3.4b Voiced stops > fricatives (c. 300-600 CE)  $$PG: 647
+$ "the fricative pronunciation of the voiced stops ... (b > β/v, d > ð, g > γ/j)"; "the opposition of voice in
+$ continuants became fully phonemic during the transitional period of ca. 300-600 CE".
+$ NOTE: Bubenik gives no conditioning (no post-nasal exception) and no front-vowel split of g (γ/j); v, ð, ɣ
+$ everywhere.
+{b;d;ɡ} > {v;ð;ɣ}
+
+$ COMMENT-ONLY
+$ - Dialectal outcomes (Aeolic labials before e; Arcado-Cypriot ts/s; Ionic psilosis, third CL, ss for tt;
+$   Doric ā; height dissimilation e > i / __ o and o > u / e __; a > e / __ o; Doric contraction rules;
+$   Lesbian -oisa; Aeolic ss, mm, nn, ll assimilations; Pamphylian w).  pp. 640-650
+$ - Aspirate metathesis (kałkhos) and anticipation (enthaũtha) - sporadic.  p. 646
+$ - Attic -nn- < *sn in some words (zṓnnūmi, sbénnūmi) - lexical.  p. 650
+$ - ml- > bl- (*ml̥du- > bladeĩs) appears only in an example.  p. 640
+$ - The general limiting rule, Attic final-trochee rule and Aeolic recession: synchronic accent constraints.
+$   pp. 650-652
+$ - Analogical accent levelling (Doric elábomes; Koine elábosan).  p. 652
+
+$ OUTPUT: Late Koine (c. 300-600 CE) (no stage flag needed at the end of the cascade).

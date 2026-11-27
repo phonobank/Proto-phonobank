@@ -1,0 +1,202 @@
+$ nov26-greek-horrocks-cfr.txt
+$ DiaSim cascade: Early East Greek > Mycenaean > Classical Attic-Ionic > Late Antique Koine > Late Byzantine
+$   vernacular > Standard Modern Greek
+$ Source: Horrocks, Geoffrey. 2017. "45. The evolution of Greek." In Klein, Joseph & Fritz (eds.), Handbook of
+$   Comparative and Historical Indo-European Linguistics, vol. 1, pp. 717-732 (printed; PDF page = printed + 13).
+$ Test lexica (Horrocks's own forms): greek-horrocks-early-lexicon.txt (to Mycenaean / Classical) and
+$   greek-horrocks-lexicon.txt (to Standard Modern Greek).
+$
+$ CONVENTIONS
+$ - Identifiers: H + Horrocks's section + letter (H1a, H2.5Ai-a, ...); $$PG: = printed page(s).
+$ - Order: Horrocks's own period order (sections 1 > 2 > 2.5 "by late antiquity" > 3 "end of the Byzantine
+$   period" > 4). Within a period he gives no relative chronology; order is by feeding/bleeding (ORDER: lines).
+$ - Rules labelled GAP-FILL or INFERRED are NOT stated as sound changes by Horrocks. They are needed to reach
+$   the result systems or the transcriptions that he does give, and each one says which. Remove them to get a
+$   strictly stated-only cascade.
+$
+$ EXECUTIVE DECISIONS
+$ E1. Horrocks's chapter is mostly external history; its phonology is (a) four early isoglosses (sec. 1-2.1),
+$     (b) a list of changes "by late antiquity (5th and 6th centuries CE)" (sec. 2.5 A), (c) a list for "the end
+$     of the Byzantine period" (sec. 3 A), and (d) modern transcriptions. The cascade follows that structure.
+$ E2. Input stage ("Early East Greek") = the archaic East Greek that Horrocks takes Mycenaean to be: labiovelars
+$     kʷ ɡʷ kʷʰ intact, *ā unshifted, 3pl. -nti, *ty/*ky clusters. Changes he does not mention (compensatory
+$     lengthenings, contractions, loss of w, etc.) are taken as already done in the input forms: the input is a
+$     pre-Attic-Ionic form of the word, not a Proto-Greek reconstruction.
+$ E3. Vowels follow Horrocks's own transcriptions: η = ɛː, ει = eː, ω = oː, ου = uː (he writes /ékhu:si/,
+$     /mɛ́:tɛ:r/, /kô:s/). Diphthongs are sequences: αι = a j, αυ = a w, ευ = e w.
+$ E4. Accent: the ancient accent position is marked with ˈ in the input. Horrocks's change from pitch
+$     contonation to a stress accent (sec. 2.5 A ii) does not move the accent, so it is comment-only; the
+$     acute/circumflex distinction is not encoded.
+$ E5. Line of descent: Koine and later Greek. Where Attic differs from the Koine (Attic tt vs. Koine ss,
+$     p. 722), the Koine outcome is encoded.
+$ E6. Horrocks writes Modern Greek with /j/ and /ç/ before front vowels (/jiˈnekes/, /eftiˈçis/); those
+$     symbols are used.
+$ INPUT: Early East Greek (see E2).
+
+$ ===================================================================================================
+$ 1. MYCENAEAN (sec. 1)
+$ ===================================================================================================
+
+$ H1a Assibilation of t before i (East Greek)  $$PG: 717
+$ "the characteristic innovatory assibilation of /t/ before /i/ in certain lexical items and grammatical
+$ formants": 3pl. e-ko-si /ékhonsi/ vs. West Greek ἔχοντι /ékhonti/.
+$ TENTATIVE: Horrocks limits it to "certain lexical items and grammatical formants" without listing them.
+$ Encoded only for his one formant, word-final -nti, so that words like ὅτι are not affected.
+t > s / n __ i #
+
+~Mycenaean
+
+$ ===================================================================================================
+$ 2. ARCHAIC / CLASSICAL ATTIC-IONIC (sec. 1, 2.1)
+$ ===================================================================================================
+
+$ H1b Labiovelars > dentals before front vowels, labials elsewhere  $$PG: 718
+$ "the labiovelar consonants (/kw, gw, kwh/), which later evolved into dentals (before front vowels) or
+$ labials (elsewhere)"; Attic τέτταρες /téttares/ 'four' (p. 719); πῶς /pô:s/ (p. 720).
+$ NOTE: front vowel = [+syl,-back,-lo] (a is +front in symbolDefs, so -lo is needed to exclude it).
+$ NOTE: Aeolic labials even before front vowels (Boeotian πέτταρες) and Herodotean k- (κῶς) are dialectal.
+{kʷ;ɡʷ;kʷʰ} > {t;d;tʰ} / __ [+syl,-back,-lo]
+{kʷ;ɡʷ;kʷʰ} > {p;b;pʰ}
+
+$ H2.1a *ty, *ky > ss (Koine line)  $$PG: 719, 722
+$ "θάλασσα, θάλαττα ... with /ss/ in most dialects but /tt/ in Attic and Boeotian. These two geminates usually
+$ represent different treatments of original groups of consonants (typically /ty/ and /ky/)"; the Koine
+$ prefers "/ss/ over Attic /tt/" (p. 722). See E5.
+{t j;k j} > {s s;s s}
+
+$ H2.1b Attic-Ionic *ā > ɛ̄  $$PG: 719
+$ "the characteristic shift of original /a:/, preserved in Mycenaean, to /ɛ:/, as in μήτηρ /mɛ́:tɛ:r/ 'mother'
+$ < μάτηρ /má:tɛ:r/". Horrocks gives no conditioning (the Attic exception after e, i, r is not mentioned).
+[+syl,+lo,+long] > [-lo,-tense]
+
+$ GAP-FILL u > y  (not stated by Horrocks)
+$ Horrocks's late-antique result is "a 6-vowel system, /a, e, i, y, o, u/", and /y/ later merges with /i/
+$ (p. 728), but he never says where /y/ came from. Needed so that υ ends as /i/ (νύμφη > /ˈnimfi/,
+$ γυναίκες /jiˈnekes/, ευτυχής /eftiˈçis/). Only short u is targeted: long uː is his ου (/ékhu:si/) and stays u.
+[+syl,+hi,+back,-long] > [-back,+front]
+
+~Classical Attic-Ionic
+
+$ ===================================================================================================
+$ 3. BY LATE ANTIQUITY (5th-6th c. CE)  (sec. 2.5 A)
+$ ===================================================================================================
+
+$ H2.5Ai-a Fortition of the u off-glide of diphthongs to a labial fricative  $$PG: 725
+$ "fortition of the off-glide of diphthongs in /-u/ to a labial fricative (αυ /au/ and ευ /eu/ > /af, av/ and
+$ /ef, ev/)". Horrocks does not state when f vs. v; his own forms show f before voiceless consonants
+$ (ἔπαυσα /ˈepafsa/, ευτυχής /eftiˈçis/) and v elsewhere (ευγνώμων /evˈɣnomon/, ρεύμα /ˈrevma/, p. 731).
+w > f / [+syl] __ [-son,-voi]
+w > v / [+syl] __
+
+$ H2.5Ai-b Itacism: raising of the long front mid vowels to i  $$PG: 725
+$ "the successive raising of front vowels (both original and from other changes) to /i/". Short e stays e
+$ (modern /e/). Targets: η ɛː and ει eː (εἶχα /ˈixa/, ἤθελα /ˈiθela/, πόλεις /ˈpolis/, pp. 728, 731).
+$ ORDER: before H2.5Ai-c (length loss), which would merge ɛː/eː with e.
+[+syl,-back,-lo,-hi,+long] > [+hi,+tense]
+
+$ GAP-FILL αι > e  (not stated by Horrocks)
+$ His transcriptions show it (παιδία /peˈðia/, γυναίκες /jiˈnekes/, pp. 728, 731) and his 6-vowel result has no
+$ diphthongs, but he does not state the change.
+{a j;ˈa j} > {e;ˈe}
+
+$ H2.5Ai-c Loss of vowel-length distinctions  $$PG: 725
+[+syl,+long] > [-long]
+
+$ H2.5Aii Pitch contonation > stress accent  $$PG: 725 - COMMENT-ONLY (see E4; the accent position is kept).
+
+$ H2.5Aiii-a Voiced stops > fricatives except after nasals  $$PG: 725
+$ "the voiced plosives /b, d, g/ becoming fricatives (/v, ð, ɣ/) except after nasals".
+{b;d;ɡ} > {v;ð;ɣ} / [-nas] __
+{b;d;ɡ} > {v;ð;ɣ} / # __
+
+$ H2.5Aiii-b Aspirates > fricatives  $$PG: 725
+$ "the aspirated plosives /ph, th, kh/ starting to follow suit (> /f, θ, x/)".
+{pʰ;tʰ;kʰ} > {f;θ;x}
+
+$ H2.5Aiii-c Simplification of geminates  $$PG: 725
+$ "Geminates were also simplified in pronunciation" (ὀμμάτιον /oˈmation/, θάλασσα > /ˈθalasa/).
+$ NOTE: written as deletion before an identical segment, one rule per consonant.
+p > ∅ / __ p
+t > ∅ / __ t
+k > ∅ / __ k
+s > ∅ / __ s
+m > ∅ / __ m
+n > ∅ / __ n
+l > ∅ / __ l
+r > ∅ / __ r
+
+$ H2.5Aiii-d Loss of h  $$PG: 725
+h > ∅
+
+$ H3Ai-b (begun) -ion > -in  $$PG: 728
+$ "the ending -ιον /-ion/ had already started to develop to /-in/ in late antiquity". Unstressed o only.
+o > ∅ / i __ n #
+
+~Late Antique Koine
+
+$ ===================================================================================================
+$ 4. END OF THE BYZANTINE PERIOD  (sec. 3 A)
+$ ===================================================================================================
+
+$ H3Ai-a Merger of y with i  $$PG: 725, 728
+$ "Merger of /i/ and /y/ was completed".
+[+syl,+hi,+front,+round] > [-lab,-round]
+
+$ H3Ai-c Synizesis of final -ia, -ea to -ja  $$PG: 728
+$ "words ending in /-ia, -ea/ tended to undergo 'synizesis' to /-ja/, as in παιδιά /peðˈja/ 'children'
+$ < παιδία /peˈðia/". The stress moves to the a (his example).
+$ TENTATIVE: "tended to" - not every word (SMG ιστορία). Restricted to after a consonant (the glide needs one).
+{ˈi a;ˈe a} > {j ˈa;j ˈa} / [+cons] __ #
+{i a;e a} > {j a;j a} / [+cons] __ #
+
+$ H3Aii-a Loss of final -n  $$PG: 725, 728
+$ "Loss of final /-n/ became widespread". Late antiquity: "except in a small set of forms where this was a
+$ distinctive marker (e.g. the accusative ... of the definite article)" - those morphological exceptions and
+$ the learned retentions of SMG (ευγνώμων /evˈɣnomon/) are not encoded.
+n > ∅ / __ #
+
+$ H3Aii-b Loss of nasals before fricatives  $$PG: 728
+$ "nasals were also lost before fricatives, as in νύφη /ˈnifi/ 'bride' < νύμφη /ˈnimfi/".
+$ ORDER: after H2.5Aiii-b, which creates the fricative f.
+[+nas,+cons] > ∅ / __ [-son,+cont]
+
+$ H3Aiii Dissimilation of voiceless obstruent clusters  $$PG: 728
+$ "Clusters of voiceless obstruents comprising stop + stop or fricative + fricative (other than s) were
+$ dissimilated to give fricative + stop, as in ἑφτά /efˈta/ 'seven' < ἑπτά /epˈta/ ... If the second element
+$ was /s/, the result is stop + /s/, as in ἔπαψα /ˈepapsa/ 'I stopped' < ἔπαυσα /ˈepafsa/."
+$ NOTE: (1) stop + stop: the first becomes a fricative; (2) fricative + fricative (s excluded): the second becomes a
+$ stop; (3) fricative + s: the fricative becomes a stop. Explicit segments, because no single feature change
+$ maps p t k onto f θ x in symbolDefs (f is +strid, θ is +distr, x is neither).
+{p;t;k} > {f;θ;x} / __ {p;t;k}
+{f;θ;x} > {p;t;k} / {f;θ;x} __
+{f;θ;x} > {p;t;k} / __ s
+
+$ INFERRED Post-nasal voicing of voiceless stops  (not stated by Horrocks)
+$ Required by his transcriptions: gerund -οντας /-ondas/ (p. 728), Θεού θέλοντος /θeˈu ˈθelondos/,
+$ αντιθέσει /andiˈθesi/ (p. 731). Placed here because he cites /-ondas/ as already late Byzantine.
+$ ORDER: after H2.5Aiii-a, so the new voiced stops stay stops.
+{p;t;k} > {b;d;ɡ} / [+nas] __
+
+$ H3Ai-d Aphaeresis of unaccented initial vowels  $$PG: 728 - COMMENT-ONLY
+$ "many words lost their unaccented initial vowels ... μάτι /ˈmati/ 'eye' < ὀμμάτιον": lexically sporadic
+$ ("many words"; SMG keeps ομάδα, ελπίδα), so not encoded.
+
+~Late Byzantine vernacular
+
+$ ===================================================================================================
+$ 5. MODERN GREEK  (sec. 4: transcriptions only)
+$ ===================================================================================================
+
+$ INFERRED Palatal allophones of the velar fricatives before front vowels  (not stated by Horrocks)
+$ Required by his SMG transcriptions γυναίκες /jiˈnekes/, ευτυχής /eftiˈçis/ (p. 731). Stops are not
+$ palatalized in his transcriptions (the k of /jiˈnekes/ is written k).
+{x;ɣ} > {ç;j} / __ [+syl,-back,-lo]
+
+$ COMMENT-ONLY (morphological, analogical or learned; pp. 725-731)
+$ - Accusative -an for consonant stems, remodelling as a-stems; -in for i-stems.
+$ - Paradigm levelling (μαθαίνω for μανθάνω), 3pl. -ουν, -αν, aorist passive -(θ)ηκα.
+$ - θα < θέλω να; να < ἵνα.
+$ - Learned (katharevousa) phonology in SMG: έκταση /ˈektasi/ vs. demotic έχταση, ρεύμα /ˈrevma/ vs. ρέμα.
+$ - Attic ττ for σσ; Herodotean κῶς for πῶς; Koine γίνομαι for γίγνομαι (lexical/dialectal choices).
+
+$ OUTPUT: Standard Modern Greek (no stage flag needed at the end of the cascade).
